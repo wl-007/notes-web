@@ -1,4 +1,5534 @@
-"use strict";(self.webpackChunknotes_web=self.webpackChunknotes_web||[]).push([[904],{57222:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(2023),r={}},60675:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(17297),r={}},59567:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(52470),r={}},50677:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(77099),r={}},83323:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(36844),r={}},79090:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(93177),r={}},26199:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(96541),r={}},40852:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(19858),r={}},8653:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(10357),r={}},34597:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(2373),r={}},76208:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(99376),r={}},95495:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(4647),r={}},47540:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(52220),r={}},84749:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(18397),r={}},57628:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(77521),r={}},58478:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(79360),r={}},74168:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(58360),r={}},19638:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(73683),r={}},5841:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(2501),r={}},67265:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(18738),r={}},45166:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(12794),r={}},68869:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(20164),r={}},39075:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(8875),r={}},40504:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(2023);const t=[]},58607:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(17297);const t=[{value:"Dart",paraId:0,tocIndex:0},{value:" \u662F\u4E00\u4E2A\u6613\u7528\u3001\u53EF\u79FB\u690D\u4E14\u9AD8\u6548\u7684\u8BED\u8A00\uFF0C\u9002\u7528\u4E8E\u5728\u5168\u5E73\u53F0\u5F00\u53D1\u9AD8\u8D28\u91CF\u7684\u5E94\u7528\u7A0B\u5E8F\u3002\u7531\u8C37\u6B4C\u5F00\u53D1\u7684\u8BA1\u7B97\u673A\u7F16\u7A0B\u8BED\u8A00,\u5B83\u53EF\u4EE5\u88AB\u7528\u4E8Eweb\u3001\u670D\u52A1\u5668\u3001\u79FB\u52A8\u5E94\u7528 \u548C\u7269\u8054\u7F51\u7B49\u9886\u57DF\u7684\u5F00\u53D1.",paraId:0,tocIndex:0},{value:`windows(\u63A8\u8350): 
+"use strict";(self.webpackChunknotes_web=self.webpackChunknotes_web||[]).push([[904],{57222:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(2023),r={}},10543:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(47533),r={}},37523:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(82297),r={}},52663:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(44653),r={}},97731:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(52595),r={}},20592:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(5835),r={}},48:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(89531),r={}},56605:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(31046),r={}},60675:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(17297),r={}},59567:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(52470),r={}},50677:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(77099),r={}},83323:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(36844),r={}},79090:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(93177),r={}},26199:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(96541),r={}},40852:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(19858),r={}},8653:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(10357),r={}},34597:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(2373),r={}},76208:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(99376),r={}},95495:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(4647),r={}},47540:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(52220),r={}},84749:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(18397),r={}},57628:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(77521),r={}},58478:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(79360),r={}},74168:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(58360),r={}},19638:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(73683),r={}},5841:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(2501),r={}},67265:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(18738),r={}},45166:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(12794),r={}},68869:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(20164),r={}},39075:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(75271),t=n(8875),r={}},40504:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(2023);const t=[]},63181:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(47533);const t=[{value:"\u4F7F\u7528FileInputStream\u8BFB\u53D6\u6587\u4EF6\u4E2D\u7684\u5B57\u8282\u6570\u636E\uFF0C\u6B65\u9AA4\u5982\u4E0B",paraId:0,tocIndex:3},{value:`\u7B2C\u4E00\u6B65\uFF1A\u521B\u5EFAFileInputStream\u6587\u4EF6\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\uFF0C\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A\u3002
+\u7B2C\u4E8C\u6B65\uFF1A\u8C03\u7528read()\u65B9\u6CD5\u5F00\u59CB\u8BFB\u53D6\u6587\u4EF6\u7684\u5B57\u8282\u6570\u636E\u3002
+\u7B2C\u4E09\u6B65\uFF1A\u8C03\u7528close()\u65B9\u6CD5\u91CA\u653E\u8D44\u6E90
+`,paraId:1,tocIndex:3},{value:"\u4EE3\u7801\u5982\u4E0B\uFF1A",paraId:2,tocIndex:3},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u6587\u4EF6\u5B57\u8282\u8F93\u5165\u6D41\uFF0C\u6BCF\u6B21\u8BFB\u53D6\u4E00\u4E2A\u5B57\u8282\u3002
+ */
+public class FileInputStreamTest1 {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u521B\u5EFA\u6587\u4EF6\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\uFF0C\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A\u3002
+        InputStream is = new FileInputStream(("file-io-app\\\\src\\\\itheima01.txt"));
+
+        // 2\u3001\u5F00\u59CB\u8BFB\u53D6\u6587\u4EF6\u7684\u5B57\u8282\u6570\u636E\u3002
+        // public int read():\u6BCF\u6B21\u8BFB\u53D6\u4E00\u4E2A\u5B57\u8282\u8FD4\u56DE\uFF0C\u5982\u679C\u6CA1\u6709\u6570\u636E\u4E86\uFF0C\u8FD4\u56DE-1.
+        int b; // \u7528\u4E8E\u8BB0\u4F4F\u8BFB\u53D6\u7684\u5B57\u8282\u3002
+        while ((b = is.read()) != -1){
+            System.out.print((char) b);
+        }
+        
+        //3\u3001\u6D41\u4F7F\u7528\u5B8C\u6BD5\u4E4B\u540E\uFF0C\u5FC5\u987B\u5173\u95ED\uFF01\u91CA\u653E\u7CFB\u7EDF\u8D44\u6E90\uFF01
+        is.close();
+    }
+}
+`,paraId:3,tocIndex:3},{value:"\u8FD9\u91CC\u9700\u8981\u6CE8\u610F\u4E00\u4E2A\u95EE\u9898\uFF1A\u7531\u4E8E\u4E00\u4E2A\u4E2D\u6587\u5728UTF-8\u7F16\u7801\u65B9\u6848\u4E2D\u662F\u53603\u4E2A\u5B57\u8282\uFF0C\u91C7\u7528\u4E00\u6B21\u8BFB\u53D6\u4E00\u4E2A\u5B57\u8282\u7684\u65B9\u5F0F\uFF0C\u8BFB\u4E00\u4E2A\u5B57\u8282\u5C31\u76F8\u5F53\u4E8E\u8BFB\u4E861/3\u4E2A\u6C49\u5B57\uFF0C\u6B64\u65F6\u5C06\u8FD9\u4E2A\u5B57\u8282\u8F6C\u6362\u4E3A\u5B57\u7B26\uFF0C\u662F\u4F1A\u6709\u4E71\u7801\u7684\u3002",paraId:4,tocIndex:3},{value:"\u4F7F\u7528FileInputStream\u4E00\u6B21\u8BFB\u53D6\u591A\u4E2A\u5B57\u8282\u7684\u6B65\u9AA4\u5982\u4E0B",paraId:5,tocIndex:4},{value:`\u7B2C\u4E00\u6B65\uFF1A\u521B\u5EFAFileInputStream\u6587\u4EF6\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\uFF0C\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A\u3002
+\u7B2C\u4E8C\u6B65\uFF1A\u8C03\u7528read(byte[] bytes)\u65B9\u6CD5\u5F00\u59CB\u8BFB\u53D6\u6587\u4EF6\u7684\u5B57\u8282\u6570\u636E\u3002
+\u7B2C\u4E09\u6B65\uFF1A\u8C03\u7528close()\u65B9\u6CD5\u91CA\u653E\u8D44\u6E90
+`,paraId:6,tocIndex:4},{value:"\u4EE3\u7801\u5982\u4E0B\uFF1A",paraId:7,tocIndex:4},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u4F7F\u7528FileInputStream\u6BCF\u6B21\u8BFB\u53D6\u591A\u4E2A\u5B57\u8282\u3002
+ */
+public class FileInputStreamTest2 {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u8F93\u5165\u6D41\u5BF9\u8C61\u4EE3\u8868\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A\u3002
+        InputStream is = new FileInputStream("file-io-app\\\\src\\\\itheima02.txt");
+
+        // 2\u3001\u5F00\u59CB\u8BFB\u53D6\u6587\u4EF6\u4E2D\u7684\u5B57\u8282\u6570\u636E\uFF1A\u6BCF\u6B21\u8BFB\u53D6\u591A\u4E2A\u5B57\u8282\u3002
+        //  public int read(byte b[]) throws IOException
+        //  \u6BCF\u6B21\u8BFB\u53D6\u591A\u4E2A\u5B57\u8282\u5230\u5B57\u8282\u6570\u7EC4\u4E2D\u53BB\uFF0C\u8FD4\u56DE\u8BFB\u53D6\u7684\u5B57\u8282\u6570\u91CF\uFF0C\u8BFB\u53D6\u5B8C\u6BD5\u4F1A\u8FD4\u56DE-1.
+
+        // 3\u3001\u4F7F\u7528\u5FAA\u73AF\u6539\u9020\u3002
+        byte[] buffer = new byte[3];
+        int len; // \u8BB0\u4F4F\u6BCF\u6B21\u8BFB\u53D6\u4E86\u591A\u5C11\u4E2A\u5B57\u8282\u3002  abc 66
+        while ((len = is.read(buffer)) != -1){
+            // \u6CE8\u610F\uFF1A\u8BFB\u53D6\u591A\u5C11\uFF0C\u5012\u51FA\u591A\u5C11\u3002
+            String rs = new String(buffer, 0 , len);
+            System.out.print(rs);
+        }
+        // \u6027\u80FD\u5F97\u5230\u4E86\u660E\u663E\u7684\u63D0\u5347\uFF01\uFF01
+        // \u8FD9\u79CD\u65B9\u6848\u4E5F\u4E0D\u80FD\u907F\u514D\u8BFB\u53D6\u6C49\u5B57\u8F93\u51FA\u4E71\u7801\u7684\u95EE\u9898\uFF01\uFF01
+
+        is.close(); // \u5173\u95ED\u6D41
+    }
+}
+`,paraId:8,tocIndex:4},{value:`// 1\u3001\u4E00\u6B21\u6027\u8BFB\u53D6\u5B8C\u6587\u4EF6\u7684\u5168\u90E8\u5B57\u8282\u5230\u4E00\u4E2A\u5B57\u8282\u6570\u7EC4\u4E2D\u53BB\u3002
+// \u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A
+InputStream is = new FileInputStream("file-io-app\\\\src\\\\itheima03.txt");
+
+// 2\u3001\u51C6\u5907\u4E00\u4E2A\u5B57\u8282\u6570\u7EC4\uFF0C\u5927\u5C0F\u4E0E\u6587\u4EF6\u7684\u5927\u5C0F\u6B63\u597D\u4E00\u6837\u5927\u3002
+File f = new File("file-io-app\\\\src\\\\itheima03.txt");
+long size = f.length();
+byte[] buffer = new byte[(int) size];
+
+int len = is.read(buffer);
+System.out.println(new String(buffer));
+
+//3\u3001\u5173\u95ED\u6D41
+is.close(); 
+`,paraId:9,tocIndex:5},{value:"\u65B9\u5F0F\u4E8C",paraId:10,tocIndex:5},{value:`// 1\u3001\u4E00\u6B21\u6027\u8BFB\u53D6\u5B8C\u6587\u4EF6\u7684\u5168\u90E8\u5B57\u8282\u5230\u4E00\u4E2A\u5B57\u8282\u6570\u7EC4\u4E2D\u53BB\u3002
+// \u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A
+InputStream is = new FileInputStream("file-io-app\\\\src\\\\itheima03.txt");
+
+//2\u3001\u8C03\u7528\u65B9\u6CD5\u8BFB\u53D6\u6240\u6709\u5B57\u8282\uFF0C\u8FD4\u56DE\u4E00\u4E2A\u5B58\u50A8\u6240\u6709\u5B57\u8282\u7684\u5B57\u8282\u6570\u7EC4\u3002
+byte[] buffer = is.readAllBytes();
+System.out.println(new String(buffer));
+
+//3\u3001\u5173\u95ED\u6D41
+is.close(); 
+`,paraId:11,tocIndex:5},{value:"\u6700\u540E\uFF0C\u8FD8\u662F\u8981\u6CE8\u610F\u4E00\u4E2A\u95EE\u9898\uFF1A**\u4E00\u6B21\u8BFB\u53D6\u6240\u6709\u5B57\u8282\u867D\u7136\u53EF\u4EE5\u89E3\u51B3\u4E71\u7801\u95EE\u9898\uFF0C\u4F46\u662F\u6587\u4EF6\u4E0D\u80FD\u8FC7\u5927\uFF0C\u5982\u679C\u6587\u4EF6\u8FC7\u5927\uFF0C\u53EF\u80FD\u5BFC\u81F4\u5185\u5B58\u6EA2\u51FA\u3002",paraId:12,tocIndex:5},{value:"\u4F7F\u7528FileOutputStream\u5F80\u6587\u4EF6\u4E2D\u5199\u6570\u636E\u7684\u6B65\u9AA4\u5982\u4E0B\uFF1A",paraId:13,tocIndex:6},{value:`\u7B2C\u4E00\u6B65\uFF1A\u521B\u5EFAFileOutputStream\u6587\u4EF6\u5B57\u8282\u8F93\u51FA\u6D41\u7BA1\u9053\uFF0C\u4E0E\u76EE\u6807\u6587\u4EF6\u63A5\u901A\u3002
+\u7B2C\u4E8C\u6B65\uFF1A\u8C03\u7528wirte()\u65B9\u6CD5\u5F80\u6587\u4EF6\u4E2D\u5199\u6570\u636E
+\u7B2C\u4E09\u6B65\uFF1A\u8C03\u7528close()\u65B9\u6CD5\u91CA\u653E\u8D44\u6E90
+`,paraId:14,tocIndex:6},{value:"\u4EE3\u7801\u5982\u4E0B\uFF1A",paraId:15,tocIndex:6},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u6587\u4EF6\u5B57\u8282\u8F93\u51FA\u6D41FileOutputStream\u7684\u4F7F\u7528\u3002
+ */
+public class FileOutputStreamTest4 {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u8F93\u51FA\u6D41\u7BA1\u9053\u4E0E\u76EE\u6807\u6587\u4EF6\u63A5\u901A\u3002
+        // \u8986\u76D6\u7BA1\u9053\uFF1A\u8986\u76D6\u4E4B\u524D\u7684\u6570\u636E
+//        OutputStream os =
+//                new FileOutputStream("file-io-app/src/itheima04out.txt");
+
+        // \u8FFD\u52A0\u6570\u636E\u7684\u7BA1\u9053
+        OutputStream os =
+                new FileOutputStream("file-io-app/src/itheima04out.txt", true);
+
+        // 2\u3001\u5F00\u59CB\u5199\u5B57\u8282\u6570\u636E\u51FA\u53BB\u4E86
+        os.write(97); // 97\u5C31\u662F\u4E00\u4E2A\u5B57\u8282\uFF0C\u4EE3\u8868a
+        os.write('b'); // 'b'\u4E5F\u662F\u4E00\u4E2A\u5B57\u8282
+        // os.write('\u78CA'); // [ooo] \u9ED8\u8BA4\u53EA\u80FD\u5199\u51FA\u53BB\u4E00\u4E2A\u5B57\u8282
+
+        byte[] bytes = "\u6211\u7231\u4F60\u4E2D\u56FDabc".getBytes();
+        os.write(bytes);
+
+        os.write(bytes, 0, 15);
+
+        // \u6362\u884C\u7B26
+        os.write("\\r\\n".getBytes());
+
+        os.close(); // \u5173\u95ED\u6D41
+    }
+}
+`,paraId:16,tocIndex:6},{value:"\u4EE3\u7801\u5982\u4E0B\uFF1A",paraId:17,tocIndex:7},{value:`/**
+ * \u76EE\u6807\uFF1A\u4F7F\u7528\u5B57\u8282\u6D41\u5B8C\u6210\u5BF9\u6587\u4EF6\u7684\u590D\u5236\u64CD\u4F5C\u3002
+ */
+public class CopyTest5 {
+    public static void main(String[] args) throws Exception {
+        // \u9700\u6C42\uFF1A\u590D\u5236\u7167\u7247\u3002
+        // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A
+        InputStream is = new FileInputStream("D:/resource/meinv.png");
+        // 2\u3001\u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u8F93\u51FA\u6D41\u7BA1\u9053\u4E0E\u76EE\u6807\u6587\u4EF6\u63A5\u901A\u3002
+        OutputStream os = new FileOutputStream("C:/data/meinv.png");
+
+        System.out.println(10 / 0);
+        // 3\u3001\u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u6570\u7EC4\uFF0C\u8D1F\u8D23\u8F6C\u79FB\u5B57\u8282\u6570\u636E\u3002
+        byte[] buffer = new byte[1024]; // 1KB.
+        // 4\u3001\u4ECE\u5B57\u8282\u8F93\u5165\u6D41\u4E2D\u8BFB\u53D6\u5B57\u8282\u6570\u636E\uFF0C\u5199\u51FA\u53BB\u5230\u5B57\u8282\u8F93\u51FA\u6D41\u4E2D\u3002\u8BFB\u591A\u5C11\u5199\u51FA\u53BB\u591A\u5C11\u3002
+        int len; // \u8BB0\u4F4F\u6BCF\u6B21\u8BFB\u53D6\u4E86\u591A\u5C11\u4E2A\u5B57\u8282\u3002
+        while ((len = is.read(buffer)) != -1){
+            os.write(buffer, 0, len);
+        }
+
+        os.close();
+        is.close();
+        System.out.println("\u590D\u5236\u5B8C\u6210\uFF01\uFF01");
+    }
+}
+`,paraId:18,tocIndex:7},{value:"\u5728JDK7\u7248\u672C\u4E3A\u6211\u4EEC\u63D0\u4F9B\u4E86\u4E00\u79CD\u7B80\u5316\u7684\u662F\u5426\u8D44\u6E90\u7684\u64CD\u4F5C\uFF0C\u5B83\u4F1A\u81EA\u52A8\u662F\u5426\u8D44\u6E90\u3002\u4EE3\u7801\u5199\u8D77\u6765\u4E5F\u60F3\u5F53\u7B80\u5355\u3002",paraId:19,tocIndex:9},{value:"\u683C\u5F0F\u5982\u4E0B\uFF1A",paraId:20,tocIndex:9},{value:`try(\u8D44\u6E90\u5BF9\u8C611; \u8D44\u6E90\u5BF9\u8C612;){
+    \u4F7F\u7528\u8D44\u6E90\u7684\u4EE3\u7801
+}catch(\u5F02\u5E38\u7C7B e){
+    \u5904\u7406\u5F02\u5E38\u7684\u4EE3\u7801
+}
+//\u6CE8\u610F\uFF1A\u6CE8\u610F\u5230\u6CA1\u6709\uFF0C\u8FD9\u91CC\u6CA1\u6709\u91CA\u653E\u8D44\u6E90\u7684\u4EE3\u7801\u3002\u5B83\u4F1A\u81EA\u52A8\u662F\u5426\u8D44\u6E90
+`,paraId:21,tocIndex:9},{value:"\u4EE3\u7801\u5982\u4E0B\uFF1A",paraId:22,tocIndex:9},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u91CA\u653E\u8D44\u6E90\u7684\u65B9\u5F0F\uFF1Atry-with-resource
+ */
+public class Test3 {
+    public static void main(String[] args)  {
+    	try (
+          // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A
+          InputStream is = new FileInputStream("D:/resource/meinv.png");
+          // 2\u3001\u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u8F93\u51FA\u6D41\u7BA1\u9053\u4E0E\u76EE\u6807\u6587\u4EF6\u63A5\u901A\u3002
+          OutputStream os = new FileOutputStream("C:/data/meinv.png");
+        ){
+            // 3\u3001\u521B\u5EFA\u4E00\u4E2A\u5B57\u8282\u6570\u7EC4\uFF0C\u8D1F\u8D23\u8F6C\u79FB\u5B57\u8282\u6570\u636E\u3002
+            byte[] buffer = new byte[1024]; // 1KB.
+            // 4\u3001\u4ECE\u5B57\u8282\u8F93\u5165\u6D41\u4E2D\u8BFB\u53D6\u5B57\u8282\u6570\u636E\uFF0C\u5199\u51FA\u53BB\u5230\u5B57\u8282\u8F93\u51FA\u6D41\u4E2D\u3002\u8BFB\u591A\u5C11\u5199\u51FA\u53BB\u591A\u5C11\u3002
+            int len; // \u8BB0\u4F4F\u6BCF\u6B21\u8BFB\u53D6\u4E86\u591A\u5C11\u4E2A\u5B57\u8282\u3002
+            while ((len = is.read(buffer)) != -1){
+                os.write(buffer, 0, len);
+            }
+            System.out.println(conn);
+            System.out.println("\u590D\u5236\u5B8C\u6210\uFF01\uFF01");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:23,tocIndex:9},{value:"FileReader\u8BFB\u53D6\u6587\u4EF6\u7684\u6B65\u9AA4\u5982\u4E0B\uFF1A",paraId:24,tocIndex:11},{value:`\u7B2C\u4E00\u6B65\uFF1A\u521B\u5EFAFileReader\u5BF9\u8C61\u4E0E\u8981\u8BFB\u53D6\u7684\u6E90\u6587\u4EF6\u63A5\u901A
+\u7B2C\u4E8C\u6B65\uFF1A\u8C03\u7528read()\u65B9\u6CD5\u8BFB\u53D6\u6587\u4EF6\u4E2D\u7684\u5B57\u7B26
+\u7B2C\u4E09\u6B65\uFF1A\u8C03\u7528close()\u65B9\u6CD5\u5173\u95ED\u6D41
+`,paraId:25,tocIndex:11},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u6587\u4EF6\u5B57\u7B26\u8F93\u5165\u6D41\u3002
+ */
+public class FileReaderTest1 {
+    public static void main(String[] args)  {
+        try (
+                // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u6587\u4EF6\u5B57\u7B26\u8F93\u5165\u6D41\u7BA1\u9053\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A
+                Reader fr = new FileReader("io-app2\\\\src\\\\itheima01.txt");
+                ){
+            // 2\u3001\u4E00\u4E2A\u5B57\u7B26\u4E00\u4E2A\u5B57\u7B26\u7684\u8BFB\uFF08\u6027\u80FD\u8F83\u5DEE\uFF09
+//            int c; // \u8BB0\u4F4F\u6BCF\u6B21\u8BFB\u53D6\u7684\u5B57\u7B26\u7F16\u53F7\u3002
+//            while ((c = fr.read()) != -1){
+//                System.out.print((char) c);
+//            }
+            // \u6BCF\u6B21\u8BFB\u53D6\u4E00\u4E2A\u5B57\u7B26\u7684\u5F62\u5F0F\uFF0C\u6027\u80FD\u80AF\u5B9A\u662F\u6BD4\u8F83\u5DEE\u7684\u3002
+
+            // 3\u3001\u6BCF\u6B21\u8BFB\u53D6\u591A\u4E2A\u5B57\u7B26\u3002\uFF08\u6027\u80FD\u662F\u6BD4\u8F83\u4E0D\u9519\u7684\uFF01\uFF09
+            char[] buffer = new char[3];
+            int len; // \u8BB0\u4F4F\u6BCF\u6B21\u8BFB\u53D6\u4E86\u591A\u5C11\u4E2A\u5B57\u7B26\u3002
+            while ((len = fr.read(buffer)) != -1){
+                // \u8BFB\u53D6\u591A\u5C11\u5012\u51FA\u591A\u5C11
+                System.out.print(new String(buffer, 0, len));
+            }
+            
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:26,tocIndex:11},{value:"\u5B83\u53EF\u4EE5\u5C06\u7A0B\u5E8F\u4E2D\u7684\u5B57\u7B26\u6570\u636E\u5199\u5165\u6587\u4EF6",paraId:27,tocIndex:12},{value:"FileWriter\u5F80\u6587\u4EF6\u4E2D\u5199\u5B57\u7B26\u6570\u636E\u7684\u6B65\u9AA4\u5982\u4E0B\uFF1A",paraId:28,tocIndex:12},{value:`\u7B2C\u4E00\u6B65\uFF1A\u521B\u5EFAFileWirter\u5BF9\u8C61\u4E0E\u8981\u8BFB\u53D6\u7684\u76EE\u6807\u6587\u4EF6\u63A5\u901A
+\u7B2C\u4E8C\u6B65\uFF1A\u8C03\u7528write(\u5B57\u7B26\u6570\u636E/\u5B57\u7B26\u6570\u7EC4/\u5B57\u7B26\u4E32)\u65B9\u6CD5\u8BFB\u53D6\u6587\u4EF6\u4E2D\u7684\u5B57\u7B26
+\u7B2C\u4E09\u6B65\uFF1A\u8C03\u7528close()\u65B9\u6CD5\u5173\u95ED\u6D41
+`,paraId:29,tocIndex:12},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u6587\u4EF6\u5B57\u7B26\u8F93\u51FA\u6D41\uFF1A\u5199\u5B57\u7B26\u6570\u636E\u51FA\u53BB
+ */
+public class FileWriterTest2 {
+    public static void main(String[] args) {
+        try (
+                // 0\u3001\u521B\u5EFA\u4E00\u4E2A\u6587\u4EF6\u5B57\u7B26\u8F93\u51FA\u6D41\u7BA1\u9053\u4E0E\u76EE\u6807\u6587\u4EF6\u63A5\u901A\u3002
+                // \u8986\u76D6\u7BA1\u9053
+                // Writer fw = new FileWriter("io-app2/src/itheima02out.txt");
+                // \u8FFD\u52A0\u6570\u636E\u7684\u7BA1\u9053
+                FileWriter fw = new FileWriter("io-app2/src/itheima02out.txt", true);
+                ){
+            // 1\u3001public void write(int c):\u5199\u4E00\u4E2A\u5B57\u7B26\u51FA\u53BB
+            fw.write('a');
+            fw.write(97);
+            //fw.write('\u78CA'); // \u5199\u4E00\u4E2A\u5B57\u7B26\u51FA\u53BB
+            fw.write("\\r\\n"); // \u6362\u884C
+
+            // 2\u3001public void write(String c)\u5199\u4E00\u4E2A\u5B57\u7B26\u4E32\u51FA\u53BB
+            fw.write("\u6211\u7231\u4F60\u4E2D\u56FDabc");
+            fw.write("\\r\\n");
+
+            // 3\u3001public void write(String c ,int pos ,int len):\u5199\u5B57\u7B26\u4E32\u7684\u4E00\u90E8\u5206\u51FA\u53BB
+            fw.write("\u6211\u7231\u4F60\u4E2D\u56FDabc", 0, 5);
+            fw.write("\\r\\n");
+
+            // 4\u3001public void write(char[] buffer):\u5199\u4E00\u4E2A\u5B57\u7B26\u6570\u7EC4\u51FA\u53BB
+            char[] buffer = {'\u9ED1', '\u9A6C', 'a', 'b', 'c'};
+            fw.write(buffer);
+            fw.write("\\r\\n");
+
+            // 5\u3001public void write(char[] buffer ,int pos ,int len):\u5199\u5B57\u7B26\u6570\u7EC4\u7684\u4E00\u90E8\u5206\u51FA\u53BB
+            fw.write(buffer, 0, 2);
+            fw.write("\\r\\n");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:30,tocIndex:12},{value:"FileWriter\u5199\u5B8C\u6570\u636E\u4E4B\u540E\uFF0C\u5FC5\u987B\u5237\u65B0\u6216\u8005\u5173\u95ED\uFF0C\u5199\u51FA\u53BB\u7684\u6570\u636E\u624D\u80FD\u751F\u6548\u3002",paraId:31,tocIndex:12},{value:"\u6BD4\u5982\uFF1A\u4E0B\u9762\u7684\u4EE3\u7801\u53EA\u8C03\u7528\u4E86\u5199\u6570\u636E\u7684\u65B9\u6CD5\uFF0C\u6CA1\u6709\u5173\u6D41\u7684\u65B9\u6CD5\u3002\u5F53\u4F60\u6253\u5F00\u76EE\u6807\u6587\u4EF6\u65F6\uFF0C\u662F\u770B\u4E0D\u5230\u4EFB\u4F55\u6570\u636E\u7684\u3002",paraId:32,tocIndex:12},{value:`//1.\u521B\u5EFAFileWriter\u5BF9\u8C61
+FileWriter fw = new FileWriter("io-app2/src/itheima03out.txt");
+
+//2.\u5199\u5B57\u7B26\u6570\u636E\u51FA\u53BB
+fw.write('a');
+fw.write('b');
+fw.write('c');
+`,paraId:33,tocIndex:12},{value:"\u800C\u4E0B\u9762\u7684\u4EE3\u7801\uFF0C\u52A0\u4E0A\u4E86flush()\u65B9\u6CD5\u4E4B\u540E\uFF0C\u6570\u636E\u5C31\u4F1A\u7ACB\u5373\u5230\u76EE\u6807\u6587\u4EF6\u4E2D\u53BB\u3002",paraId:34,tocIndex:12},{value:`//1.\u521B\u5EFAFileWriter\u5BF9\u8C61
+FileWriter fw = new FileWriter("io-app2/src/itheima03out.txt");
+
+//2.\u5199\u5B57\u7B26\u6570\u636E\u51FA\u53BB
+fw.write('a');
+fw.write('b');
+fw.write('c');
+
+//3.\u5237\u65B0
+fw.flush(); 
+`,paraId:35,tocIndex:12},{value:"\u4E0B\u9762\u7684\u4EE3\u7801\uFF0C\u8C03\u7528\u4E86close()\u65B9\u6CD5\uFF0C\u6570\u636E\u4E5F\u4F1A\u7ACB\u5373\u5230\u6587\u4EF6\u4E2D\u53BB\u3002\u56E0\u4E3Aclose()\u65B9\u6CD5\u5728\u5173\u95ED\u6D41\u4E4B\u524D\uFF0C\u4F1A\u5C06\u5185\u5B58\u4E2D\u7F13\u5B58\u7684\u6570\u636E\u5148\u5237\u65B0\u5230\u6587\u4EF6\uFF0C\u518D\u5173\u6D41\u3002",paraId:36,tocIndex:12},{value:`//1.\u521B\u5EFAFileWriter\u5BF9\u8C61
+Writer fw = new FileWriter("io-app2/src/itheima03out.txt");
+
+//2.\u5199\u5B57\u7B26\u6570\u636E\u51FA\u53BB
+fw.write('a');
+fw.write('b');
+fw.write('c');
+
+//3.\u5173\u95ED\u6D41
+fw.close(); //\u4F1A\u5148\u5237\u65B0\uFF0C\u518D\u5173\u6D41
+`,paraId:37,tocIndex:12},{value:"BufferedInputStream   BufferedOutputStream",paraId:38,tocIndex:14},{value:"\u5982\u679C\u6211\u4EEC\u7528\u7F13\u51B2\u6D41\u590D\u5236\u6587\u4EF6\uFF0C\u4EE3\u7801\u5199\u6CD5\u5982\u4E0B:",paraId:39,tocIndex:14},{value:`public class BufferedInputStreamTest1 {
+    public static void main(String[] args) {
+        try (
+                InputStream is = new FileInputStream("io-app2/src/itheima01.txt");
+                // 1\u3001\u5B9A\u4E49\u4E00\u4E2A\u5B57\u8282\u7F13\u51B2\u8F93\u5165\u6D41\u5305\u88C5\u539F\u59CB\u7684\u5B57\u8282\u8F93\u5165\u6D41
+                InputStream bis = new BufferedInputStream(is);
+
+                OutputStream os = new FileOutputStream("io-app2/src/itheima01_bak.txt");
+                // 2\u3001\u5B9A\u4E49\u4E00\u4E2A\u5B57\u8282\u7F13\u51B2\u8F93\u51FA\u6D41\u5305\u88C5\u539F\u59CB\u7684\u5B57\u8282\u8F93\u51FA\u6D41
+                OutputStream bos = new BufferedOutputStream(os);
+        ){
+            byte[] buffer = new byte[1024];
+            int len;
+            while ((len = bis.read(buffer)) != -1){
+                bos.write(buffer, 0, len);
+            }
+            System.out.println("\u590D\u5236\u5B8C\u6210\uFF01\uFF01");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:40,tocIndex:14},{value:"\u4F7F\u7528BufferedReader\u8BFB\u53D6\u6570\u636E\u7684\u4EE3\u7801\u5982\u4E0B",paraId:41,tocIndex:15},{value:`public class BufferedReaderTest2 {
+    public static void main(String[] args)  {
+        try (
+                Reader fr = new FileReader("io-app2\\\\src\\\\itheima04.txt");
+                // \u521B\u5EFA\u4E00\u4E2A\u5B57\u7B26\u7F13\u51B2\u8F93\u5165\u6D41\u5305\u88C5\u539F\u59CB\u7684\u5B57\u7B26\u8F93\u5165\u6D41
+                BufferedReader br = new BufferedReader(fr);
+        ){
+//            char[] buffer = new char[3];
+//            int len;
+//            while ((len = br.read(buffer)) != -1){
+//                System.out.print(new String(buffer, 0, len));
+//            }
+//            System.out.println(br.readLine());
+//            System.out.println(br.readLine());
+//            System.out.println(br.readLine());
+//            System.out.println(br.readLine());
+
+            String line; // \u8BB0\u4F4F\u6BCF\u6B21\u8BFB\u53D6\u7684\u4E00\u884C\u6570\u636E
+            while ((line = br.readLine()) != null){
+                System.out.println(line);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:42,tocIndex:15},{value:"\u4F7F\u7528BufferedWriter\u5F80\u6587\u4EF6\u4E2D\u5199\u5165\u5B57\u7B26\u6570\u636E\u3002",paraId:43,tocIndex:15},{value:`public class BufferedWriterTest3 {
+    public static void main(String[] args) {
+        try (
+                Writer fw = new FileWriter("io-app2/src/itheima05out.txt", true);
+                // \u521B\u5EFA\u4E00\u4E2A\u5B57\u7B26\u7F13\u51B2\u8F93\u51FA\u6D41\u7BA1\u9053\u5305\u88C5\u539F\u59CB\u7684\u5B57\u7B26\u8F93\u51FA\u6D41
+                BufferedWriter bw = new BufferedWriter(fw);
+        ){
+
+            bw.write('a');
+            bw.write(97);
+            bw.write('\u78CA');
+            bw.newLine();
+
+            bw.write("\u6211\u7231\u4F60\u4E2D\u56FDabc");
+            bw.newLine();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:44,tocIndex:15},{value:"Java\u7ED9\u6211\u4EEC\u63D0\u4F9B\u4E86\u53E6\u5916\u4E24\u79CD\u6D41InputStreamReader\uFF0COutputStreamWriter\uFF0C\u8FD9\u4E24\u4E2A\u6D41\u6211\u4EEC\u628A\u5B83\u53EB\u505A\u8F6C\u6362\u6D41\u3002\u5B83\u4EEC\u53EF\u4EE5\u5C06\u5B57\u8282\u6D41\u8F6C\u6362\u4E3A\u5B57\u7B26\u6D41\uFF0C\u5E76\u4E14\u53EF\u4EE5\u6307\u5B9A\u7F16\u7801\u65B9\u6848\u3002",paraId:45,tocIndex:16},{value:`public class InputStreamReaderTest2 {
+    public static void main(String[] args) {
+        try (
+                // 1\u3001\u5F97\u5230\u6587\u4EF6\u7684\u539F\u59CB\u5B57\u8282\u6D41\uFF08GBK\u7684\u5B57\u8282\u6D41\u5F62\u5F0F\uFF09
+                InputStream is = new FileInputStream("io-app2/src/itheima06.txt");
+                // 2\u3001\u628A\u539F\u59CB\u7684\u5B57\u8282\u8F93\u5165\u6D41\u6309\u7167\u6307\u5B9A\u7684\u5B57\u7B26\u96C6\u7F16\u7801\u8F6C\u6362\u6210\u5B57\u7B26\u8F93\u5165\u6D41
+                Reader isr = new InputStreamReader(is, "GBK");
+                // 3\u3001\u628A\u5B57\u7B26\u8F93\u5165\u6D41\u5305\u88C5\u6210\u7F13\u51B2\u5B57\u7B26\u8F93\u5165\u6D41
+                BufferedReader br = new BufferedReader(isr);
+                ){
+            
+            String line;
+            while ((line = br.readLine()) != null){
+                System.out.println(line);
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:46,tocIndex:17},{value:`public class OutputStreamWriterTest3 {
+    public static void main(String[] args) {
+        // \u6307\u5B9A\u5199\u51FA\u53BB\u7684\u5B57\u7B26\u7F16\u7801\u3002
+        try (
+                // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u6587\u4EF6\u5B57\u8282\u8F93\u51FA\u6D41
+                OutputStream os = new FileOutputStream("io-app2/src/itheima07out.txt");
+                // 2\u3001\u628A\u539F\u59CB\u7684\u5B57\u8282\u8F93\u51FA\u6D41\uFF0C\u6309\u7167\u6307\u5B9A\u7684\u5B57\u7B26\u96C6\u7F16\u7801\u8F6C\u6362\u6210\u5B57\u7B26\u8F93\u51FA\u8F6C\u6362\u6D41\u3002
+                Writer osw = new OutputStreamWriter(os, "GBK");
+                // 3\u3001\u628A\u5B57\u7B26\u8F93\u51FA\u6D41\u5305\u88C5\u6210\u7F13\u51B2\u5B57\u7B26\u8F93\u51FA\u6D41
+                BufferedWriter bw = new BufferedWriter(osw);
+                ){
+            bw.write("\u6211\u662F\u4E2D\u56FD\u4EBAabc");
+            bw.write("\u6211\u7231\u4F60\u4E2D\u56FD123");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:47,tocIndex:18},{value:"PrintStream\u548CPrintWriter\u7684\u7528\u6CD5\u662F\u4E00\u6837\u7684\uFF0C\u6240\u4EE5\u8FD9\u91CC\u5C31\u4E00\u5757\u6F14\u793A\u4E86\u3002",paraId:48,tocIndex:19},{value:`public class PrintTest1 {
+    public static void main(String[] args) {
+        try (
+                // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u6253\u5370\u6D41\u7BA1\u9053
+//                PrintStream ps =
+//                        new PrintStream("io-app2/src/itheima08.txt", Charset.forName("GBK"));
+//                PrintStream ps =
+//                        new PrintStream("io-app2/src/itheima08.txt");
+                PrintWriter ps =
+                        new PrintWriter(new FileOutputStream("io-app2/src/itheima08.txt", true));
+                ){
+            	
+                ps.print(97);	//\u6587\u4EF6\u4E2D\u663E\u793A\u7684\u5C31\u662F:97
+                ps.print('a'); //\u6587\u4EF6\u4E2D\u663E\u793A\u7684\u5C31\u662F:a
+                ps.println("\u6211\u7231\u4F60\u4E2D\u56FDabc");	//\u6587\u4EF6\u4E2D\u663E\u793A\u7684\u5C31\u662F:\u6211\u7231\u4F60\u4E2D\u56FDabc
+                ps.println(true);//\u6587\u4EF6\u4E2D\u663E\u793A\u7684\u5C31\u662F:true
+                ps.println(99.5);//\u6587\u4EF6\u4E2D\u663E\u793A\u7684\u5C31\u662F99.5
+                ps.write(97); //\u6587\u4EF6\u4E2D\u663E\u793Aa\uFF0C\u53D1\u73B0\u548C\u524D\u9762println\u65B9\u6CD5\u7684\u533A\u522B\u4E86\u5417\uFF1F
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:49,tocIndex:19},{value:"\u800C\u4E14System\u8FD8\u63D0\u4F9B\u4E86\u4E00\u4E2A\u65B9\u6CD5\uFF0C\u53EF\u4EE5\u4FEE\u6539\u5E95\u5C42\u7684\u6253\u5370\u6D41\uFF0C\u8FD9\u6837\u6211\u4EEC\u5C31\u53EF\u4EE5\u91CD\u5B9A\u5411\u6253\u5370\u8BED\u53E5\u7684\u8F93\u51FA\u76EE\u7684\u5730\u4E86\u3002\u6211\u4EEC\u73A9\u4E00\u4E0B, \u76F4\u63A5\u4E0A\u4EE3\u7801\u3002",paraId:50,tocIndex:20},{value:`public class PrintTest2 {
+    public static void main(String[] args) {
+        System.out.println("\u8001\u9AA5\u4F0F\u67A5");
+        System.out.println("\u5FD7\u5728\u5343\u91CC");
+
+        try ( PrintStream ps = new PrintStream("io-app2/src/itheima09.txt"); ){
+            // \u628A\u7CFB\u7EDF\u9ED8\u8BA4\u7684\u6253\u5370\u6D41\u5BF9\u8C61\u6539\u6210\u81EA\u5DF1\u8BBE\u7F6E\u7684\u6253\u5370\u6D41
+            System.setOut(ps);
+
+            System.out.println("\u70C8\u58EB\u66AE\u5E74");	
+            System.out.println("\u58EE\u5FC3\u4E0D\u5DF2");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:51,tocIndex:20},{value:"\u6B64\u65F6\u6253\u5370\u8BED\u53E5\uFF0C\u5C06\u5F80\u6587\u4EF6\u4E2D\u6253\u5370\u6570\u636E\uFF0C\u800C\u4E0D\u5728\u63A7\u5236\u53F0\u3002",paraId:52,tocIndex:20},{value:"\u8FD9\u79CD\u6D41\u5728\u5F00\u53D1\u4E2D\u5076\u5C14\u4E5F\u4F1A\u7528\u5230\u3002\u6BD4\u5982\uFF0C\u6211\u4EEC\u60F3\u628A\u6570\u636E\u548C\u6570\u636E\u7684\u7C7B\u578B\u4E00\u5E76\u5199\u5230\u6587\u4EF6\u4E2D\u53BB\uFF0C\u8BFB\u53D6\u7684\u65F6\u5019\u4E5F\u5C06\u6570\u636E\u548C\u6570\u636E\u7C7B\u578B\u4E00\u5E76\u8BFB\u51FA\u6765\u3002\u8FD9\u5C31\u53EF\u4EE5\u7528\u5230\u6570\u636E\u6D41\uFF0C\u6709\u4E24\u4E2ADataInputStream\u548CDataOutputStream.",paraId:53,tocIndex:21},{value:`public class DataOutputStreamTest1 {
+    public static void main(String[] args) {
+        try (
+                // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u6570\u636E\u8F93\u51FA\u6D41\u5305\u88C5\u4F4E\u7EA7\u7684\u5B57\u8282\u8F93\u51FA\u6D41
+                DataOutputStream dos =
+                        new DataOutputStream(new FileOutputStream("io-app2/src/itheima10out.txt"));
+                ){
+            dos.writeInt(97);
+            dos.writeDouble(99.5);
+            dos.writeBoolean(true);
+            dos.writeUTF("\u9ED1\u9A6C\u7A0B\u5E8F\u5458666\uFF01");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:54,tocIndex:22},{value:`public class DataInputStreamTest2 {
+    public static void main(String[] args) {
+        try (
+                DataInputStream dis =
+                        new DataInputStream(new FileInputStream("io-app2/src/itheima10out.txt"));
+                ){
+            int i = dis.readInt();
+            System.out.println(i);
+
+            double d = dis.readDouble();
+            System.out.println(d);
+
+            boolean b = dis.readBoolean();
+            System.out.println(b);
+
+            String rs = dis.readUTF();
+            System.out.println(rs);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:55,tocIndex:23},{value:"\u5E8F\u5217\u5316\u6D41\u662F\u5E72\u4EC0\u4E48\u7528\u7684\u5462\uFF1F \u6211\u4EEC\u77E5\u9053\u5B57\u8282\u6D41\u662F\u4EE5\u5B57\u8282\u4E3A\u5355\u4F4D\u6765\u8BFB\u5199\u6570\u636E\u3001\u5B57\u7B26\u6D41\u662F\u6309\u7167\u5B57\u7B26\u4E3A\u5355\u4F4D\u6765\u8BFB\u5199\u6570\u636E\u3001\u800C\u5BF9\u8C61\u6D41\u662F\u4EE5\u5BF9\u8C61\u4E3A\u5355\u4F4D\u6765\u8BFB\u5199\u6570\u636E\u3002\u4E5F\u5C31\u662F\u628A\u5BF9\u8C61\u5F53\u505A\u4E00\u4E2A\u6574\u4F53\uFF0C\u53EF\u4EE5\u5199\u4E00\u4E2A\u5BF9\u8C61\u5230\u6587\u4EF6\uFF0C\u4E5F\u53EF\u4EE5\u4ECE\u6587\u4EF6\u4E2D\u628A\u5BF9\u8C61\u8BFB\u53D6\u51FA\u6765\u3002",paraId:56,tocIndex:24},{value:"\u7B2C\u4E00\u6B65\uFF1A\u5148\u51C6\u5907\u4E00\u4E2AUser\u7C7B\uFF0C\u5FC5\u987B\u8BA9\u5176\u5B9E\u73B0Serializable\u63A5\u53E3\u3002",paraId:57,tocIndex:25},{value:`//\u6CE8\u610F\uFF1A\u5BF9\u8C61\u5982\u679C\u9700\u8981\u5E8F\u5217\u5316\uFF0C\u5FC5\u987B\u5B9E\u73B0\u5E8F\u5217\u5316\u63A5\u53E3\u3002
+public class User implements Serializable {
+    private String loginName;
+    private String userName;
+    private int age;
+    // transient \u8FD9\u4E2A\u6210\u5458\u53D8\u91CF\u5C06\u4E0D\u53C2\u4E0E\u5E8F\u5217\u5316\u3002
+    private transient String passWord;
+
+    public User() {
+    }
+
+    public User(String loginName, String userName, int age, String passWord) {
+        this.loginName = loginName;
+        this.userName = userName;
+        this.age = age;
+        this.passWord = passWord;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "loginName='" + loginName + '\\'' +
+                ", userName='" + userName + '\\'' +
+                ", age=" + age +
+                ", passWord='" + passWord + '\\'' +
+                '}';
+    }
+}
+`,paraId:58,tocIndex:25},{value:"\u7B2C\u4E8C\u6B65\uFF1A\u518D\u521B\u5EFAObjectOutputStream\u6D41\u5BF9\u8C61\uFF0C\u8C03\u7528writeObject\u65B9\u6CD5\u5BF9\u8C61\u5230\u6587\u4EF6\u3002",paraId:59,tocIndex:25},{value:`public class Test1ObjectOutputStream {
+    public static void main(String[] args) {
+        try (
+                // 2\u3001\u521B\u5EFA\u4E00\u4E2A\u5BF9\u8C61\u5B57\u8282\u8F93\u51FA\u6D41\u5305\u88C5\u539F\u59CB\u7684\u5B57\u8282 \u8F93\u51FA\u6D41\u3002
+                ObjectOutputStream oos =
+                        new ObjectOutputStream(new FileOutputStream("io-app2/src/itheima11out.txt"));
+                ){
+            // 1\u3001\u521B\u5EFA\u4E00\u4E2AJava\u5BF9\u8C61\u3002
+            User u = new User("admin", "\u5F20\u4E09", 32, "666888xyz");
+
+            // 3\u3001\u5E8F\u5217\u5316\u5BF9\u8C61\u5230\u6587\u4EF6\u4E2D\u53BB
+            oos.writeObject(u);
+            System.out.println("\u5E8F\u5217\u5316\u5BF9\u8C61\u6210\u529F\uFF01\uFF01");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:60,tocIndex:25},{value:"\u63A5\u7740\u524D\u9762\u7684\u6848\u4F8B\uFF0C\u6587\u4EF6\u4E2D\u5DF2\u7ECF\u6709\u4E00\u4E2AStudent\u5BF9\u8C61\uFF0C\u73B0\u5728\u8981\u4F7F\u7528ObjectInputStream\u8BFB\u53D6\u51FA\u6765\u3002\u79F0\u4E4B\u4E3A\u53CD\u5E8F\u5217\u5316\u3002",paraId:61,tocIndex:26},{value:`public class Test2ObjectInputStream {
+    public static void main(String[] args) {
+        try (
+            // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u5BF9\u8C61\u5B57\u8282\u8F93\u5165\u6D41\u7BA1\u9053\uFF0C\u5305\u88C5 \u4F4E\u7EA7\u7684\u5B57\u8282\u8F93\u5165\u6D41\u4E0E\u6E90\u6587\u4EF6\u63A5\u901A
+            ObjectInputStream ois = new ObjectInputStream(new FileInputStream("io-app2/src/itheima11out.txt"));
+        ){
+            User u = (User) ois.readObject();
+            System.out.println(u);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:62,tocIndex:26},{value:"\u5148\u81EA\u5B9A\u4E49\u4E00\u4E2A\u7C7B",paraId:63,tocIndex:28},{value:`public class MyThread extends Thread{
+    // 2\u3001\u5FC5\u987B\u91CD\u5199Thread\u7C7B\u7684run\u65B9\u6CD5
+    @Override
+    public void run() {
+        // \u63CF\u8FF0\u7EBF\u7A0B\u7684\u6267\u884C\u4EFB\u52A1\u3002
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("\u5B50\u7EBF\u7A0BMyThread\u8F93\u51FA\uFF1A" + i);
+        }
+    }
+}
+`,paraId:64,tocIndex:28},{value:"\u518D\u5B9A\u4E49\u4E00\u4E2A\u6D4B\u8BD5\u7C7B\uFF0C\u5728\u6D4B\u8BD5\u7C7B\u4E2D\u521B\u5EFAMyThread\u7EBF\u7A0B\u5BF9\u8C61\uFF0C\u5E76\u542F\u52A8\u7EBF\u7A0B",paraId:65,tocIndex:28},{value:`public class ThreadTest1 {
+    // main\u65B9\u6CD5\u662F\u7531\u4E00\u6761\u9ED8\u8BA4\u7684\u4E3B\u7EBF\u7A0B\u8D1F\u8D23\u6267\u884C\u3002
+    public static void main(String[] args) {
+        // 3\u3001\u521B\u5EFAMyThread\u7EBF\u7A0B\u7C7B\u7684\u5BF9\u8C61\u4EE3\u8868\u4E00\u4E2A\u7EBF\u7A0B
+        Thread t = new MyThread();
+        // 4\u3001\u542F\u52A8\u7EBF\u7A0B\uFF08\u81EA\u52A8\u6267\u884Crun\u65B9\u6CD5\u7684\uFF09
+        t.start(); 
+
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("\u4E3B\u7EBF\u7A0Bmain\u8F93\u51FA\uFF1A" + i);
+        }
+    }
+}
+`,paraId:66,tocIndex:28},{value:"\u5148\u51C6\u5907\u4E00\u4E2ARunnable\u63A5\u53E3\u7684\u5B9E\u73B0\u7C7B",paraId:67,tocIndex:29},{value:`/**
+ * 1\u3001\u5B9A\u4E49\u4E00\u4E2A\u4EFB\u52A1\u7C7B\uFF0C\u5B9E\u73B0Runnable\u63A5\u53E3
+ */
+public class MyRunnable implements Runnable{
+    // 2\u3001\u91CD\u5199runnable\u7684run\u65B9\u6CD5
+    @Override
+    public void run() {
+        // \u7EBF\u7A0B\u8981\u6267\u884C\u7684\u4EFB\u52A1\u3002
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("\u5B50\u7EBF\u7A0B\u8F93\u51FA ===\u300B" + i);
+        }
+    }
+}
+`,paraId:68,tocIndex:29},{value:"\u518D\u5199\u4E00\u4E2A\u6D4B\u8BD5\u7C7B\uFF0C\u5728\u6D4B\u8BD5\u7C7B\u4E2D\u521B\u5EFA\u7EBF\u7A0B\u5BF9\u8C61\uFF0C\u5E76\u6267\u884C\u7EBF\u7A0B",paraId:69,tocIndex:29},{value:`public class ThreadTest2 {
+    public static void main(String[] args) {
+        // 3\u3001\u521B\u5EFA\u4EFB\u52A1\u5BF9\u8C61\u3002
+        MyRunnable target = new MyRunnable();
+        // 4\u3001\u628A\u4EFB\u52A1\u5BF9\u8C61\u4EA4\u7ED9\u4E00\u4E2A\u7EBF\u7A0B\u5BF9\u8C61\u5904\u7406\u3002
+        //  public Thread(Runnable target)
+        new Thread(target).start();
+
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("\u4E3B\u7EBF\u7A0Bmain\u8F93\u51FA ===\u300B" + i);
+        }
+    }
+}
+`,paraId:70,tocIndex:29},{value:"\u73B0\u5728\u6211\u4E0D\u60F3\u5199Runnable\u5B9E\u73B0\u7C7B\uFF0C\u4E8E\u662F\u53EF\u4EE5\u76F4\u63A5\u521B\u5EFARunnable\u63A5\u53E3\u7684\u533F\u540D\u5185\u90E8\u7C7B\u5BF9\u8C61\uFF0C\u4F20\u9012\u7ED9Thread\u5BF9\u8C61\u3002",paraId:71,tocIndex:30},{value:"\u4EE3\u7801\u5982\u4E0B",paraId:72,tocIndex:30},{value:`public class ThreadTest2_2 {
+    public static void main(String[] args) {
+        // 1\u3001\u76F4\u63A5\u521B\u5EFARunnable\u63A5\u53E3\u7684\u533F\u540D\u5185\u90E8\u7C7B\u5F62\u5F0F\uFF08\u4EFB\u52A1\u5BF9\u8C61\uFF09
+        Runnable target = new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 1; i <= 5; i++) {
+                    System.out.println("\u5B50\u7EBF\u7A0B1\u8F93\u51FA\uFF1A" + i);
+                }
+            }
+        };
+        new Thread(target).start();
+
+        // \u7B80\u5316\u5F62\u5F0F1\uFF1A
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 1; i <= 5; i++) {
+                    System.out.println("\u5B50\u7EBF\u7A0B2\u8F93\u51FA\uFF1A" + i);
+                }
+            }
+        }).start();
+
+        // \u7B80\u5316\u5F62\u5F0F2\uFF1A
+        new Thread(() -> {
+                for (int i = 1; i <= 5; i++) {
+                    System.out.println("\u5B50\u7EBF\u7A0B3\u8F93\u51FA\uFF1A" + i);
+                }
+        }).start();
+
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("\u4E3B\u7EBF\u7A0Bmain\u8F93\u51FA\uFF1A" + i);
+        }
+    }
+}
+`,paraId:73,tocIndex:30},{value:"\u5B83\u6700\u5927\u7684\u4F18\u70B9\u5C31\u662F\u6709\u8FD4\u56DE\u503C\u3002",paraId:74,tocIndex:31},{value:"\u5148\u51C6\u5907\u4E00\u4E2ACallable\u63A5\u53E3\u7684\u5B9E\u73B0\u7C7B",paraId:75,tocIndex:31},{value:`public class MyCallable implements Callable<String> {
+
+    @Override
+    public String call() throws Exception {
+        for (int i = 0; i < 100; i++) {
+            System.out.println("\u8DDF\u5973\u5B69\u8868\u767D" + i);
+        }
+        //\u8FD4\u56DE\u503C\u5C31\u8868\u793A\u7EBF\u7A0B\u8FD0\u884C\u5B8C\u6BD5\u4E4B\u540E\u7684\u7ED3\u679C
+        return "\u7B54\u5E94";
+    }
+
+}
+`,paraId:76,tocIndex:31},{value:"\u518D\u5B9A\u4E49\u4E00\u4E2A\u6D4B\u8BD5\u7C7B\uFF0C\u5728\u6D4B\u8BD5\u7C7B\u4E2D\u521B\u5EFA\u7EBF\u7A0B\u5E76\u542F\u52A8\u7EBF\u7A0B\uFF0C\u8FD8\u8981\u83B7\u53D6\u8FD4\u56DE\u7ED3\u679C",paraId:77,tocIndex:31},{value:`public class ThreadTest3 {
+    public static void main(String[] args) throws Exception {
+        // 3\u3001\u521B\u5EFA\u4E00\u4E2ACallable\u7684\u5BF9\u8C61
+        Callable<String> call = new MyCallable();
+        // 4\u3001\u628ACallable\u7684\u5BF9\u8C61\u5C01\u88C5\u6210\u4E00\u4E2AFutureTask\u5BF9\u8C61(\u4EFB\u52A1\u5BF9\u8C61\uFF09
+        // \u672A\u6765\u4EFB\u52A1\u5BF9\u8C61\u7684\u4F5C\u7528\uFF1F
+        // 1\u3001\u662F\u4E00\u4E2A\u4EFB\u52A1\u5BF9\u8C61\uFF0C\u5B9E\u73B0\u4E86Runnable\u5BF9\u8C61.
+        // 2\u3001\u53EF\u4EE5\u5728\u7EBF\u7A0B\u6267\u884C\u5B8C\u6BD5\u4E4B\u540E\uFF0C\u7528\u672A\u6765\u4EFB\u52A1\u5BF9\u8C61\u8C03\u7528get\u65B9\u6CD5\u83B7\u53D6\u7EBF\u7A0B\u6267\u884C\u5B8C\u6BD5\u540E\u7684\u7ED3\u679C\u3002
+        FutureTask<String> f1  = new FutureTask<>(call);
+        // 5\u3001\u628A\u4EFB\u52A1\u5BF9\u8C61\u4EA4\u7ED9\u4E00\u4E2AThread\u5BF9\u8C61
+        new Thread(f1).start();
+
+
+        Callable<String> call2 = new MyCallable();
+        FutureTask<String> f2  = new FutureTask<>(call2);
+        new Thread(f2).start();
+
+        // 6\u3001\u83B7\u53D6\u7EBF\u7A0B\u6267\u884C\u5B8C\u6BD5\u540E\u8FD4\u56DE\u7684\u7ED3\u679C\u3002
+        // \u6CE8\u610F\uFF1A\u5982\u679C\u6267\u884C\u5230\u8FD9\u513F\uFF0C\u5047\u5982\u4E0A\u9762\u7684\u7EBF\u7A0B\u8FD8\u6CA1\u6709\u6267\u884C\u5B8C\u6BD5
+        // \u8FD9\u91CC\u7684\u4EE3\u7801\u4F1A\u6682\u505C\uFF0C\u7B49\u5F85\u4E0A\u9762\u7EBF\u7A0B\u6267\u884C\u5B8C\u6BD5\u540E\u624D\u4F1A\u83B7\u53D6\u7ED3\u679C\u3002
+        String rs = f1.get();
+        System.out.println(rs);
+
+        String rs2 = f2.get();
+        System.out.println(rs2);
+    }
+}
+`,paraId:78,tocIndex:31},{value:"\u6CE8\u610F:  get()\u65B9\u6CD5\u7684\u8C03\u7528\u95EE\u9898",paraId:79,tocIndex:31},{value:`get()\u83B7\u53D6\u7684\u662Fcall\u65B9\u6CD5\u7684\u8FD4\u56DE\u503C, call\u65B9\u6CD5\u662F\u5728\u8C03\u7528start\u4E4B\u540E\u624D\u4F1A\u6267\u884C
+\u6240\u4EE5get()\u65B9\u6CD5\u5FC5\u987B\u5728start()\u65B9\u6CD5\u8C03\u7528\u4E4B\u540E\u624D\u80FD\u8C03\u7528!!!
+`,paraId:80,tocIndex:31},{value:"\u6F14\u793A",paraId:81,tocIndex:32},{value:"getName()",paraId:81,tocIndex:32},{value:"\u83B7\u53D6\u7EBF\u7A0B\u540D\u79F0",paraId:81,tocIndex:32},{value:`package com.itheima.d4_thread_api;
+
+public class Demo04 {
+    public static void main(String[] args) {
+        //\u521B\u5EFA\u7EBF\u7A0B\u4EFB\u52A1\u5BF9\u8C61
+        MyRun myRun = new MyRun();
+
+        //\u521B\u5EFA\u7EBF\u7A0B\u5BF9\u8C61t1
+        Thread t1 = new Thread(myRun);
+        //\u542F\u52A8t1\u7EBF\u7A0B
+        t1.start();
+        //\u83B7\u53D6t1\u7EBF\u7A0B\u7684\u540D\u79F0
+        System.out.println(t1.getName());
+
+        //\u521B\u5EFA\u7EBF\u7A0B\u5BF9\u8C61t2
+        Thread t2 = new Thread(myRun);
+        //\u542F\u52A8t2\u7EBF\u7A0B
+        t2.start();
+        //\u83B7\u53D6t2\u7EBF\u7A0B\u7684\u540D\u79F0
+        System.out.println(t2.getName());
+    }
+}
+`,paraId:82,tocIndex:32},{value:"\u6F14\u793A",paraId:83,tocIndex:32},{value:"currentThread()",paraId:83,tocIndex:32},{value:"\u83B7\u53D6\u5F53\u524D\u7EBF\u7A0B\u5BF9\u8C61",paraId:83,tocIndex:32},{value:`public class MyRun implements Runnable {
+
+    @Override
+    public void run() {
+        //\u83B7\u53D6\u5F53\u524D\u7EBF\u7A0B\u7684\u5BF9\u8C61
+        Thread t = Thread.currentThread();
+
+        for (int i = 1; i <= 3; i++) {
+            System.out.println(t.getName() + "\u8F93\u51FA\uFF1A" + i);
+        }
+    }
+
+}
+`,paraId:84,tocIndex:32},{value:"\u6F14\u793A",paraId:85,tocIndex:32},{value:"setName(String name)",paraId:85,tocIndex:32},{value:"\u3001",paraId:85,tocIndex:32},{value:"public Thread(Runnable target,String name)",paraId:85,tocIndex:32},{value:"\u8BBE\u7F6E\u7EBF\u7A0B\u540D\u79F0",paraId:85,tocIndex:32},{value:`package com.itheima.d4_thread_api;
+
+public class Demo042 {
+    public static void main(String[] args) {
+        //\u521B\u5EFA\u7EBF\u7A0B\u4EFB\u52A1\u5BF9\u8C61
+        MyRun myRun = new MyRun();
+
+        //\u521B\u5EFA\u7EBF\u7A0B\u5BF9\u8C61t1
+        Thread t1 = new Thread(myRun,"\u5C0F\u7F8E");
+        //\u5229\u7528set\u65B9\u6CD5\u7ED9\u7EBF\u7A0B\u8BBE\u7F6E\u540D\u79F0
+        //t1.setName("\u5C0F\u7F8E");
+        //\u542F\u52A8t1\u7EBF\u7A0B
+        t1.start();
+        //\u83B7\u53D6t1\u7EBF\u7A0B\u7684\u540D\u79F0
+        System.out.println(t1.getName());
+
+        System.out.println("------------------------------");
+
+        //\u521B\u5EFA\u7EBF\u7A0B\u5BF9\u8C61t2
+        Thread t2 = new Thread(myRun,"\u5C0F\u9ED1");
+        //\u5229\u7528set\u65B9\u6CD5\u7ED9\u7EBF\u7A0B\u8BBE\u7F6E\u540D\u79F0
+        //t2.setName("\u5C0F\u9ED1");
+        //\u542F\u52A8t2\u7EBF\u7A0B
+        t2.start();
+        //\u83B7\u53D6t2\u7EBF\u7A0B\u7684\u540D\u79F0
+        System.out.println(t2.getName());
+		
+        System.out.println("------------------------------");
+        //\u83B7\u53D6\u5F53\u524D\u7EBF\u7A0B\u5BF9\u8C61
+        Thread t = Thread.currentThread();
+        //\u5229\u7528set\u65B9\u6CD5\u7ED9\u7EBF\u7A0B\u8BBE\u7F6E\u540D\u79F0
+        t.setName("\u5C0F\u767D");
+
+        //\u83B7\u53D6\u7EBF\u7A0B\u540D\u79F0
+        System.out.println(t.getName());
+    }
+}
+`,paraId:86,tocIndex:32},{value:"\u6F14\u793A",paraId:87,tocIndex:32},{value:"sleep(long time)",paraId:87,tocIndex:32},{value:"\u65B9\u6CD5",paraId:87,tocIndex:32},{value:`package com.itheima.d4_thread_api;
+
+public class Demo043 {
+    public static void main(String[] args) throws Exception {
+        for (int i = 1; i <= 5; i++) {
+            System.out.println(i);
+            // \u4F11\u77205s
+            if(i == 3){
+                // \u4F1A\u8BA9\u5F53\u524D\u6267\u884C\u7684\u7EBF\u7A0B\u6682\u505C5\u79D2\uFF0C\u518D\u7EE7\u7EED\u6267\u884C
+                Thread.sleep(5000);
+            }
+        }
+    }
+}
+`,paraId:88,tocIndex:32},{value:`//sleep()\u65B9\u6CD5\u6709\u4EC0\u4E48\u7528?
+public class Demo044 {
+
+    public static void main(String[] args) {
+
+        while (true){
+            //\u5FAA\u73AF\u53D1\u9001\u77ED\u4FE1,\u76F4\u5230\u8F66\u8F86\u542F\u52A8\u6210\u529F  / \u6216\u80052\u5206\u949F\u4E00\u76F4\u6CA1\u6709\u542F\u52A8\u6210\u529F
+            //\u53D1\u77ED\u4FE1....
+
+            if (\u542F\u52A8\u6210\u529F){
+                break;
+            }
+        }
+
+    }
+    
+}
+`,paraId:89,tocIndex:32},{value:"\u6F14\u793A",paraId:90,tocIndex:32},{value:"join()",paraId:90,tocIndex:32},{value:"\u65B9\u6CD5",paraId:90,tocIndex:32},{value:`package com.itheima.d4_thread_api;
+
+public class Demo045 {
+    public static void main(String[] args) throws Exception {
+        // join\u65B9\u6CD5\u4F5C\u7528\uFF1A\u8BA9\u5F53\u524D\u8C03\u7528\u8FD9\u4E2A\u65B9\u6CD5\u7684\u7EBF\u7A0B\u5148\u6267\u884C\u5B8C\u3002
+        Thread t1 = new MyThread("1\u53F7\u7EBF\u7A0B");
+        t1.start();
+        t1.join();
+
+        Thread t2 = new MyThread("2\u53F7\u7EBF\u7A0B");
+        t2.start();
+        t2.join();
+
+        Thread t3 = new MyThread("3\u53F7\u7EBF\u7A0B");
+        t3.start();
+        t3.join();
+    }
+}
+`,paraId:91,tocIndex:32},{value:"\u8BED\u6CD5",paraId:92,tocIndex:34},{value:`//\u9501\u5BF9\u8C61 - \u4EFB\u610F\u4E00\u4E2A\u7C7B\u578B\u7684\u5BF9\u8C61\u90FD\u53EF\u4EE5
+synchronized(\u9501\u5BF9\u8C61){
+    //...\u8BBF\u95EE\u5171\u4EAB\u6570\u636E\u7684\u4EE3\u7801...
+}
+`,paraId:93,tocIndex:34},{value:"\u4F7F\u7528\u540C\u6B65\u4EE3\u7801\u5757\uFF0C\u6765\u89E3\u51B3\u524D\u9762\u4EE3\u7801\u91CC\u9762\u7684\u7EBF\u7A0B\u5B89\u5168\u95EE\u9898\u3002",paraId:94,tocIndex:34},{value:`package com.itheima.d6_synchronized_code;
+
+public class AccountRun implements Runnable {
+
+    //\u521B\u5EFA\u4E00\u4E2AObject\u7684\u5BF9\u8C61-\u7528\u6765\u5145\u5F53\u9501
+    private Object obj = new Object();
+
+    @Override
+    public void run() {
+        //\u83B7\u53D6\u5F53\u524D\u7EBF\u7A0B\u5BF9\u8C61
+        Thread t = Thread.currentThread();
+
+        //\u4F7F\u7528\u540C\u6B65\u4EE3\u7801\u5757\u5C06\u64CD\u4F5C\u5171\u4EAB\u6570\u636E\u7684\u4EE3\u7801\u9501\u8D77\u6765
+        synchronized (obj) {
+            //\u5224\u65AD\u4F59\u989D\u662F\u5426\u8DB3\u591F
+            if (Account.money >= 100000) {
+                System.out.println(t.getName() + "\u6765\u53D6\u94B1\u4E86");
+                //\u66F4\u65B0\u4F59\u989D
+                Account.money = Account.money - 100000;
+                //\u6253\u5370\u53D6\u6B3E\u4FE1\u606F
+                System.out.println(t.getName() + "\u6765\u53D6\u94B1\u540E,\u4F59\u989D\u5269\u4F59:" + Account.money);
+            } else {
+                System.out.println(t.getName() + "\u6765\u53D6\u94B1\uFF1A\u4F59\u989D\u4E0D\u8DB3~");
+            }
+        }
+
+    }
+    
+}
+`,paraId:95,tocIndex:34},{value:"\u9501\u5BF9\u8C61\uFF1A\u5FC5\u987B\u662F\u4E00\u4E2A\u552F\u4E00\u7684\u5BF9\u8C61\uFF08\u540C\u4E00\u4E2A\u5730\u5740\uFF09",paraId:96,tocIndex:34},{value:"\u63A5\u4E0B\u6765\uFF0C\u5B66\u4E60\u540C\u6B65\u65B9\u6CD5\u89E3\u51B3\u7EBF\u7A0B\u5B89\u5168\u95EE\u9898\u3002",paraId:97,tocIndex:35},{value:"\u5176\u5B9E\u540C\u6B65\u65B9\u6CD5\uFF0C\u5C31\u662F\u628A\u6574\u4E2A\u65B9\u6CD5\u7ED9\u9501\u4F4F\uFF0C\u4E00\u4E2A\u7EBF\u7A0B\u8C03\u7528\u8FD9\u4E2A\u65B9\u6CD5\uFF0C\u53E6\u4E00\u4E2A\u7EBF\u7A0B\u8C03\u7528\u7684\u65F6\u5019\u5C31\u6267\u884C\u4E0D\u4E86\uFF0C\u53EA\u6709\u7B49\u4E0A\u4E00\u4E2A\u7EBF\u7A0B\u8C03\u7528\u7ED3\u675F\uFF0C\u4E0B\u4E00\u4E2A\u7EBF\u7A0B\u8C03\u7528\u624D\u80FD\u7EE7\u7EED\u6267\u884C\u3002",paraId:97,tocIndex:35},{value:"\u8BED\u6CD5",paraId:98,tocIndex:35},{value:`\u4FEE\u9970\u7B26 synchronized \u8FD4\u56DE\u503C\u7C7B\u578B \u65B9\u6CD5\u540D\u79F0(\u5F62\u53C2\u5217\u8868) {
+    \u64CD\u4F5C\u5171\u4EAB\u8D44\u6E90\u7684\u4EE3\u7801
+}
+`,paraId:99,tocIndex:35},{value:"\u4EE3\u7801",paraId:100,tocIndex:35},{value:`package com.itheima.d7_synchronized_method;
+
+//\u540C\u6B65\u65B9\u6CD5\u7684\u9501\u5BF9\u8C61\u662F\u56FA\u5B9A\u7684\u3001\u4E0D\u80FD\u66F4\u6539\u7684 - \u9501\u5BF9\u8C61\u662Fthis
+@Override
+public synchronized void run() {
+    //\u83B7\u53D6\u5F53\u524D\u7EBF\u7A0B\u5BF9\u8C61
+    Thread t = Thread.currentThread();
+    //\u5224\u65AD\u4F59\u989D\u662F\u5426\u8DB3\u591F
+    if (Account.money >= 100000) {
+        System.out.println(t.getName() + "\u6765\u53D6\u94B1\u4E86");
+        //\u66F4\u65B0\u4F59\u989D
+        Account.money = Account.money - 100000;
+        //\u6253\u5370\u53D6\u6B3E\u4FE1\u606F
+        System.out.println(t.getName() + "\u6765\u53D6\u94B1\u540E,\u4F59\u989D\u5269\u4F59:" + Account.money);
+    } else {
+        System.out.println(t.getName() + "\u6765\u53D6\u94B1\uFF1A\u4F59\u989D\u4E0D\u8DB3~");
+    }
+}
+`,paraId:101,tocIndex:35},{value:"\u6539\u5B8C\u4E4B\u540E\uFF0C\u518D\u6B21\u8FD0\u884C\u6D4B\u8BD5\u7C7B\uFF0C\u89C2\u5BDF\u662F\u5426\u4F1A\u51FA\u73B0\u4E0D\u5408\u7406\u7684\u60C5\u51B5\u3002",paraId:102,tocIndex:35},{value:"\u8BED\u6CD5",paraId:103,tocIndex:36},{value:`1.\u9996\u5148\u5728\u6210\u5458\u53D8\u91CF\u4F4D\u5B50\uFF0C\u9700\u8981\u521B\u5EFA\u4E00\u4E2ALock\u63A5\u53E3\u7684\u5B9E\u73B0\u7C7B\u5BF9\u8C61\uFF08\u8FD9\u4E2A\u5BF9\u8C61\u5C31\u662F\u9501\u5BF9\u8C61\uFF09
+	private final Lock lk = new ReentrantLock();
+2.\u5728\u9700\u8981\u4E0A\u9501\u7684\u5730\u65B9\u52A0\u5165\u4E0B\u9762\u7684\u4EE3\u7801
+	 lk.lock(); // \u52A0\u9501
+	 //...\u4E2D\u95F4\u662F\u88AB\u9501\u4F4F\u7684\u4EE3\u7801...
+	 lk.unlock(); //\u89E3\u9501
+`,paraId:104,tocIndex:36},{value:"\u4EE3\u7801",paraId:105,tocIndex:36},{value:`package com.itheima.d8_synchronized_lock;
+
+public class AccountRun implements Runnable {
+
+    //\u5B9A\u4E49Lock\u9501\u5BF9\u8C61
+    private final Lock lk = new ReentrantLock();
+
+    //\u540C\u6B65\u65B9\u6CD5\u7684\u9501\u5BF9\u8C61\u662F\u56FA\u5B9A\u7684\u3001\u4E0D\u80FD\u66F4\u6539\u7684 - \u9501\u5BF9\u8C61\u662Fthis
+    @Override
+    public void run() {
+        //\u83B7\u53D6\u5F53\u524D\u7EBF\u7A0B\u5BF9\u8C61
+        Thread t = Thread.currentThread();
+
+        try {
+            lk.lock(); //\u5C1D\u8BD5\u83B7\u53D6\u9501\u5BF9\u8C61,\u76F4\u5230\u83B7\u53D6\u6210\u529F\u540E\u624D\u4F1A\u7EE7\u7EED\u5411\u4E0B\u6267\u884C\u4EE3\u7801
+
+            //\u5224\u65AD\u4F59\u989D\u662F\u5426\u8DB3\u591F
+            if (Account.money >= 100000) {
+                System.out.println(t.getName() + "\u6765\u53D6\u94B1\u4E86");
+                //\u66F4\u65B0\u4F59\u989D
+                Account.money = Account.money - 100000;
+                //\u6253\u5370\u53D6\u6B3E\u4FE1\u606F
+                System.out.println(t.getName() + "\u6765\u53D6\u94B1\u540E,\u4F59\u989D\u5269\u4F59:" + Account.money);
+            } else {
+                System.out.println(t.getName() + "\u6765\u53D6\u94B1\uFF1A\u4F59\u989D\u4E0D\u8DB3~");
+            }
+        } finally {
+            lk.unlock();  //\u91CA\u653E\u9501
+        }
+    }
+
+}
+`,paraId:106,tocIndex:36},{value:"\u7EBF\u7A0B\u6C60\u5C31\u662F\u4E00\u4E2A\u53EF\u4EE5\u590D\u7528\u7EBF\u7A0B\u7684\u6280\u672F",paraId:107,tocIndex:37},{value:"\u3002",paraId:107,tocIndex:37},{value:"\u4E0B\u9762\u662F\u5B83\u7684\u6784\u9020\u5668\uFF0C\u53C2\u6570\u6BD4\u8F83\u591A\uFF0C\u4E0D\u8981\u6015\uFF0C\u5E72\u5C31\u5B8C\u4E86^_^\u3002",paraId:108,tocIndex:38},{value:"\u63A5\u4E0B\u6765\uFF0C\u7528\u8FD97\u4E2A\u53C2\u6570\u7684\u6784\u9020\u5668\u6765\u521B\u5EFA\u7EBF\u7A0B\u6C60\u7684\u5BF9\u8C61\u3002\u4EE3\u7801\u5982\u4E0B",paraId:109,tocIndex:38},{value:`package com.itheima.d10_thread_pool;
+
+ExecutorService pool = new ThreadPoolExecutor(
+    3,	//\u6838\u5FC3\u7EBF\u7A0B\u6570\u67093\u4E2A
+    5,  //\u6700\u5927\u7EBF\u7A0B\u6570\u67095\u4E2A\u3002   \u4E34\u65F6\u7EBF\u7A0B\u6570=\u6700\u5927\u7EBF\u7A0B\u6570-\u6838\u5FC3\u7EBF\u7A0B\u6570=5-3=2
+    8,	//\u4E34\u65F6\u7EBF\u7A0B\u5B58\u6D3B\u7684\u65F6\u95F48\u79D2\u3002 \u610F\u601D\u662F\u4E34\u65F6\u7EBF\u7A0B8\u79D2\u6CA1\u6709\u4EFB\u52A1\u6267\u884C\uFF0C\u5C31\u4F1A\u88AB\u9500\u6BC1\u6389\u3002
+    TimeUnit.SECONDS,//\u65F6\u95F4\u5355\u4F4D\uFF08\u79D2\uFF09
+    new ArrayBlockingQueue<>(4), //\u4EFB\u52A1\u963B\u585E\u961F\u5217\uFF0C\u6CA1\u6709\u6765\u5F97\u53CA\u6267\u884C\u7684\u4EFB\u52A1\u5728\uFF0C\u4EFB\u52A1\u961F\u5217\u4E2D\u7B49\u5F85
+    Executors.defaultThreadFactory(), //\u7528\u4E8E\u521B\u5EFA\u7EBF\u7A0B\u7684\u5DE5\u5382\u5BF9\u8C61
+    new ThreadPoolExecutor.CallerRunsPolicy() //\u62D2\u7EDD\u7B56\u7565
+);
+`,paraId:110,tocIndex:38},{value:"\u7EBF\u7A0B\u6C60\u6267\u884C\u7684\u4EFB\u52A1\u53EF\u4EE5\u6709\u4E24\u79CD\uFF0C\u4E00\u79CD\u662FRunnable\u4EFB\u52A1\uFF1B\u4E00\u79CD\u662Fcallable\u4EFB\u52A1\u3002",paraId:111,tocIndex:38},{value:"\u5148\u51C6\u5907\u4E00\u4E2A\u7EBF\u7A0B\u4EFB\u52A1\u7C7B",paraId:112,tocIndex:39},{value:`package com.itheima.d10_thread_pool;
+
+public class MyRunnable implements Runnable{
+    @Override
+    public void run() {
+        //\u4EFB\u52A1\u662F\u5E72\u5565\u7684?
+        System.out.println(Thread.currentThread().getName() + " ==> \u8F93\u51FA666~~");
+        //\u4E3A\u4E86\u6A21\u62DF\u7EBF\u7A0B\u4E00\u76F4\u5728\u6267\u884C\uFF0C\u8FD9\u91CC\u7761\u4E45\u4E00\u70B9
+        try {
+            Thread.sleep(Integer.MAX_VALUE);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:113,tocIndex:39},{value:"\u4E0B\u9762\u662F\u6267\u884CRunnable\u4EFB\u52A1\u7684\u4EE3\u7801\uFF0C\u6CE8\u610F\u9605\u8BFB\u6CE8\u91CA\uFF0C\u5BF9\u7167\u7740\u524D\u9762\u76847\u4E2A\u53C2\u6570\u7406\u89E3\u3002",paraId:114,tocIndex:39},{value:`ExecutorService pool = new ThreadPoolExecutor(
+    3,	//\u6838\u5FC3\u7EBF\u7A0B\u6570\u67093\u4E2A
+    5,  //\u6700\u5927\u7EBF\u7A0B\u6570\u67095\u4E2A\u3002      \u4E34\u65F6\u7EBF\u7A0B\u6570=\u6700\u5927\u7EBF\u7A0B\u6570-\u6838\u5FC3\u7EBF\u7A0B\u6570=5-3=2
+    8,	//\u4E34\u65F6\u7EBF\u7A0B\u5B58\u6D3B\u7684\u65F6\u95F48\u79D2\u3002 \u610F\u601D\u662F\u4E34\u65F6\u7EBF\u7A0B8\u79D2\u6CA1\u6709\u4EFB\u52A1\u6267\u884C\uFF0C\u5C31\u4F1A\u88AB\u9500\u6BC1\u6389\u3002
+    TimeUnit.SECONDS,//\u65F6\u95F4\u5355\u4F4D\uFF08\u79D2\uFF09
+    new ArrayBlockingQueue<>(4), //\u4EFB\u52A1\u963B\u585E\u961F\u5217\uFF0C\u6CA1\u6709\u6765\u5F97\u53CA\u6267\u884C\u7684\u4EFB\u52A1\u5728\uFF0C\u4EFB\u52A1\u961F\u5217\u4E2D\u7B49\u5F85
+    Executors.defaultThreadFactory(), //\u7528\u4E8E\u521B\u5EFA\u7EBF\u7A0B\u7684\u5DE5\u5382\u5BF9\u8C61
+    new ThreadPoolExecutor.CallerRunsPolicy() //\u62D2\u7EDD\u7B56\u7565
+);
+
+Runnable target = new MyRunnable();
+pool.execute(target); // \u7EBF\u7A0B\u6C60\u4F1A\u81EA\u52A8\u521B\u5EFA\u4E00\u4E2A\u65B0\u7EBF\u7A0B\uFF0C\u81EA\u52A8\u5904\u7406\u8FD9\u4E2A\u4EFB\u52A1\uFF0C\u81EA\u52A8\u6267\u884C\u7684\uFF01
+pool.execute(target); // \u7EBF\u7A0B\u6C60\u4F1A\u81EA\u52A8\u521B\u5EFA\u4E00\u4E2A\u65B0\u7EBF\u7A0B\uFF0C\u81EA\u52A8\u5904\u7406\u8FD9\u4E2A\u4EFB\u52A1\uFF0C\u81EA\u52A8\u6267\u884C\u7684\uFF01
+pool.execute(target); // \u7EBF\u7A0B\u6C60\u4F1A\u81EA\u52A8\u521B\u5EFA\u4E00\u4E2A\u65B0\u7EBF\u7A0B\uFF0C\u81EA\u52A8\u5904\u7406\u8FD9\u4E2A\u4EFB\u52A1\uFF0C\u81EA\u52A8\u6267\u884C\u7684\uFF01
+//\u4E0B\u97624\u4E2A\u4EFB\u52A1\u5728\u4EFB\u52A1\u961F\u5217\u91CC\u6392\u961F
+pool.execute(target);
+pool.execute(target);
+pool.execute(target);
+pool.execute(target);
+
+//\u4E0B\u97622\u4E2A\u4EFB\u52A1\uFF0C\u4F1A\u88AB\u4E34\u65F6\u7EBF\u7A0B\u7684\u521B\u5EFA\u65F6\u673A
+pool.execute(target);
+pool.execute(target);
+// \u5230\u4E86\u65B0\u4EFB\u52A1\u7684\u62D2\u7EDD\u65F6\u673A\u4E86\uFF01
+pool.execute(target);
+`,paraId:115,tocIndex:39},{value:"\u5148\u51C6\u5907\u4E00\u4E2ACallable\u7EBF\u7A0B\u4EFB\u52A1",paraId:116,tocIndex:40},{value:`package com.itheima.d10_thread_pool;
+
+public class MyCallable implements Callable<String> {
+    private int n;
+    public MyCallable(int n) {
+        this.n = n;
+    }
+
+    // 2\u3001\u91CD\u5199call\u65B9\u6CD5
+    @Override
+    public String call() throws Exception {
+        // \u63CF\u8FF0\u7EBF\u7A0B\u7684\u4EFB\u52A1\uFF0C\u8FD4\u56DE\u7EBF\u7A0B\u6267\u884C\u8FD4\u56DE\u540E\u7684\u7ED3\u679C\u3002
+        // \u9700\u6C42\uFF1A\u6C421-n\u7684\u548C\u8FD4\u56DE\u3002
+        int sum = 0;
+        for (int i = 1; i <= n; i++) {
+            sum += i;
+        }
+        return Thread.currentThread().getName() + "\u6C42\u51FA\u4E861-" + n + "\u7684\u548C\u662F\uFF1A" + sum;
+    }
+}
+`,paraId:117,tocIndex:40},{value:"\u518D\u51C6\u5907\u4E00\u4E2A\u6D4B\u8BD5\u7C7B\uFF0C\u5728\u6D4B\u8BD5\u7C7B\u4E2D\u521B\u5EFA\u7EBF\u7A0B\u6C60\uFF0C\u5E76\u6267\u884Ccallable\u4EFB\u52A1\u3002",paraId:118,tocIndex:40},{value:`package com.itheima.d10_thread_pool;
+
+public class ThreadPoolTest2 {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u901A\u8FC7ThreadPoolExecutor\u521B\u5EFA\u4E00\u4E2A\u7EBF\u7A0B\u6C60\u5BF9\u8C61\u3002
+        ExecutorService pool = new ThreadPoolExecutor(
+            3,
+            5,
+            8,
+            TimeUnit.SECONDS, 
+            new ArrayBlockingQueue<>(4),
+            Executors.defaultThreadFactory(),
+            new ThreadPoolExecutor.CallerRunsPolicy());
+
+        // 2\u3001\u4F7F\u7528\u7EBF\u7A0B\u5904\u7406Callable\u4EFB\u52A1\u3002
+        Future<String> f1 = pool.submit(new MyCallable(100));
+        Future<String> f2 = pool.submit(new MyCallable(200));
+        Future<String> f3 = pool.submit(new MyCallable(300));
+        Future<String> f4 = pool.submit(new MyCallable(400));
+
+        // 3\u3001\u6267\u884C\u5B8CCallable\u4EFB\u52A1\u540E\uFF0C\u9700\u8981\u83B7\u53D6\u8FD4\u56DE\u7ED3\u679C\u3002
+        System.out.println(f1.get());
+        System.out.println(f2.get());
+        System.out.println(f3.get());
+        System.out.println(f4.get());
+    }
+}
+`,paraId:119,tocIndex:40},{value:"\u5E38\u7528\u65B9\u6CD5",paraId:120,tocIndex:42},{value:`public class InetAddressTest {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u83B7\u53D6\u672C\u673AIP\u5730\u5740\u5BF9\u8C61\u7684
+        InetAddress ip1 = InetAddress.getLocalHost();
+        System.out.println(ip1.getHostName());
+        System.out.println(ip1.getHostAddress());
+
+        // 2\u3001\u83B7\u53D6\u6307\u5B9AIP\u6216\u8005\u57DF\u540D\u7684IP\u5730\u5740\u5BF9\u8C61\u3002
+        InetAddress ip2 = InetAddress.getByName("www.baidu.com");
+        System.out.println(ip2.getHostName());
+        System.out.println(ip2.getHostAddress());
+
+        //ping www.baidu.com
+        System.out.println(ip2.isReachable(6000));
+    }
+}
+`,paraId:121,tocIndex:42},{value:"UDP\u662F\u9762\u5411\u65E0\u8FDE\u63A5\u7684\u3001\u4E0D\u9700\u8981\u786E\u8BA4\u53CC\u65B9\u662F\u5426\u5B58\u5728\uFF0C\u6240\u4EE5\u5B83\u662F\u4E0D\u53EF\u9760\u7684\u534F\u8BAE\u3002",paraId:122,tocIndex:43},{value:`/**
+ * \u76EE\u6807\uFF1A\u5B8C\u6210UDP\u901A\u4FE1\u5FEB\u901F\u5165\u95E8\uFF1A\u5B9E\u73B01\u53D11\u6536\u3002
+ */
+public class Client {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u521B\u5EFA\u5BA2\u6237\u7AEF\u5BF9\u8C61\uFF08\u53D1\u97ED\u83DC\u51FA\u53BB\u7684\u4EBA\uFF09
+        DatagramSocket socket = new DatagramSocket();
+
+        // 2\u3001\u521B\u5EFA\u6570\u636E\u5305\u5BF9\u8C61\u5C01\u88C5\u8981\u53D1\u51FA\u53BB\u7684\u6570\u636E\uFF08\u521B\u5EFA\u4E00\u4E2A\u97ED\u83DC\u76D8\u5B50\uFF09
+       /* public DatagramPacket(byte buf[], int length,
+             InetAddress address, int port)
+               \u53C2\u6570\u4E00\uFF1A\u5C01\u88C5\u8981\u53D1\u51FA\u53BB\u7684\u6570\u636E\u3002
+               \u53C2\u6570\u4E8C\uFF1A\u53D1\u9001\u51FA\u53BB\u7684\u6570\u636E\u5927\u5C0F\uFF08\u5B57\u8282\u4E2A\u6570\uFF09
+               \u53C2\u6570\u4E09\uFF1A\u670D\u52A1\u7AEF\u7684IP\u5730\u5740\uFF08\u627E\u5230\u670D\u52A1\u7AEF\u4E3B\u673A\uFF09
+               \u53C2\u6570\u56DB\uFF1A\u670D\u52A1\u7AEF\u7A0B\u5E8F\u7684\u7AEF\u53E3\u3002
+             */
+        byte[] bytes = "\u6211\u662F\u5FEB\u4E50\u7684\u5BA2\u6237\u7AEF\uFF0C\u6211\u7231\u4F60abc".getBytes();
+        DatagramPacket packet = new DatagramPacket(bytes, bytes.length
+                , InetAddress.getLocalHost(),  6666);
+
+        // 3\u3001\u5F00\u59CB\u6B63\u5F0F\u53D1\u9001\u8FD9\u4E2A\u6570\u636E\u5305\u7684\u6570\u636E\u51FA\u53BB\u4E86
+        socket.send(packet);
+
+        System.out.println("\u5BA2\u6237\u7AEF\u6570\u636E\u53D1\u9001\u5B8C\u6BD5~~~");
+        socket.close(); // \u91CA\u653E\u8D44\u6E90\uFF01
+    }
+}
+`,paraId:123,tocIndex:44},{value:`public class Server {
+    public static void main(String[] args) throws Exception {
+        System.out.println("----\u670D\u52A1\u7AEF\u542F\u52A8----");
+        // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u670D\u52A1\u7AEF\u5BF9\u8C61\uFF08\u521B\u5EFA\u4E00\u4E2A\u63A5\u97ED\u83DC\u7684\u4EBA\uFF09 \u6CE8\u518C\u7AEF\u53E3
+        DatagramSocket socket = new DatagramSocket(6666);
+
+        // 2\u3001\u521B\u5EFA\u4E00\u4E2A\u6570\u636E\u5305\u5BF9\u8C61\uFF0C\u7528\u4E8E\u63A5\u6536\u6570\u636E\u7684\uFF08\u521B\u5EFA\u4E00\u4E2A\u97ED\u83DC\u76D8\u5B50\uFF09
+        byte[] buffer = new byte[1024 * 64]; // 64KB.
+        DatagramPacket packet = new DatagramPacket(buffer, buffer.length);
+
+        // 3\u3001\u5F00\u59CB\u6B63\u5F0F\u4F7F\u7528\u6570\u636E\u5305\u6765\u63A5\u6536\u5BA2\u6237\u7AEF\u53D1\u6765\u7684\u6570\u636E
+        socket.receive(packet);
+
+        // 4\u3001\u4ECE\u5B57\u8282\u6570\u7EC4\u4E2D\uFF0C\u628A\u63A5\u6536\u5230\u7684\u6570\u636E\u76F4\u63A5\u6253\u5370\u51FA\u6765
+        // \u63A5\u6536\u591A\u5C11\u5C31\u5012\u51FA\u591A\u5C11
+        // \u83B7\u53D6\u672C\u6B21\u6570\u636E\u5305\u63A5\u6536\u4E86\u591A\u5C11\u6570\u636E\u3002
+        int len = packet.getLength();
+
+        String rs = new String(buffer, 0 , len);
+        System.out.println(rs);
+
+
+        socket.close(); // \u91CA\u653E\u8D44\u6E90
+    }
+}
+`,paraId:124,tocIndex:45},{value:`/**
+ * \u76EE\u6807\uFF1A\u5B8C\u6210UDP\u901A\u4FE1\u5FEB\u901F\u5165\u95E8\uFF1A\u5B9E\u73B0\u5BA2\u6237\u7AEF\u53CD\u590D\u7684\u53D1\u3002
+ */
+public class Client {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u521B\u5EFA\u5BA2\u6237\u7AEF\u5BF9\u8C61\uFF08\u53D1\u97ED\u83DC\u51FA\u53BB\u7684\u4EBA\uFF09
+        DatagramSocket socket = new DatagramSocket();
+
+        // 2\u3001\u521B\u5EFA\u6570\u636E\u5305\u5BF9\u8C61\u5C01\u88C5\u8981\u53D1\u51FA\u53BB\u7684\u6570\u636E\uFF08\u521B\u5EFA\u4E00\u4E2A\u97ED\u83DC\u76D8\u5B50\uFF09
+       /* public DatagramPacket(byte buf[], int length,
+             InetAddress address, int port)
+               \u53C2\u6570\u4E00\uFF1A\u5C01\u88C5\u8981\u53D1\u51FA\u53BB\u7684\u6570\u636E\u3002
+               \u53C2\u6570\u4E8C\uFF1A\u53D1\u9001\u51FA\u53BB\u7684\u6570\u636E\u5927\u5C0F\uFF08\u5B57\u8282\u4E2A\u6570\uFF09
+               \u53C2\u6570\u4E09\uFF1A\u670D\u52A1\u7AEF\u7684IP\u5730\u5740\uFF08\u627E\u5230\u670D\u52A1\u7AEF\u4E3B\u673A\uFF09
+               \u53C2\u6570\u56DB\uFF1A\u670D\u52A1\u7AEF\u7A0B\u5E8F\u7684\u7AEF\u53E3\u3002
+             */
+        Scanner sc = new Scanner(System.in);
+        while (true) {
+            System.out.println("\u8BF7\u8BF4\uFF1A");
+            String msg = sc.nextLine();
+
+            // \u4E00\u65E6\u53D1\u73B0\u7528\u6237\u8F93\u5165\u7684exit\u547D\u4EE4\uFF0C\u5C31\u9000\u51FA\u5BA2\u6237\u7AEF
+            if("886".equals(msg)){
+                System.out.println("\u6B22\u8FCE\u4E0B\u6B21\u5149\u4E34\uFF01\u9000\u51FA\u6210\u529F\uFF01");
+                socket.close(); // \u91CA\u653E\u8D44\u6E90
+                break; // \u8DF3\u51FA\u6B7B\u5FAA\u73AF
+            }
+
+            byte[] bytes = msg.getBytes();
+            DatagramPacket packet = new DatagramPacket(bytes, bytes.length
+                    , InetAddress.getLocalHost(),  6666);
+
+            // 3\u3001\u5F00\u59CB\u6B63\u5F0F\u53D1\u9001\u8FD9\u4E2A\u6570\u636E\u5305\u7684\u6570\u636E\u51FA\u53BB\u4E86
+            socket.send(packet);
+        }
+    }
+}
+`,paraId:125,tocIndex:47},{value:`/**
+ * \u76EE\u6807\uFF1A\u5B8C\u6210UDP\u901A\u4FE1\u5FEB\u901F\u5165\u95E8-\u670D\u52A1\u7AEF\u53CD\u590D\u7684\u6536
+ */
+public class Server {
+    public static void main(String[] args) throws Exception {
+        System.out.println("----\u670D\u52A1\u7AEF\u542F\u52A8----");
+        //1\u3001\u521B\u5EFA\u4E00\u4E2A\u670D\u52A1\u7AEF\u5BF9\u8C61\uFF08\u521B\u5EFA\u4E00\u4E2A\u63A5\u97ED\u83DC\u7684\u4EBA\uFF09 \u6CE8\u518C\u7AEF\u53E3
+        DatagramSocket socket = new DatagramSocket(6666);
+
+        //2\u3001\u521B\u5EFA\u4E00\u4E2A\u6570\u636E\u5305\u5BF9\u8C61\uFF0C\u7528\u4E8E\u63A5\u6536\u6570\u636E\u7684\uFF08\u521B\u5EFA\u4E00\u4E2A\u97ED\u83DC\u76D8\u5B50\uFF09
+        byte[] buffer = new byte[1024 * 64];   //64KB.
+        DatagramPacket packet = new DatagramPacket(buffer, buffer.length);
+
+        while (true) {
+            // 3\u3001\u5F00\u59CB\u6B63\u5F0F\u4F7F\u7528\u6570\u636E\u5305\u6765\u63A5\u6536\u5BA2\u6237\u7AEF\u53D1\u6765\u7684\u6570\u636E
+            socket.receive(packet);
+
+            // 4\u3001\u4ECE\u5B57\u8282\u6570\u7EC4\u4E2D\uFF0C\u628A\u63A5\u6536\u5230\u7684\u6570\u636E\u76F4\u63A5\u6253\u5370\u51FA\u6765
+            // \u63A5\u6536\u591A\u5C11\u5C31\u5012\u51FA\u591A\u5C11
+            // \u83B7\u53D6\u672C\u6B21\u6570\u636E\u5305\u63A5\u6536\u4E86\u591A\u5C11\u6570\u636E\u3002
+            int len = packet.getLength();
+
+            String rs = new String(buffer, 0 , len);
+            System.out.println(rs);
+        }
+    }
+}
+`,paraId:126,tocIndex:48},{value:"\u4EE3\u7801\u5B9E\u73B0",paraId:127,tocIndex:50},{value:`/**
+ *  \u76EE\u6807\uFF1A\u5B8C\u6210TCP\u901A\u4FE1\u5FEB\u901F\u5165\u95E8-\u5BA2\u6237\u7AEF\u5F00\u53D1\uFF1A\u5B9E\u73B01\u53D11\u6536\u3002
+ */
+public class TcpClient {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u521B\u5EFASocket\u5BF9\u8C61\uFF0C\u5E76\u540C\u65F6\u8BF7\u6C42\u4E0E\u670D\u52A1\u7AEF\u7A0B\u5E8F\u7684\u8FDE\u63A5\u3002
+        Socket socket = new Socket("127.0.0.1", 8888);
+
+        // 2\u3001\u4ECEsocket\u901A\u4FE1\u7BA1\u9053\u4E2D\u5F97\u5230\u4E00\u4E2A\u5B57\u8282\u8F93\u51FA\u6D41\uFF0C\u7528\u6765\u53D1\u6570\u636E\u7ED9\u670D\u52A1\u7AEF\u7A0B\u5E8F\u3002
+        OutputStream os = socket.getOutputStream();
+        // 3\u3001\u628A\u4F4E\u7EA7\u7684\u5B57\u8282\u8F93\u51FA\u6D41\u5305\u88C5\u6210\u6570\u636E\u8F93\u51FA\u6D41
+        DataOutputStream dos = new DataOutputStream(os);
+        // 4\u3001\u5F00\u59CB\u5199\u6570\u636E\u51FA\u53BB\u4E86
+        dos.writeUTF("\u5728\u4E00\u8D77\uFF0C\u597D\u5417\uFF1F");
+      	
+         
+        //\u91CA\u653E\u8D44\u6E90
+        dos.close();
+        socket.close(); 
+    }
+}
+`,paraId:128,tocIndex:50},{value:"4)\u7F51\u7EDCIO\u548C\u672C\u5730IO\u5BF9\u6BD4",paraId:129,tocIndex:50},{value:`//\u672C\u5730IO\u6D41\u548C\u7F51\u7EDCIO\u6D41\u5BF9\u6BD4
+public void mod() throws IOException {
+    //fos\u7531\u81EA\u5DF1new\uFF0C\u53EF\u4EE5\u79F0\u4E4B\u4E3A\u201C\u672C\u5730IO\u6D41\u201D\uFF0Cwrite\u65B9\u6CD5\u5C31\u662F\u628A\u6570\u636E\u5199\u5230\u81EA\u5DF1\u7535\u8111\u786C\u76D8\u4E0A\u7684\u67D0\u4E2A\u6587\u4EF6\u4E2D
+    FileOutputStream fos = new FileOutputStream("test.txt");
+    fos.write("hello".getBytes());
+
+    System.out.println("--------------------------------------");
+
+    //os\u4E0D\u7531\u81EA\u5DF1new\uFF0C\u800C\u662F\u901A\u8FC7socket\u5BF9\u8C61\u83B7\u53D6\uFF0C\u53EF\u4EE5\u79F0\u4E4B\u4E3A\u201C\u7F51\u7EDCIO\u6D41\u201D\uFF0Cwrite\u65B9\u6CD5\u53EF\u4EE5\u901A\u8FC7\u7F51\u7EDC\u8DE8\u7535\u8111\u53D1\u9001\u6570\u636E
+    Socket socket = new Socket("127.0.0.1", 10000);
+    OutputStream os = socket.getOutputStream();
+    os.write("hello".getBytes());
+}
+`,paraId:130,tocIndex:50},{value:"\u4EE3\u7801\u5B9E\u73B0",paraId:131,tocIndex:51},{value:`/**
+ *  \u76EE\u6807\uFF1A\u5B8C\u6210TCP\u901A\u4FE1\u5FEB\u901F\u5165\u95E8-\u670D\u52A1\u7AEF\u5F00\u53D1\uFF1A\u5B9E\u73B01\u53D11\u6536\u3002
+ */
+public class TcpServer {
+    public static void main(String[] args) throws Exception {
+        System.out.println("-----\u670D\u52A1\u7AEF\u542F\u52A8\u6210\u529F-------");
+        // 1\u3001\u521B\u5EFAServerSocket\u7684\u5BF9\u8C61\uFF0C\u540C\u65F6\u4E3A\u670D\u52A1\u7AEF\u6CE8\u518C\u7AEF\u53E3\u3002
+        ServerSocket serverSocket = new ServerSocket(8888);
+        // 2\u3001\u4F7F\u7528serverSocket\u5BF9\u8C61\uFF0C\u8C03\u7528\u4E00\u4E2Aaccept\u65B9\u6CD5\uFF0C\u7B49\u5F85\u5BA2\u6237\u7AEF\u7684\u8FDE\u63A5\u8BF7\u6C42
+        Socket socket = serverSocket.accept();
+
+        // 3\u3001\u4ECEsocket\u901A\u4FE1\u7BA1\u9053\u4E2D\u5F97\u5230\u4E00\u4E2A\u5B57\u8282\u8F93\u5165\u6D41\u3002
+        InputStream is = socket.getInputStream();
+        // 4\u3001\u628A\u539F\u59CB\u7684\u5B57\u8282\u8F93\u5165\u6D41\u5305\u88C5\u6210\u6570\u636E\u8F93\u5165\u6D41
+        DataInputStream dis = new DataInputStream(is);
+        // 5\u3001\u4F7F\u7528\u6570\u636E\u8F93\u5165\u6D41\u8BFB\u53D6\u5BA2\u6237\u7AEF\u53D1\u9001\u8FC7\u6765\u7684\u6D88\u606F
+        String rs = dis.readUTF();
+        System.out.println(rs);
+		
+        //\u91CA\u653E\u8D44\u6E90
+        dis.close();
+        socket.close();
+    }
+}
+`,paraId:132,tocIndex:51},{value:"\u7F51\u7EDCIO\u548C\u672C\u5730IO\u5BF9\u6BD4",paraId:133,tocIndex:51},{value:`public void mod() throws IOException {
+    //fis\u7531\u81EA\u5DF1new\uFF0C\u53EF\u4EE5\u79F0\u4E4B\u4E3A\u201C\u672C\u5730IO\u6D41\u201D\uFF0Cread\u65B9\u6CD5\u53EA\u80FD\u4ECE\u672C\u5730\u786C\u76D8\u4E0A\u7684\u67D0\u4E2A\u6587\u4EF6\u4E2D\u8BFB\u53D6\u6570\u636E
+    FileInputStream fis = new FileInputStream("test.txt");
+    fis.read();
+
+    System.out.println("---------------------------------------");
+
+    //is\u4E0D\u7531\u81EA\u5DF1new\uFF0C\u800C\u662F\u901A\u8FC7socket\u5BF9\u8C61\u83B7\u53D6\uFF0C\u53EF\u4EE5\u79F0\u4E4B\u4E3A\u201C\u7F51\u7EDCIO\u6D41\u201D\uFF0Cread\u65B9\u6CD5\u662F\u901A\u8FC7\u7F51\u7EDC\u8DE8\u7535\u8111\u63A5\u6536\u6570\u636E
+    ServerSocket ss = new ServerSocket(10000);
+    Socket socket = ss.accept(); //\u963B\u585E
+    InputStream is = socket.getInputStream();
+    is.read();
+}
+`,paraId:134,tocIndex:51},{value:"1)\u4EE3\u7801\u5B9E\u73B0-\u670D\u52A1\u7AEF",paraId:135,tocIndex:52},{value:`public class TcpServer {
+
+    public static void main(String[] args) throws Exception {
+        System.out.println("-----\u670D\u52A1\u7AEF\u542F\u52A8\u6210\u529F-------");
+        // 1\u3001\u521B\u5EFAServerSocket\u7684\u5BF9\u8C61\uFF0C\u540C\u65F6\u4E3A\u670D\u52A1\u7AEF\u6CE8\u518C\u7AEF\u53E3\u3002
+        ServerSocket serverSocket = new ServerSocket(8888);
+        // 2\u3001\u4F7F\u7528serverSocket\u5BF9\u8C61\uFF0C\u8C03\u7528\u4E00\u4E2Aaccept\u65B9\u6CD5\uFF0C\u7B49\u5F85\u5BA2\u6237\u7AEF\u7684\u8FDE\u63A5\u8BF7\u6C42
+        Socket socket = serverSocket.accept();
+
+        // 3\u3001\u4ECEsocket\u901A\u4FE1\u7BA1\u9053\u4E2D\u5F97\u5230\u4E00\u4E2A\u5B57\u8282\u8F93\u5165\u6D41\u3002
+        InputStream is = socket.getInputStream();
+        // 4\u3001\u628A\u539F\u59CB\u7684\u5B57\u8282\u8F93\u5165\u6D41\u5305\u88C5\u6210\u6570\u636E\u8F93\u5165\u6D41
+        DataInputStream dis = new DataInputStream(is);
+        // 5\u3001\u4F7F\u7528\u6570\u636E\u8F93\u5165\u6D41\u8BFB\u53D6\u5BA2\u6237\u7AEF\u53D1\u9001\u8FC7\u6765\u7684\u6D88\u606F
+        String rs = dis.readUTF();
+        System.out.println(rs);
+
+        //\u56DE\u6D88\u606F
+        OutputStream os = socket.getOutputStream();
+        DataOutputStream dos = new DataOutputStream(os);
+        dos.writeUTF("\u6CA1\u611F\u89C9!!!");
+
+        //\u91CA\u653E\u8D44\u6E90
+        dos.close();
+        dis.close();
+        socket.close();
+    }
+
+}
+`,paraId:136,tocIndex:52},{value:"2)\u4EE3\u7801\u5B9E\u73B0-\u5BA2\u6237\u7AEF",paraId:137,tocIndex:52},{value:`public static void main(String[] args) throws Exception {
+    // 1\u3001\u521B\u5EFASocket\u5BF9\u8C61\uFF0C\u5E76\u540C\u65F6\u8BF7\u6C42\u4E0E\u670D\u52A1\u7AEF\u7A0B\u5E8F\u7684\u8FDE\u63A5\u3002
+    Socket socket = new Socket("127.0.0.1", 8888);
+
+    // 2\u3001\u4ECEsocket\u901A\u4FE1\u7BA1\u9053\u4E2D\u5F97\u5230\u4E00\u4E2A\u5B57\u8282\u8F93\u51FA\u6D41\uFF0C\u7528\u6765\u53D1\u6570\u636E\u7ED9\u670D\u52A1\u7AEF\u7A0B\u5E8F\u3002
+    OutputStream os = socket.getOutputStream();
+    // 3\u3001\u628A\u4F4E\u7EA7\u7684\u5B57\u8282\u8F93\u51FA\u6D41\u5305\u88C5\u6210\u6570\u636E\u8F93\u51FA\u6D41
+    DataOutputStream dos = new DataOutputStream(os);
+    // 4\u3001\u5F00\u59CB\u5199\u6570\u636E\u51FA\u53BB\u4E86
+    dos.writeUTF("\u5728\u4E00\u8D77\uFF0C\u597D\u5417\uFF1F");
+
+    //\u63A5\u6536\u670D\u52A1\u7AEF\u56DE\u9988\u7684\u6D88\u606F
+    InputStream is = socket.getInputStream();
+    DataInputStream dis = new DataInputStream(is);
+    String s = dis.readUTF();
+    System.out.println(s);
+
+    //\u91CA\u653E\u8D44\u6E90
+    dis.close();
+    dos.close();
+    socket.close();
+}
+`,paraId:138,tocIndex:52},{value:"TCP\u5BA2\u6237\u7AEF-\u5B9E\u73B0",paraId:139,tocIndex:53},{value:`/**
+ *  \u76EE\u6807\uFF1A\u5B8C\u6210TCP\u901A\u4FE1\u5FEB\u901F\u5165\u95E8-\u5BA2\u6237\u7AEF\u5F00\u53D1\uFF1A\u5B9E\u73B0\u5BA2\u6237\u7AEF\u53EF\u4EE5\u53CD\u590D\u7684\u53D1\u6D88\u606F\u51FA\u53BB
+ */
+public class Client {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001\u521B\u5EFASocket\u5BF9\u8C61\uFF0C\u5E76\u540C\u65F6\u8BF7\u6C42\u4E0E\u670D\u52A1\u7AEF\u7A0B\u5E8F\u7684\u8FDE\u63A5\u3002
+        Socket socket = new Socket("127.0.0.1", 8888);
+
+        // 2\u3001\u4ECEsocket\u901A\u4FE1\u7BA1\u9053\u4E2D\u5F97\u5230\u4E00\u4E2A\u5B57\u8282\u8F93\u51FA\u6D41\uFF0C\u7528\u6765\u53D1\u6570\u636E\u7ED9\u670D\u52A1\u7AEF\u7A0B\u5E8F\u3002
+        OutputStream os = socket.getOutputStream();
+
+        // 3\u3001\u628A\u4F4E\u7EA7\u7684\u5B57\u8282\u8F93\u51FA\u6D41\u5305\u88C5\u6210\u6570\u636E\u8F93\u51FA\u6D41
+        DataOutputStream dos = new DataOutputStream(os);
+
+        Scanner sc = new Scanner(System.in);
+        while (true) {
+            System.out.println("\u8BF7\u8BF4:");
+            String msg = sc.nextLine();
+
+            // \u4E00\u65E6\u7528\u6237\u8F93\u5165\u4E86886\uFF0C\u5C31\u9000\u51FA\u5BA2\u6237\u7AEF\u7A0B\u5E8F
+            if("886".equals(msg)){
+                System.out.println("\u6B22\u8FCE\u60A8\u4E0B\u6B21\u5149\u4E34\uFF01\u9000\u51FA\u6210\u529F!");
+                break;
+            }
+
+            // 4\u3001\u5F00\u59CB\u5199\u6570\u636E\u51FA\u53BB\u4E86
+            dos.writeUTF(msg);
+            dos.flush();
+        }
+        
+        //\u91CA\u653E\u8D44\u6E90
+        dos.close();
+        socket.close();
+    }
+}
+`,paraId:140,tocIndex:53},{value:"3)TCP\u670D\u52A1\u7AEF-\u5B9E\u73B0",paraId:141,tocIndex:53},{value:`/**
+ *  \u76EE\u6807\uFF1A\u5B8C\u6210TCP\u901A\u4FE1\u5FEB\u901F\u5165\u95E8-\u670D\u52A1\u7AEF\u5F00\u53D1\uFF1A\u5B9E\u73B0\u670D\u52A1\u7AEF\u53CD\u590D\u53D1\u6D88\u606F
+ */
+public class Server {
+    public static void main(String[] args) throws Exception {
+        System.out.println("-----\u670D\u52A1\u7AEF\u542F\u52A8\u6210\u529F-------");
+        // 1\u3001\u521B\u5EFAServerSocket\u7684\u5BF9\u8C61\uFF0C\u540C\u65F6\u4E3A\u670D\u52A1\u7AEF\u6CE8\u518C\u7AEF\u53E3\u3002
+        ServerSocket serverSocket = new ServerSocket(8888);
+
+        // 2\u3001\u4F7F\u7528serverSocket\u5BF9\u8C61\uFF0C\u8C03\u7528\u4E00\u4E2Aaccept\u65B9\u6CD5\uFF0C\u7B49\u5F85\u5BA2\u6237\u7AEF\u7684\u8FDE\u63A5\u8BF7\u6C42
+        Socket socket = serverSocket.accept();
+
+        // 3\u3001\u4ECEsocket\u901A\u4FE1\u7BA1\u9053\u4E2D\u5F97\u5230\u4E00\u4E2A\u5B57\u8282\u8F93\u5165\u6D41\u3002
+        InputStream is = socket.getInputStream();
+
+        // 4\u3001\u628A\u539F\u59CB\u7684\u5B57\u8282\u8F93\u5165\u6D41\u5305\u88C5\u6210\u6570\u636E\u8F93\u5165\u6D41
+        DataInputStream dis = new DataInputStream(is);
+
+        while (true) {
+            try {
+                // 5\u3001\u4F7F\u7528\u6570\u636E\u8F93\u5165\u6D41\u8BFB\u53D6\u5BA2\u6237\u7AEF\u53D1\u9001\u8FC7\u6765\u7684\u6D88\u606F
+                String rs = dis.readUTF();
+                System.out.println(rs);
+            } catch (Exception e) {
+                System.out.println(socket.getRemoteSocketAddress() + "\u79BB\u7EBF\u4E86\uFF01");
+                dis.close();
+                socket.close();
+                break;
+            }
+        }
+    }
+}
+`,paraId:142,tocIndex:53},{value:"\u9996\u5148\uFF0C\u6211\u4EEC\u9700\u8981\u5199\u4E00\u4E2A\u670D\u52A1\u7AEF\u7684\u8BFB\u53D6\u6570\u636E\u7684\u7EBF\u7A0B\u7C7B\uFF0C\u4EE3\u7801\u5982\u4E0B",paraId:143,tocIndex:54},{value:`public class ServerReaderRun implements Runnable{
+    private Socket socket;
+    public ServerReaderRun(Socket socket){
+        this.socket = socket;
+    }
+    @Override
+    public void run() {
+        try {
+            InputStream is = socket.getInputStream();
+            DataInputStream dis = new DataInputStream(is);
+            while (true){
+                try {
+                    String msg = dis.readUTF();
+                    System.out.println(msg);
+                } catch (Exception e) {
+                    System.out.println("\u6709\u4EBA\u4E0B\u7EBF\u4E86\uFF1A" + socket.getRemoteSocketAddress());
+                    dis.close();
+                    socket.close();
+                    break;
+                }
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:144,tocIndex:54},{value:"\u63A5\u4E0B\u6765\uFF0C\u518D\u6539\u5199\u670D\u52A1\u7AEF\u7684\u4E3B\u7A0B\u5E8F\u4EE3\u7801\uFF0C\u4EE3\u7801\u5982\u4E0B:",paraId:145,tocIndex:54},{value:`/**
+ *  \u76EE\u6807\uFF1A\u5B8C\u6210TCP\u901A\u4FE1\u5FEB\u901F\u5165\u95E8-\u670D\u52A1\u7AEF\u5F00\u53D1\uFF1A\u8981\u6C42\u5B9E\u73B0\u4E0E\u591A\u4E2A\u5BA2\u6237\u7AEF\u540C\u65F6\u901A\u4FE1\u3002
+ */
+public class Server {
+    public static void main(String[] args) throws Exception {
+        System.out.println("-----\u670D\u52A1\u7AEF\u542F\u52A8\u6210\u529F-------");
+        // 1\u3001\u521B\u5EFAServerSocket\u7684\u5BF9\u8C61\uFF0C\u540C\u65F6\u4E3A\u670D\u52A1\u7AEF\u6CE8\u518C\u7AEF\u53E3\u3002
+        ServerSocket serverSocket = new ServerSocket(8888);
+		
+        while (true) {
+            // 2\u3001\u4F7F\u7528serverSocket\u5BF9\u8C61\uFF0C\u8C03\u7528\u4E00\u4E2Aaccept\u65B9\u6CD5\uFF0C\u7B49\u5F85\u5BA2\u6237\u7AEF\u7684\u8FDE\u63A5\u8BF7\u6C42
+            Socket socket = serverSocket.accept();
+            System.out.println("\u6709\u4EBA\u4E0A\u7EBF\u4E86\uFF1A" + socket.getRemoteSocketAddress());
+
+            // 3\u3001\u628A\u8FD9\u4E2A\u5BA2\u6237\u7AEF\u5BF9\u5E94\u7684socket\u901A\u4FE1\u7BA1\u9053\uFF0C\u4EA4\u7ED9\u4E00\u4E2A\u72EC\u7ACB\u7684\u7EBF\u7A0B\u8D1F\u8D23\u5904\u7406\u3002
+            ServerReaderRun run = new ServerReaderRun(socket);
+            new Thread(run).start();
+        }
+    }
+}
+`,paraId:146,tocIndex:54},{value:"\u53CD\u5C04\u6280\u672F\uFF0C\u6307\u7684\u662F\u52A0\u8F7D\u7C7B\u7684\u5B57\u8282\u7801\u5230\u5185\u5B58\uFF0C\u5E76\u4EE5\u7F16\u7A0B\u7684\u65B9\u6CD5\u89E3\u5228\u51FA\u7C7B\u4E2D\u7684\u5404\u4E2A\u6210\u5206\uFF08\u6210\u5458\u53D8\u91CF\u3001\u65B9\u6CD5\u3001\u6784\u9020\u5668\u7B49\uFF09\u3002",paraId:147,tocIndex:55},{value:"\u6BD4\u5982\u6709\u4E00\u4E2AStudent\u7C7B\uFF0C\u83B7\u53D6Student\u7C7B\u7684\u5B57\u8282\u7801\u4EE3\u7801\u6709\u4E09\u79CD\u5199\u6CD5\u3002\u4E0D\u7BA1\u7528\u54EA\u4E00\u79CD\u65B9\u5F0F\uFF0C\u83B7\u53D6\u5230\u7684\u5B57\u8282\u7801\u5BF9\u8C61\u5176\u5B9E\u662F\u540C\u4E00\u4E2A\u3002",paraId:148,tocIndex:56},{value:`public class Test1Class{
+    public static void main(String[] args){
+        Class c1 = Student.class;
+        System.out.println(c1.getName()); //\u83B7\u53D6\u5168\u7C7B\u540D
+        System.out.println(c1.getSimpleName()); //\u83B7\u53D6\u7B80\u5355\u7C7B\u540D
+        
+        Class c2 = Class.forName("com.itheima.d2_reflect.Student");
+        System.out.println(c1 == c2); //true
+        
+        Student s = new Student();
+        Class c3 = s.getClass();
+        System.out.println(c2 == c3); //true
+    }
+}
+`,paraId:149,tocIndex:56},{value:"\u5047\u8BBE\u73B0\u5728\u6709\u4E00\u4E2ACat\u7C7B\uFF0C\u91CC\u9762\u6709\u51E0\u4E2A\u6784\u9020\u65B9\u6CD5\uFF0C\u4EE3\u7801\u5982\u4E0B",paraId:150,tocIndex:57},{value:`public class Cat{
+    private String name;
+    private int age;
+    
+    public Cat(){
+        
+    }
+    
+    private Cat(String name, int age){
+        
+    }
+}
+`,paraId:151,tocIndex:57},{value:"\u63A5\u4E0B\u6765\uFF0C\u6211\u4EEC\u5199\u4E00\u4E2A\u6D4B\u8BD5\u65B9\u6CD5\uFF0C\u6765\u6D4B\u8BD5\u83B7\u53D6\u7C7B\u4E2D\u6240\u6709\u7684\u6784\u9020\u5668",paraId:152,tocIndex:57},{value:`public class Test2Constructor(){
+    @Test
+    public void testGetConstructors(){
+        //1\u3001\u53CD\u5C04\u7B2C\u4E00\u6B65\uFF1A\u5FC5\u987B\u5148\u5F97\u5230\u8FD9\u4E2A\u7C7B\u7684Class\u5BF9\u8C61
+        Class c = Cat.class;
+        
+        //2\u3001\u83B7\u53D6\u7C7B\u7684\u5168\u90E8\u6784\u9020\u5668
+        Constructor[] constructors = c.getDeclaredConstructors();
+        //3\u3001\u904D\u5386\u6570\u7EC4\u4E2D\u7684\u6BCF\u4E00\u4E2A\u6784\u9020\u5668\u5BF9\u8C61\u3002
+        for(Constructor constructor: constructors){
+            System.out.prfintln(constructor.getName()+"---> \u53C2\u6570\u4E2A\u6570\uFF1A"+constructor.getParameterCount());
+        }
+    }
+}
+`,paraId:153,tocIndex:57},{value:"\u521A\u624D\u6F14\u793A\u7684\u662F\u83B7\u53D6Cat\u7C7B\u4E2D\u6240\u6709\u7684\u6784\u9020\u5668\uFF0C\u63A5\u4E0B\u6765\uFF0C\u6211\u4EEC\u6F14\u793A\u5355\u4E2A\u6784\u9020\u5668\u8BD5\u4E00\u8BD5",paraId:154,tocIndex:57},{value:`public class Test2Constructor(){
+    @Test
+    public void testGetConstructor(){
+        //1\u3001\u53CD\u5C04\u7B2C\u4E00\u6B65\uFF1A\u5FC5\u987B\u5148\u5F97\u5230\u8FD9\u4E2A\u7C7B\u7684Class\u5BF9\u8C61
+        Class c = Cat.class;
+        
+        //2\u3001\u83B7\u53D6\u7C7Bpublic\u4FEE\u9970\u7684\u7A7A\u53C2\u6570\u6784\u9020\u5668
+        Constructor constructor1 = c.getConstructor();
+        System.out.println(constructor1.getName()+"---> \u53C2\u6570\u4E2A\u6570\uFF1A"+constructor1.getParameterCount());
+        
+        //3\u3001\u83B7\u53D6private\u4FEE\u9970\u7684\u6709\u4E24\u4E2A\u53C2\u6570\u7684\u6784\u9020\u5668\uFF0C\u7B2C\u4E00\u4E2A\u53C2\u6570String\u7C7B\u578B\uFF0C\u7B2C\u4E8C\u4E2A\u53C2\u6570int\u7C7B\u578B
+        Constructor constructor2 = 
+            c.getDeclaredConstructor(String.class,int.class);
+        
+        System.out.println(constructor2.getName()+"---> \u53C2\u6570\u4E2A\u6570\uFF1A"+constructor1.getParameterCount());
+
+    }
+}
+`,paraId:155,tocIndex:57},{value:"\u53CD\u5C04\u83B7\u53D6\u6784\u9020\u5668\u7684\u4F5C\u7528:",paraId:156,tocIndex:57},{value:"\u521D\u59CB\u5316\u5BF9\u8C61\u5E76\u8FD4\u56DE",paraId:156,tocIndex:57},{value:"\u3002",paraId:156,tocIndex:57},{value:"\u83B7\u53D6\u6210\u5458\u53D8\u91CF\u7684\u5BF9\u8C61Field",paraId:157,tocIndex:58},{value:"\u63A5\u4E0B\u6765\u6211\u4EEC\u8FD8\u662F\u7528\u4EE3\u7801\u6F14\u793A\u4E00\u4E0B\uFF1A\u5047\u8BBE\u6709\u4E00\u4E2ACat\u7C7B\uFF0C\u5728Cat\u7C7B\u4E2D\u7EA2\u6709\u82E5\u5E72\u4E2A\u6210\u5458\u65B9\u6CD5",paraId:158,tocIndex:59},{value:`public class Cat{
+    private String name;
+    private int age;
+    
+    public Cat(){
+        System.out.println("\u7A7A\u53C2\u6570\u6784\u9020\u65B9\u6CD5\u6267\u884C\u4E86");
+    }
+    
+    private Cat(String name, int age){
+        System.out.println("\u6709\u53C2\u6570\u6784\u9020\u65B9\u6CD5\u6267\u884C\u4E86");
+        this.name=name;
+        this.age=age;
+    }
+    
+    private void run(){
+        System.out.println("(>^\u03C9^<)\u55B5\u8DD1\u5F97\u8D3C\u5FEB~~");
+    }
+    
+    public void eat(){
+        System.out.println("(>^\u03C9^<)\u55B5\u7231\u5403\u732B\u7CAE~");
+    }
+    
+    private String eat(String name){
+        return "(>^\u03C9^<)\u55B5\u7231\u5403:"+name;
+    }
+    
+    public void setName(String name){
+        this.name=name;
+    }
+    public String getName(){
+        return name;
+    }
+    public void setAge(int age){
+        this.age=age;
+    }
+     public int getAge(){
+        return age;
+    }
+}
+`,paraId:159,tocIndex:59},{value:"\u63A5\u4E0B\u6765\uFF0C\u901A\u8FC7\u53CD\u5C04\u83B7\u53D6Cat\u7C7B\u4E2D\u6240\u6709\u7684\u6210\u5458\u65B9\u6CD5\uFF0C\u6BCF\u4E00\u4E2A\u6210\u5458\u65B9\u6CD5\u90FD\u662F\u4E00\u4E2AMethod\u5BF9\u8C61",paraId:160,tocIndex:59},{value:`public class Test3Method{
+    public static void main(String[] args){
+        //1\u3001\u53CD\u5C04\u7B2C\u4E00\u6B65\uFF1A\u5148\u83B7\u53D6\u5230Class\u5BF9\u8C61
+        Class c = Cat.class;
+        
+        //2\u3001\u83B7\u53D6\u7C7B\u4E2D\u7684\u5168\u90E8\u6210\u5458\u65B9\u6CD5
+        Method[] methods = c.getDecalaredMethods();
+        
+        //3\u3001\u904D\u5386\u8FD9\u4E2A\u6570\u7EC4\u4E2D\u7684\u6BCF\u4E00\u4E2A\u65B9\u6CD5\u5BF9\u8C61
+        for(Method method : methods){
+            System.out.println(method.getName()+"-->"+method.getParameterCount()+"-->"+method.getReturnType());
+        }
+    }
+}
+`,paraId:161,tocIndex:59},{value:"\u4E0B\u9762\u6211\u4EEC\u6F14\u793A\u4E00\u4E0B\uFF0C\u628A",paraId:162,tocIndex:59},{value:"run()",paraId:162,tocIndex:59},{value:"\u65B9\u6CD5\u548C",paraId:162,tocIndex:59},{value:"eat(String name)",paraId:162,tocIndex:59},{value:"\u65B9\u6CD5\u6267\u884C\u8D77\u6765\u3002\u770B\u5206\u5272\u7EBF\u4E4B\u4E0B\u7684\u4EE3\u7801",paraId:162,tocIndex:59},{value:`public class Test3Method{
+    public static void main(String[] args){
+        //1\u3001\u53CD\u5C04\u7B2C\u4E00\u6B65\uFF1A\u5148\u83B7\u53D6\u5230Class\u5BF9\u8C61
+        Class c = Cat.class;
+        
+        //2\u3001\u83B7\u53D6\u7C7B\u4E2D\u7684\u5168\u90E8\u6210\u5458\u65B9\u6CD5
+        Method[] methods = c.getDecalaredMethods();
+        
+        //3\u3001\u904D\u5386\u8FD9\u4E2A\u6570\u7EC4\u4E2D\u7684\u6BCF\u4E00\u4E2A\u65B9\u6CD5\u5BF9\u8C61
+        for(Method method : methods){
+            System.out.println(method.getName()+"-->"+method.getParameterCount()+"-->"+method.getReturnType());
+        }
+        
+        System.out.println("-----------------------");
+        //4\u3001\u83B7\u53D6private\u4FEE\u9970\u7684run\u65B9\u6CD5\uFF0C\u5F97\u5230Method\u5BF9\u8C61
+        Method run = c.getDecalaredMethod("run");
+        //\u6267\u884Crun\u65B9\u6CD5,\u5728\u6267\u884C\u524D\u9700\u8981\u53D6\u6D88\u6743\u9650\u68C0\u67E5
+        Cat cat = new Cat();
+        run.setAccessible(true);
+        Object rs1 = run.invoke(cat);
+        System.out.println(rs1)
+        
+        //5\u3001\u83B7\u53D6private \u4FEE\u9970\u7684eat(String name)\u65B9\u6CD5\uFF0C\u5F97\u5230Method\u5BF9\u8C61
+        Method eat = c.getDeclaredMethod("eat",String.class);
+        eat.setAccessible(true);
+        Object rs2 = eat.invoke(cat,"\u9C7C\u513F");
+        System.out.println(rs2)
+    }
+}
+`,paraId:163,tocIndex:59},{value:"\u6BD4\u5982\uFF1A\u73B0\u5728\u6211\u4EEC\u81EA\u5B9A\u4E49\u4E00\u4E2AMyTest\u6CE8\u89E3",paraId:164,tocIndex:61},{value:`public @interface MyTest{
+    String aaa();
+    boolean bbb() default true;	//default true \u8868\u793A\u9ED8\u8BA4\u503C\u4E3Atrue,\u4F7F\u7528\u65F6\u53EF\u4EE5\u4E0D\u8D4B\u503C\u3002
+    String[] ccc();
+}
+`,paraId:165,tocIndex:61},{value:"\u5B9A\u4E49\u597DMyTest\u6CE8\u89E3\u4E4B\u540E\uFF0C\u6211\u4EEC\u53EF\u4EE5\u4F7F\u7528MyTest\u6CE8\u89E3\u5728\u7C7B\u4E0A\u3001\u65B9\u6CD5\u4E0A\u7B49\u4F4D\u7F6E\u505A\u6807\u8BB0\u3002\u6CE8\u610F\u4F7F\u7528\u6CE8\u89E3\u65F6\u9700\u8981\u52A0@\u7B26\u53F7\uFF0C\u5982\u4E0B",paraId:166,tocIndex:61},{value:`//\u6CE8\u89E3\u4E0D\u5149\u53EF\u4EE5\u7528\u5728\u65B9\u6CD5\u4E0A\uFF0C\u8FD8\u53EF\u4EE5\u7528\u5728\u7C7B\u4E0A\u3001\u53D8\u91CF\u4E0A\u3001\u6784\u9020\u5668\u4E0A\u7B49\u4F4D\u7F6E\u3002
+@MyTest1(aaa="\u725B\u9B54\u738B",ccc={"HTML","Java"})
+public class AnnotationTest1{
+    @MyTest(aaa="\u94C1\u6247\u516C\u4E3B",bbb=false, ccc={"Python","\u524D\u7AEF","Java"})
+    public void test1(){
+        
+    }
+}
+`,paraId:167,tocIndex:61},{value:"\u6CE8\u610F\uFF1A\u6CE8\u89E3\u7684\u5C5E\u6027\u540D\u5982\u4F55\u662Fvalue\u7684\u8BDD\uFF0C\u5E76\u4E14\u53EA\u6709value\u6CA1\u6709\u9ED8\u8BA4\u503C\uFF0C\u4F7F\u7528\u6CE8\u89E3\u65F6value\u540D\u79F0\u53EF\u4EE5\u7701\u7565\u3002\u6BD4\u5982\u73B0\u5728\u91CD\u65B0\u5B9A\u4E49\u4E00\u4E2AMyTest2\u6CE8\u89E3",paraId:168,tocIndex:61},{value:`public @interface MyTest2{
+    String value(); //\u7279\u6B8A\u5C5E\u6027
+    int age() default 10;
+}
+`,paraId:169,tocIndex:61},{value:"\u5B9A\u4E49\u597DMyTest2\u6CE8\u89E3\u540E\uFF0C\u518D\u5C06@MyTest2\u6807\u8BB0\u5728\u7C7B\u4E0A\uFF0C\u6B64\u65F6value\u5C5E\u6027\u540D\u53EF\u4EE5\u7701\u7565\uFF0C\u4EE3\u7801\u5982\u4E0B",paraId:170,tocIndex:61},{value:`@MyTest2("\u5B59\u609F\u7A7A") //\u7B49\u4EF7\u4E8E @MyTest2(value="\u5B59\u609F\u7A7A")
+@MyTest1(aaa="\u725B\u9B54\u738B",ccc={"HTML","Java"})
+public class AnnotationTest1{
+    
+    @MyTest(aaa="\u94C1\u6247\u516C\u4E3B",bbb=false, ccc={"Python","\u524D\u7AEF","Java"})
+    public void test1(){
+        
+    }
+}
+`,paraId:171,tocIndex:61},{value:"\u5143\u6CE8\u89E3\u662F\u4FEE\u9970\u6CE8\u89E3\u7684\u6CE8\u89E3",paraId:172,tocIndex:62},{value:"@Target\u662F\u7528\u6765\u58F0\u660E\u6CE8\u89E3\u53EA\u80FD\u7528\u5728\u90A3\u4E9B\u4F4D\u7F6E\uFF0C\u6BD4\u5982:\u7C7B\u4E0A\u3001\u65B9\u6CD5\u4E0A\u3001\u6210\u5458\u53D8\u91CF\u4E0A\u7B49",paraId:173,tocIndex:62},{value:"@Retetion\u662F\u7528\u6765\u58F0\u660E\u6CE8\u89E3\u4FDD\u7559\u5468\u671F\uFF0C\u6BD4\u5982:\u6E90\u4EE3\u7801\u65F6\u671F\u3001\u5B57\u8282\u7801\u65F6\u671F\u3001\u8FD0\u884C\u65F6\u671F",paraId:174,tocIndex:62},{value:`@Target(ElementType.TYPE)	//\u58F0\u660E@MyTest3\u6CE8\u89E3\u53EA\u80FD\u7528\u5728\u7C7B\u4E0A
+public @interface MyTest3{
+    
+}
+---------------------------------
+//\u58F0\u660E@MyTest3\u6CE8\u89E3\u53EA\u80FD\u7528\u5728\u7C7B\u4E0A\u548C\u65B9\u6CD5\u4E0A
+@Target({ElementType.TYPE,ElementType.METHOD})	
+public @interface MyTest3{
+    
+}
+`,paraId:175,tocIndex:62},{value:"@Retetion\u5143\u6CE8\u89E3\u7684\u4F7F\u7528\uFF1A\u5B9A\u4E49MyTest3\u6CE8\u89E3\u65F6\uFF0C\u7ED9MyTest3\u6CE8\u89E3\u6DFB\u52A0@Retetion\u6CE8\u89E3\u6765\u58F0\u660EMyTest3\u6CE8\u89E3\u4FDD\u7559\u7684\u65F6\u671F",paraId:176,tocIndex:62},{value:`@Retetion\u662F\u7528\u6765\u58F0\u660E\u6CE8\u89E3\u4FDD\u7559\u5468\u671F\uFF0C\u6BD4\u5982\uFF1A\u6E90\u4EE3\u7801\u65F6\u671F\u3001\u5B57\u8282\u7801\u65F6\u671F\u3001\u8FD0\u884C\u65F6\u671F
+	@Retetion(RetetionPloicy.SOURCE): \u6CE8\u89E3\u4FDD\u7559\u5230\u6E90\u4EE3\u7801\u65F6\u671F\u3001\u5B57\u8282\u7801\u4E2D\u5C31\u6CA1\u6709\u4E86
+	@Retetion(RetetionPloicy.CLASS): \u6CE8\u89E3\u4FDD\u7559\u5230\u5B57\u8282\u7801\u4E2D\u3001\u8FD0\u884C\u65F6\u6CE8\u89E3\u5C31\u6CA1\u6709\u4E86
+	@Retetion(RetetionPloicy.RUNTIME)\uFF1A\u6CE8\u89E3\u4FDD\u7559\u5230\u8FD0\u884C\u65F6\u671F
+	\u3010\u81EA\u5DF1\u5199\u4EE3\u7801\u65F6\uFF0C\u6BD4\u8F83\u5E38\u7528\u7684\u662F\u4FDD\u7559\u5230\u8FD0\u884C\u65F6\u671F\u3011
+`,paraId:177,tocIndex:62},{value:"\u89E3\u6790\u6CE8\u89E3\u5957\u8DEF\u5982\u4E0B",paraId:178,tocIndex:63},{value:`1.\u5982\u679C\u6CE8\u89E3\u5728\u7C7B\u4E0A\uFF0C\u5148\u83B7\u53D6\u7C7B\u7684\u5B57\u8282\u7801\u5BF9\u8C61\uFF0C\u518D\u83B7\u53D6\u7C7B\u4E0A\u7684\u6CE8\u89E3
+2.\u5982\u679C\u6CE8\u89E3\u5728\u65B9\u6CD5\u4E0A\uFF0C\u5148\u83B7\u53D6\u65B9\u6CD5\u5BF9\u8C61\uFF0C\u518D\u83B7\u53D6\u65B9\u6CD5\u4E0A\u7684\u6CE8\u89E3
+3.\u5982\u679C\u6CE8\u89E3\u5728\u6210\u5458\u53D8\u91CF\u4E0A\uFF0C\u5148\u83B7\u53D6\u6210\u5458\u53D8\u91CF\u5BF9\u8C61\uFF0C\u518D\u83B7\u53D6\u53D8\u91CF\u4E0A\u7684\u6CE8\u89E3
+\u603B\u4E4B\uFF1A\u6CE8\u89E3\u5728\u8C01\u8EAB\u4E0A\uFF0C\u5C31\u5148\u83B7\u53D6\u8C01\uFF0C\u518D\u7528\u8C01\u83B7\u53D6\u8C01\u8EAB\u4E0A\u7684\u6CE8\u89E3
+`,paraId:179,tocIndex:63},{value:"\u2460 \u5148\u5B9A\u4E49\u4E00\u4E2AMyTest4\u6CE8\u89E3",paraId:180,tocIndex:63},{value:`//\u58F0\u660E@MyTest4\u6CE8\u89E3\u53EA\u80FD\u7528\u5728\u7C7B\u4E0A\u548C\u65B9\u6CD5\u4E0A
+@Target({ElementType.TYPE,ElementType.METHOD})	
+//\u63A7\u5236\u4F7F\u7528\u4E86@MyTest4\u6CE8\u89E3\u7684\u4EE3\u7801\u4E2D\uFF0C@MyTest4\u4FDD\u7559\u5230\u8FD0\u884C\u65F6\u671F
+@Retetion(RetetionPloicy.RUNTIME)
+public @interface MyTest4{
+    String value();
+    double aaa() default 100;
+    String[] bbb();
+}
+`,paraId:181,tocIndex:63},{value:"\u2461 \u5B9A\u4E49\u6709\u4E00\u4E2A\u7C7BDemo",paraId:182,tocIndex:63},{value:`@MyTest4(value="\u8718\u86DB\u4FA0",aaa=99.9, bbb={"\u81F3\u5C0A\u5B9D","\u9ED1\u9A6C"})
+public class Demo{
+    @MyTest4(value="\u5B59\u609F\u7A7A",aaa=199.9, bbb={"\u7D2B\u971E","\u725B\u592B\u4EBA"})
+    public void test1(){
+        
+    }
+}
+`,paraId:183,tocIndex:63},{value:"\u2462 \u5199\u4E00\u4E2A\u6D4B\u8BD5\u7C7BAnnotationTest3\u89E3\u6790Demo\u7C7B\u4E0A\u7684MyTest4\u6CE8\u89E3",paraId:184,tocIndex:63},{value:`public class AnnotationTest3{
+    @Test
+    public void parseClass(){
+        //1.\u5148\u83B7\u53D6Class\u5BF9\u8C61
+        Class c = Demo.class;
+        
+        //2.\u89E3\u6790Demo\u7C7B\u4E0A\u7684\u6CE8\u89E3
+        if(c.isAnnotationPresent(MyTest4.class)){
+            //\u83B7\u53D6\u7C7B\u4E0A\u7684MyTest4\u6CE8\u89E3
+            MyTest4 myTest4 = (MyTest4)c.getDeclaredAnnotation(MyTest4.class);
+            //\u83B7\u53D6MyTests4\u6CE8\u89E3\u7684\u5C5E\u6027\u503C
+            System.out.println(myTest4.value());
+            System.out.println(myTest4.aaa());
+            System.out.println(myTest4.bbb());
+        }
+    }
+    
+    @Test
+    public void parseMethods(){
+        //1.\u5148\u83B7\u53D6Class\u5BF9\u8C61
+        Class c = Demo.class;
+        
+        //2.\u89E3\u6790Demo\u7C7B\u4E2Dtest1\u65B9\u6CD5\u4E0A\u7684\u6CE8\u89E3MyTest4\u6CE8\u89E3
+        Method m = c.getDeclaredMethod("test1");
+        if(m.isAnnotationPresent(MyTest4.class)){
+            //\u83B7\u53D6\u65B9\u6CD5\u4E0A\u7684MyTest4\u6CE8\u89E3
+            MyTest4 myTest4 = (MyTest4)m.getDeclaredAnnotation(MyTest4.class);
+            //\u83B7\u53D6MyTests4\u6CE8\u89E3\u7684\u5C5E\u6027\u503C
+            System.out.println(myTest4.value());
+            System.out.println(myTest4.aaa());
+            System.out.println(myTest4.bbb());
+        }
+    }
+}
+`,paraId:185,tocIndex:63},{value:`public class ProxyUtil {
+    public static Star createProxy(BigStar bigStar){
+       /* newProxyInstance(ClassLoader loader,
+                Class<?>[] interfaces,
+                InvocationHandler h)
+                \u53C2\u65701\uFF1A\u7528\u4E8E\u6307\u5B9A\u4E00\u4E2A\u7C7B\u52A0\u8F7D\u5668
+                \u53C2\u65702\uFF1A\u6307\u5B9A\u751F\u6210\u7684\u4EE3\u7406\u957F\u4EC0\u4E48\u6837\u5B50\uFF0C\u4E5F\u5C31\u662F\u6709\u54EA\u4E9B\u65B9\u6CD5
+                \u53C2\u65703\uFF1A\u7528\u6765\u6307\u5B9A\u751F\u6210\u7684\u4EE3\u7406\u5BF9\u8C61\u8981\u5E72\u4EC0\u4E48\u4E8B\u60C5
+                */
+        // Star starProxy = ProxyUtil.createProxy(s);
+        // starProxy.sing("\u597D\u65E5\u5B50") starProxy.dance()
+        Star starProxy = (Star) Proxy.newProxyInstance(ProxyUtil.class.getClassLoader(),
+                new Class[]{Star.class}, new InvocationHandler() {
+                    @Override // \u56DE\u8C03\u65B9\u6CD5
+                    public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+                        // \u4EE3\u7406\u5BF9\u8C61\u8981\u505A\u7684\u4E8B\u60C5\uFF0C\u4F1A\u5728\u8FD9\u91CC\u5199\u4EE3\u7801
+                        if(method.getName().equals("sing")){
+                            System.out.println("\u51C6\u5907\u8BDD\u7B52\uFF0C\u6536\u94B120\u4E07");
+                        }else if(method.getName().equals("dance")){
+                            System.out.println("\u51C6\u5907\u573A\u5730\uFF0C\u6536\u94B11000\u4E07");
+                        }
+                        return method.invoke(bigStar, args);
+                    }
+                });
+        
+        return starProxy;
+    }
+}
+`,paraId:186,tocIndex:65},{value:"\u8C03\u7528\u6211\u4EEC\u5199\u597D\u7684ProxyUtil\u5DE5\u5177\u7C7B\uFF0C\u4E3ABigStar\u5BF9\u8C61\u751F\u6210\u4EE3\u7406\u5BF9\u8C61",paraId:187,tocIndex:65},{value:`public class Test {
+    public static void main(String[] args) {
+        BigStar s = new BigStar("\u6768\u8D85\u8D8A");
+        Star starProxy = ProxyUtil.createProxy(s);
+
+        String rs = starProxy.sing("\u597D\u65E5\u5B50");
+        System.out.println(rs);
+
+        starProxy.dance();
+    }
+}
+`,paraId:188,tocIndex:65},{value:"\u73B0\u6709\u5982\u4E0B\u4EE3\u7801",paraId:189,tocIndex:67},{value:`/**
+ *  \u7528\u6237\u4E1A\u52A1\u63A5\u53E3
+ */
+public interface UserService {
+    // \u767B\u5F55\u529F\u80FD
+    void login(String loginName,String passWord) throws Exception;
+    // \u5220\u9664\u7528\u6237
+    void deleteUsers() throws Exception;
+    // \u67E5\u8BE2\u7528\u6237\uFF0C\u8FD4\u56DE\u6570\u7EC4\u7684\u5F62\u5F0F\u3002
+    String[] selectUsers() throws Exception;
+}
+`,paraId:190,tocIndex:67},{value:"\u4E0B\u9762\u6709\u4E00\u4E2AUserService\u63A5\u53E3\u7684\u5B9E\u73B0\u7C7B\uFF0C\u4E0B\u9762\u6BCF\u4E00\u4E2A\u65B9\u6CD5\u4E2D\u90FD\u6709\u8BA1\u7B97\u65B9\u6CD5\u8FD0\u884C\u65F6\u95F4\u7684\u4EE3\u7801\u3002",paraId:191,tocIndex:67},{value:`/**
+ * \u7528\u6237\u4E1A\u52A1\u5B9E\u73B0\u7C7B\uFF08\u9762\u5411\u63A5\u53E3\u7F16\u7A0B\uFF09
+ */
+public class UserServiceImpl implements UserService{
+    @Override
+    public void login(String loginName, String passWord) throws Exception {
+        long time1 = System.currentTimeMillis();
+        if("admin".equals(loginName) && "123456".equals(passWord)){
+            System.out.println("\u60A8\u767B\u5F55\u6210\u529F\uFF0C\u6B22\u8FCE\u5149\u4E34\u672C\u7CFB\u7EDF~");
+        }else {
+            System.out.println("\u60A8\u767B\u5F55\u5931\u8D25\uFF0C\u7528\u6237\u540D\u6216\u5BC6\u7801\u9519\u8BEF~");
+        }
+        Thread.sleep(1000);
+        long time2 = System.currentTimeMillis();
+        System.out.println("login\u65B9\u6CD5\u8017\u65F6\uFF1A"+(time2-time1));
+    }
+
+    @Override
+    public void deleteUsers() throws Exception{
+        long time1 = System.currentTimeMillis();
+        System.out.println("\u6210\u529F\u5220\u9664\u4E861\u4E07\u4E2A\u7528\u6237~");
+        Thread.sleep(1500);
+        long time2 = System.currentTimeMillis();
+        System.out.println("deleteUsers\u65B9\u6CD5\u8017\u65F6\uFF1A"+(time2-time1));
+    }
+
+    @Override
+    public String[] selectUsers() throws Exception{
+		long time1 = System.currentTimeMillis();
+        System.out.println("\u67E5\u8BE2\u51FA\u4E863\u4E2A\u7528\u6237");
+        String[] names = {"\u5F20\u5168\u86CB", "\u674E\u4E8C\u72D7", "\u725B\u7231\u82B1"};
+        Thread.sleep(500);
+		long time2 = System.currentTimeMillis();
+        System.out.println("selectUsers\u65B9\u6CD5\u8017\u65F6\uFF1A"+(time2-time1));
+        return names;
+    }
+}
+`,paraId:192,tocIndex:67},{value:"\u5148\u5728UserService\u7C7B\u4E2D\u628A\u8BA1\u7B97\u8017\u65F6\u7684\u4EE3\u7801\u5220\u9664\uFF0C\u4EE3\u7801\u5982\u4E0B",paraId:193,tocIndex:68},{value:`/**
+ * \u7528\u6237\u4E1A\u52A1\u5B9E\u73B0\u7C7B\uFF08\u9762\u5411\u63A5\u53E3\u7F16\u7A0B\uFF09
+ */
+public class UserServiceImpl implements UserService{
+    @Override
+    public void login(String loginName, String passWord) throws Exception {
+        if("admin".equals(loginName) && "123456".equals(passWord)){
+            System.out.println("\u60A8\u767B\u5F55\u6210\u529F\uFF0C\u6B22\u8FCE\u5149\u4E34\u672C\u7CFB\u7EDF~");
+        }else {
+            System.out.println("\u60A8\u767B\u5F55\u5931\u8D25\uFF0C\u7528\u6237\u540D\u6216\u5BC6\u7801\u9519\u8BEF~");
+        }
+        Thread.sleep(1000);
+    }
+
+    @Override
+    public void deleteUsers() throws Exception{
+        System.out.println("\u6210\u529F\u5220\u9664\u4E861\u4E07\u4E2A\u7528\u6237~");
+        Thread.sleep(1500);
+    }
+
+    @Override
+    public String[] selectUsers() throws Exception{
+
+        System.out.println("\u67E5\u8BE2\u51FA\u4E863\u4E2A\u7528\u6237");
+        String[] names = {"\u5F20\u5168\u86CB", "\u674E\u4E8C\u72D7", "\u725B\u7231\u82B1"};
+        Thread.sleep(500);
+
+        return names;
+    }
+}
+`,paraId:194,tocIndex:68},{value:"\u7136\u540E\u4E3AUserService\u751F\u6210\u4E00\u4E2A\u52A8\u6001\u4EE3\u7406\u5BF9\u8C61\uFF0C\u5728\u52A8\u6001\u4EE3\u7406\u4E2D\u8C03\u7528\u76EE\u6807\u65B9\u6CD5\uFF0C\u5728\u8C03\u7528\u76EE\u6807\u65B9\u6CD5\u4E4B\u524D\u548C\u4E4B\u540E\u8BB0\u5F55\u6BEB\u79D2\u503C\uFF0C\u5E76\u8BA1\u7B97\u65B9\u6CD5\u8FD0\u884C\u7684\u65F6\u95F4\u3002\u4EE3\u7801\u5982\u4E0B",paraId:195,tocIndex:68},{value:`public class ProxyUtil {
+    public static UserService createProxy(UserService userService){
+        UserService userServiceProxy
+            = (UserService) Proxy.newProxyInstance(
+            ProxyUtil.class.getClassLoader(),
+            new Class[]{UserService.class}, 
+            new InvocationHandler() {
+                                                                            			@Override
+            public Object invoke(                                                                             Object proxy, 
+                              Method method, 
+                                  Object[] args) throws Throwable {                             if(
+                    method.getName().equals("login") ||                                             method.getName().equals("deleteUsers")||
+                    method.getName().equals("selectUsers")){
+                    //\u65B9\u6CD5\u8FD0\u884C\u524D\u8BB0\u5F55\u6BEB\u79D2\u503C         
+                    long startTime = System.currentTimeMillis();
+                    //\u6267\u884C\u65B9\u6CD5
+                    Object rs = method.invoke(userService, args);
+                    //\u6267\u884C\u65B9\u6CD5\u540E\u8BB0\u5F55\u6BEB\u79D2\u503C
+                    long endTime = System.currentTimeMillis();
+
+                    System.out.println(method.getName() + "\u65B9\u6CD5\u6267\u884C\u8017\u65F6\uFF1A" + (endTime - startTime)/ 1000.0 + "s");
+                    return rs;
+               }else {
+                    Object rs = method.invoke(userService, args);
+                    return rs;                                                                }
+           }                                                                 });
+        //\u8FD4\u56DE\u4EE3\u7406\u5BF9\u8C61
+        return userServiceProxy;
+    }
+}
+`,paraId:196,tocIndex:68},{value:"\u5728\u6D4B\u8BD5\u7C7B\u4E2D\u4E3AUserService\u521B\u5EFA\u4EE3\u7406\u5BF9\u8C61",paraId:197,tocIndex:68},{value:`/**
+ * \u76EE\u6807\uFF1A\u4F7F\u7528\u52A8\u6001\u4EE3\u7406\u89E3\u51B3\u5B9E\u9645\u95EE\u9898\uFF0C\u5E76\u638C\u63E1\u4F7F\u7528\u4EE3\u7406\u7684\u597D\u5904\u3002
+ */
+public class Test {
+    public static void main(String[] args) throws Exception{
+        // 1\u3001\u521B\u5EFA\u7528\u6237\u4E1A\u52A1\u5BF9\u8C61\u3002
+        UserService userService = ProxyUtil.createProxy(new UserServiceImpl());
+
+        // 2\u3001\u8C03\u7528\u7528\u6237\u4E1A\u52A1\u7684\u529F\u80FD\u3002
+        userService.login("admin", "123456");
+        System.out.println("----------------------------------");
+
+        userService.deleteUsers();
+        System.out.println("----------------------------------");
+
+        String[] names = userService.selectUsers();
+        System.out.println("\u67E5\u8BE2\u5230\u7684\u7528\u6237\u662F\uFF1A" + Arrays.toString(names));
+        System.out.println("----------------------------------");
+
+    }
+}
+`,paraId:198,tocIndex:68},{value:"\u6267\u884C\u7ED3\u679C",paraId:199,tocIndex:68}]},7653:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(82297);const t=[{value:`public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("HelloWorld");
+	}
+}
+`,paraId:0,tocIndex:1},{value:"Java\u4E2D\u7684\u6CE8\u91CA\u5206\u4E3A\u4E09\u79CD\uFF1A",paraId:1,tocIndex:2},{value:"\u5355\u884C\u6CE8\u91CA\uFF1A",paraId:2,tocIndex:2},{value:`// \u8FD9\u662F\u5355\u884C\u6CE8\u91CA\u6587\u5B57
+`,paraId:3,tocIndex:2},{value:`/*
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+*/
+\u6CE8\u610F\uFF1A\u591A\u884C\u6CE8\u91CA\u4E0D\u80FD\u5D4C\u5957\u4F7F\u7528\u3002
+`,paraId:4,tocIndex:2},{value:`/**
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+\u8FD9\u662F\u591A\u884C\u6CE8\u91CA\u6587\u5B57
+*/
+`,paraId:5,tocIndex:2},{value:"\u4F5C\u7528\uFF1A\u544A\u8BC9\u7A0B\u5E8F\u5458\uFF0C\u6570\u636E\u5728\u7A0B\u5E8F\u4E2D\u7684\u4E66\u5199\u683C\u5F0F\u3002",paraId:6,tocIndex:3},{value:"\u5B57\u9762\u91CF\u7C7B\u578B",paraId:7,tocIndex:3},{value:"\u8BF4\u660E",paraId:7,tocIndex:3},{value:"\u7A0B\u5E8F\u4E2D\u7684\u5199\u6CD5",paraId:7,tocIndex:3},{value:"\u6574\u6570",paraId:7,tocIndex:3},{value:"\u4E0D\u5E26\u5C0F\u6570\u7684\u6570\u5B57",paraId:7,tocIndex:3},{value:"666\uFF0C-88",paraId:7,tocIndex:3},{value:"\u5C0F\u6570",paraId:7,tocIndex:3},{value:"\u5E26\u5C0F\u6570\u7684\u6570\u5B57",paraId:7,tocIndex:3},{value:"13.14\uFF0C-5.21",paraId:7,tocIndex:3},{value:"\u5B57\u7B26",paraId:7,tocIndex:3},{value:"\u5FC5\u987B\u4F7F\u7528\u5355\u5F15\u53F7\uFF0C\u6709\u4E14\u4EC5\u80FD\u4E00\u4E2A\u5B57\u7B26",paraId:7,tocIndex:3},{value:"\u2018A\u2019\uFF0C\u20180\u2019\uFF0C   \u2018\u6211\u2019",paraId:7,tocIndex:3},{value:"\u5B57\u7B26\u4E32",paraId:7,tocIndex:3},{value:"\u5FC5\u987B\u4F7F\u7528\u53CC\u5F15\u53F7\uFF0C\u5185\u5BB9\u53EF\u6709\u53EF\u65E0",paraId:7,tocIndex:3},{value:"\u201CHelloWorld\u201D\uFF0C\u201C\u9ED1\u9A6C\u7A0B\u5E8F\u5458\u201D",paraId:7,tocIndex:3},{value:"\u5E03\u5C14\u503C",paraId:7,tocIndex:3},{value:"\u5E03\u5C14\u503C\uFF0C\u8868\u793A\u771F\u5047\u4E2A\u503C\uFF1Atrue\uFF0Cfalse",paraId:7,tocIndex:3},{value:"true \u3001false",paraId:7,tocIndex:3},{value:"\u7A7A\u503C",paraId:7,tocIndex:3},{value:"\u4E00\u4E2A\u7279\u6B8A\u7684\u503C\uFF0C\u7A7A\u503C",paraId:7,tocIndex:3},{value:"\u503C\u662F\uFF1Anull",paraId:7,tocIndex:3},{value:`public class Demo {
+    public static void main(String[] args) {
+        System.out.println(10); // \u8F93\u51FA\u4E00\u4E2A\u6574\u6570
+        System.out.println(5.5); // \u8F93\u51FA\u4E00\u4E2A\u5C0F\u6570
+        System.out.println('a'); // \u8F93\u51FA\u4E00\u4E2A\u5B57\u7B26
+        System.out.println(true); // \u8F93\u51FAboolean\u503Ctrue
+        System.out.println("\u4E09\u575B\u6D77\u4F1A"); // \u8F93\u51FA\u5B57\u7B26\u4E32
+    }
+}
+`,paraId:8,tocIndex:3},{value:"\u6570\u636E\u7C7B\u578B",paraId:9,tocIndex:5},{value:"\u5173\u952E\u5B57",paraId:9,tocIndex:5},{value:"\u5185\u5B58\u5360\u7528",paraId:9,tocIndex:5},{value:"\u53D6\u503C\u8303\u56F4",paraId:9,tocIndex:5},{value:"\u6574\u6570",paraId:9,tocIndex:5},{value:"byte",paraId:9,tocIndex:5},{value:"1",paraId:9,tocIndex:5},{value:"\u8D1F\u76842\u76847\u6B21\u65B9 ~ 2\u76847\u6B21\u65B9-1(-128~127)",paraId:9,tocIndex:5},{value:"short",paraId:9,tocIndex:5},{value:"2",paraId:9,tocIndex:5},{value:"\u8D1F\u76842\u768415\u6B21\u65B9 ~ 2\u768415\u6B21\u65B9-1(-32768~32767)",paraId:9,tocIndex:5},{value:"int",paraId:9,tocIndex:5},{value:"4",paraId:9,tocIndex:5},{value:"\u8D1F\u76842\u768431\u6B21\u65B9 ~ 2\u768431\u6B21\u65B9-1",paraId:9,tocIndex:5},{value:"long",paraId:9,tocIndex:5},{value:"8",paraId:9,tocIndex:5},{value:"\u8D1F\u76842\u768463\u6B21\u65B9 ~ 2\u768463\u6B21\u65B9-1",paraId:9,tocIndex:5},{value:"\u6D6E\u70B9\u6570",paraId:9,tocIndex:5},{value:"float",paraId:9,tocIndex:5},{value:"4",paraId:9,tocIndex:5},{value:"1.401298e-45 ~ 3.402823e+38",paraId:9,tocIndex:5},{value:"double",paraId:9,tocIndex:5},{value:"8",paraId:9,tocIndex:5},{value:"4.9000000e-324 ~ 1.797693e+308",paraId:9,tocIndex:5},{value:"\u5B57\u7B26",paraId:9,tocIndex:5},{value:"char",paraId:9,tocIndex:5},{value:"2",paraId:9,tocIndex:5},{value:"0-65535",paraId:9,tocIndex:5},{value:"\u5E03\u5C14",paraId:9,tocIndex:5},{value:"boolean",paraId:9,tocIndex:5},{value:"1",paraId:9,tocIndex:5},{value:"true\uFF0Cfalse",paraId:9,tocIndex:5},{value:`int num = 10;
+double highD = 20.2;
+`,paraId:10,tocIndex:5},{value:"\u4E5F\u53EB\u81EA\u52A8\u7C7B\u578B\u63D0\u5347\u3002\u5C31\u662F\u628A\u4E00\u4E2A\u53D6\u503C\u8303\u56F4\u5C0F\u7684\u6570\u636E\u6216\u8005\u53D8\u91CF\uFF0C\u8D4B\u503C\u7ED9\u53E6\u4E00\u4E2A\u53D6\u503C\u8303\u56F4\u5927\u7684\u53D8\u91CF\u3002\u6B64\u65F6\u4E0D\u9700\u8981\u6211\u4EEC\u989D\u5916\u5199\u4EE3\u7801\u5355\u72EC\u5B9E\u73B0\uFF0C\u662F\u7A0B\u5E8F\u81EA\u52A8\u5E2E\u6211\u4EEC\u5B8C\u6210\u7684\u3002",paraId:11,tocIndex:7},{value:"\u4E24\u79CD\u63D0\u5347\u89C4\u5219\uFF1A",paraId:12,tocIndex:7},{value:"\u53D6\u503C\u8303\u56F4\u5C0F\u7684\uFF0C\u548C\u53D6\u503C\u8303\u56F4\u5927\u7684\u8FDB\u884C\u8FD0\u7B97\uFF0C\u5C0F\u7684\u4F1A\u5148\u63D0\u5347\u4E3A\u5927\u7684\uFF0C\u518D\u8FDB\u884C\u8FD0\u7B97\u3002",paraId:13,tocIndex:7},{value:"byte\u3001short\u3001char\u4E09\u79CD\u7C7B\u578B\u7684\u6570\u636E\u5728\u8FD0\u7B97\u7684\u65F6\u5019\uFF0C\u90FD\u4F1A\u76F4\u63A5\u5148\u63D0\u5347\u4E3Aint\uFF0C\u7136\u540E\u518D\u8FDB\u884C\u8FD0\u7B97\u3002",paraId:13,tocIndex:7},{value:`double d = 10;
+System.out.println(d);//10.0
+
+byte b = 100;
+int i = b;//\u53EF\u4EE5\u6210\u529F\u8D4B\u503C
+
+int i = 10;
+long n = 20L;
+long result = i + n;// long
+
+byte b1 = 10;
+byte b2 = 20;
+int result = b1 + b2;//int
+`,paraId:14,tocIndex:7},{value:"\u76EE\u6807\u6570\u636E\u7C7B\u578B \u53D8\u91CF\u540D = \uFF08\u76EE\u6807\u6570\u636E\u7C7B\u578B\uFF09\u88AB\u5F3A\u8F6C\u7684\u6570\u636E\uFF1B",paraId:15,tocIndex:8},{value:`double a = 12.3;
+int b = (int) a;
+System.out.println(b);//12
+`,paraId:16,tocIndex:8},{value:"\u6CE8\u610F\u70B9\uFF1A",paraId:17,tocIndex:8},{value:"\u200B	\u5F3A\u5236\u8F6C\u6362\u6709\u53EF\u80FD\u4F1A\u5BFC\u81F4\u6570\u636E\u53D1\u751F\u9519\u8BEF\u3002\uFF08\u6570\u636E\u7684\u7CBE\u5EA6\u4E22\u5931\uFF09",paraId:18,tocIndex:8},{value:"\u8FD0\u7B97\u7B26 : (+ - * / %)  \u8FD9\u4E9B\u64CD\u4F5C\u8DDF\u5C0F\u5B66\u6570\u5B66\u51E0\u4E4E\u662F\u4E00\u6A21\u4E00\u6837\u7684\u3002/\u53D6\u7ED3\u679C\u7684\u5546\u3002% \u53D6\u7ED3\u679C\u7684\u4F59\u6570;",paraId:19,tocIndex:9},{value:"\u81EA\u589E\u7B26 : ++,--;",paraId:20,tocIndex:9},{value:"\u8D4B\u503C\u7B26 : =, +=\u3001-=\u3001*=\u3001/=\u3001%=",paraId:21,tocIndex:9},{value:"\u5173\u7CFB\u7B26 : ==, !=, >, <, >=, <=",paraId:22,tocIndex:9},{value:"\u903B\u8F91\u7B26 : & , | , !(\u53D6\u53CD)",paraId:23,tocIndex:9},{value:"\u77ED\u8DEF\u903B\u8F91\u7B26 :  &&   ||",paraId:24,tocIndex:9},{value:"\u4E09\u5143\u7B26 : \u5173\u7CFB\u8868\u8FBE\u5F0F \uFF1F \u8868\u8FBE\u5F0F1 \uFF1A\u8868\u8FBE\u5F0F2 \uFF1B",paraId:25,tocIndex:9},{value:"if",paraId:26,tocIndex:10},{value:`if (\u5173\u7CFB\u8868\u8FBE\u5F0F1) {
+    \u8BED\u53E5\u4F531;	
+} else if (\u5173\u7CFB\u8868\u8FBE\u5F0F2) {
+    \u8BED\u53E5\u4F532;	
+} 
+else {
+    \u8BED\u53E5\u4F53n+1;
+}
+`,paraId:27,tocIndex:10},{value:"switch, \u6CE8\u610F\u52A0 break",paraId:28,tocIndex:10},{value:`switch (\u8868\u8FBE\u5F0F) {
+	case 1:
+		\u8BED\u53E5\u4F531;
+		break;
+	case 2:
+		\u8BED\u53E5\u4F532;
+		break;
+	...
+	default:
+		\u8BED\u53E5\u4F53n+1;
+		break;
+}
+`,paraId:29,tocIndex:10},{value:"for",paraId:30,tocIndex:10},{value:`for (\u521D\u59CB\u5316\u8BED\u53E5;\u6761\u4EF6\u5224\u65AD\u8BED\u53E5;\u6761\u4EF6\u63A7\u5236\u8BED\u53E5) {
+	\u5FAA\u73AF\u4F53\u8BED\u53E5;
+}
+for (int i = 1; i <= 5; i++) {
+    System.out.println("HelloWorld");
+}
+`,paraId:31,tocIndex:10},{value:"while",paraId:32,tocIndex:10},{value:`while(\u6761\u4EF6\u5224\u65AD\u8BED\u53E5){
+	\u5FAA\u73AF\u4F53;
+	\u6761\u4EF6\u63A7\u5236\u8BED\u53E5;
+}
+
+int height = 8844430;
+double paper = 0.1;
+int count = 0;
+while(paper < height){
+    //\u6298\u53E0\u7EB8\u5F20
+    paper = paper * 2;
+    count++;
+}
+`,paraId:33,tocIndex:10},{value:"\u6761\u4EF6\u63A7\u5236\u8BED\u53E5",paraId:34,tocIndex:10},{value:"break: \u8868\u793A\u7ED3\u675F\uFF0C\u8DF3\u51FA\u7684\u610F\u601D\u3002",paraId:35,tocIndex:10},{value:"continue : \u8DF3\u8FC7\u672C\u6B21\u5FAA\u73AF\uFF0C\u7EE7\u7EED\u6267\u884C\u4E0B\u6B21\u5FAA\u73AF\u3002",paraId:36,tocIndex:10},{value:`Random r = new Random();
+
+int number = r.nextInt(100);//0 ~ 99
+
+System.out.println(number);
+`,paraId:37,tocIndex:11},{value:`// \u521B\u5EFA\u5BF9\u8C61\uFF0C\u5176\u5B9E\u5C31\u662F\u7533\u660E\u4E00\u4E0B\uFF0C\u6211\u51C6\u5907\u5F00\u59CB\u7528Scanner\u8FD9\u4E2A\u7C7B\u4E86\u3002
+Scanner sc = new Scanner(System.in);
+// \u63A5\u6536\u6570\u636E
+//\u5F53\u7A0B\u5E8F\u8FD0\u884C\u4E4B\u540E\uFF0C\u6211\u4EEC\u5728\u952E\u76D8\u8F93\u5165\u7684\u6570\u636E\u5C31\u4F1A\u88AB\u53D8\u91CFi\u7ED9\u63A5\u6536\u4E86
+System.out.println("\u8BF7\u8F93\u5165\u4E00\u4E2A\u6570\u5B57");
+int i = sc.nextInt();
+System.out.println(i);
+`,paraId:38,tocIndex:12},{value:`// \u9759\u6001\u521D\u59CB\u5316
+int[] arr = new int[]{11,22,33};
+int[] arr = {11,22,33};
+System.out.println(arr);//[I@6d03e736 \u76F4\u63A5\u6253\u5370\u662F\u5730\u5740\u4FE1\u606F
+
+// \u6570\u7EC4\u904D\u5386
+for(int i = 0; i < arr.length; i++){
+    //\u5728\u5FAA\u73AF\u7684\u8FC7\u7A0B\u4E2D\uFF0Ci\u4F9D\u6B21\u8868\u793A\u6570\u7EC4\u4E2D\u7684\u6BCF\u4E00\u4E2A\u7D22\u5F15
+    sout(arr[i]);//\u5C31\u53EF\u4EE5\u628A\u6570\u7EC4\u91CC\u9762\u7684\u6BCF\u4E00\u4E2A\u5143\u7D20\u90FD\u83B7\u53D6\u51FA\u6765\uFF0C\u5E76\u6253\u5370\u5728\u63A7\u5236\u53F0\u4E0A\u4E86\u3002
+}
+
+// \u52A8\u6001\u521D\u59CB\u5316
+//1.\u5B9A\u4E49\u4E00\u4E2A\u6570\u7EC4\uFF0C\u5B583\u4E2A\u4EBA\u7684\u5E74\u9F84\uFF0C\u5E74\u9F84\u672A\u77E5
+int[] agesArr = new int[3];
+`,paraId:39,tocIndex:14},{value:"\u5F62\u53C2\uFF1A\u65B9\u6CD5\u5B9A\u4E49\u4E2D\u7684\u53C2\u6570 \u4F8B\u5982\uFF1Aint number",paraId:40,tocIndex:15},{value:"\u5B9E\u53C2\uFF1A\u65B9\u6CD5\u8C03\u7528\u4E2D\u7684\u53C2\u6570 \u4F8B\u5982\uFF1Amethod( 10);   10",paraId:41,tocIndex:15},{value:`public static boolean isEvenNumber( int number ) {           
+	return true ;
+}
+public static int getMax( int a, int b ) {
+	return  100 ;
+}
+`,paraId:42,tocIndex:16},{value:"\u65B9\u6CD5\u91CD\u8F7D\u6307\u540C\u4E00\u4E2A\u7C7B\u4E2D\u5B9A\u4E49\u7684\u591A\u4E2A\u65B9\u6CD5\u4E4B\u95F4\u7684\u5173\u7CFB\uFF0C\u6EE1\u8DB3\u4E0B\u5217\u6761\u4EF6\u7684\u591A\u4E2A\u65B9\u6CD5\u76F8\u4E92\u6784\u6210\u91CD\u8F7D",paraId:43,tocIndex:17},{value:"\u591A\u4E2A\u65B9\u6CD5\u5728\u540C\u4E00\u4E2A\u7C7B\u4E2D",paraId:44,tocIndex:17},{value:"\u591A\u4E2A\u65B9\u6CD5\u5177\u6709\u76F8\u540C\u7684\u65B9\u6CD5\u540D",paraId:44,tocIndex:17},{value:"\u591A\u4E2A\u65B9\u6CD5\u7684\u53C2\u6570\u4E0D\u76F8\u540C\uFF0C\u7C7B\u578B\u4E0D\u540C\u6216\u8005\u6570\u91CF\u4E0D\u540C",paraId:44,tocIndex:17},{value:`public static void fn(int a) {
+    //\u65B9\u6CD5\u4F53
+}
+public static int fn(double a) {
+    //\u65B9\u6CD5\u4F53
+}
+`,paraId:45,tocIndex:17},{value:"\u5BA2\u89C2\u5B58\u5728\u7684\u4E8B\u7269\u7686\u4E3A\u5BF9\u8C61 \uFF0C\u6240\u4EE5\u6211\u4EEC\u4E5F\u5E38\u5E38\u8BF4\u4E07\u7269\u7686\u5BF9\u8C61\u3002",paraId:46,tocIndex:19},{value:`public class \u7C7B\u540D {
+	// \u6210\u5458\u53D8\u91CF
+	\u53D8\u91CF1\u7684\u6570\u636E\u7C7B\u578B \u53D8\u91CF1\uFF1B
+	\u53D8\u91CF2\u7684\u6570\u636E\u7C7B\u578B \u53D8\u91CF2;
+	\u2026
+	// \u6210\u5458\u65B9\u6CD5
+	\u65B9\u6CD51;
+	\u65B9\u6CD52;	
+}
+public class Phone {
+    //\u6210\u5458\u53D8\u91CF
+    String brand;
+    int price;
+
+    //\u6210\u5458\u65B9\u6CD5
+    public void call() {
+        System.out.println("\u6253\u7535\u8BDD");
+    }
+
+    public void sendMessage() {
+        System.out.println("\u53D1\u77ED\u4FE1");
+    }
+}
+`,paraId:47,tocIndex:20},{value:`// \u7C7B\u540D \u5BF9\u8C61\u540D = new \u7C7B\u540D();
+
+ //\u521B\u5EFA\u5BF9\u8C61
+Phone p = new Phone();
+p.brand;
+p.price;
+`,paraId:48,tocIndex:21},{value:"\u5C06\u7C7B\u7684\u67D0\u4E9B\u4FE1\u606F\u9690\u85CF\u5728\u7C7B\u5185\u90E8\uFF0C\u4E0D\u5141\u8BB8\u5916\u90E8\u7A0B\u5E8F\u76F4\u63A5\u8BBF\u95EE\uFF0C\u800C\u662F\u901A\u8FC7\u8BE5\u7C7B\u63D0\u4F9B\u7684\u65B9\u6CD5\u6765\u5B9E\u73B0\u5BF9\u9690\u85CF\u4FE1\u606F\u7684\u64CD\u4F5C\u548C\u8BBF\u95EE",paraId:49,tocIndex:22},{value:"private: \u88ABprivate\u4FEE\u9970\u7684\u6210\u5458\uFF0C\u53EA\u80FD\u5728\u672C\u7C7B\u8FDB\u884C\u8BBF\u95EE",paraId:50,tocIndex:22},{value:`class Student {
+    //\u6210\u5458\u53D8\u91CF
+    String name;
+    ...
+}
+`,paraId:51,tocIndex:22},{value:"this\u4FEE\u9970\u7684\u53D8\u91CF\u7528\u4E8E\u6307\u4EE3\u6210\u5458\u53D8\u91CF\uFF0C\u5176\u4E3B\u8981\u4F5C\u7528\u662F\uFF08\u533A\u5206\u5C40\u90E8\u53D8\u91CF\u548C\u6210\u5458\u53D8\u91CF\u7684\u91CD\u540D\u95EE\u9898\uFF09",paraId:52,tocIndex:23},{value:` public void setName(String name) {
+        this.name = name;
+    }
+`,paraId:53,tocIndex:23},{value:"\u6784\u9020\u65B9\u6CD5\u662F\u4E00\u79CD\u7279\u6B8A\u7684\u65B9\u6CD5",paraId:54,tocIndex:24},{value:`public class \u7C7B\u540D{
+
+     \u4FEE\u9970\u7B26 \u7C7B\u540D( \u53C2\u6570 ) { // \u6784\u9020\u65B9\u6CD5
+
+      }
+
+}
+`,paraId:55,tocIndex:24},{value:"\u7C7B\u540D\u9700\u8981\u89C1\u540D\u77E5\u610F",paraId:56,tocIndex:25},{value:"\u6210\u5458\u53D8\u91CF\u4F7F\u7528private\u4FEE\u9970",paraId:56,tocIndex:25},{value:"\u63D0\u4F9B\u81F3\u5C11\u4E24\u4E2A\u6784\u9020\u65B9\u6CD5 (\u65E0\u53C2, \u5168\u53C2)",paraId:56,tocIndex:25},{value:"get\u548Cset\u65B9\u6CD5",paraId:56,tocIndex:25},{value:"String\u7C7B\u7684\u7279\u70B9:",paraId:57,tocIndex:26},{value:"\u5B57\u7B26\u4E32\u4E0D\u53EF\u53D8\uFF0C\u5B83\u4EEC\u7684\u503C\u5728\u521B\u5EFA\u540E\u4E0D\u80FD\u88AB\u66F4\u6539",paraId:58,tocIndex:26},{value:"\u867D\u7136 String \u7684\u503C\u662F\u4E0D\u53EF\u53D8\u7684\uFF0C\u4F46\u662F\u5B83\u4EEC\u53EF\u4EE5\u88AB\u5171\u4EAB(\u5B57\u9762\u91CF\u5B9A\u4E49\u76F8\u540C\u7684\u503C\u5171\u4EAB)",paraId:58,tocIndex:26},{value:"\u5B57\u7B26\u4E32\u6548\u679C\u4E0A\u76F8\u5F53\u4E8E\u5B57\u7B26\u6570\u7EC4( char[] )\uFF0C\u4F46\u662F\u5E95\u5C42\u539F\u7406\u662F\u5B57\u8282\u6570\u7EC4( byte[] )",paraId:58,tocIndex:26},{value:`String s4 = "abc";
+`,paraId:59,tocIndex:27},{value:"==\u53F7\u7684\u4F5C\u7528",paraId:60,tocIndex:28},{value:"\u6BD4\u8F83\u57FA\u672C\u6570\u636E\u7C7B\u578B\uFF1A\u6BD4\u8F83\u7684\u662F\u5177\u4F53\u7684\u503C",paraId:61,tocIndex:28},{value:"\u6BD4\u8F83\u5F15\u7528\u6570\u636E\u7C7B\u578B\uFF1A\u6BD4\u8F83\u7684\u662F\u5BF9\u8C61\u5730\u5740\u503C",paraId:61,tocIndex:28},{value:"\u5B57\u7B26\u4E32\u6BD4\u8F83\u7528equals",paraId:61,tocIndex:28},{value:`s1.equals(s2)
+`,paraId:62,tocIndex:28},{value:`char c = str.charAt(i);
+`,paraId:63,tocIndex:29},{value:`String end = phoneNumber.substring(7);
+String star = phoneNumber.substring(0, 3);
+`,paraId:64,tocIndex:30},{value:`String result = talk.replace("FW", "***");
+`,paraId:65,tocIndex:31},{value:"StringBuilder \u53EF\u4EE5\u770B\u6210\u662F\u4E00\u4E2A\u5BB9\u5668\uFF0C\u521B\u5EFA\u4E4B\u540E\u91CC\u9762\u7684\u5185\u5BB9\u662F\u53EF\u53D8\u7684\u3002",paraId:66,tocIndex:32},{value:`StringBuilder sb = new StringBuilder("abc");
+
+//\u6DFB\u52A0\u5143\u7D20
+sb.append(1);
+sb.append(2.3);
+sb.append(true);
+
+ //\u53CD\u8F6C
+sb.reverse();
+
+ //\u83B7\u53D6\u957F\u5EA6
+int len = sb.length();
+
+//\u628AStringBuilder\u53D8\u56DE\u5B57\u7B26\u4E32
+String str = sb.toString();
+
+`,paraId:67,tocIndex:32},{value:"\u62FC\u63A5\u5B57\u7B26\u4E32",paraId:68,tocIndex:32},{value:`public static String arrToString(int[] arr){
+        StringBuilder sb = new StringBuilder();
+        sb.append("[");
+
+        for (int i = 0; i < arr.length; i++) {
+            if(i == arr.length - 1){
+                sb.append(arr[i]);
+            }else{
+                sb.append(arr[i]).append(", ");
+            }
+        }
+        sb.append("]");
+
+        return sb.toString();
+    }
+`,paraId:69,tocIndex:32},{value:"\u96C6\u5408\u548C\u6570\u7EC4\u7684\u4F18\u52BF\u5BF9\u6BD4\uFF1A",paraId:70,tocIndex:33},{value:"\u957F\u5EA6\u53EF\u53D8",paraId:71,tocIndex:33},{value:"\u6DFB\u52A0\u6570\u636E\u7684\u65F6\u5019\u4E0D\u9700\u8981\u8003\u8651\u7D22\u5F15\uFF0C\u9ED8\u8BA4\u5C06\u6570\u636E\u6DFB\u52A0\u5230\u672B\u5C3E",paraId:71,tocIndex:33},{value:"\u65B9\u6CD5\u540D",paraId:72,tocIndex:34},{value:"\u8BF4\u660E",paraId:72,tocIndex:34},{value:"public boolean add(\u8981\u6DFB\u52A0\u7684\u5143\u7D20)",paraId:72,tocIndex:34},{value:"\u5C06\u6307\u5B9A\u7684\u5143\u7D20\u8FFD\u52A0\u5230\u6B64\u96C6\u5408\u7684\u672B\u5C3E",paraId:72,tocIndex:34},{value:"public boolean remove(\u8981\u5220\u9664\u7684\u5143\u7D20)",paraId:72,tocIndex:34},{value:"\u5220\u9664\u6307\u5B9A\u5143\u7D20,\u8FD4\u56DE\u503C\u8868\u793A\u662F\u5426\u5220\u9664\u6210\u529F",paraId:72,tocIndex:34},{value:"public E  remove(int   index)",paraId:72,tocIndex:34},{value:"\u5220\u9664\u6307\u5B9A\u7D22\u5F15\u5904\u7684\u5143\u7D20\uFF0C\u8FD4\u56DE\u88AB\u5220\u9664\u7684\u5143\u7D20",paraId:72,tocIndex:34},{value:"public E   set(int index,E   element)",paraId:72,tocIndex:34},{value:"\u4FEE\u6539\u6307\u5B9A\u7D22\u5F15\u5904\u7684\u5143\u7D20\uFF0C\u8FD4\u56DE\u88AB\u4FEE\u6539\u7684\u5143\u7D20",paraId:72,tocIndex:34},{value:"public E   get(int   index)",paraId:72,tocIndex:34},{value:"\u8FD4\u56DE\u6307\u5B9A\u7D22\u5F15\u5904\u7684\u5143\u7D20",paraId:72,tocIndex:34},{value:"public int   size()",paraId:72,tocIndex:34},{value:"\u8FD4\u56DE\u96C6\u5408\u4E2D\u7684\u5143\u7D20\u7684\u4E2A\u6570",paraId:72,tocIndex:34},{value:`//\u521B\u5EFA\u96C6\u5408
+ArrayList<String> array = new ArrayList<String>();
+
+ //\u6DFB\u52A0\u5143\u7D20
+array.add("hello");
+array.add("world");
+array.add("java");
+
+// \u5220\u9664
+array.remove("world");
+array.remove(1);
+    
+// \u4FEE\u6539
+array.set(1,"javaee");
+
+// \u67E5\u8BE2
+array.get(0);
+    
+// \u96C6\u5408\u5927\u5C0F,\u5143\u7D20\u4E2A\u6570
+array.size();
+`,paraId:73,tocIndex:34},{value:`for (int i = 0; i < list.size(); i++) {
+   sout
+}
+`,paraId:74,tocIndex:35},{value:"\u7531\u4E8E\u9759\u6001\u53D8\u91CF\u662F\u5C5E\u4E8E\u7C7B\u7684\uFF0C\u53EA\u9700\u8981\u901A\u8FC7\u7C7B\u540D\u5C31\u53EF\u4EE5\u8C03\u7528\uFF1A",paraId:75,tocIndex:38},{value:"\u7C7B\u540D.\u9759\u6001\u53D8\u91CF",paraId:75,tocIndex:38},{value:"\u5B9E\u4F8B\u53D8\u91CF\u662F\u5C5E\u4E8E\u5BF9\u8C61\u7684\uFF0C\u9700\u8981\u901A\u8FC7\u5BF9\u8C61\u624D\u80FD\u8C03\u7528\uFF1A",paraId:76,tocIndex:38},{value:"\u5BF9\u8C61.\u5B9E\u4F8B\u53D8\u91CF",paraId:76,tocIndex:38},{value:"\u6210\u5458\u65B9\u6CD5\u6839\u636E\u6709\u65E0static\u4E5F\u5206\u4E3A\u4E24\u7C7B\uFF1A",paraId:77,tocIndex:39},{value:"\u7C7B\u65B9\u6CD5\u3001\u5B9E\u4F8B\u65B9\u6CD5",paraId:77,tocIndex:39},{value:"\u7C7B\u52A0\u8F7D\u65F6\u6267\u884C,\u7531\u4E8E\u7C7B\u53EA\u4F1A\u52A0\u8F7D\u4E00\u6B21,\u6240\u4EE5\u53EA\u4F1A\u6267\u884C\u4E00\u6B21",paraId:78,tocIndex:40},{value:`public class Student {
+    static int number = 80;
+    static String schoolName = "\u9ED1\u9A6C";
+    // \u9759\u6001\u4EE3\u7801\u5757
+    static {
+        System.out.println("\u9759\u6001\u4EE3\u7801\u5757\u6267\u884C\u4E86~~");
+        schoolName = "\u9ED1\u9A6C";
+    }
+}
+`,paraId:79,tocIndex:40},{value:"\u5982\u679C\u4E00\u4E2A\u7C7B\u4E2D\u7684\u65B9\u6CD5\u5168\u90FD\u662F\u9759\u6001\u7684\uFF0C\u90A3\u4E48\u8FD9\u4E2A\u7C7B\u4E2D\u7684\u65B9\u6CD5\u5C31\u5168\u90FD\u53EF\u4EE5\u88AB\u7C7B\u540D\u76F4\u63A5\u8C03\u7528\uFF0C\u7531\u4E8E\u8C03\u7528\u8D77\u6765\u975E\u5E38\u65B9\u4FBF\uFF0C\u5C31\u50CF\u4E00\u4E2A\u5DE5\u5177\u4E00\u4E0B\uFF0C\u6240\u4EE5\u628A\u8FD9\u6837\u7684\u7C7B\u5C31\u53EB\u505A\u5DE5\u5177\u7C7B\u3002",paraId:80,tocIndex:41},{value:"\u5B50\u7C7B\u7EE7\u627F\u7236\u7C7B\u7684\u975E\u79C1\u6709\u53D8\u91CF\\\u65B9\u6CD5;  \u51CF\u5C11\u4EE3\u7801\u7684\u91CD\u590D;   \u5355\u7EE7\u627F ;  \u91CD\u5199\u7236\u7C7B\u65B9\u6CD5",paraId:81,tocIndex:42},{value:"private<\u7F3A\u7701<proteted<public",paraId:82,tocIndex:43},{value:`\u8BBF\u95EE\u672C\u7C7B\u6210\u5458:
+	this.\u6210\u5458\u53D8\u91CF	//\u8BBF\u95EE\u672C\u7C7B\u6210\u5458\u53D8\u91CF
+	this.\u6210\u5458\u65B9\u6CD5()	//\u8C03\u7528\u672C\u7C7B\u6210\u5458\u65B9\u6CD5
+	this()		   //\u8C03\u7528\u672C\u7C7B\u7A7A\u53C2\u6570\u6784\u9020\u5668
+    this(\u53C2\u6570)	  //\u8C03\u7528\u672C\u7C7B\u6709\u53C2\u6570\u6784\u9020\u5668
+	
+\u8BBF\u95EE\u7236\u7C7B\u6210\u5458:
+	super.\u6210\u5458\u53D8\u91CF	   //\u8BBF\u95EE\u7236\u7C7B\u6210\u5458\u53D8\u91CF
+	super.\u6210\u5458\u65B9\u6CD5()   //\u8C03\u7528\u7236\u7C7B\u6210\u5458\u65B9\u6CD5
+	super()		     //\u8C03\u7528\u7236\u7C7B\u7A7A\u53C2\u6570\u6784\u9020\u5668
+    super(\u53C2\u6570)	    //\u8C03\u7528\u7236\u7C7B\u6709\u53C2\u6570\u6784\u9020\u5668
+    
+\u6CE8\u610F\uFF1Athis\u548Csuper\u8BBF\u95EE\u6784\u9020\u65B9\u6CD5\uFF0C\u53EA\u80FD\u7528\u5230\u6784\u9020\u65B9\u6CD5\u7684\u7B2C\u4E00\u53E5\uFF0C\u5426\u5219\u4F1A\u62A5\u9519\u3002
+`,paraId:83,tocIndex:44},{value:"\u4EC0\u4E48\u662F\u591A\u6001\uFF1F",paraId:84,tocIndex:45},{value:"\u591A\u6001\u662F\u5728\u7EE7\u627F\u3001\u5B9E\u73B0\u60C5\u51B5\u4E0B\u7684\u4E00\u79CD\u73B0\u8C61\uFF0C\u8868\u73B0\u4E3A\uFF1A\u5BF9\u8C61\u591A\u6001\u3001\u884C\u4E3A\u591A\u6001\u3002",paraId:85,tocIndex:45},{value:"\u591A\u6001\u7684\u524D\u63D0",paraId:86,tocIndex:45},{value:"\u6709\u7EE7\u627F/\u5B9E\u73B0\u5173\u7CFB\uFF1B\u5B58\u5728\u7236\u7C7B\u5F15\u7528\u5B50\u7C7B\u5BF9\u8C61\uFF1B\u5B58\u5728\u65B9\u6CD5\u91CD\u5199\u3002",paraId:87,tocIndex:45},{value:"\u591A\u6001\u7684\u6CE8\u610F\u4E8B\u9879",paraId:88,tocIndex:45},{value:"\u591A\u6001\u662F\u5BF9\u8C61\u3001\u884C\u4E3A\u7684\u591A\u6001\uFF0CJava\u4E2D\u7684\u5C5E\u6027(\u6210\u5458\u53D8\u91CF)\u4E0D\u8C08\u591A\u6001\u3002",paraId:89,tocIndex:45},{value:"\u5B9A\u4E49\u65B9\u6CD5\u65F6\uFF0C\u4F7F\u7528\u7236\u7C7B\u7C7B\u578B\u4F5C\u4E3A\u5F62\u53C2\uFF0C\u53EF\u4EE5\u63A5\u6536\u4E00\u5207\u5B50\u7C7B\u5BF9\u8C61\uFF0C\u6269\u5C55\u884C\u66F4\u5F3A\uFF0C\u66F4\u4FBF\u5229\u3002",paraId:90,tocIndex:45},{value:"\u867D\u7136\u591A\u6001\u5F62\u5F0F\u4E0B\u6709\u4E00\u4E9B\u597D\u5904\uFF0C\u4F46\u662F\u4E5F\u6709\u4E00\u4E9B\u5F0A\u7AEF\u3002\u5728\u591A\u6001\u5F62\u5F0F\u4E0B\uFF0C\u4E0D\u80FD\u8C03\u7528\u5B50\u7C7B\u7279\u6709\u7684\u65B9\u6CD5",paraId:91,tocIndex:46},{value:`public static void go(Person p) {
+        System.out.println("\u5F00\u59CB------");
+        p.run();
+        //p.study();
+        //\u5411\u4E0B\u8F6C\u6362(\u5F3A\u8F6C)
+        //\u5C06\u7236\u7C7B\u7C7B\u578B\u7684\u53D8\u91CF, \u5F3A\u8F6C\u8D4B\u503C\u7ED9\u4E00\u4E2A\u5B50\u7C7B\u7C7B\u578B\u7684\u53D8\u91CF
+        //instanceof\u5173\u952E\u5B57: \u5F3A\u8F6C\u4E4B\u524D\u4E00\u5B9A\u8981\u4F7F\u7528instanceof\u5224\u65AD,\u9632\u6B62\u4EE3\u7801\u62A5\u9519(\u8F6C\u6362\u5F02\u5E38)
+        //p instanceof Student \u5982\u679Cp\u6307\u5411\u7684\u5BF9\u8C61\u662FStudent\u5BF9\u8C61\u8FD4\u56DEtrue
+        if (p instanceof Student) {
+            Student s = (Student) p;
+            s.study();
+        } else if (p instanceof Teacher) {
+            Teacher t = (Teacher) p;
+            t.teach();
+        }
+
+        System.out.println("\u7ED3\u675F-----");
+    }
+`,paraId:92,tocIndex:46},{value:"final\u5173\u952E\u5B57\u662F\u6700\u7EC8\u7684\u610F\u601D\uFF0C\u53EF\u4EE5\u4FEE\u9970\u7C7B\u3001\u4FEE\u9970\u65B9\u6CD5\u3001\u4FEE\u9970\u53D8\u91CF\u3002",paraId:93,tocIndex:47},{value:`- final\u4FEE\u9970\u7C7B\uFF1A\u8BE5\u7C7B\u79F0\u4E3A\u6700\u7EC8\u7C7B\uFF0C\u7279\u70B9\u662F\u4E0D\u80FD\u88AB\u7EE7\u627F
+- final\u4FEE\u9970\u65B9\u6CD5\uFF1A\u8BE5\u65B9\u6CD5\u79F0\u4E4B\u4E3A\u6700\u7EC8\u65B9\u6CD5\uFF0C\u7279\u70B9\u662F\u4E0D\u80FD\u88AB\u91CD\u5199\u3002
+- final\u4FEE\u9970\u53D8\u91CF\uFF1A\u8BE5\u53D8\u91CF\u53EA\u80FD\u88AB\u8D4B\u503C\u4E00\u6B21\u3002
+`,paraId:94,tocIndex:47},{value:"\u5728Java\u4E2D\u6709\u4E00\u4E2A\u5173\u952E\u5B57\u53EBabstract\uFF0C\u5B83\u5C31\u662F\u62BD\u8C61\u7684\u610F\u601D\uFF0C\u5B83\u53EF\u4EE5\u4FEE\u9970\u7C7B\u4E5F\u53EF\u4EE5\u4FEE\u9970\u65B9\u6CD5\u3002",paraId:95,tocIndex:48},{value:"Java\u63D0\u4F9B\u4E86\u4E00\u4E2A\u5173\u952E\u5B57interface\uFF0C\u7528\u8FD9\u4E2A\u5173\u952E\u5B57\u6765\u5B9A\u4E49\u63A5\u53E3\u8FD9\u79CD\u7279\u6B8A\u7ED3\u6784\u3002\u683C\u5F0F\u5982\u4E0B",paraId:96,tocIndex:49},{value:`public interface \u63A5\u53E3\u540D{
+    //\u6210\u5458\u53D8\u91CF\uFF08\u5E38\u91CF\uFF09
+    //\u6210\u5458\u65B9\u6CD5\uFF08\u62BD\u8C61\u65B9\u6CD5\uFF09
+}
+`,paraId:97,tocIndex:49},{value:"\u5F25\u8865\u4E86\u7C7B\u5355\u7EE7\u627F\u7684\u4E0D\u8DB3\uFF0C\u4E00\u4E2A\u7C7B\u540C\u65F6\u53EF\u4EE5\u5B9E\u73B0\u591A\u4E2A\u63A5\u53E3;",paraId:98,tocIndex:49},{value:"\u8BA9\u7A0B\u5E8F\u53EF\u4EE5\u9762\u5411\u63A5\u53E3\u7F16\u7A0B\uFF0C\u8FD9\u6837\u7A0B\u5E8F\u5458\u53EF\u4EE5\u7075\u6D3B\u65B9\u4FBF\u7684\u5207\u6362\u5404\u79CD\u4E1A\u52A1\u5B9E\u73B0;",paraId:99,tocIndex:49},{value:`public interface A {
+    /**
+     * 1\u3001\u9ED8\u8BA4\u65B9\u6CD5\uFF1A\u5FC5\u987B\u4F7F\u7528default\u4FEE\u9970\uFF0C\u9ED8\u8BA4\u4F1A\u88ABpublic\u4FEE\u9970
+     * \u5B9E\u4F8B\u65B9\u6CD5\uFF1A\u5BF9\u8C61\u7684\u65B9\u6CD5\uFF0C\u5FC5\u987B\u4F7F\u7528\u5B9E\u73B0\u7C7B\u7684\u5BF9\u8C61\u6765\u8BBF\u95EE\u3002
+     */
+    default void test1(){
+        System.out.println("===\u9ED8\u8BA4\u65B9\u6CD5==");
+        test2();
+    }
+
+    /**
+     * 2\u3001\u79C1\u6709\u65B9\u6CD5\uFF1A\u5FC5\u987B\u4F7F\u7528private\u4FEE\u9970\u3002(JDK 9\u5F00\u59CB\u624D\u652F\u6301\u7684)
+     *   \u5B9E\u4F8B\u65B9\u6CD5\uFF1A\u5BF9\u8C61\u7684\u65B9\u6CD5\u3002
+     */
+    private void test2(){
+        System.out.println("===\u79C1\u6709\u65B9\u6CD5==");
+    }
+
+    /**
+     * 3\u3001\u9759\u6001\u65B9\u6CD5\uFF1A\u5FC5\u987B\u4F7F\u7528static\u4FEE\u9970\uFF0C\u9ED8\u8BA4\u4F1A\u88ABpublic\u4FEE\u9970
+     */
+     static void test3(){
+        System.out.println("==\u9759\u6001\u65B9\u6CD5==");
+     }
+
+     void test4();
+     void test5();
+     default void test6(){
+
+     }
+}
+`,paraId:100,tocIndex:50},{value:"\u5185\u90E8\u7C7B\u662F\u7C7B\u4E2D\u7684\u4E94\u5927\u6210\u5206\u4E4B\u4E00\uFF08\u6210\u5458\u53D8\u91CF\u3001\u65B9\u6CD5\u3001\u6784\u9020\u5668\u3001\u5185\u90E8\u7C7B\u3001\u4EE3\u7801\u5757\uFF09\uFF0C\u5982\u679C\u4E00\u4E2A\u7C7B\u5B9A\u4E49\u5728\u53E6\u4E00\u4E2A\u7C7B\u7684\u5185\u90E8\uFF0C\u8FD9\u4E2A\u7C7B\u5C31\u662F\u5185\u90E8\u7C7B\u3002",paraId:101,tocIndex:51},{value:"\u6210\u5458\u5185\u90E8\u7C7B/\u9759\u6001\u5185\u90E8\u7C7B/\u5C40\u90E8\u5185\u90E8\u7C7B/\u533F\u540D\u5185\u90E8\u7C7B",paraId:102,tocIndex:51},{value:"\u6BD4\u5982\uFF0C\u5148\u5B9A\u4E49\u4E00\u4E2AAnimal\u62BD\u8C61\u7C7B\uFF0C\u91CC\u9762\u5B9A\u4E49\u4E00\u4E2Acry()\u65B9\u6CD5\uFF0C\u8868\u793A\u6240\u6709\u7684\u52A8\u7269\u6709\u53EB\u7684\u884C\u4E3A\uFF0C\u4F46\u662F\u56E0\u4E3A\u52A8\u7269\u8FD8\u4E0D\u5177\u4F53\uFF0Ccry()\u8FD9\u4E2A\u884C\u4E3A\u5E76\u4E0D\u80FD\u5177\u4F53\u5316\uFF0C\u6240\u4EE5\u5199\u6210\u62BD\u8C61\u65B9\u6CD5\u3002",paraId:103,tocIndex:52},{value:`public abstract class Animal{
+    public abstract void cry();
+}
+`,paraId:104,tocIndex:52},{value:"\u63A5\u4E0B\u6765\uFF0C\u6211\u60F3\u8981\u5728\u4E0D\u5B9A\u4E49\u5B50\u7C7B\u7684\u60C5\u51B5\u4E0B\u521B\u5EFAAnimal\u7684\u5B50\u7C7B\u5BF9\u8C61\uFF0C\u5C31\u53EF\u4EE5\u4F7F\u7528\u533F\u540D\u5185\u90E8\u7C7B",paraId:105,tocIndex:52},{value:`public class Test{
+    public static void main(String[] args){
+        //\u8FD9\u91CC\u540E\u9762new \u7684\u90E8\u5206\uFF0C\u5176\u5B9E\u5C31\u662F\u4E00\u4E2AAnimal\u7684\u5B50\u7C7B\u5BF9\u8C61
+        //\u8FD9\u91CC\u9690\u542B\u7684\u6709\u591A\u6001\u7684\u7279\u6027\uFF1A Animal a = Animal\u5B50\u7C7B\u5BF9\u8C61;
+        Animal a = new Animal(){
+            @Override
+            public void cry(){
+                System.out.println("\u732B\u55B5\u55B5\u55B5\u7684\u53EB\`\`\`");
+            }
+        }
+        a.eat(); //\u76F4\u7EBF\u4E0A\u9762\u91CD\u5199\u7684cry()\u65B9\u6CD5
+    }
+}
+`,paraId:106,tocIndex:52},{value:"\u679A\u4E3E\u662F\u4E00\u79CD\u7279\u6B8A\u7684\u7C7B\uFF0C\u5B83\u7684\u683C\u5F0F\u662F\uFF1A",paraId:107,tocIndex:53},{value:`public enum \u679A\u4E3E\u7C7B\u540D{
+    \u679A\u4E3E\u98791,\u679A\u4E3E\u98792,\u679A\u4E3E\u98793;
+}
+`,paraId:108,tocIndex:53},{value:"\u5176\u5B9E\u679A\u4E3E\u9879\u5C31\u8868\u793A\u679A\u4E3E\u7C7B\u7684\u5BF9\u8C61\uFF0C\u53EA\u662F\u8FD9\u4E9B\u5BF9\u8C61\u5728\u5B9A\u4E49\u679A\u4E3E\u7C7B\u65F6\u5C31\u9884\u5148\u5199\u597D\u4E86\uFF0C\u4EE5\u540E\u5C31\u53EA\u80FD\u7528\u8FD9\u51E0\u4E2A\u56FA\u5B9A\u7684\u5BF9\u8C61\u3002",paraId:109,tocIndex:53},{value:"\u6211\u4EEC\u7528\u4EE3\u7801\u6F14\u793A\u4E00\u4E0B\uFF0C\u5B9A\u4E49\u4E00\u4E2A\u679A\u4E3E\u7C7BA\uFF0C\u5728\u679A\u4E3E\u7C7B\u4E2D\u5B9A\u4E49\u4E09\u4E2A\u679A\u4E3E\u9879X, Y, Z",paraId:110,tocIndex:53},{value:`public enum A{
+    X,Y,Z;
+}
+`,paraId:111,tocIndex:53},{value:"\u60F3\u8981\u83B7\u53D6\u679A\u4E3E\u7C7B\u4E2D\u7684\u679A\u4E3E\u9879\uFF0C\u53EA\u9700\u8981\u7528\u7C7B\u540D\u8C03\u7528\u5C31\u53EF\u4EE5\u4E86",paraId:112,tocIndex:53},{value:`public class Test{
+    public static void main(String[] args){
+        //\u83B7\u53D6\u679A\u4E3EA\u7C7B\u7684\uFF0C\u679A\u4E3E\u9879
+        A a1 = A.X;
+        A a2 = A.Y;
+        A a3 = A.Z;
+    }
+}
+`,paraId:113,tocIndex:53},{value:"\u6240\u8C13\u6CDB\u578B\u6307\u7684\u662F\uFF0C\u5728\u5B9A\u4E49\u7C7B\u3001\u63A5\u53E3\u3001\u65B9\u6CD5\u65F6\uFF0C\u540C\u65F6\u58F0\u660E\u4E86\u4E00\u4E2A\u6216\u8005\u591A\u4E2A\u7C7B\u578B\u53D8\u91CF\uFF08\u5982\uFF1A",paraId:114,tocIndex:54},{value:"<E>",paraId:114,tocIndex:54},{value:"\uFF09\uFF0C\u79F0\u4E3A\u6CDB\u578B\u7C7B\u3001\u6CDB\u578B\u63A5\u53E3\u3001\u6CDB\u578B\u65B9\u6CD5\u3001\u5B83\u4EEC\u7EDF\u79F0\u4E3A\u6CDB\u578B\u3002\u7528\u4F5C\u7279\u6307.",paraId:114,tocIndex:54},{value:"\u81EA\u5B9A\u4E49\u6CDB\u578B\u7C7B\u7684\u683C\u5F0F\u5982\u4E0B",paraId:115,tocIndex:54},{value:`//\u8FD9\u91CC\u7684<T,W>\u5176\u5B9E\u6307\u7684\u5C31\u662F\u7C7B\u578B\u53D8\u91CF\uFF0C\u53EF\u4EE5\u662F\u4E00\u4E2A\uFF0C\u4E5F\u53EF\u4EE5\u662F\u591A\u4E2A\u3002
+public class \u7C7B\u540D<T,W>{
+    
+}
+`,paraId:116,tocIndex:54},{value:"\u6CDB\u578B\u63A5\u53E3\u5176\u5B9E\u6307\u7684\u662F\u5728\u63A5\u53E3\u4E2D\u628A\u4E0D\u786E\u5B9A\u7684\u6570\u636E\u7C7B\u578B\u7528",paraId:117,tocIndex:54},{value:"<\u7C7B\u578B\u53D8\u91CF>",paraId:117,tocIndex:54},{value:"\u8868\u793A\u3002\u5B9A\u4E49\u683C\u5F0F\u5982\u4E0B\uFF1A",paraId:117,tocIndex:54},{value:`//\u8FD9\u91CC\u7684\u7C7B\u578B\u53D8\u91CF\uFF0C\u4E00\u822C\u662F\u4E00\u4E2A\u5B57\u6BCD\uFF0C\u6BD4\u5982<E>
+public interface \u63A5\u53E3\u540D<\u7C7B\u578B\u53D8\u91CF>{
+    
+}
+`,paraId:118,tocIndex:54},{value:"\u4E0B\u6CDB\u578B\u65B9\u6CD5",paraId:119,tocIndex:54},{value:`public <\u6CDB\u578B\u53D8\u91CF,\u6CDB\u578B\u53D8\u91CF> \u8FD4\u56DE\u503C\u7C7B\u578B \u65B9\u6CD5\u540D(\u5F62\u53C2\u5217\u8868){
+    
+}
+`,paraId:120,tocIndex:54},{value:"\u4E00\u4E2A\u6CDB\u578B\u65B9\u6CD5\u7684\u6848\u4F8B",paraId:121,tocIndex:54},{value:`public class Test{
+    public static void main(String[] args){
+        //\u8C03\u7528test\u65B9\u6CD5\uFF0C\u4F20\u9012\u5B57\u7B26\u4E32\u6570\u636E\uFF0C\u90A3\u4E48test\u65B9\u6CD5\u7684\u6CDB\u578B\u5C31\u662FString\u7C7B\u578B
+        String rs = test("test");
+    
+        //\u8C03\u7528test\u65B9\u6CD5\uFF0C\u4F20\u9012Dog\u5BF9\u8C61\uFF0C\u90A3\u4E48test\u65B9\u6CD5\u7684\u6CDB\u578B\u5C31\u662FDog\u7C7B\u578B
+    	Dog d = test(new Dog()); 
+    }
+    
+    //\u8FD9\u662F\u4E00\u4E2A\u6CDB\u578B\u65B9\u6CD5<T>\u8868\u793A\u4E00\u4E2A\u4E0D\u786E\u5B9A\u7684\u6570\u636E\u7C7B\u578B\uFF0C\u7531\u8C03\u7528\u8005\u786E\u5B9A
+    public static <T> T test(T t){
+        return t;
+    }
+}
+`,paraId:122,tocIndex:54},{value:"\u6CDB\u578B\u53EA\u80FD\u7F16\u8BD1\u9636\u6BB5\u6709\u6548\uFF0C\u4E00\u65E6\u7F16\u8BD1\u6210\u5B57\u8282\u7801\uFF0C\u5B57\u8282\u7801\u4E2D\u662F\u4E0D\u5305\u542B\u6CDB\u578B\u7684**\u3002\u800C\u4E14\u6CDB\u578B\u53EA\u652F\u6301\u5F15\u7528\u6570\u636E\u7C7B\u578B\uFF0C\u4E0D\u652F\u6301\u57FA\u672C\u6570\u636E\u7C7B\u578B\u3002",paraId:123,tocIndex:55},{value:"\u7C7B\u91CD\u5199toString()\u65B9\u6CD5\uFF0C\u53EF\u4EE5\u81EA\u5B9A\u4E49\u8F93\u51FA\u503C",paraId:124,tocIndex:58},{value:`public class Student{
+    private String name;
+    private int age;
+    
+    public Student(String name, int age){
+        this.name=name;
+        this.age=age;
+    }
+    
+    @Override
+    public String toString(){
+        return "Student{name=\u2018"+name+"\u2019, age="+age+"}";
+    }
+}
+`,paraId:125,tocIndex:58},{value:'\u5224\u65AD\u6B64\u5BF9\u8C61\u4E0E\u53C2\u6570\u5BF9\u8C61\u662F\u5426"\u76F8\u7B49"',paraId:126,tocIndex:59},{value:'equals\u672C\u8EAB\u4E5F\u662F\u6BD4\u8F83\u5BF9\u8C61\u7684\u5730\u5740\uFF0C\u548C"=="\u6CA1\u6709\u533A\u522B',paraId:127,tocIndex:59},{value:"equals\u65B9\u6CD5\u91CD\u5199,\u81EA\u5B9A\u4E49\u6BD4\u8F83\u65B9\u5F0F",paraId:128,tocIndex:59},{value:`public class Student {
+    private String name;
+    private int age;
+    
+    public Student(String name, int age){
+        this.name=name;
+        this.age=age;
+    }
+    
+    @Override
+    public String toString(){
+        return "Student{name=\u2018"+name+"\u2019, age="+age+"}";
+    }
+    
+    //\u91CD\u5199equals\u65B9\u6CD5\uFF0C\u6309\u7167\u5BF9\u8C61\u7684\u5C5E\u6027\u503C\u8FDB\u884C\u6BD4\u8F83
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Student student = (Student) o;
+
+        if (age != student.age) return false;
+        return name != null ? name.equals(student.name) : student.name == null;
+    }
+}
+`,paraId:129,tocIndex:59},{value:"Object\u7C7B\u7684clone()\u65B9\u6CD5\uFF0C\u6D45\u514B\u9686\u3002\u610F\u601D\u5C31\u662F\u67D0\u4E00\u4E2A\u5BF9\u8C61\u8C03\u7528\u8FD9\u4E2A\u65B9\u6CD5\uFF0C\u8FD9\u4E2A\u65B9\u6CD5\u4F1A\u590D\u5236\u4E00\u4E2A\u4E00\u6A21\u4E00\u6837\u7684\u65B0\u5BF9\u8C61\uFF0C\u5E76\u8FD4\u56DE\u3002",paraId:130,tocIndex:60},{value:"\u60F3\u8981\u8C03\u7528clone()\u65B9\u6CD5\uFF0C\u5FC5\u987B\u8BA9\u88AB\u514B\u9686\u7684\u7C7B\u5B9E\u73B0Cloneable\u63A5\u53E3",paraId:131,tocIndex:60},{value:`public class User implements Cloneable{
+    private String id; //\u7F16\u53F7
+    private String username; //\u7528\u6237\u540D
+    private String password; //\u5BC6\u7801
+    private double[] scores; //\u5206\u6570
+
+    public User() {
+    }
+
+    public User(String id, String username, String password, double[] scores) {
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.scores = scores;
+    }
+
+    //...get\u548Cset...\u65B9\u6CD5\u81EA\u5DF1\u52A0\u4E0A
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+}
+`,paraId:132,tocIndex:60},{value:"\u6DF1\u62F7\u8D1D",paraId:133,tocIndex:60},{value:`public class User implements Cloneable{
+    private String id; //\u7F16\u53F7
+    private String username; //\u7528\u6237\u540D
+    private String password; //\u5BC6\u7801
+    private double[] scores; //\u5206\u6570
+
+    public User() {
+    }
+
+    public User(String id, String username, String password, double[] scores) {
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.scores = scores;
+    }
+
+    //...get\u548Cset...\u65B9\u6CD5\u81EA\u5DF1\u52A0\u4E0A
+
+	@Override
+    protected Object clone() throws CloneNotSupportedException {
+        //\u5148\u514B\u9686\u5F97\u5230\u4E00\u4E2A\u65B0\u5BF9\u8C61
+        User u = (User) super.clone();
+        //\u518D\u5C06\u65B0\u5BF9\u8C61\u4E2D\u7684\u5F15\u7528\u7C7B\u578B\u6570\u636E\uFF0C\u518D\u6B21\u514B\u9686
+        u.scores = u.scores.clone();
+        return u;
+    }
+}
+`,paraId:134,tocIndex:60},{value:"Objects\u7C7B",paraId:135,tocIndex:60},{value:"Objects\u662F\u4E00\u4E2A\u5DE5\u5177\u7C7B\uFF0C\u63D0\u4F9B\u4E86\u4E00\u4E9B\u65B9\u6CD5\u53EF\u4EE5\u5BF9\u4EFB\u610F\u5BF9\u8C61\u8FDB\u884C\u64CD\u4F5C\u3002",paraId:136,tocIndex:60},{value:"equals/isNull/nonNull",paraId:137,tocIndex:60},{value:`public class Test{
+    public static void main(String[] args){
+        String s1 = null;
+        String s2 = "itheima";
+        
+        //\u8FD9\u91CC\u4F1A\u51FA\u73B0NullPointerException\u5F02\u5E38\uFF0C\u8C03\u7528\u8005\u4E0D\u80FD\u4E3Anull
+        System.out.println(s1.equals(s2));
+        //\u6B64\u65F6\u4E0D\u4F1A\u6709NullPointerException\u5F02\u5E38\uFF0C\u5E95\u5C42\u4F1A\u81EA\u52A8\u5148\u5224\u65AD\u7A7A
+        System.out.println(Objects.equals(s1,s2));
+        
+        //\u5224\u65AD\u5BF9\u8C61\u662F\u5426\u4E3Anull\uFF0C\u7B49\u4EF7\u4E8E==
+        System.out.println(Objects.isNull(s1)); //true
+        System.out.println(s1==null); //true
+        
+        //\u5224\u65AD\u5BF9\u8C61\u662F\u5426\u4E0D\u4E3Anull\uFF0C\u7B49\u4EF7\u4E8E!=
+        System.out.println(Objects.nonNull(s2)); //true
+        System.out.println(s2!=null); //true
+    }
+}
+`,paraId:138,tocIndex:60},{value:"\u5305\u88C5\u7C7B\u7684\u4E00\u4E2A\u7279\u6027\u53EB\u81EA\u52A8\u88C5\u7BB1\u548C\u81EA\u52A8\u62C6\u7BB1\u3002\u4EE5Integer\u4E3A\u4F8B",paraId:139,tocIndex:61},{value:`//1.\u521B\u5EFAInteger\u5BF9\u8C61\uFF0C\u5C01\u88C5\u57FA\u672C\u7C7B\u578B\u6570\u636E10
+Integer a = new Integer(10);
+
+//2.\u4F7F\u7528Integer\u7C7B\u7684\u9759\u6001\u65B9\u6CD5valueOf(\u6570\u636E)
+Integer b = Integer.valueOf(10);
+
+//3.\u8FD8\u6709\u4E00\u79CD\u81EA\u52A8\u88C5\u7BB1\u7684\u5199\u6CD5\uFF08\u610F\u601D\u5C31\u662F\u81EA\u52A8\u5C06\u57FA\u672C\u7C7B\u578B\u8F6C\u6362\u4E3A\u5F15\u7528\u7C7B\u578B\uFF09
+Integer c = 10;
+
+//4.\u6709\u88C5\u7BB1\u80AF\u5B9A\u8FD8\u6709\u62C6\u7BB1\uFF08\u610F\u601D\u5C31\u662F\u81EA\u52A8\u5C06\u5F15\u7528\u7C7B\u578B\u8F6C\u6362\u4E3A\u57FA\u672C\u7C7B\u578B\uFF09
+int d = c;
+
+//5.\u88C5\u7BB1\u548C\u62C6\u7BB1\u5728\u4F7F\u7528\u96C6\u5408\u65F6\u5C31\u6709\u4F53\u73B0
+ArrayList<Integer> list = new ArrayList<>();
+//\u6DFB\u52A0\u7684\u5143\u7D20\u662F\u57FA\u672C\u7C7B\u578B\uFF0C\u5B9E\u9645\u4E0A\u4F1A\u81EA\u52A8\u88C5\u7BB1\u4E3AInteger\u7C7B\u578B
+list.add(100);
+//\u83B7\u53D6\u5143\u7D20\u65F6\uFF0C\u4F1A\u5C06Integer\u7C7B\u578B\u81EA\u52A8\u62C6\u7BB1\u4E3Aint\u7C7B\u578B
+int e = list.get(0);
+`,paraId:140,tocIndex:61},{value:"\u5728\u5F00\u53D1\u4E2D\uFF0C\u7ECF\u5E38\u4F7F\u7528\u5305\u88C5\u7C7B\u5BF9\u5B57\u7B26\u4E32\u548C\u57FA\u672C\u7C7B\u578B\u6570\u636E\u8FDB\u884C\u76F8\u4E92\u8F6C\u6362\u3002",paraId:141,tocIndex:62},{value:"\u628A\u5B57\u7B26\u4E32\u8F6C\u6362\u4E3A\u6570\u503C\u578B\u6570\u636E\uFF1A\u5305\u88C5\u7C7B.parseXxx(\u5B57\u7B26\u4E32)",paraId:142,tocIndex:62},{value:`public static int parseInt(String s)
+//\u628A\u5B57\u7B26\u4E32\u8F6C\u6362\u4E3A\u57FA\u672C\u6570\u636E\u7C7B\u578B
+`,paraId:143,tocIndex:62},{value:"\u5C06\u6570\u503C\u578B\u6570\u636E\u8F6C\u6362\u4E3A\u5B57\u7B26\u4E32\uFF1A\u5305\u88C5\u7C7B.valueOf(\u6570\u636E);",paraId:144,tocIndex:62},{value:`public static String valueOf(int a)
+//\u628A\u57FA\u672C\u7C7B\u578B\u6570\u636E\u8F6C\u6362\u4E3A
+`,paraId:145,tocIndex:62},{value:"\u5199\u4E00\u4E2A\u6D4B\u8BD5\u7C7B\u6F14\u793A\u4E00\u4E0B",paraId:146,tocIndex:62},{value:`//1.\u5B57\u7B26\u4E32\u8F6C\u6362\u4E3A\u6570\u503C\u578B\u6570\u636E
+String ageStr = "29";
+int age1 = Integer.parseInt(ageStr);
+
+String scoreStr = 3.14;
+double score = Double.prarseDouble(scoreStr);
+
+//2.\u6574\u6570\u8F6C\u6362\u4E3A\u5B57\u7B26\u4E32\uFF0C\u4EE5\u4E0B\u51E0\u79CD\u65B9\u5F0F\u90FD\u53EF\u4EE5\uFF08\u6311\u4E2D\u4F60\u559C\u6B22\u7684\u8BB0\u4E00\u4E0B\uFF09
+Integer a = 23;
+String s1 = Integer.toString(a);
+String s2 = a.toString();
+String s3 = a+"";
+String s4 = String.valueOf(a);
+`,paraId:147,tocIndex:62},{value:`public class Test{
+    public static void main(String[] args){
+        StringBuilder sb = new StringBuilder("itehima");
+        
+        //1.\u62FC\u63A5\u5185\u5BB9
+        sb.append(12);
+        sb.append("123");
+        sb.append(true);
+        
+        //2.append\u65B9\u6CD5\uFF0C\u652F\u6301\u4E34\u65F6\u7F16\u7A0B
+        sb.append(666).append("123").append(666);
+        System.out.println(sb); //\u6253\u5370\uFF1A12\u9ED1\u9A6C666\u9ED1\u9A6C2666
+        
+        //3.\u53CD\u8F6C\u64CD\u4F5C
+        sb.reverse();
+        System.out.println(sb); //\u6253\u5370\uFF1A6662\u9A6C\u9ED1666\u9A6C\u9ED121
+        
+        //4.\u8FD4\u56DE\u5B57\u7B26\u4E32\u7684\u957F\u5EA6
+        System.out.println(sb.length());
+        
+        //5.StringBuilder\u8FD8\u53EF\u4EE5\u8F6C\u6362\u4E3A\u5B57\u7B26\u4E32
+        String s = sb.toString();
+        System.out.println(s); //\u6253\u5370\uFF1A6662\u9A6C\u9ED1666\u9A6C\u9ED121
+    }
+}
+`,paraId:148,tocIndex:63},{value:"\u5B83\u63D0\u4F9B\u4E86\u4E00\u4E9B\u65B9\u6CD5\u53EF\u4EE5\u5BF9\u6570\u636E\u8FDB\u884C\u56DB\u5219\u8FD0\u7B97\uFF0C\u800C\u4E14\u4E0D\u4E22\u5931\u7CBE\u5EA6\uFF0C\u540C\u65F6\u8FD8\u53EF\u4EE5\u4FDD\u7559\u6307\u5B9A\u7684\u5C0F\u6570\u4F4D\u3002",paraId:149,tocIndex:64},{value:"\u6F14\u793A\u4E00\u4E0B",paraId:150,tocIndex:64},{value:`public class Test2 {
+    public static void main(String[] args) {
+        // \u76EE\u6807\uFF1A\u638C\u63E1BigDecimal\u8FDB\u884C\u7CBE\u786E\u8FD0\u7B97\u7684\u65B9\u6848\u3002
+        double a = 0.1;
+        double b = 0.2;
+
+        // 1\u3001\u628A\u6D6E\u70B9\u578B\u6570\u636E\u5C01\u88C5\u6210BigDecimal\u5BF9\u8C61\uFF0C\u518D\u6765\u53C2\u4E0E\u8FD0\u7B97\u3002
+        // a\u3001public BigDecimal(double val) \u5F97\u5230\u7684BigDecimal\u5BF9\u8C61\u662F\u65E0\u6CD5\u7CBE\u786E\u8BA1\u7B97\u6D6E\u70B9\u578B\u6570\u636E\u7684\u3002 \u6CE8\u610F\uFF1A\u4E0D\u63A8\u8350\u4F7F\u7528\u8FD9\u4E2A\uFF0C
+        // b\u3001public BigDecimal(String val)  \u5F97\u5230\u7684BigDecimal\u5BF9\u8C61\u662F\u53EF\u4EE5\u7CBE\u786E\u8BA1\u7B97\u6D6E\u70B9\u578B\u6570\u636E\u7684\u3002 \u53EF\u4EE5\u4F7F\u7528\u3002
+        // c\u3001public static BigDecimal valueOf(double val): \u901A\u8FC7\u8FD9\u4E2A\u9759\u6001\u65B9\u6CD5\u5F97\u5230\u7684BigDecimal\u5BF9\u8C61\u662F\u53EF\u4EE5\u7CBE\u786E\u8FD0\u7B97\u7684\u3002\u662F\u6700\u597D\u7684\u65B9\u6848\u3002
+        BigDecimal a1 = BigDecimal.valueOf(a);
+        BigDecimal b1 = BigDecimal.valueOf(b);
+
+        // 2\u3001public BigDecimal add(BigDecimal augend): \u52A0\u6CD5
+        BigDecimal c1 = a1.add(b1);
+        System.out.println(c1);
+
+        // 3\u3001public BigDecimal subtract(BigDecimal augend): \u51CF\u6CD5
+        BigDecimal c2 = a1.subtract(b1);
+        System.out.println(c2);
+
+        // 4\u3001public BigDecimal multiply(BigDecimal augend): \u4E58\u6CD5
+        BigDecimal c3 = a1.multiply(b1);
+        System.out.println(c3);
+
+        // 5\u3001public BigDecimal divide(BigDecimal b): \u9664\u6CD5
+        BigDecimal c4 = a1.divide(b1);
+        System.out.println(c4);
+
+//        BigDecimal d1 = BigDecimal.valueOf(0.1);
+//        BigDecimal d2 = BigDecimal.valueOf(0.3);
+//        BigDecimal d3 = d1.divide(d2);
+//        System.out.println(d3);
+
+        // 6\u3001public BigDecimal divide(\u53E6\u4E00\u4E2ABigDecimal\u5BF9\u8C61\uFF0C\u7CBE\u786E\u51E0\u4F4D\uFF0C\u820D\u5165\u6A21\u5F0F) : \u9664\u6CD5\uFF0C\u53EF\u4EE5\u8BBE\u7F6E\u7CBE\u786E\u51E0\u4F4D\u3002
+        BigDecimal d1 = BigDecimal.valueOf(0.1);
+        BigDecimal d2 = BigDecimal.valueOf(0.3);
+        BigDecimal d3 = d1.divide(d2,  2, RoundingMode.HALF_UP); // 0.33
+        System.out.println(d3);
+
+        // 7\u3001public double doubleValue() : \u628ABigDecimal\u5BF9\u8C61\u53C8\u8F6C\u6362\u6210double\u7C7B\u578B\u7684\u6570\u636E\u3002
+        //print(d3);
+        //print(c1);
+        double db1 = d3.doubleValue();
+        double db2 = c1.doubleValue();
+        print(db1);
+        print(db2);
+    }
+
+    public static void print(double a){
+        System.out.println(a);
+    }
+}
+
+`,paraId:151,tocIndex:64},{value:`public class Test1Date {
+    public static void main(String[] args) {
+        // \u76EE\u6807\uFF1A\u638C\u63E1Date\u65E5\u671F\u7C7B\u7684\u4F7F\u7528\u3002
+        // 1\u3001\u521B\u5EFA\u4E00\u4E2ADate\u7684\u5BF9\u8C61\uFF1A\u4EE3\u8868\u7CFB\u7EDF\u5F53\u524D\u65F6\u95F4\u4FE1\u606F\u7684\u3002
+        Date d = new Date();
+        System.out.println(d);
+
+        // 2\u3001\u62FF\u5230\u65F6\u95F4\u6BEB\u79D2\u503C\u3002
+        long time = d.getTime();
+        System.out.println(time);
+
+        // 3\u3001\u628A\u65F6\u95F4\u6BEB\u79D2\u503C\u8F6C\u6362\u6210\u65E5\u671F\u5BF9\u8C61\uFF1A 2s\u4E4B\u540E\u7684\u65F6\u95F4\u662F\u591A\u5C11\u3002
+        time += 2 * 1000;
+        Date d2 = new Date(time);
+        System.out.println(d2);
+
+        // 4\u3001\u76F4\u63A5\u628A\u65E5\u671F\u5BF9\u8C61\u7684\u65F6\u95F4\u901A\u8FC7setTime\u65B9\u6CD5\u8FDB\u884C\u4FEE\u6539
+        Date d3 = new Date();
+        d3.setTime(time);
+        System.out.println(d3);
+    }
+}
+`,paraId:152,tocIndex:65},{value:"SimpleDateFormat\u7C7B\u5C31\u53EF\u4EE5\u8F6C\u6362Date\u5BF9\u8C61\u8868\u793A\u65E5\u671F\u65F6\u95F4\u7684\u663E\u793A\u683C\u5F0F\u3002",paraId:153,tocIndex:66},{value:`public class Test2SimpleDateFormat {
+    public static void main(String[] args) throws ParseException {
+        // \u76EE\u6807\uFF1A\u638C\u63E1SimpleDateFormat\u7684\u4F7F\u7528\u3002
+        // 1\u3001\u51C6\u5907\u4E00\u4E9B\u65F6\u95F4
+        Date d = new Date();
+        System.out.println(d);
+
+        long time = d.getTime();
+        System.out.println(time);
+
+        // 2\u3001\u683C\u5F0F\u5316\u65E5\u671F\u5BF9\u8C61\uFF0C\u548C\u65F6\u95F4 \u6BEB\u79D2\u503C\u3002
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy\u5E74MM\u6708dd\u65E5 HH:mm:ss EEE a");
+
+        String rs = sdf.format(d);
+        String rs2 = sdf.format(time);
+        System.out.println(rs);
+        System.out.println(rs2);
+        System.out.println("----------------------------------------------");
+
+        // \u76EE\u6807\uFF1A\u638C\u63E1SimpleDateFormat\u89E3\u6790\u5B57\u7B26\u4E32\u65F6\u95F4 \u6210\u4E3A\u65E5\u671F\u5BF9\u8C61\u3002
+        String dateStr = "2022-12-12 12:12:11";
+        // 1\u3001\u521B\u5EFA\u7B80\u5355\u65E5\u671F\u683C\u5F0F\u5316\u5BF9\u8C61 , \u6307\u5B9A\u7684\u65F6\u95F4\u683C\u5F0F\u5FC5\u987B\u4E0E\u88AB\u89E3\u6790\u7684\u65F6\u95F4\u683C\u5F0F\u4E00\u6A21\u4E00\u6837\uFF0C\u5426\u5219\u7A0B\u5E8F\u4F1A\u51FAbug.
+        SimpleDateFormat sdf2 = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        Date d2 = sdf2.parse(dateStr);
+        System.out.println(d2);
+    }
+}
+`,paraId:154,tocIndex:66},{value:`public class Test4Calendar {
+    public static void main(String[] args) {
+        // \u76EE\u6807\uFF1A\u638C\u63E1Calendar\u7684\u4F7F\u7528\u548C\u7279\u70B9\u3002
+        // 1\u3001\u5F97\u5230\u7CFB\u7EDF\u6B64\u523B\u65F6\u95F4\u5BF9\u5E94\u7684\u65E5\u5386\u5BF9\u8C61\u3002
+        Calendar now = Calendar.getInstance();
+        System.out.println(now);
+
+        // 2\u3001\u83B7\u53D6\u65E5\u5386\u4E2D\u7684\u67D0\u4E2A\u4FE1\u606F
+        int year = now.get(Calendar.YEAR);
+        System.out.println(year);
+
+        int days = now.get(Calendar.DAY_OF_YEAR);
+        System.out.println(days);
+
+        // 3\u3001\u62FF\u5230\u65E5\u5386\u4E2D\u8BB0\u5F55\u7684\u65E5\u671F\u5BF9\u8C61\u3002
+        Date d = now.getTime();
+        System.out.println(d);
+
+        // 4\u3001\u62FF\u5230\u65F6\u95F4\u6BEB\u79D2\u503C
+        long time = now.getTimeInMillis();
+        System.out.println(time);
+
+        // 5\u3001\u4FEE\u6539\u65E5\u5386\u4E2D\u7684\u67D0\u4E2A\u4FE1\u606F
+        now.set(Calendar.MONTH, 9); // \u4FEE\u6539\u6708\u4EFD\u6210\u4E3A10\u6708\u4EFD\u3002
+        now.set(Calendar.DAY_OF_YEAR, 125); // \u4FEE\u6539\u6210\u4E00\u5E74\u4E2D\u7684\u7B2C125\u5929\u3002
+        System.out.println(now);
+
+        // 6\u3001\u4E3A\u67D0\u4E2A\u4FE1\u606F\u589E\u52A0\u6216\u8005\u51CF\u5C11\u591A\u5C11
+        now.add(Calendar.DAY_OF_YEAR, 100);
+        now.add(Calendar.DAY_OF_YEAR, -10);
+        now.add(Calendar.DAY_OF_MONTH, 6);
+        now.add(Calendar.HOUR, 12);
+        now.set(2026, 11, 22);
+        System.out.println(now);
+    }
+}
+`,paraId:155,tocIndex:67},{value:"1\u3001\u8BBE\u8BA1\u4E0D\u5408\u7406\uFF0C\u4F7F\u7528\u4E0D\u65B9\u4FBF\uFF0C\u5F88\u591A\u90FD\u88AB\u6DD8\u6C70\u4E86\u3002",paraId:156,tocIndex:68},{value:"2\u3001\u90FD\u662F\u53EF\u53D8\u5BF9\u8C61\uFF0C\u4FEE\u6539\u540E\u4F1A\u4E22\u5931\u6700\u5F00\u59CB\u7684\u65F6\u95F4\u4FE1\u606F\u3002",paraId:157,tocIndex:68},{value:"3\u3001\u7EBF\u7A0B\u4E0D\u5B89\u5168\u3002",paraId:158,tocIndex:68},{value:"4\u3001\u4E0D\u80FD\u7CBE\u786E\u5230\u7EB3\u79D2\uFF0C\u53EA\u80FD\u7CBE\u786E\u5230\u6BEB\u79D2\u3002",paraId:159,tocIndex:68},{value:"\u5148\u5B66\u4E60\u8868\u793A\u65E5\u671F\u3001\u65F6\u95F4\u3001\u65E5\u671F\u65F6\u95F4\u7684\u7C7B\uFF1B\u6709LocalDate\u3001LocalTime\u3001\u4EE5\u53CALocalDateTime\u7C7B\u3002\u4ED4\u7EC6\u9605\u8BFB\u4EE3\u7801\uFF0C\u4F60\u4F1A\u53D1\u73B0\u8FD9\u4E09\u4E2A\u7C7B\u7684\u7528\u6CD5\u5957\u8DEF\u90FD\u662F\u4E00\u6837\u7684\u3002",paraId:160,tocIndex:68},{value:`public class Test1_LocalDate {
+    public static void main(String[] args) {
+        // 0\u3001\u83B7\u53D6\u672C\u5730\u65E5\u671F\u5BF9\u8C61(\u4E0D\u53EF\u53D8\u5BF9\u8C61)
+        LocalDate ld = LocalDate.now(); // \u5E74 \u6708 \u65E5
+        System.out.println(ld);
+
+        // 1\u3001\u83B7\u53D6\u65E5\u671F\u5BF9\u8C61\u4E2D\u7684\u4FE1\u606F
+        int year = ld.getYear(); // \u5E74
+        int month = ld.getMonthValue(); // \u6708(1-12)
+        int day = ld.getDayOfMonth(); // \u65E5
+        int dayOfYear = ld.getDayOfYear();  // \u4E00\u5E74\u4E2D\u7684\u7B2C\u51E0\u5929
+        int dayOfWeek = ld.getDayOfWeek().getValue(); // \u661F\u671F\u51E0
+        System.out.println(year);
+        System.out.println(day);
+        System.out.println(dayOfWeek);
+
+        // 2\u3001\u76F4\u63A5\u4FEE\u6539\u67D0\u4E2A\u4FE1\u606F: withYear\u3001withMonth\u3001withDayOfMonth\u3001withDayOfYear
+        LocalDate ld2 = ld.withYear(2099);
+        LocalDate ld3 = ld.withMonth(12);
+        System.out.println(ld2);
+        System.out.println(ld3);
+        System.out.println(ld);
+
+        // 3\u3001\u628A\u67D0\u4E2A\u4FE1\u606F\u52A0\u591A\u5C11: plusYears\u3001plusMonths\u3001plusDays\u3001plusWeeks
+        LocalDate ld4 = ld.plusYears(2);
+        LocalDate ld5 = ld.plusMonths(2);
+
+        // 4\u3001\u628A\u67D0\u4E2A\u4FE1\u606F\u51CF\u591A\u5C11\uFF1AminusYears\u3001minusMonths\u3001minusDays\u3001minusWeeks
+        LocalDate ld6 = ld.minusYears(2);
+        LocalDate ld7 = ld.minusMonths(2);
+
+        // 5\u3001\u83B7\u53D6\u6307\u5B9A\u65E5\u671F\u7684LocalDate\u5BF9\u8C61\uFF1A public static LocalDate of(int year, int month, int dayOfMonth)
+        LocalDate ld8 = LocalDate.of(2099, 12, 12);
+        LocalDate ld9 = LocalDate.of(2099, 12, 12);
+
+        // 6\u3001\u5224\u65AD2\u4E2A\u65E5\u671F\u5BF9\u8C61\uFF0C\u662F\u5426\u76F8\u7B49\uFF0C\u5728\u524D\u8FD8\u662F\u5728\u540E\uFF1A equals isBefore isAfter
+        System.out.println(ld8.equals(ld9));// true
+        System.out.println(ld8.isAfter(ld)); // true
+        System.out.println(ld8.isBefore(ld)); // false
+    }
+}
+`,paraId:161,tocIndex:69},{value:`public class Test2_LocalTime {
+    public static void main(String[] args) {
+        // 0\u3001\u83B7\u53D6\u672C\u5730\u65F6\u95F4\u5BF9\u8C61
+        LocalTime lt = LocalTime.now(); // \u65F6 \u5206 \u79D2 \u7EB3\u79D2 \u4E0D\u53EF\u53D8\u7684
+        System.out.println(lt);
+
+        // 1\u3001\u83B7\u53D6\u65F6\u95F4\u4E2D\u7684\u4FE1\u606F
+        int hour = lt.getHour(); //\u65F6
+        int minute = lt.getMinute(); //\u5206
+        int second = lt.getSecond(); //\u79D2
+        int nano = lt.getNano(); //\u7EB3\u79D2
+
+        // 2\u3001\u4FEE\u6539\u65F6\u95F4\uFF1AwithHour\u3001withMinute\u3001withSecond\u3001withNano
+        LocalTime lt3 = lt.withHour(10);
+        LocalTime lt4 = lt.withMinute(10);
+        LocalTime lt5 = lt.withSecond(10);
+        LocalTime lt6 = lt.withNano(10);
+
+        // 3\u3001\u52A0\u591A\u5C11\uFF1AplusHours\u3001plusMinutes\u3001plusSeconds\u3001plusNanos
+        LocalTime lt7 = lt.plusHours(10);
+        LocalTime lt8 = lt.plusMinutes(10);
+        LocalTime lt9 = lt.plusSeconds(10);
+        LocalTime lt10 = lt.plusNanos(10);
+
+        // 4\u3001\u51CF\u591A\u5C11\uFF1AminusHours\u3001minusMinutes\u3001minusSeconds\u3001minusNanos
+        LocalTime lt11 = lt.minusHours(10);
+        LocalTime lt12 = lt.minusMinutes(10);
+        LocalTime lt13 = lt.minusSeconds(10);
+        LocalTime lt14 = lt.minusNanos(10);
+
+        // 5\u3001\u83B7\u53D6\u6307\u5B9A\u65F6\u95F4\u7684LocalTime\u5BF9\u8C61\uFF1A
+        // public static LocalTime of(int hour, int minute, int second)
+        LocalTime lt15 = LocalTime.of(12, 12, 12);
+        LocalTime lt16 = LocalTime.of(12, 12, 12);
+
+        // 6\u3001\u5224\u65AD2\u4E2A\u65F6\u95F4\u5BF9\u8C61\uFF0C\u662F\u5426\u76F8\u7B49\uFF0C\u5728\u524D\u8FD8\u662F\u5728\u540E\uFF1A equals isBefore isAfter
+        System.out.println(lt15.equals(lt16)); // true
+        System.out.println(lt15.isAfter(lt)); // false
+        System.out.println(lt15.isBefore(lt)); // true
+
+    }
+}
+`,paraId:162,tocIndex:70},{value:`public class Test3_LocalDateTime {
+    public static void main(String[] args) {
+        // 0\u3001\u83B7\u53D6\u672C\u5730\u65E5\u671F\u548C\u65F6\u95F4\u5BF9\u8C61\u3002
+        LocalDateTime ldt = LocalDateTime.now(); // \u5E74 \u6708 \u65E5 \u65F6 \u5206 \u79D2 \u7EB3\u79D2
+        System.out.println(ldt);
+
+        // 1\u3001\u53EF\u4EE5\u83B7\u53D6\u65E5\u671F\u548C\u65F6\u95F4\u7684\u5168\u90E8\u4FE1\u606F
+        int year = ldt.getYear(); // \u5E74
+        int month = ldt.getMonthValue(); // \u6708
+        int day = ldt.getDayOfMonth(); // \u65E5
+        int dayOfYear = ldt.getDayOfYear();  // \u4E00\u5E74\u4E2D\u7684\u7B2C\u51E0\u5929
+        int dayOfWeek = ldt.getDayOfWeek().getValue();  // \u83B7\u53D6\u662F\u5468\u51E0
+        int hour = ldt.getHour(); //\u65F6
+        int minute = ldt.getMinute(); //\u5206
+        int second = ldt.getSecond(); //\u79D2
+        int nano = ldt.getNano(); //\u7EB3\u79D2
+
+        // 2\u3001\u4FEE\u6539\u65F6\u95F4\u4FE1\u606F\uFF1A
+        // withYear withMonth withDayOfMonth withDayOfYear withHour
+        // withMinute withSecond withNano
+        LocalDateTime ldt2 = ldt.withYear(2029);
+        LocalDateTime ldt3 = ldt.withMinute(59);
+
+        // 3\u3001\u52A0\u591A\u5C11:
+        // plusYears  plusMonths plusDays plusWeeks plusHours plusMinutes plusSeconds plusNanos
+        LocalDateTime ldt4 = ldt.plusYears(2);
+        LocalDateTime ldt5 = ldt.plusMinutes(3);
+
+        // 4\u3001\u51CF\u591A\u5C11\uFF1A
+        // minusDays minusYears minusMonths minusWeeks minusHours minusMinutes minusSeconds minusNanos
+        LocalDateTime ldt6 = ldt.minusYears(2);
+        LocalDateTime ldt7 = ldt.minusMinutes(3);
+
+
+        // 5\u3001\u83B7\u53D6\u6307\u5B9A\u65E5\u671F\u548C\u65F6\u95F4\u7684LocalDateTime\u5BF9\u8C61\uFF1A
+        // public static LocalDateTime of(int year, Month month, int dayOfMonth, int hour,
+        //                                  int minute, int second, int nanoOfSecond)
+        LocalDateTime ldt8 = LocalDateTime.of(2029, 12, 12, 12, 12, 12, 1222);
+        LocalDateTime ldt9 = LocalDateTime.of(2029, 12, 12, 12, 12, 12, 1222);
+
+        // 6\u3001 \u5224\u65AD2\u4E2A\u65E5\u671F\u3001\u65F6\u95F4\u5BF9\u8C61\uFF0C\u662F\u5426\u76F8\u7B49\uFF0C\u5728\u524D\u8FD8\u662F\u5728\u540E\uFF1A equals\u3001isBefore\u3001isAfter
+        System.out.println(ldt9.equals(ldt8));
+        System.out.println(ldt9.isAfter(ldt));
+        System.out.println(ldt9.isBefore(ldt));
+
+        // 7\u3001\u53EF\u4EE5\u628ALocalDateTime\u8F6C\u6362\u6210LocalDate\u548CLocalTime
+        // public LocalDate toLocalDate()
+        // public LocalTime toLocalTime()
+        // public static LocalDateTime of(LocalDate date, LocalTime time)
+        LocalDate ld = ldt.toLocalDate();
+        LocalTime lt = ldt.toLocalTime();
+        LocalDateTime ldt10 = LocalDateTime.of(ld, lt);
+
+    }
+}
+`,paraId:163,tocIndex:71},{value:`/**
+ *  \u76EE\u6807\uFF1A\u638C\u63E1JDK 8\u65B0\u589E\u7684DateTimeFormatter\u683C\u5F0F\u5316\u5668\u7684\u7528\u6CD5\u3002
+ */
+public class Test6_DateTimeFormatter {
+    public static void main(String[] args) {
+        // 1\u3001\u521B\u5EFA\u4E00\u4E2A\u65E5\u671F\u65F6\u95F4\u683C\u5F0F\u5316\u5668\u5BF9\u8C61\u51FA\u6765\u3002
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy\u5E74MM\u6708dd\u65E5 HH:mm:ss");
+
+        // 2\u3001\u5BF9\u65F6\u95F4\u8FDB\u884C\u683C\u5F0F\u5316
+        LocalDateTime now = LocalDateTime.now();
+        System.out.println(now);
+
+        String rs = formatter.format(now); // \u6B63\u5411\u683C\u5F0F\u5316
+        System.out.println(rs);
+
+        // 3\u3001\u683C\u5F0F\u5316\u65F6\u95F4\uFF0C\u5176\u5B9E\u8FD8\u6709\u4E00\u79CD\u65B9\u6848\u3002
+        String rs2 = now.format(formatter); // \u53CD\u5411\u683C\u5F0F\u5316
+        System.out.println(rs2);
+
+        // 4\u3001\u89E3\u6790\u65F6\u95F4\uFF1A\u89E3\u6790\u65F6\u95F4\u4E00\u822C\u4F7F\u7528LocalDateTime\u63D0\u4F9B\u7684\u89E3\u6790\u65B9\u6CD5\u6765\u89E3\u6790\u3002
+        String dateStr = "2029\u5E7412\u670812\u65E5 12:12:11";
+        LocalDateTime ldt = LocalDateTime.parse(dateStr, formatter);
+        System.out.println(ldt);
+    }
+}
+`,paraId:164,tocIndex:72},{value:"\u9664\u4EE5\u4E86\u4E0A\u65B0\u589E\u7684\u7C7B\uFF0CJDK8\u8FD8\u8865\u5145\u4E86\u4E24\u4E2A\u7C7B\uFF0C\u4E00\u4E2A\u53EBPeriod\u7C7B\u3001\u4E00\u4E2A\u53EBDuration\u7C7B\uFF1B\u8FD9\u4E24\u4E2A\u7C7B\u53EF\u4EE5\u7528\u6765\u5BF9\u8BA1\u7B97\u4E24\u4E2A\u65F6\u95F4\u70B9\u7684\u65F6\u95F4\u95F4\u9694\u3002",paraId:165,tocIndex:73},{value:"\u5176\u4E2DPeriod\u7528\u6765\u8BA1\u7B97\u65E5\u671F\u95F4\u9694\uFF08\u5E74\u3001\u6708\u3001\u65E5\uFF09\uFF0CDuration\u7528\u6765\u8BA1\u7B97\u65F6\u95F4\u95F4\u9694\uFF08\u65F6\u3001\u5206\u3001\u79D2\u3001\u7EB3\u79D2\uFF09",paraId:166,tocIndex:73},{value:"\u5148\u6765\u6F14\u793APeriod\u7C7B\u7684\u7528\u6CD5\uFF0C\u5B83\u7684\u65B9\u6CD5\u5982\u4E0B\u56FE\u6240\u793A\u3002\u53EF\u4EE5\u7528\u6765\u8BA1\u7B97\u4E24\u4E2A\u65E5\u671F\u4E4B\u95F4\u76F8\u9694\u7684\u5E74\u3001\u76F8\u9694\u7684\u6708\u3001\u76F8\u9694\u7684\u65E5\u3002",paraId:167,tocIndex:73},{value:"\u53EA\u80FD\u4E24\u4E2A\u8BA1\u7B97LocalDate\u5BF9\u8C61\u4E4B\u95F4\u7684\u95F4\u9694",paraId:167,tocIndex:73},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1Period\u7684\u4F5C\u7528\uFF1A\u8BA1\u7B97\u673A\u4E24\u4E2A\u65E5\u671F\u76F8\u5DEE\u7684\u5E74\u6570\uFF0C\u6708\u6570\u3001\u5929\u6570\u3002
+ */
+public class Test7_Period {
+    public static void main(String[] args) {
+        LocalDate start = LocalDate.of(2029, 8, 10);
+        LocalDate end = LocalDate.of(2029, 12, 15);
+
+        // 1\u3001\u521B\u5EFAPeriod\u5BF9\u8C61\uFF0C\u5C01\u88C5\u4E24\u4E2A\u65E5\u671F\u5BF9\u8C61\u3002
+        Period period = Period.between(start, end);
+
+        // 2\u3001\u901A\u8FC7period\u5BF9\u8C61\u83B7\u53D6\u4E24\u4E2A\u65E5\u671F\u5BF9\u8C61\u76F8\u5DEE\u7684\u4FE1\u606F\u3002
+        System.out.println(period.getYears());
+        System.out.println(period.getMonths());
+        System.out.println(period.getDays());
+    }
+}
+`,paraId:168,tocIndex:73},{value:"\u63A5\u4E0B\u6765\uFF0C\u6211\u4EEC\u5B66\u4E60Duration\u7C7B\u3002\u5B83\u662F\u7528\u6765\u8868\u793A\u4E24\u4E2A\u65F6\u95F4\u5BF9\u8C61\u7684\u65F6\u95F4\u95F4\u9694\u3002",paraId:169,tocIndex:74},{value:"\u53EF\u4EE5\u7528\u4E8E\u8BA1\u7B97\u4E24\u4E2A\u65F6\u95F4\u5BF9\u8C61\u76F8\u5DEE\u7684\u5929\u6570\u3001\u5C0F\u65F6\u6570\u3001\u5206\u6570\u3001\u79D2\u6570\u3001\u7EB3\u79D2\u6570\uFF1B\u652F\u6301LocalTime\u3001LocalDateTime\u3001Instant\u7B49\u65F6\u95F4",paraId:169,tocIndex:74},{value:`public class Test8_Duration {
+    public static void main(String[] args) {
+        LocalDateTime start = LocalDateTime.of(2025, 11, 11, 11, 10, 10);
+        LocalDateTime end = LocalDateTime.of(2025, 11, 11, 11, 11, 11);
+        // 1\u3001\u5F97\u5230Duration\u5BF9\u8C61
+        Duration duration = Duration.between(start, end);
+
+        // 2\u3001\u83B7\u53D6\u4E24\u4E2A\u65F6\u95F4\u5BF9\u8C61\u95F4\u9694\u7684\u4FE1\u606F
+        System.out.println(duration.toDays());// \u95F4\u9694\u591A\u5C11\u5929
+        System.out.println(duration.toHours());// \u95F4\u9694\u591A\u5C11\u5C0F\u65F6
+        System.out.println(duration.toMinutes());// \u95F4\u9694\u591A\u5C11\u5206
+        System.out.println(duration.toSeconds());// \u95F4\u9694\u591A\u5C11\u79D2
+        System.out.println(duration.toMillis());// \u95F4\u9694\u591A\u5C11\u6BEB\u79D2
+        System.out.println(duration.toNanos());// \u95F4\u9694\u591A\u5C11\u7EB3\u79D2
+
+    }
+}
+`,paraId:170,tocIndex:74},{value:"Arrays\u662F\u64CD\u4F5C\u6570\u7EC4\u7684\u5DE5\u5177\u7C7B",paraId:171,tocIndex:75},{value:"Lamdba\u662F\u6709\u7279\u6709\u7684\u683C\u5F0F\u7684\uFF0C\u6309\u7167\u4E0B\u9762\u7684\u683C\u5F0F\u6765\u7F16\u5199Lamdba\u3002",paraId:172,tocIndex:76},{value:`(\u88AB\u91CD\u5199\u65B9\u6CD5\u7684\u5F62\u53C2\u5217\u8868) -> {
+    \u88AB\u91CD\u5199\u65B9\u6CD5\u7684\u65B9\u6CD5\u4F53\u4EE3\u7801;
+}
+`,paraId:173,tocIndex:76},{value:"\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\uFF0C\u7B80\u5316\u533F\u540D\u5185\u90E8\u7C7B\u4E66\u5199\u3002",paraId:174,tocIndex:76},{value:`public class LambdaTest1 {
+    public static void main(String[] args) {
+        // \u76EE\u6807\uFF1A\u8BA4\u8BC6Lambda\u8868\u8FBE\u5F0F.
+        //1.\u521B\u5EFA\u4E00\u4E2ASwimming\u63A5\u53E3\u7684\u533F\u540D\u5185\u90E8\u7C7B\u5BF9\u8C61
+		Swimming s = new Swimming(){
+             @Override
+             public void swim() {
+                 System.out.println("\u5B66\u751F\u5FEB\u4E50\u7684\u6E38\u6CF3\`\`\`~");
+             }
+         };
+         s.swim();
+		
+        //2.\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\u5BF9Swimming\u63A5\u53E3\u7684\u533F\u540D\u5185\u90E8\u7C7B\u8FDB\u884C\u7B80\u5316
+        Swimming s1 = () -> {
+              System.out.println("\u5B66\u751F\u5FEB\u4E50\u7684\u6E38\u6CF3\`\`\`~");
+        };
+        
+        s1.swim();
+    }
+}
+`,paraId:175,tocIndex:76},{value:"\u63A5\u4E0B\u6765\u4ECE\u533F\u540D\u5185\u90E8\u7C7B\u5F00\u59CB\u3001\u5230Lambda\u6807\u51C6\u683C\u5F0F\u3001\u518D\u5230Lambda\u7B80\u5316\u683C\u5F0F\uFF0C\u4E00\u6B65\u4E00\u6B65\u6765\u7B80\u5316\u4E00\u4E0B\u3002",paraId:176,tocIndex:77},{value:`public class LambdaTest2 {
+    public static void main(String[] args) {
+        // \u76EE\u6807\uFF1A\u4F7F\u7528Lambda\u7B80\u5316\u51FD\u6570\u5F0F\u63A5\u53E3\u3002
+        double[] prices = {99.8, 128, 100};
+		//1.\u5BF9\u6570\u7EC4\u4E2D\u7684\u6BCF\u4E00\u4E2A\u5143\u7D20*0.8: \u533F\u540D\u5185\u90E8\u7C7B\u5199\u6CD5
+        Arrays.setAll(prices, new IntToDoubleFunction() {
+            @Override
+            public double applyAsDouble(int value) {
+                // value = 0  1  2
+                return prices[value] * 0.8;
+            }
+        });
+		//2.\u9700\u6C42\uFF1A\u5BF9\u6570\u7EC4\u4E2D\u7684\u6BCF\u4E00\u4E2A\u5143\u7D20*0.8,\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\u6807\u51C6\u5199\u6CD5
+        Arrays.setAll(prices, (int value) -> {
+                return prices[value] * 0.8;
+        });
+		//3.\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\u7B80\u5316\u683C\u5F0F1\u2014\u2014\u7701\u7565\u53C2\u6570\u7C7B\u578B
+        Arrays.setAll(prices, (value) -> {
+            return prices[value] * 0.8;
+        });
+		//4.\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\u7B80\u5316\u683C\u5F0F2\u2014\u2014\u7701\u7565()
+        Arrays.setAll(prices, value -> {
+            return prices[value] * 0.8;
+        });
+        //5.\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\u7B80\u5316\u683C\u5F0F3\u2014\u2014\u7701\u7565{}
+        Arrays.setAll(prices, value -> prices[value] * 0.8 );
+
+        System.out.println(Arrays.toString(prices));
+        
+        System.out.println("------------------------------------
+
+        Student[] students = new Student[4];
+        students[0] = new Student("\u8718\u86DB\u7CBE", 169.5, 23);
+        students[1] = new Student("\u7D2B\u971E", 163.8, 26);
+        students[2] = new Student("\u7D2B\u971E", 163.8, 26);
+        students[3] = new Student("\u81F3\u5C0A\u5B9D", 167.5, 24);
+		
+        //1.\u4F7F\u7528\u533F\u540D\u5185\u90E8\u7C7B
+        Arrays.sort(students, new Comparator<Student>() {
+            @Override
+            public int compare(Student o1, Student o2) {
+                return Double.compare(o1.getHeight(), o2.getHeight()); // \u5347\u5E8F
+            }
+        });
+		//2.\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\u8868\u8FBE\u5F0F\u2014\u2014\u6807\u51C6\u683C\u5F0F
+        Arrays.sort(students, (Student o1, Student o2) -> {
+                return Double.compare(o1.getHeight(), o2.getHeight()); // \u5347\u5E8F
+        });
+		//3.\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\u8868\u8FBE\u5F0F\u2014\u2014\u7701\u7565\u53C2\u6570\u7C7B\u578B
+        Arrays.sort(students, ( o1,  o2) -> {
+            return Double.compare(o1.getHeight(), o2.getHeight()); // \u5347\u5E8F
+        });
+		//4.\u4F7F\u7528Lambda\u8868\u8FBE\u5F0F\u8868\u8FBE\u5F0F\u2014\u2014\u7701\u7565{}
+        Arrays.sort(students, ( o1,  o2) -> Double.compare(o1.getHeight(), o2.getHeight()));
+
+
+        System.out.println(Arrays.toString(students));
+    }
+}
+`,paraId:177,tocIndex:77},{value:"\u6211\u4EEC\u5148\u5B66\u4E60\u9759\u6001\u65B9\u6CD5\u7684\u5F15\u7528\uFF0C\u8FD8\u662F\u7528\u4E4B\u524DArrays\u4EE3\u7801\u6765\u505A\u6F14\u793A\u3002\u73B0\u5728\u51C6\u5907\u597D\u4E0B\u9762\u7684\u4EE3\u7801",paraId:178,tocIndex:79},{value:`public class Test1 {
+    public static void main(String[] args) {
+        Student[] students = new Student[4];
+        students[0] = new Student("\u8718\u86DB\u7CBE", 169.5, 23);
+        students[1] = new Student("\u7D2B\u971E", 163.8, 26);
+        students[2] = new Student("\u7D2B\u971E", 163.8, 26);
+        students[3] = new Student("\u81F3\u5C0A\u5B9D", 167.5, 24);
+
+        // \u539F\u59CB\u5199\u6CD5\uFF1A\u5BF9\u6570\u7EC4\u4E2D\u7684\u5B66\u751F\u5BF9\u8C61\uFF0C\u6309\u7167\u5E74\u9F84\u5347\u5E8F\u6392\u5E8F
+        Arrays.sort(students, new Comparator<Student>() {
+            @Override
+            public int compare(Student o1, Student o2) {
+                return o1.getAge() - o2.getAge(); // \u6309\u7167\u5E74\u9F84\u5347\u5E8F\u6392\u5E8F
+            }
+        });
+
+        // \u4F7F\u7528Lambda\u7B80\u5316\u540E\u7684\u5F62\u5F0F
+        Arrays.sort(students, (o1, o2) -> o1.getAge() - o2.getAge());
+    }
+}
+`,paraId:179,tocIndex:79},{value:"\u73B0\u5728\uFF0C\u6211\u60F3\u8981\u628A\u4E0B\u56FE\u4E2DLambda\u8868\u8FBE\u5F0F\u7684\u65B9\u6CD5\u4F53\uFF0C\u7528\u4E00\u4E2A\u9759\u6001\u65B9\u6CD5\u4EE3\u66FF",paraId:180,tocIndex:79},{value:"\u51C6\u5907\u53E6\u5916\u4E00\u4E2A\u7C7BCompareByData\u7C7B\uFF0C\u7528\u4E8E\u5C01\u88C5Lambda\u8868\u8FBE\u5F0F\u7684\u65B9\u6CD5\u4F53\u4EE3\u7801\uFF1B",paraId:181,tocIndex:79},{value:`public class CompareByData {
+    public static int compareByAge(Student o1, Student o2){
+        return o1.getAge() - o2.getAge(); // \u5347\u5E8F\u6392\u5E8F\u7684\u89C4\u5219
+    }
+}
+`,paraId:182,tocIndex:79},{value:"\u73B0\u5728\u6211\u4EEC\u5C31\u53EF\u4EE5\u628ALambda\u8868\u8FBE\u5F0F\u7684\u65B9\u6CD5\u4F53\u4EE3\u7801\uFF0C\u6539\u4E3A\u4E0B\u9762\u7684\u6837\u5B50",paraId:183,tocIndex:79},{value:`Arrays.sort(students, (Student o1, Student o2) -> {CompareByData.compareByAge(o1, o2)});
+`,paraId:184,tocIndex:79},{value:"Java\u4E3A\u4E86\u7B80\u5316\u4E0A\u9762Lambda\u8868\u8FBE\u5F0F\u7684\u5199\u6CD5\uFF0C\u5229\u7528\u65B9\u6CD5\u5F15\u7528\u53EF\u4EE5\u6539\u8FDB\u4E3A\u4E0B\u9762\u7684\u6837\u5B50\u3002**\u5B9E\u9645\u4E0A\u5C31\u662F\u7528\u7C7B\u540D\u8C03\u7528\u65B9\u6CD5\uFF0C\u4F46\u662F\u628A\u53C2\u6570\u7ED9\u7701\u7565\u4E86\u3002**\u8FD9\u5C31\u662F\u9759\u6001\u65B9\u6CD5\u5F15\u7528",paraId:185,tocIndex:79},{value:`//\u9759\u6001\u65B9\u6CD5\u5F15\u7528\uFF1A\u7C7B\u540D::\u65B9\u6CD5\u540D
+Arrays.sort(students, CompareByData::compareByAge);
+`,paraId:186,tocIndex:79},{value:"\u63A5\u4E0B\u6765\uFF0C\u6211\u4EEC\u628ALambda\u8868\u8FBE\u5F0F\u7684\u65B9\u6CD5\u4F53\uFF0C\u6539\u7528\u5BF9\u8C61\u8C03\u7528\u65B9\u6CD5",paraId:187,tocIndex:80},{value:`CompareByData compare = new CompareByData();
+Arrays.sort(students, (o1, o2) -> compare.compareByAgeDesc(o1, o2)); // \u964D\u5E8F
+`,paraId:188,tocIndex:80},{value:"\u6700\u540E\uFF0C\u518D\u5C06Lambda\u8868\u8FBE\u5F0F\u7684\u65B9\u6CD5\u4F53\uFF0C\u76F4\u63A5\u6539\u6210\u65B9\u6CD5\u5F15\u7528\u5199\u6CD5\u3002",paraId:189,tocIndex:80},{value:"\u5B9E\u9645\u4E0A\u5C31\u662F\u7528\u7C7B\u540D\u8C03\u7528\u65B9\u6CD5\uFF0C\u4F46\u662F\u7701\u7565\u7684\u53C2\u6570",paraId:189,tocIndex:80},{value:"\u3002\u8FD9\u5C31\u662F\u5B9E\u4F8B\u65B9\u6CD5\u5F15\u7528",paraId:189,tocIndex:80},{value:`CompareByData compare = new CompareByData();
+Arrays.sort(students, compare::compareByAgeDesc); // \u964D\u5E8F
+`,paraId:190,tocIndex:80},{value:`public static boolean checkQQ1(String qq){
+    return qq != null && qq.matches("[1-9]\\\\d{5,19}");
+}
+`,paraId:191,tocIndex:82},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u4F7F\u7528\u6B63\u5219\u8868\u8FBE\u5F0F\u67E5\u627E\u5185\u5BB9\u3002
+ */
+public class RegexTest4 {
+    public static void main(String[] args) {
+        method1();
+    }
+
+    // \u9700\u6C421\uFF1A\u4ECE\u4EE5\u4E0B\u5185\u5BB9\u4E2D\u722C\u53D6\u51FA\uFF0C\u624B\u673A\uFF0C\u90AE\u7BB1\uFF0C\u5EA7\u673A\u3001400\u7535\u8BDD\u7B49\u4FE1\u606F\u3002
+    public static void method1(){
+        String data = " \u6765\u9ED1\u9A6C\u7A0B\u5E8F\u5458\u5B66\u4E60Java\uFF0C\\n" +
+                "        \u7535\u8BDD\uFF1A18766668888\uFF0C18699997777\\n" +
+                "        \u6216\u8005\u8054\u7CFB\u90AE\u7BB1\uFF1Aboniu@itcast.cn\uFF0C\\n" +
+                "        \u5EA7\u673A\u7535\u8BDD\uFF1A01036517895\uFF0C010-98951256\\n" +
+                "        \u90AE\u7BB1\uFF1Abozai@itcast.cn\uFF0C\\n" +
+                "        \u90AE\u7BB1\uFF1Adlei0009@163.com\uFF0C\\n" +
+                "        \u70ED\u7EBF\u7535\u8BDD\uFF1A400-618-9090 \uFF0C400-618-4000\uFF0C4006184000\uFF0C4006189090";
+        // 1\u3001\u5B9A\u4E49\u722C\u53D6\u89C4\u5219
+        String regex = "(1[3-9]\\\\d{9})|(0\\\\d{2,7}-?[1-9]\\\\d{4,19})|(\\\\w{2,}@\\\\w{2,20}(\\\\.\\\\w{2,10}){1,2})"
+                + "|(400-?\\\\d{3}-?\\\\d{4})";
+        
+        
+        // 2\u3001\u628A\u6B63\u5219\u8868\u8FBE\u5F0F\u5C01\u88C5\u6210\u4E00\u4E2APattern\u5BF9\u8C61
+        Pattern pattern = Pattern.compile(regex);
+        // 3\u3001\u901A\u8FC7pattern\u5BF9\u8C61\u53BB\u83B7\u53D6\u67E5\u627E\u5185\u5BB9\u7684\u5339\u914D\u5668\u5BF9\u8C61\u3002
+        Matcher matcher = pattern.matcher(data);
+        // 4\u3001\u5B9A\u4E49\u4E00\u4E2A\u5FAA\u73AF\u5F00\u59CB\u722C\u53D6\u4FE1\u606F
+        while (matcher.find()){
+            String rs = matcher.group(); // \u83B7\u53D6\u5230\u4E86\u627E\u5230\u7684\u5185\u5BB9\u4E86\u3002
+            System.out.println(rs);
+        }
+    }
+}
+`,paraId:192,tocIndex:83},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u4F7F\u7528\u6B63\u5219\u8868\u8FBE\u5F0F\u505A\u641C\u7D22\u66FF\u6362\uFF0C\u5185\u5BB9\u5206\u5272\u3002
+ */
+public class RegexTest5 {
+    public static void main(String[] args) {
+        //1\u3001public String replaceAll(String regex , String newStr)\uFF1A\u6309\u7167\u6B63\u5219\u8868\u8FBE\u5F0F\u5339\u914D\u7684\u5185\u5BB9\u8FDB\u884C\u66FF\u6362
+        //\u9700\u6C421\uFF1A\u8BF7\u628A\u4E0B\u9762\u5B57\u7B26\u4E32\u4E2D\u7684\u4E0D\u662F\u6C49\u5B57\u7684\u90E8\u5206\u66FF\u6362\u4E3A \u201C-\u201D
+        String s1 = "\u53E4\u529B\u5A1C\u624Eai8888\u8FEA\u4E3D\u70ED\u5DF4999aa5566\u9A6C\u5C14\u624E\u54C8fbbfsfs42425\u5361\u5C14\u624E\u5DF4";
+        System.out.println(s1.replaceAll("\\\\w+", "-"));
+        
+
+        //2\u3001public String[] split(String regex)\uFF1A\u6309\u7167\u6B63\u5219\u8868\u8FBE\u5F0F\u5339\u914D\u7684\u5185\u5BB9\u8FDB\u884C\u5206\u5272\u5B57\u7B26\u4E32\uFF0C\u53CD\u56DE\u4E00\u4E2A\u5B57\u7B26\u4E32\u6570\u7EC4\u3002
+        //\u9700\u6C421\uFF1A\u8BF7\u628A\u4E0B\u9762\u5B57\u7B26\u4E32\u4E2D\u7684\u4EBA\u540D\u53D6\u51FA\u6765\uFF0C\u4F7F\u7528\u5207\u5272\u6765\u505A
+        String s3 = "\u53E4\u529B\u5A1C\u624Eai8888\u8FEA\u4E3D\u70ED\u5DF4999aa5566\u9A6C\u5C14\u624E\u54C8fbbfsfs42425\u5361\u5C14\u624E\u5DF4";
+        String[] names = s3.split("\\\\w+");
+        System.out.println(Arrays.toString(names));
+    }
+}
+`,paraId:193,tocIndex:84},{value:"\u7B2C\u4E00\u79CD\uFF1A\u4F7F\u7528throws\u5728\u65B9\u6CD5\u4E0A\u58F0\u660E\uFF0C\u610F\u601D\u5C31\u662F\u544A\u8BC9\u4E0B\u4E00\u4E2A\u8C03\u7528\u8005\uFF0C\u8FD9\u91CC\u9762\u53EF\u80FD\u6709\u5F02\u5E38\u554A\uFF0C\u4F60\u8C03\u7528\u65F6\u6CE8\u610F\u4E00\u4E0B\u3002",paraId:194,tocIndex:86},{value:`/**
+ * \u76EE\u6807\uFF1A\u8BA4\u8BC6\u5F02\u5E38\u3002
+ */
+public class ExceptionTest1 {
+    public static void main(String[] args) throws ParseException{
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        Date d = sdf.parse("2028-11-11 10:24");
+        System.out.println(d);
+    }
+}
+`,paraId:195,tocIndex:86},{value:"\u7B2C\u4E8C\u79CD\uFF1A\u4F7F\u7528try...catch\u8BED\u53E5\u5757\u5F02\u5E38\u8FDB\u884C\u5904\u7406\u3002",paraId:196,tocIndex:86},{value:`public class ExceptionTest1 {
+    public static void main(String[] args) throws ParseException{
+        try {
+            SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+            Date d = sdf.parse("2028-11-11 10:24");
+            System.out.println(d);
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+    }
+}
+`,paraId:197,tocIndex:86},{value:`// 1\u3001\u5FC5\u987B\u8BA9\u8FD9\u4E2A\u7C7B\u7EE7\u627F\u81EAException\uFF0C\u624D\u80FD\u6210\u4E3A\u4E00\u4E2A\u7F16\u8BD1\u65F6\u5F02\u5E38\u7C7B\u3002
+public class AgeIllegalException extends Exception{
+    public AgeIllegalException() {
+    }
+
+    public AgeIllegalException(String message) {
+        super(message);   //
+    }
+}
+`,paraId:198,tocIndex:87},{value:"ArrayList\u3001LinkedList\u3001HashSet\u3001LinkedHashSet\u3001TreeSet\u96C6\u5408",paraId:199,tocIndex:88},{value:`Collection<String> c = new ArrayList<>();
+//1.public boolean add(E e): \u6DFB\u52A0\u5143\u7D20\u5230\u96C6\u5408
+c.add("java1");
+c.add("java1");
+
+//2.public int size(): \u83B7\u53D6\u96C6\u5408\u7684\u5927\u5C0F
+System.out.println(c.size()); //5
+
+//3.public boolean contains(Object obj): \u5224\u65AD\u96C6\u5408\u4E2D\u662F\u5426\u5305\u542B\u67D0\u4E2A\u5143\u7D20
+System.out.println(c.contains("java1")); //true
+System.out.println(c.contains("Java3")); //false
+
+//4.pubilc boolean remove(E e): \u5220\u9664\u67D0\u4E2A\u5143\u7D20\uFF0C\u5982\u679C\u6709\u591A\u4E2A\u91CD\u590D\u5143\u7D20\u53EA\u80FD\u5220\u9664\u7B2C\u4E00\u4E2A
+System.out.println(c.remove("java1")); //true
+System.out.println(c); //\u6253\u5370: [java1,java2, java2, java3]
+
+//5.public void clear(): \u6E05\u7A7A\u96C6\u5408\u7684\u5143\u7D20
+c.clear(); 
+System.out.println(c); //\u6253\u5370\uFF1A[]
+
+//6.public boolean isEmpty(): \u5224\u65AD\u96C6\u5408\u662F\u5426\u4E3A\u7A7A \u662F\u7A7A\u8FD4\u56DEtrue \u53CD\u4E4B\u8FD4\u56DEfalse
+System.out.println(c.isEmpty()); //true
+
+//7.public Object[] toArray(): \u628A\u96C6\u5408\u8F6C\u6362\u4E3A\u6570\u7EC4
+Object[] array = c.toArray();
+System.out.println(Arrays.toString(array)); //[java1,java2, java2, java3]
+
+//8.\u5982\u679C\u60F3\u628A\u96C6\u5408\u8F6C\u6362\u4E3A\u6307\u5B9A\u7C7B\u578B\u7684\u6570\u7EC4\uFF0C\u53EF\u4EE5\u4F7F\u7528\u4E0B\u9762\u7684\u4EE3\u7801
+String[] array1 = new String[c.size()];
+c.toArray(array1);
+System.out.println(Arrays.toString(array1)); //[java1,java2, java2, java3]
+
+//9.\u8FD8\u53EF\u4EE5\u628A\u4E00\u4E2A\u96C6\u5408\u4E2D\u7684\u5143\u7D20\uFF0C\u6DFB\u52A0\u5230\u53E6\u4E00\u4E2A\u96C6\u5408\u4E2D
+Collection<String> c1 = new ArrayList<>();
+c1.add("java1");
+c1.add("java2");
+Collection<String> c2 = new ArrayList<>();
+c2.add("java3");
+c2.add("java4");
+c1.addAll(c2); //\u628Ac2\u96C6\u5408\u4E2D\u7684\u5168\u90E8\u5143\u7D20\uFF0C\u6DFB\u52A0\u5230c1\u96C6\u5408\u4E2D\u53BB
+System.out.println(c1); //[java1, java2, java3, java4]
+`,paraId:200,tocIndex:89},{value:"\u8FED\u4EE3\u5668\u904D\u5386",paraId:201,tocIndex:90},{value:`Collection<String> c = new ArrayList<>();
+c.add("\u8D75\u654F");
+c.add("\u5C0F\u662D");
+c.add("\u7D20\u7D20");
+c.add("\u706D\u7EDD");
+System.out.println(c); //[\u8D75\u654F, \u5C0F\u662D, \u7D20\u7D20, \u706D\u7EDD]
+
+//\u7B2C\u4E00\u6B65\uFF1A\u5148\u83B7\u53D6\u8FED\u4EE3\u5668\u5BF9\u8C61
+//\u89E3\u91CA\uFF1AIterator\u5C31\u662F\u8FED\u4EE3\u5668\u5BF9\u8C61\uFF0C\u7528\u4E8E\u904D\u5386\u96C6\u5408\u7684\u5DE5\u5177)
+Iterator<String> it = c.iterator();
+
+//\u7B2C\u4E8C\u6B65\uFF1A\u7528\u4E8E\u5224\u65AD\u5F53\u524D\u4F4D\u7F6E\u662F\u5426\u6709\u5143\u7D20\u53EF\u4EE5\u83B7\u53D6
+//\u89E3\u91CA\uFF1AhasNext()\u65B9\u6CD5\u8FD4\u56DEtrue\uFF0C\u8BF4\u660E\u6709\u5143\u7D20\u53EF\u4EE5\u83B7\u53D6\uFF1B\u53CD\u4E4B\u6CA1\u6709
+while(it.hasNext()){
+    //\u7B2C\u4E09\u6B65\uFF1A\u83B7\u53D6\u5F53\u524D\u4F4D\u7F6E\u7684\u5143\u7D20\uFF0C\u7136\u540E\u81EA\u52A8\u6307\u5411\u4E0B\u4E00\u4E2A\u5143\u7D20.
+    String e = it.next();
+    System.out.println(s);
+}
+`,paraId:202,tocIndex:90},{value:"\u589E\u5F3Afor\u904D\u5386",paraId:203,tocIndex:90},{value:`Collection<String> c = new ArrayList<>();
+c.add("\u8D75\u654F");
+c.add("\u5C0F\u662D");
+c.add("\u7D20\u7D20");
+c.add("\u706D\u7EDD");
+
+//1.\u4F7F\u7528\u589E\u5F3Afor\u904D\u5386\u96C6\u5408
+for(String s: c){
+    System.out.println(s); 
+}
+
+//2.\u518D\u5C1D\u8BD5\u4F7F\u7528\u589E\u5F3Afor\u904D\u5386\u6570\u7EC4
+String[] arr = {"\u8FEA\u4E3D\u70ED\u5DF4", "\u53E4\u529B\u5A1C\u624E", "\u7A00\u5947\u54C8\u54C8"};
+for(String name: arr){
+    System.out.println(name);
+}
+`,paraId:204,tocIndex:90},{value:"forEach\u904D\u5386",paraId:205,tocIndex:90},{value:`Collection<String> c = new ArrayList<>();
+c.add("\u8D75\u654F");
+c.add("\u5C0F\u662D");
+c.add("\u7D20\u7D20");
+c.add("\u706D\u7EDD");
+
+//\u8C03\u7528forEach\u65B9\u6CD5
+//\u7531\u4E8E\u53C2\u6570\u662F\u4E00\u4E2AConsumer\u63A5\u53E3\uFF0C\u6240\u4EE5\u53EF\u4EE5\u4F20\u9012\u533F\u540D\u5185\u90E8\u7C7B
+c.forEach(new Consumer<String>{
+    @Override
+    public void accept(String s){
+        System.out.println(s);
+    }
+});
+
+
+//\u4E5F\u53EF\u4EE5\u4F7F\u7528lambda\u8868\u8FBE\u5F0F\u5BF9\u533F\u540D\u5185\u90E8\u7C7B\u8FDB\u884C\u7B80\u5316
+c.forEach(s->System.out.println(s)); //[\u8D75\u654F, \u5C0F\u662D, \u7D20\u7D20, \u706D\u7EDD]
+`,paraId:206,tocIndex:90},{value:"\u4E0D\u91CD\u590D,\u65E0\u7D22\u5F15",paraId:207,tocIndex:91},{value:`//Set<Integer> set = new HashSet<>();	//\u65E0\u5E8F\u3001\u65E0\u7D22\u5F15\u3001\u4E0D\u91CD\u590D
+//Set<Integer> set = new LinkedHashSet<>(); //\u6709\u5E8F\u3001\u65E0\u7D22\u5F15\u3001\u4E0D\u91CD\u590D
+Set<Integer> set = new TreeSet<>(); //\u53EF\u6392\u5E8F(\u5347\u5E8F)\u3001\u65E0\u7D22\u5F15\u3001\u4E0D\u91CD\u590D
+set.add(666);
+set.add(555);
+set.add(555);
+set.add(888);
+set.add(888);
+set.add(777);
+set.add(777);
+System.out.println(set); //[555, 666, 777, 888]
+`,paraId:208,tocIndex:91},{value:"\u6392\u5E8F",paraId:209,tocIndex:92},{value:`//\u521B\u5EFATreeSet\u96C6\u5408\u65F6\uFF0C\u4F20\u9012\u6BD4\u8F83\u5668\u5BF9\u8C61\u6392\u5E8F
+/*
+\u539F\u7406\uFF1A\u5F53\u8C03\u7528add\u65B9\u6CD5\u65F6\uFF0C\u5E95\u5C42\u4F1A\u5148\u7528\u6BD4\u8F83\u5668\uFF0C\u6839\u636EComparator\u7684compare\u65B9\u662F\u6B63\u6570\u3001\u8D1F\u6570\u3001\u8FD8\u662F\u96F6\uFF0C\u51B3\u5B9A\u8C01\u5728\u540E\uFF0C\u8C01\u5728\u524D\uFF0C\u8C01\u4E0D\u5B58\u3002
+*/
+//\u4E0B\u9762\u4EE3\u7801\u4E2D\u662F\u6309\u7167\u5B66\u751F\u7684\u5E74\u9F84\u5347\u5E8F\u6392\u5E8F
+Set<Student> students = new TreeSet<>(new Comparator<Student>{
+    @Override
+    public int compare(Student o1, Student o2){
+        //\u9700\u6C42\uFF1A\u6309\u7167\u5B66\u751F\u7684\u8EAB\u9AD8\u6392\u5E8F
+        return Double.compare(o1,o2); 
+    }
+});
+
+//\u521B\u5EFA4\u4E2AStudent\u5BF9\u8C61
+Student s1 = new Student("\u81F3\u5C0A\u5B9D",20, 169.6);
+Student s2 = new Student("\u7D2B\u971E",23, 169.8);
+Student s3 = new Student("\u8718\u86DB\u7CBE",23, 169.6);
+Student s4 = new Student("\u725B\u9B54\u738B",48, 169.6);
+
+//\u6DFB\u52A0Studnet\u5BF9\u8C61\u5230\u96C6\u5408
+students.add(s1);
+students.add(s2);
+students.add(s3);
+students.add(s4);
+System.out.println(students); 
+`,paraId:210,tocIndex:92},{value:"\u4F7F\u7528\u8FED\u4EE3\u5668\u7684\u5220\u9664\u65B9\u6CD5",paraId:211,tocIndex:93},{value:`List<String> list = new ArrayList<>();
+list.add("\u738B\u9EBB\u5B50");
+list.add("\u5C0F\u674E\u5B50");
+list.add("\u674E\u7231\u82B1");
+list.add("\u5F20\u5168\u86CB");
+list.add("\u6653\u674E");
+list.add("\u674E\u7389\u521A");
+System.out.println(list); // [\u738B\u9EBB\u5B50, \u5C0F\u674E\u5B50, \u674E\u7231\u82B1, \u5F20\u5168\u86CB, \u6653\u674E, \u674E\u7389\u521A]
+
+//\u9700\u6C42\uFF1A\u627E\u51FA\u96C6\u5408\u4E2D\u5E26"\u674E"\u5B57\u7684\u59D3\u540D\uFF0C\u5E76\u4ECE\u96C6\u5408\u4E2D\u5220\u9664
+Iterator<String> it = list.iterator();
+while(it.hasNext()){
+    String name = it.next();
+    if(name.contains("\u674E")){
+        //list.remove(name);
+        it.remove(); //\u5F53\u524D\u8FED\u4EE3\u5668\u6307\u5411\u8C01\uFF0C\u5C31\u5220\u9664\u8C01
+    }
+}
+System.out.println(list);
+`,paraId:212,tocIndex:93},{value:"\u5E38\u7528\u65B9\u6CD5",paraId:213,tocIndex:95},{value:`package com.itheima.d2_map_method;
+
+public class MapTest2 {
+    public static void main(String[] args) {
+        // 1.\u6DFB\u52A0\u5143\u7D20: \u65E0\u5E8F\uFF0C\u4E0D\u91CD\u590D\uFF0C\u65E0\u7D22\u5F15\u3002
+        Map<String, Integer> map = new HashMap<>();
+        map.put("\u624B\u8868", 100);
+        map.put("\u624B\u8868", 220);
+        map.put("\u624B\u673A", 2);
+        map.put("Java", 2);
+        map.put(null, null);
+        System.out.println(map);
+        // map = {null=null, \u624B\u8868=220, Java=2, \u624B\u673A=2}
+
+        // 2.public int size():\u83B7\u53D6\u96C6\u5408\u7684\u5927\u5C0F
+        System.out.println(map.size());
+
+        // 3\u3001public void clear():\u6E05\u7A7A\u96C6\u5408
+        //map.clear();
+        //System.out.println(map);
+
+        // 4.public boolean isEmpty(): \u5224\u65AD\u96C6\u5408\u662F\u5426\u4E3A\u7A7A\uFF0C\u4E3A\u7A7A\u8FD4\u56DEtrue ,\u53CD\u4E4B\uFF01
+        System.out.println(map.isEmpty());
+
+        // 5.public V get(Object key)\uFF1A\u6839\u636E\u952E\u83B7\u53D6\u5BF9\u5E94\u503C
+        int v1 = map.get("\u624B\u8868");
+        System.out.println(v1);
+        System.out.println(map.get("\u624B\u673A")); // 2
+        System.out.println(map.get("\u5F20\u4E09")); // null
+
+        // 6. public V remove(Object key)\uFF1A\u6839\u636E\u952E\u5220\u9664\u6574\u4E2A\u5143\u7D20(\u5220\u9664\u952E\u4F1A\u8FD4\u56DE\u952E\u7684\u503C)
+        System.out.println(map.remove("\u624B\u8868"));
+        System.out.println(map);
+
+        // 7.public  boolean containsKey(Object key): \u5224\u65AD\u662F\u5426\u5305\u542B\u67D0\u4E2A\u952E \uFF0C\u5305\u542B\u8FD4\u56DEtrue ,\u53CD\u4E4B
+        System.out.println(map.containsKey("\u624B\u8868")); // false
+        System.out.println(map.containsKey("\u624B\u673A")); // true
+        System.out.println(map.containsKey("java")); // false
+        System.out.println(map.containsKey("Java")); // true
+
+        // 8.public boolean containsValue(Object value): \u5224\u65AD\u662F\u5426\u5305\u542B\u67D0\u4E2A\u503C\u3002
+        System.out.println(map.containsValue(2)); // true
+        System.out.println(map.containsValue("2")); // false
+
+        // 9.public Set<K> keySet(): \u83B7\u53D6Map\u96C6\u5408\u7684\u5168\u90E8\u952E\u3002
+        Set<String> keys = map.keySet();
+        System.out.println(keys);
+
+        // 10.public Collection<V> values(); \u83B7\u53D6Map\u96C6\u5408\u7684\u5168\u90E8\u503C\u3002
+        Collection<Integer> values = map.values();
+        System.out.println(values);
+
+        // 11.\u628A\u5176\u4ED6Map\u96C6\u5408\u7684\u6570\u636E\u5012\u5165\u5230\u81EA\u5DF1\u96C6\u5408\u4E2D\u6765\u3002(\u62D3\u5C55)
+        Map<String, Integer> map1 = new HashMap<>();
+        map1.put("java1",  10);
+        map1.put("java2",  20);
+        Map<String, Integer> map2 = new HashMap<>();
+        map2.put("java3",  10);
+        map2.put("java2",  222);
+        map1.putAll(map2); // putAll\uFF1A\u628Amap2\u96C6\u5408\u4E2D\u7684\u5143\u7D20\u5168\u90E8\u5012\u5165\u4E00\u4EFD\u5230map1\u96C6\u5408\u4E2D\u53BB\u3002
+        System.out.println(map1);
+        System.out.println(map2);
+    }
+}
+`,paraId:214,tocIndex:95},{value:"\u901A\u8FC7\u952E",paraId:215,tocIndex:96},{value:`package com.itheima.d3_map_keyset;
+
+/**
+ *  \u76EE\u6807\uFF1A\u638C\u63E1Map\u96C6\u5408\u7684\u904D\u5386\u65B9\u5F0F1\uFF1A\u952E\u627E\u503C
+ */
+public class MapTest1 {
+    public static void main(String[] args) {
+        // \u51C6\u5907\u4E00\u4E2AMap\u96C6\u5408\u3002
+        Map<String, Double> map = new HashMap<>();
+        map.put("\u8718\u86DB\u7CBE", 162.5);
+        map.put("\u8718\u86DB\u7CBE", 169.8);
+        map.put("\u7D2B\u971E", 165.8);
+        map.put("\u81F3\u5C0A\u5B9D", 169.5);
+        map.put("\u725B\u9B54\u738B", 183.6);
+        System.out.println(map);
+        // map = {\u8718\u86DB\u7CBE=169.8, \u725B\u9B54\u738B=183.6, \u81F3\u5C0A\u5B9D=169.5, \u7D2B\u971E=165.8}
+
+        // 1\u3001\u83B7\u53D6Map\u96C6\u5408\u7684\u5168\u90E8\u952E
+        Set<String> keys = map.keySet();
+        // System.out.println(keys);
+        // [\u8718\u86DB\u7CBE, \u725B\u9B54\u738B, \u81F3\u5C0A\u5B9D, \u7D2B\u971E]
+        //         key
+        // 2\u3001\u904D\u5386\u5168\u90E8\u7684\u952E\uFF0C\u6839\u636E\u952E\u83B7\u53D6\u5176\u5BF9\u5E94\u7684\u503C
+        for (String key : keys) {
+            // \u6839\u636E\u952E\u83B7\u53D6\u5BF9\u5E94\u7684\u503C
+            double value = map.get(key);
+            System.out.println(key + "=====>" + value);
+        }
+    }
+}
+`,paraId:216,tocIndex:96},{value:"\u83B7\u53D6\u6BCF\u4E00\u4E2AEntry\u5BF9\u8C61",paraId:217,tocIndex:96},{value:`package com.itheima.d4_map_entryset;
+
+/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1Map\u96C6\u5408\u7684\u7B2C\u4E8C\u79CD\u904D\u5386\u65B9\u5F0F\uFF1A\u952E\u503C\u5BF9\u3002
+ */
+public class MapTest2 {
+    public static void main(String[] args) {
+        Map<String, Double> map = new HashMap<>();
+        map.put("\u8718\u86DB\u7CBE", 169.8);
+        map.put("\u7D2B\u971E", 165.8);
+        map.put("\u81F3\u5C0A\u5B9D", 169.5);
+        map.put("\u725B\u9B54\u738B", 183.6);
+        System.out.println(map);
+        // map = {\u8718\u86DB\u7CBE=169.8, \u725B\u9B54\u738B=183.6, \u81F3\u5C0A\u5B9D=169.5, \u7D2B\u971E=165.8}
+        // entries = [(\u8718\u86DB\u7CBE=169.8), (\u725B\u9B54\u738B=183.6), (\u81F3\u5C0A\u5B9D=169.5), (\u7D2B\u971E=165.8)]
+        // entry = (\u8718\u86DB\u7CBE=169.8)
+        // entry = (\u725B\u9B54\u738B=183.6)
+        // ...
+		
+        // 1\u3001\u8C03\u7528Map\u96C6\u5408\u63D0\u4F9BentrySet\u65B9\u6CD5\uFF0C\u628AMap\u96C6\u5408\u8F6C\u6362\u6210\u952E\u503C\u5BF9\u7C7B\u578B\u7684Set\u96C6\u5408
+        Set<Map.Entry<String, Double>> entries = map.entrySet();
+        for (Map.Entry<String, Double> entry : entries) {
+            String key = entry.getKey();
+            double value = entry.getValue();
+            System.out.println(key + "---->" + value);
+        }
+    }
+}
+`,paraId:218,tocIndex:96},{value:"forEach + lambda\u8868\u8FBE\u5F0F\u4E00\u8D77\u4F7F\u7528",paraId:219,tocIndex:96},{value:`package com.itheima.d5_map_foreach;
+
+/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1Map\u96C6\u5408\u7684\u7B2C\u4E8C\u79CD\u904D\u5386\u65B9\u5F0F\uFF1A\u952E\u503C\u5BF9\u3002
+ */
+public class MapTest3 {
+    public static void main(String[] args) {
+        Map<String, Double> map = new HashMap<>();
+        map.put("\u8718\u86DB\u7CBE", 169.8);
+        map.put("\u7D2B\u971E", 165.8);
+        map.put("\u81F3\u5C0A\u5B9D", 169.5);
+        map.put("\u725B\u9B54\u738B", 183.6);
+        System.out.println(map);
+        //map = {\u8718\u86DB\u7CBE=169.8, \u725B\u9B54\u738B=183.6, \u81F3\u5C0A\u5B9D=169.5, \u7D2B\u971E=165.8}
+
+
+		//\u904D\u5386map\u96C6\u5408\uFF0C\u4F20\u9012\u533F\u540D\u5185\u90E8\u7C7B
+        map.forEach(new BiConsumer<String, Double>() {
+            @Override
+            public void accept(String k, Double v) {
+                System.out.println(k + "---->" + v);
+            }
+        });
+		//\u904D\u5386map\u96C6\u5408\uFF0C\u4F20\u9012Lambda\u8868\u8FBE\u5F0F
+        map.forEach(( k,  v) -> {
+            System.out.println(k + "---->" + v);
+        });
+    }
+}
+`,paraId:220,tocIndex:96},{value:`List<String> names = new ArrayList<>();
+Collections.addAll(names, "\u5F20\u4E09\u4E30","\u5F20\u65E0\u5FCC","\u5468\u82B7\u82E5","\u8D75\u654F","\u5F20\u5F3A");
+System.out.println(names);
+
+// \u627E\u51FA\u59D3\u5F20\uFF0C\u4E14\u662F3\u4E2A\u5B57\u7684\u540D\u5B57\uFF0C\u5B58\u5165\u5230\u4E00\u4E2A\u65B0\u96C6\u5408\u4E2D\u53BB\u3002
+List<String> list = new ArrayList<>();
+for (String name : names) {
+    if(name.startsWith("\u5F20") && name.length() == 3){
+        list.add(name);
+    }
+}
+System.out.println(list);
+
+//stream
+List<String> list2 = names.stream().filter(s -> s.startsWith("\u5F20")).filter(a -> a.length()==3).collect(Collectors.toList());
+System.out.println(list2);
+`,paraId:221,tocIndex:97},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1Stream\u6D41\u7684\u521B\u5EFA\u3002
+ */
+public class StreamTest2 {
+    public static void main(String[] args) {
+        // 1\u3001\u5982\u4F55\u83B7\u53D6List\u96C6\u5408\u7684Stream\u6D41\uFF1F
+        List<String> names = new ArrayList<>();
+        Collections.addAll(names, "\u5F20\u4E09\u4E30","\u5F20\u65E0\u5FCC","\u5468\u82B7\u82E5","\u8D75\u654F","\u5F20\u5F3A");
+        Stream<String> stream = names.stream();
+
+        // 2\u3001\u5982\u4F55\u83B7\u53D6Set\u96C6\u5408\u7684Stream\u6D41\uFF1F
+        Set<String> set = new HashSet<>();
+        Collections.addAll(set, "\u5218\u5FB7\u534E","\u5F20\u66FC\u7389","\u8718\u86DB\u7CBE","\u9A6C\u5FB7","\u5FB7\u739B\u897F\u4E9A");
+        Stream<String> stream1 = set.stream();
+        stream1.filter(s -> s.contains("\u5FB7")).forEach(s -> System.out.println(s));
+
+        // 3\u3001\u5982\u4F55\u83B7\u53D6Map\u96C6\u5408\u7684Stream\u6D41\uFF1F
+        Map<String, Double> map = new HashMap<>();
+        map.put("\u53E4\u529B\u5A1C\u624E", 172.3);
+        map.put("\u8FEA\u4E3D\u70ED\u5DF4", 168.3);
+        map.put("\u9A6C\u5C14\u624E\u54C8", 166.3);
+        map.put("\u5361\u5C14\u624E\u5DF4", 168.3);
+
+        Set<String> keys = map.keySet();
+        Stream<String> ks = keys.stream();
+
+        Collection<Double> values = map.values();
+        Stream<Double> vs = values.stream();
+
+        Set<Map.Entry<String, Double>> entries = map.entrySet();
+        Stream<Map.Entry<String, Double>> kvs = entries.stream();
+        kvs.filter(e -> e.getKey().contains("\u5DF4"))
+                .forEach(e -> System.out.println(e.getKey()+ "-->" + e.getValue()));
+
+        // 4\u3001\u5982\u4F55\u83B7\u53D6\u6570\u7EC4\u7684Stream\u6D41\uFF1F
+        String[] names2 = {"\u5F20\u7FE0\u5C71", "\u4E1C\u65B9\u4E0D\u8D25", "\u5510\u5927\u5C71", "\u72EC\u5B64\u6C42\u8D25"};
+        Stream<String> s1 = Arrays.stream(names2);
+        Stream<String> s2 = Stream.of(names2);
+    }
+}
+
+`,paraId:222,tocIndex:98},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1Stream\u6D41\u63D0\u4F9B\u7684\u5E38\u89C1\u4E2D\u95F4\u65B9\u6CD5\u3002
+ */
+public class StreamTest3 {
+    public static void main(String[] args) {
+        List<Double> scores = new ArrayList<>();
+        Collections.addAll(scores, 88.5, 100.0, 60.0, 99.0, 9.5, 99.6, 25.0);
+        // \u9700\u6C421\uFF1A\u627E\u51FA\u6210\u7EE9\u5927\u4E8E\u7B49\u4E8E60\u5206\u7684\u6570\u636E\uFF0C\u5E76\u5347\u5E8F\u540E\uFF0C\u518D\u8F93\u51FA\u3002
+        scores.stream().filter(s -> s >= 60).sorted().forEach(s -> System.out.println(s));
+
+        List<Student> students = new ArrayList<>();
+        Student s1 = new Student("\u8718\u86DB\u7CBE", 26, 172.5);
+        Student s2 = new Student("\u8718\u86DB\u7CBE", 26, 172.5);
+        Student s3 = new Student("\u7D2B\u971E", 23, 167.6);
+        Student s4 = new Student("\u767D\u6676\u6676", 25, 169.0);
+        Student s5 = new Student("\u725B\u9B54\u738B", 35, 183.3);
+        Student s6 = new Student("\u725B\u592B\u4EBA", 34, 168.5);
+        Collections.addAll(students, s1, s2, s3, s4, s5, s6);
+        // \u9700\u6C422\uFF1A\u627E\u51FA\u5E74\u9F84\u5927\u4E8E\u7B49\u4E8E23,\u4E14\u5E74\u9F84\u5C0F\u4E8E\u7B49\u4E8E30\u5C81\u7684\u5B66\u751F\uFF0C\u5E76\u6309\u7167\u5E74\u9F84\u964D\u5E8F\u8F93\u51FA.
+        students.stream().filter(s -> s.getAge() >= 23 && s.getAge() <= 30)
+                .sorted((o1, o2) -> o2.getAge() - o1.getAge())
+                .forEach(s -> System.out.println(s));
+
+        // \u9700\u6C423\uFF1A\u53D6\u51FA\u8EAB\u9AD8\u6700\u9AD8\u7684\u524D3\u540D\u5B66\u751F\uFF0C\u5E76\u8F93\u51FA\u3002
+        students.stream().sorted((o1, o2) -> Double.compare(o2.getHeight(), o1.getHeight()))
+                .limit(3).forEach(System.out::println);
+        System.out.println("-----------------------------------------------");
+
+        // \u9700\u6C424\uFF1A\u53D6\u51FA\u8EAB\u9AD8\u5012\u6570\u76842\u540D\u5B66\u751F\uFF0C\u5E76\u8F93\u51FA\u3002   s1 s2 s3 s4 s5 s6
+        students.stream().sorted((o1, o2) -> Double.compare(o2.getHeight(), o1.getHeight()))
+                .skip(students.size() - 2).forEach(System.out::println);
+
+        // \u9700\u6C425\uFF1A\u627E\u51FA\u8EAB\u9AD8\u8D85\u8FC7168\u7684\u5B66\u751F\u53EB\u4EC0\u4E48\u540D\u5B57\uFF0C\u8981\u6C42\u53BB\u9664\u91CD\u590D\u7684\u540D\u5B57\uFF0C\u518D\u8F93\u51FA\u3002
+        students.stream().filter(s -> s.getHeight() > 168).map(Student::getName)
+               .distinct().forEach(System.out::println);
+
+        // distinct\u53BB\u91CD\u590D\uFF0C\u81EA\u5B9A\u4E49\u7C7B\u578B\u7684\u5BF9\u8C61\uFF08\u5E0C\u671B\u5185\u5BB9\u4E00\u6837\u5C31\u8BA4\u4E3A\u91CD\u590D\uFF0C\u91CD\u5199hashCode,equals\uFF09
+        students.stream().filter(s -> s.getHeight() > 168)
+                .distinct().forEach(System.out::println);
+
+        Stream<String> st1 = Stream.of("\u5F20\u4E09", "\u674E\u56DB");
+        Stream<String> st2 = Stream.of("\u5F20\u4E092", "\u674E\u56DB2", "\u738B\u4E94");
+        Stream<String> allSt = Stream.concat(st1, st2);
+        allSt.forEach(System.out::println);
+    }
+}
+`,paraId:223,tocIndex:99},{value:`/**
+ * \u76EE\u6807\uFF1AStream\u6D41\u7684\u7EC8\u7ED3\u65B9\u6CD5
+ */
+public class StreamTest4 {
+    public static void main(String[] args) {
+        List<Student> students = new ArrayList<>();
+        Student s1 = new Student("\u8718\u86DB\u7CBE", 26, 172.5);
+        Student s2 = new Student("\u7D2B\u971E", 23, 167.6);
+        Student s3 = new Student("\u767D\u6676\u6676", 25, 169.0);
+        Student s4 = new Student("\u725B\u9B54\u738B", 35, 183.3);
+        Student s5 = new Student("\u725B\u592B\u4EBA", 34, 168.5);
+        Collections.addAll(students, s1, s2, s3, s4, s5);
+        
+        // \u9700\u6C421\uFF1A\u8BF7\u8BA1\u7B97\u51FA\u8EAB\u9AD8\u8D85\u8FC7168\u7684\u5B66\u751F\u6709\u51E0\u4EBA\u3002
+        long size = students.stream().filter(s -> s.getHeight() > 168).count();
+        System.out.println(size);
+
+        // \u9700\u6C422\uFF1A\u8BF7\u627E\u51FA\u8EAB\u9AD8\u6700\u9AD8\u7684\u5B66\u751F\u5BF9\u8C61\uFF0C\u5E76\u8F93\u51FA\u3002
+        Student s = students.stream().max((o1, o2) -> Double.compare(o1.getHeight(), o2.getHeight())).get();
+        System.out.println(s);
+
+        // \u9700\u6C423\uFF1A\u8BF7\u627E\u51FA\u8EAB\u9AD8\u6700\u77EE\u7684\u5B66\u751F\u5BF9\u8C61\uFF0C\u5E76\u8F93\u51FA\u3002
+        Student ss = students.stream().min((o1, o2) -> Double.compare(o1.getHeight(), o2.getHeight())).get();
+        System.out.println(ss);
+
+        // \u9700\u6C424\uFF1A\u8BF7\u627E\u51FA\u8EAB\u9AD8\u8D85\u8FC7170\u7684\u5B66\u751F\u5BF9\u8C61\uFF0C\u5E76\u653E\u5230\u4E00\u4E2A\u65B0\u96C6\u5408\u4E2D\u53BB\u8FD4\u56DE\u3002
+        // \u6D41\u53EA\u80FD\u6536\u96C6\u4E00\u6B21\u3002
+        List<Student> students1 = students.stream().filter(a -> a.getHeight() > 170).collect(Collectors.toList());
+        System.out.println(students1);
+
+        Set<Student> students2 = students.stream().filter(a -> a.getHeight() > 170).collect(Collectors.toSet());
+        System.out.println(students2);
+
+        // \u9700\u6C425\uFF1A\u8BF7\u627E\u51FA\u8EAB\u9AD8\u8D85\u8FC7170\u7684\u5B66\u751F\u5BF9\u8C61\uFF0C\u5E76\u628A\u5B66\u751F\u5BF9\u8C61\u7684\u540D\u5B57\u548C\u8EAB\u9AD8\uFF0C\u5B58\u5165\u5230\u4E00\u4E2AMap\u96C6\u5408\u8FD4\u56DE\u3002
+        Map<String, Double> map =
+                students.stream().filter(a -> a.getHeight() > 170)
+                        .distinct().collect(Collectors.toMap(a -> a.getName(), a -> a.getHeight()));
+        System.out.println(map);
+
+        // Object[] arr = students.stream().filter(a -> a.getHeight() > 170).toArray();
+        Student[] arr = students.stream().filter(a -> a.getHeight() > 170).toArray(len -> new Student[len]);
+        System.out.println(Arrays.toString(arr));
+    }
+}
+`,paraId:224,tocIndex:100},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1File\u521B\u5EFA\u5BF9\u8C61\uFF0C\u4EE3\u8868\u5177\u4F53\u6587\u4EF6\u7684\u65B9\u6848\u3002
+ */
+public class FileTest1 {
+    public static void main(String[] args) {
+        // 1\u3001\u521B\u5EFA\u4E00\u4E2AFile\u5BF9\u8C61\uFF0C\u6307\u4EE3\u67D0\u4E2A\u5177\u4F53\u7684\u6587\u4EF6\u3002
+        // \u8DEF\u5F84\u5206\u9694\u7B26
+        // File f1 = new File("D:/resource/ab.txt");
+        // File f1 = new File("D:\\\\resource\\\\ab.txt");
+        File f1 = new File("D:" + File.separator +"resource" + File.separator + "ab.txt");
+        System.out.println(f1.length()); // \u6587\u4EF6\u5927\u5C0F
+
+        File f2 = new File("D:/resource");
+        System.out.println(f2.length());
+
+        // \u6CE8\u610F\uFF1AFile\u5BF9\u8C61\u53EF\u4EE5\u6307\u4EE3\u4E00\u4E2A\u4E0D\u5B58\u5728\u7684\u6587\u4EF6\u8DEF\u5F84
+        File f3 = new File("D:/resource/aaaa.txt");
+        System.out.println(f3.length());
+        System.out.println(f3.exists()); // false
+
+        // \u6211\u73B0\u5728\u8981\u5B9A\u4F4D\u7684\u6587\u4EF6\u662F\u5728\u6A21\u5757\u4E2D\uFF0C\u5E94\u8BE5\u600E\u4E48\u5B9A\u4F4D\u5462\uFF1F
+        // \u7EDD\u5BF9\u8DEF\u5F84\uFF1A\u5E26\u76D8\u7B26\u7684
+        // File f4 = new File("D:\\\\code\\\\javasepromax\\\\file-io-app\\\\src\\\\itheima.txt");
+        // \u76F8\u5BF9\u8DEF\u5F84\uFF08\u91CD\u70B9\uFF09\uFF1A\u4E0D\u5E26\u76D8\u7B26\uFF0C\u9ED8\u8BA4\u662F\u76F4\u63A5\u53BB\u5DE5\u7A0B\u4E0B\u5BFB\u627E\u6587\u4EF6\u7684\u3002
+        File f4 = new File("file-io-app\\\\src\\\\itheima.txt");
+        System.out.println(f4.length());
+    }
+}
+`,paraId:225,tocIndex:102},{value:`
+/**
+     \u76EE\u6807\uFF1A\u638C\u63E1File\u63D0\u4F9B\u7684\u5224\u65AD\u6587\u4EF6\u7C7B\u578B\u3001\u83B7\u53D6\u6587\u4EF6\u4FE1\u606F\u529F\u80FD
+ */
+public class FileTest2 {
+    public static void main(String[] args) throws UnsupportedEncodingException {
+        // 1.\u521B\u5EFA\u6587\u4EF6\u5BF9\u8C61\uFF0C\u6307\u4EE3\u67D0\u4E2A\u6587\u4EF6
+        File f1 = new File("D:/resource/ab.txt");
+        //File f1 = new File("D:/resource/");
+
+        // 2\u3001public boolean exists()\uFF1A\u5224\u65AD\u5F53\u524D\u6587\u4EF6\u5BF9\u8C61\uFF0C\u5BF9\u5E94\u7684\u6587\u4EF6\u8DEF\u5F84\u662F\u5426\u5B58\u5728\uFF0C\u5B58\u5728\u8FD4\u56DEtrue.
+        System.out.println(f1.exists());
+
+        // 3\u3001public boolean isFile() : \u5224\u65AD\u5F53\u524D\u6587\u4EF6\u5BF9\u8C61\u6307\u4EE3\u7684\u662F\u5426\u662F\u6587\u4EF6\uFF0C\u662F\u6587\u4EF6\u8FD4\u56DEtrue\uFF0C\u53CD\u4E4B\u3002
+        System.out.println(f1.isFile());
+
+        // 4\u3001public boolean isDirectory()  : \u5224\u65AD\u5F53\u524D\u6587\u4EF6\u5BF9\u8C61\u6307\u4EE3\u7684\u662F\u5426\u662F\u6587\u4EF6\u5939\uFF0C\u662F\u6587\u4EF6\u5939\u8FD4\u56DEtrue\uFF0C\u53CD\u4E4B\u3002
+        System.out.println(f1.isDirectory());
+    }
+}
+`,paraId:226,tocIndex:103},{value:"\u83B7\u53D6\u529F\u80FD",paraId:227,tocIndex:103},{value:`File f1 = new File("D:/resource/ab.txt");
+
+// 5.public String getName()\uFF1A\u83B7\u53D6\u6587\u4EF6\u7684\u540D\u79F0\uFF08\u5305\u542B\u540E\u7F00\uFF09
+System.out.println(f1.getName());
+
+// 6.public long length()\uFF1A\u83B7\u53D6\u6587\u4EF6\u7684\u5927\u5C0F\uFF0C\u8FD4\u56DE\u5B57\u8282\u4E2A\u6570
+System.out.println(f1.length());
+
+// 7.public long lastModified()\uFF1A\u83B7\u53D6\u6587\u4EF6\u7684\u6700\u540E\u4FEE\u6539\u65F6\u95F4\u3002
+long time = f1.lastModified();
+SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+System.out.println(sdf.format(time));
+
+// 8.public String getPath()\uFF1A\u83B7\u53D6\u521B\u5EFA\u6587\u4EF6\u5BF9\u8C61\u65F6\uFF0C\u4F7F\u7528\u7684\u8DEF\u5F84
+File f2 = new File("D:\\\\resource\\\\ab.txt");
+File f3 = new File("file-io-app\\\\src\\\\itheima.txt");
+System.out.println(f2.getPath());
+System.out.println(f3.getPath());
+
+// 9.public String getAbsolutePath()\uFF1A\u83B7\u53D6\u7EDD\u5BF9\u8DEF\u5F84
+System.out.println(f2.getAbsolutePath());
+System.out.println(f3.getAbsolutePath());
+`,paraId:228,tocIndex:103},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1File\u521B\u5EFA\u548C\u5220\u9664\u6587\u4EF6\u76F8\u5173\u7684\u65B9\u6CD5\u3002
+ */
+public class FileTest3 {
+    public static void main(String[] args) throws Exception {
+        // 1\u3001public boolean createNewFile()\uFF1A\u521B\u5EFA\u4E00\u4E2A\u65B0\u6587\u4EF6\uFF08\u6587\u4EF6\u5185\u5BB9\u4E3A\u7A7A\uFF09\uFF0C\u521B\u5EFA\u6210\u529F\u8FD4\u56DEtrue,\u53CD\u4E4B\u3002
+        File f1 = new File("D:/resource/itheima2.txt");
+        System.out.println(f1.createNewFile());
+
+        // 2\u3001public boolean mkdir()\uFF1A\u7528\u4E8E\u521B\u5EFA\u6587\u4EF6\u5939\uFF0C\u6CE8\u610F\uFF1A\u53EA\u80FD\u521B\u5EFA\u4E00\u7EA7\u6587\u4EF6\u5939
+        File f2 = new File("D:/resource/aaa");
+        System.out.println(f2.mkdir());
+
+        // 3\u3001public boolean mkdirs()\uFF1A\u7528\u4E8E\u521B\u5EFA\u6587\u4EF6\u5939\uFF0C\u6CE8\u610F\uFF1A\u53EF\u4EE5\u521B\u5EFA\u591A\u7EA7\u6587\u4EF6\u5939
+        File f3 = new File("D:/resource/bbb/ccc/ddd/eee/fff/ggg");
+        System.out.println(f3.mkdirs());
+
+        // 4\u3001public boolean delete()\uFF1A\u5220\u9664\u6587\u4EF6\uFF0C\u6216\u8005\u7A7A\u6587\u4EF6\uFF0C\u6CE8\u610F\uFF1A\u4E0D\u80FD\u5220\u9664\u975E\u7A7A\u6587\u4EF6\u5939\u3002
+        System.out.println(f1.delete());
+        System.out.println(f2.delete());
+        File f4 = new File("D:/resource");
+        System.out.println(f4.delete());
+    }
+}
+`,paraId:229,tocIndex:104},{value:`/**
+ * \u76EE\u6807: \u638C\u63E1File\u63D0\u4F9B\u7684\u904D\u5386\u6587\u4EF6\u5939\u7684\u65B9\u6CD5\u3002
+ */
+public class FileTest4 {
+    public static void main(String[] args) {
+        // 1\u3001public String[] list()\uFF1A\u83B7\u53D6\u5F53\u524D\u76EE\u5F55\u4E0B\u6240\u6709\u7684"\u4E00\u7EA7\u6587\u4EF6\u540D\u79F0"\u5230\u4E00\u4E2A\u5B57\u7B26\u4E32\u6570\u7EC4\u4E2D\u53BB\u8FD4\u56DE\u3002
+        File f1 = new File("D:\\\\course\\\\\u5F85\u7814\u53D1\u5185\u5BB9");
+        String[] names = f1.list();
+        for (String name : names) {
+            System.out.println(name);
+        }
+
+        // 2\u3001public File[] listFiles():\uFF08\u91CD\u70B9\uFF09\u83B7\u53D6\u5F53\u524D\u76EE\u5F55\u4E0B\u6240\u6709\u7684"\u4E00\u7EA7\u6587\u4EF6\u5BF9\u8C61"\u5230\u4E00\u4E2A\u6587\u4EF6\u5BF9\u8C61\u6570\u7EC4\u4E2D\u53BB\u8FD4\u56DE\uFF08\u91CD\u70B9\uFF09
+        File[] files = f1.listFiles();
+        for (File file : files) {
+            System.out.println(file.getAbsolutePath());
+        }
+
+        File f = new File("D:/resource/aaa");
+        File[] files1 = f.listFiles();
+        System.out.println(Arrays.toString(files1));
+    }
+}
+
+`,paraId:230,tocIndex:105},{value:`/**
+ * \u76EE\u6807\uFF1A\u638C\u63E1\u6587\u4EF6\u641C\u7D22\u7684\u5B9E\u73B0\u3002
+ */
+public class RecursionTest3 {
+    public static void main(String[] args) throws Exception {
+          searchFile(new File("D:/test") , "a");
+    }
+
+    /**
+     * \u53BB\u76EE\u5F55\u4E0B\u641C\u7D22\u67D0\u4E2A\u6587\u4EF6
+     * @param dir  \u76EE\u5F55
+     * @param fileName \u8981\u641C\u7D22\u7684\u6587\u4EF6\u540D\u79F0
+     */
+    public static void searchFile(File dir, String fileName) throws Exception {
+        // 1\u3001\u628A\u975E\u6CD5\u7684\u60C5\u51B5\u90FD\u62E6\u622A\u4F4F
+        if(dir == null){
+            return; // \u4EE3\u8868\u65E0\u6CD5\u641C\u7D22
+        }
+
+        // 2\u3001dir\u4E0D\u662Fnull,\u5B58\u5728\uFF0C\u4E00\u5B9A\u662F\u76EE\u5F55\u5BF9\u8C61\u3002
+        // \u83B7\u53D6\u5F53\u524D\u76EE\u5F55\u4E0B\u7684\u5168\u90E8\u4E00\u7EA7\u6587\u4EF6\u5BF9\u8C61\u3002
+        File[] files = dir.listFiles();
+        
+        
+        //3\u3001\u5F53dir\u662F\u6587\u4EF6\u65F6\uFF0C\u6216\u8005\u8DEF\u5F84\u4E0D\u5B58\u5728\u65F6\uFF0C\u6216\u8005\u6CA1\u6709\u6743\u9650\u8BBF\u95EE\u65F6,\u8FD4\u56DElistFiles()\u65B9\u6CD5\u8FD4\u56DEnull
+        if(files == null){
+            return; // \u4EE3\u8868\u65E0\u6CD5\u641C\u7D22
+        }
+        
+        // 4\u3001\u904D\u5386\u5168\u90E8\u4E00\u7EA7\u6587\u4EF6\u5BF9\u8C61\u3002
+        for (File f : files) {
+            // 5\u3001\u5224\u65AD\u6587\u4EF6\u662F\u5426\u662F\u6587\u4EF6,\u8FD8\u662F\u6587\u4EF6\u5939
+            if(f.isFile()){
+                // \u662F\u6587\u4EF6\uFF0C\u5224\u65AD\u8FD9\u4E2A\u6587\u4EF6\u540D\u662F\u5426\u662F\u6211\u4EEC\u8981\u627E\u7684
+                if(f.getName().contains(fileName)){
+                    System.out.println("\u627E\u5230\u4E86\uFF1A" + f.getAbsolutePath());
+                }
+            }else {
+                // \u662F\u6587\u4EF6\u5939\uFF0C\u7EE7\u7EED\u91CD\u590D\u8FD9\u4E2A\u8FC7\u7A0B\uFF08\u9012\u5F52\uFF09
+                searchFile(f, fileName);
+            }
+        }
+        
+    }
+}
+`,paraId:231,tocIndex:106}]},58591:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(44653);const t=[{value:"\u53C2\u8003\u6587\u6863",paraId:0,tocIndex:0},{value:"\u4F7F\u7528Docker\u5B89\u88C5\uFF0C\u4EC5\u4EC5\u9700\u8981\u4E00\u6B65\u5373\u53EF\uFF0C\u5728\u547D\u4EE4\u884C\u8F93\u5165\u4E0B\u9762\u7684\u547D\u4EE4\uFF08\u5EFA\u8BAE\u91C7\u7528CV\u5927\u6CD5\uFF09\uFF1A",paraId:1,tocIndex:1},{value:`docker run -d \\
+  --name mysql \\
+  -p 3306:3306 \\
+  -e TZ=Asia/Shanghai \\
+  -e MYSQL_ROOT_PASSWORD=123 \\
+  mysql
+`,paraId:2,tocIndex:1},{value:"\u5229\u7528Docker\u5FEB\u901F\u7684\u5B89\u88C5\u4E86MySQL\uFF0C\u975E\u5E38\u7684\u65B9\u4FBF\uFF0C\u4E0D\u8FC7\u6211\u4EEC\u6267\u884C\u7684\u547D\u4EE4\u5230\u5E95\u662F\u4EC0\u4E48\u610F\u601D\u5462\uFF1F",paraId:3,tocIndex:2},{value:`docker run -d \\
+  --name mysql \\
+  --restart=always \\
+  -p 3306:3306 \\
+  -e TZ=Asia/Shanghai \\
+  -e MYSQL_ROOT_PASSWORD=123 \\
+  mysql
+`,paraId:4,tocIndex:2},{value:"\u89E3\u8BFB\uFF1A",paraId:5,tocIndex:2},{value:"docker run -d",paraId:6,tocIndex:2},{value:" \uFF1A\u521B\u5EFA\u5E76\u8FD0\u884C\u4E00\u4E2A\u5BB9\u5668\uFF0C",paraId:6,tocIndex:2},{value:"-d",paraId:6,tocIndex:2},{value:"\u5219\u662F\u8BA9\u5BB9\u5668\u4EE5\u540E\u53F0\u8FDB\u7A0B\u8FD0\u884C",paraId:6,tocIndex:2},{value:"--name mysql ",paraId:6,tocIndex:2},{value:" : \u7ED9\u5BB9\u5668\u8D77\u4E2A\u540D\u5B57\u53EB",paraId:6,tocIndex:2},{value:"mysql",paraId:6,tocIndex:2},{value:"\uFF0C\u4F60\u53EF\u4EE5\u53EB\u522B\u7684",paraId:6,tocIndex:2},{value:"-p 3306:3306",paraId:6,tocIndex:2},{value:` : \u8BBE\u7F6E\u7AEF\u53E3\u6620\u5C04\u3002
+`,paraId:6,tocIndex:2},{value:"\u5BB9\u5668\u662F\u9694\u79BB\u73AF\u5883",paraId:7,tocIndex:2},{value:"\uFF0C\u5916\u754C\u4E0D\u53EF\u8BBF\u95EE\u3002\u4F46\u662F\u53EF\u4EE5",paraId:7,tocIndex:2},{value:"\u5C06",paraId:7,tocIndex:2},{value:"\u5BBF\u4E3B\u673A",paraId:7,tocIndex:2},{value:"\u7AEF\u53E3****\u6620\u5C04\u5BB9\u5668\u5185\u5230\u7AEF\u53E3",paraId:7,tocIndex:2},{value:"\uFF0C\u5F53\u8BBF\u95EE\u5BBF\u4E3B\u673A\u6307\u5B9A\u7AEF\u53E3\u65F6\uFF0C\u5C31\u662F\u5728\u8BBF\u95EE\u5BB9\u5668\u5185\u7684\u7AEF\u53E3\u4E86\u3002",paraId:7,tocIndex:2},{value:"\u5BB9\u5668\u5185\u7AEF\u53E3\u5F80\u5F80\u662F\u7531\u5BB9\u5668\u5185\u7684\u8FDB\u7A0B\u51B3\u5B9A\uFF0C\u4F8B\u5982MySQL\u8FDB\u7A0B\u9ED8\u8BA4\u7AEF\u53E3\u662F3306\uFF0C\u56E0\u6B64\u5BB9\u5668\u5185\u7AEF\u53E3\u4E00\u5B9A\u662F3306\uFF1B\u800C\u5BBF\u4E3B\u673A\u7AEF\u53E3\u5219\u53EF\u4EE5\u4EFB\u610F\u6307\u5B9A\uFF0C\u4E00\u822C\u4E0E\u5BB9\u5668\u5185\u4FDD\u6301\u4E00\u81F4\u3002",paraId:7,tocIndex:2},{value:"\u683C\u5F0F\uFF1A ",paraId:7,tocIndex:2},{value:"-p \u5BBF\u4E3B\u673A\u7AEF\u53E3:\u5BB9\u5668\u5185\u7AEF\u53E3",paraId:7,tocIndex:2},{value:"\uFF0C\u793A\u4F8B\u4E2D\u5C31\u662F\u5C06\u5BBF\u4E3B\u673A\u76843306\u6620\u5C04\u5230\u5BB9\u5668\u5185\u76843306\u7AEF\u53E3",paraId:7,tocIndex:2},{value:"-e TZ=Asia/Shanghai",paraId:6,tocIndex:2},{value:` : \u914D\u7F6E\u5BB9\u5668\u5185\u8FDB\u7A0B\u8FD0\u884C\u65F6\u7684\u4E00\u4E9B\u53C2\u6570
+`,paraId:6,tocIndex:2},{value:"\u683C\u5F0F\uFF1A",paraId:8,tocIndex:2},{value:"-e KEY=VALUE",paraId:8,tocIndex:2},{value:"\uFF0CKEY\u548CVALUE\u90FD\u7531\u5BB9\u5668\u5185\u8FDB\u7A0B\u51B3\u5B9A",paraId:8,tocIndex:2},{value:"\u6848\u4F8B\u4E2D\uFF0C",paraId:8,tocIndex:2},{value:"TZ=Asia/Shanghai",paraId:8,tocIndex:2},{value:"\u662F\u8BBE\u7F6E\u65F6\u533A\uFF1B",paraId:8,tocIndex:2},{value:"MYSQL_ROOT_PASSWORD=123",paraId:8,tocIndex:2},{value:"\u662F\u8BBE\u7F6EMySQL\u9ED8\u8BA4\u5BC6\u7801",paraId:8,tocIndex:2},{value:"mysql",paraId:6,tocIndex:2},{value:" : \u8BBE\u7F6E",paraId:6,tocIndex:2},{value:"\u955C\u50CF",paraId:6,tocIndex:2},{value:`\u540D\u79F0\uFF0CDocker\u4F1A\u6839\u636E\u8FD9\u4E2A\u540D\u5B57\u641C\u7D22\u5E76\u4E0B\u8F7D\u955C\u50CF
+`,paraId:6,tocIndex:2},{value:"\u683C\u5F0F\uFF1A",paraId:9,tocIndex:2},{value:"REPOSITORY:TAG",paraId:9,tocIndex:2},{value:"\uFF0C\u4F8B\u5982",paraId:9,tocIndex:2},{value:"mysql:8.0",paraId:9,tocIndex:2},{value:"\uFF0C\u5176\u4E2D",paraId:9,tocIndex:2},{value:"REPOSITORY",paraId:9,tocIndex:2},{value:"\u53EF\u4EE5\u7406\u89E3\u4E3A\u955C\u50CF\u540D\uFF0C",paraId:9,tocIndex:2},{value:"TAG",paraId:9,tocIndex:2},{value:"\u662F\u7248\u672C\u53F7",paraId:9,tocIndex:2},{value:"\u5728\u672A\u6307\u5B9A",paraId:9,tocIndex:2},{value:"TAG",paraId:9,tocIndex:2},{value:"\u7684\u60C5\u51B5\u4E0B\uFF0C\u9ED8\u8BA4\u662F\u6700\u65B0\u7248\u672C\uFF0C\u4E5F\u5C31\u662F",paraId:9,tocIndex:2},{value:"mysql:latest",paraId:9,tocIndex:2},{value:"\u955C\u50CF\u7684\u540D\u79F0\u4E0D\u662F\u968F\u610F\u7684\uFF0C\u800C\u662F\u8981\u5230DockerRegistry\u4E2D\u5BFB\u627E\uFF0C\u955C\u50CF\u8FD0\u884C\u65F6\u7684\u914D\u7F6E\u4E5F\u4E0D\u662F\u968F\u610F\u7684\uFF0C\u8981\u53C2\u8003\u955C\u50CF\u7684\u5E2E\u52A9\u6587\u6863\uFF0C\u8FD9\u4E9B\u5728DockerHub\u7F51\u7AD9\u6216\u8005\u8F6F\u4EF6\u7684\u5B98\u65B9\u7F51\u7AD9\u4E2D\u90FD\u80FD\u627E\u5230\u3002",paraId:10,tocIndex:2},{value:"\u5982\u679C\u6211\u4EEC\u8981\u5B89\u88C5\u5176\u5B83\u8F6F\u4EF6\uFF0C\u4E5F\u53EF\u4EE5\u5230DockerRegistry\u4E2D\u5BFB\u627E\u5BF9\u5E94\u7684\u955C\u50CF\u540D\u79F0\u548C\u7248\u672C\uFF0C\u9605\u8BFB\u76F8\u5173\u914D\u7F6E\u5373\u53EF\u3002",paraId:11,tocIndex:2},{value:"Docker\u955C\u50CF\u4EA4\u6D41\u7684\u793E\u533A\uFF1A",paraId:12,tocIndex:2},{value:"https://hub.docker.com/",paraId:12,tocIndex:2},{value:"\u63A5\u4E0B\u6765\uFF0C\u6211\u4EEC\u4E00\u8D77\u6765\u5B66\u4E60Docker\u4F7F\u7528\u7684\u4E00\u4E9B\u57FA\u7840\u77E5\u8BC6\uFF0C\u4E3A\u5C06\u6765\u90E8\u7F72\u9879\u76EE\u6253\u4E0B\u57FA\u7840\u3002\u5177\u4F53\u7528\u6CD5\u53EF\u4EE5\u53C2\u8003Docker\u5B98\u65B9\u6587\u6863\uFF1A",paraId:13,tocIndex:3},{value:"https://docs.docker.com/",paraId:14,tocIndex:3},{value:"\u9996\u5148\u6211\u4EEC\u6765\u5B66\u4E60Docker\u4E2D\u7684\u5E38\u89C1\u547D\u4EE4\uFF0C\u53EF\u4EE5\u53C2\u8003\u5B98\u65B9\u6587\u6863\uFF1A",paraId:15,tocIndex:4},{value:"https://docs.docker.com/engine/reference/commandline/cli/",paraId:16,tocIndex:4},{value:"\u5176\u4E2D\uFF0C\u6BD4\u8F83\u5E38\u89C1\u7684\u547D\u4EE4\u6709\uFF1A",paraId:17,tocIndex:5},{value:"\u547D\u4EE4",paraId:18,tocIndex:5},{value:"\u8BF4\u660E",paraId:18,tocIndex:5},{value:"\u6587\u6863\u5730\u5740",paraId:18,tocIndex:5},{value:"docker pull",paraId:18,tocIndex:5},{value:"\u62C9\u53D6\u955C\u50CF",paraId:18,tocIndex:5},{value:"docker pull",paraId:18,tocIndex:5},{value:"docker push",paraId:18,tocIndex:5},{value:"\u63A8\u9001\u955C\u50CF\u5230DockerRegistry",paraId:18,tocIndex:5},{value:"docker push",paraId:18,tocIndex:5},{value:"docker images",paraId:18,tocIndex:5},{value:"\u67E5\u770B\u672C\u5730\u955C\u50CF",paraId:18,tocIndex:5},{value:"docker images",paraId:18,tocIndex:5},{value:"docker rmi",paraId:18,tocIndex:5},{value:"\u5220\u9664\u672C\u5730\u955C\u50CF",paraId:18,tocIndex:5},{value:"docker rmi",paraId:18,tocIndex:5},{value:"docker run",paraId:18,tocIndex:5},{value:"\u521B\u5EFA\u5E76\u8FD0\u884C\u5BB9\u5668\uFF08\u4E0D\u80FD\u91CD\u590D\u521B\u5EFA\uFF09",paraId:18,tocIndex:5},{value:"docker run",paraId:18,tocIndex:5},{value:"docker stop",paraId:18,tocIndex:5},{value:"\u505C\u6B62\u6307\u5B9A\u5BB9\u5668",paraId:18,tocIndex:5},{value:"docker stop",paraId:18,tocIndex:5},{value:"docker start",paraId:18,tocIndex:5},{value:"\u542F\u52A8\u6307\u5B9A\u5BB9\u5668",paraId:18,tocIndex:5},{value:"docker start",paraId:18,tocIndex:5},{value:"docker restart",paraId:18,tocIndex:5},{value:"\u91CD\u65B0\u542F\u52A8\u5BB9\u5668",paraId:18,tocIndex:5},{value:"docker restart",paraId:18,tocIndex:5},{value:"docker rm",paraId:18,tocIndex:5},{value:"\u5220\u9664\u6307\u5B9A\u5BB9\u5668",paraId:18,tocIndex:5},{value:"docs.docker.com",paraId:18,tocIndex:5},{value:"docker ps",paraId:18,tocIndex:5},{value:"\u67E5\u770B\u5BB9\u5668",paraId:18,tocIndex:5},{value:"docker ps",paraId:18,tocIndex:5},{value:"docker logs",paraId:18,tocIndex:5},{value:"\u67E5\u770B\u5BB9\u5668\u8FD0\u884C\u65E5\u5FD7",paraId:18,tocIndex:5},{value:"docker logs",paraId:18,tocIndex:5},{value:"docker exec",paraId:18,tocIndex:5},{value:"\u8FDB\u5165\u5BB9\u5668",paraId:18,tocIndex:5},{value:"docker exec",paraId:18,tocIndex:5},{value:"docker save",paraId:18,tocIndex:5},{value:"\u4FDD\u5B58\u955C\u50CF\u5230\u672C\u5730\u538B\u7F29\u6587\u4EF6",paraId:18,tocIndex:5},{value:"docker save",paraId:18,tocIndex:5},{value:"docker load",paraId:18,tocIndex:5},{value:"\u52A0\u8F7D\u672C\u5730\u538B\u7F29\u6587\u4EF6\u5230\u955C\u50CF",paraId:18,tocIndex:5},{value:"docker load",paraId:18,tocIndex:5},{value:"docker inspect",paraId:18,tocIndex:5},{value:"\u67E5\u770B\u5BB9\u5668\u8BE6\u7EC6\u4FE1\u606F",paraId:18,tocIndex:5},{value:"docker inspect",paraId:18,tocIndex:5},{value:"\u8865\u5145\uFF1A",paraId:19,tocIndex:5},{value:"\u9ED8\u8BA4\u60C5\u51B5\u4E0B\uFF0C\u6BCF\u6B21\u91CD\u542F\u865A\u62DF\u673A\u6211\u4EEC\u90FD\u9700\u8981\u624B\u52A8\u542F\u52A8Docker\u548CDocker\u4E2D\u7684\u5BB9\u5668\u3002\u901A\u8FC7\u547D\u4EE4\u53EF\u4EE5\u5B9E\u73B0\u5F00\u673A\u81EA\u542F\uFF1A",paraId:20,tocIndex:5},{value:`# Docker\u5F00\u673A\u81EA\u542F
+systemctl enable docker
+
+# Docker\u5BB9\u5668\u5F00\u673A\u81EA\u542F
+docker update --restart=always [\u5BB9\u5668\u540D/\u5BB9\u5668id]
+`,paraId:21,tocIndex:5},{value:"\u6559\u5B66\u73AF\u8282\u8BF4\u660E\uFF1A\u6211\u4EEC\u4EE5Nginx\u4E3A\u4F8B\u7ED9\u5927\u5BB6\u6F14\u793A\u4E0A\u8FF0\u547D\u4EE4\u3002",paraId:22,tocIndex:6},{value:`# \u7B2C1\u6B65\uFF0C\u53BBDockerHub\u67E5\u770Bnginx\u955C\u50CF\u4ED3\u5E93\u53CA\u76F8\u5173\u4FE1\u606F
+
+# \u7B2C2\u6B65\uFF0C\u62C9\u53D6Nginx\u955C\u50CF
+docker pull nginx
+
+# \u7B2C3\u6B65\uFF0C\u67E5\u770B\u955C\u50CF
+docker images
+# \u7ED3\u679C\u5982\u4E0B\uFF1A
+REPOSITORY   TAG       IMAGE ID       CREATED         SIZE
+nginx        latest    605c77e624dd   16 months ago   141MB
+mysql        latest    3218b38490ce   17 months ago   516MB
+
+# \u7B2C4\u6B65\uFF0C\u521B\u5EFA\u5E76\u5141\u8BB8Nginx\u5BB9\u5668
+docker run -d --name nginx -p 80:80 nginx
+
+# \u7B2C5\u6B65\uFF0C\u67E5\u770B\u8FD0\u884C\u4E2D\u5BB9\u5668
+docker ps
+# \u4E5F\u53EF\u4EE5\u52A0\u683C\u5F0F\u5316\u65B9\u5F0F\u8BBF\u95EE\uFF0C\u683C\u5F0F\u4F1A\u66F4\u52A0\u6E05\u723D
+docker ps --format "table {{.ID}}\\t{{.Image}}\\t{{.Ports}}\\t{{.Status}}\\t{{.Names}}"
+
+# \u7B2C6\u6B65\uFF0C\u8BBF\u95EE\u7F51\u9875\uFF0C\u5730\u5740\uFF1Ahttp://\u865A\u62DF\u673A\u5730\u5740
+
+# \u7B2C7\u6B65\uFF0C\u505C\u6B62\u5BB9\u5668
+docker stop nginx
+
+# \u7B2C8\u6B65\uFF0C\u67E5\u770B\u6240\u6709\u5BB9\u5668
+docker ps -a --format "table {{.ID}}\\t{{.Image}}\\t{{.Ports}}\\t{{.Status}}\\t{{.Names}}"
+
+# \u7B2C9\u6B65\uFF0C\u518D\u6B21\u542F\u52A8nginx\u5BB9\u5668
+docker start nginx
+
+# \u7B2C10\u6B65\uFF0C\u518D\u6B21\u67E5\u770B\u5BB9\u5668
+docker ps --format "table {{.ID}}\\t{{.Image}}\\t{{.Ports}}\\t{{.Status}}\\t{{.Names}}"
+
+# \u7B2C11\u6B65\uFF0C\u67E5\u770B\u5BB9\u5668\u8BE6\u7EC6\u4FE1\u606F
+docker inspect nginx
+
+# \u7B2C12\u6B65\uFF0C\u8FDB\u5165\u5BB9\u5668,\u67E5\u770B\u5BB9\u5668\u5185\u76EE\u5F55
+docker exec -it nginx bash
+# \u6216\u8005\uFF0C\u53EF\u4EE5\u8FDB\u5165MySQL
+docker exec -it mysql mysql -uroot -p
+
+# \u7B2C13\u6B65\uFF0C\u5220\u9664\u5BB9\u5668
+docker rm nginx
+# \u53D1\u73B0\u65E0\u6CD5\u5220\u9664\uFF0C\u56E0\u4E3A\u5BB9\u5668\u8FD0\u884C\u4E2D\uFF0C\u5F3A\u5236\u5220\u9664\u5BB9\u5668
+docker rm -f nginx
+`,paraId:23,tocIndex:6},{value:"\u7ED9\u5E38\u7528Docker\u547D\u4EE4\u8D77\u522B\u540D\uFF0C\u65B9\u4FBF\u6211\u4EEC\u8BBF\u95EE\uFF1A",paraId:24,tocIndex:7},{value:`# \u4FEE\u6539/root/.bashrc\u6587\u4EF6
+vi /root/.bashrc
+\u5185\u5BB9\u5982\u4E0B\uFF1A
+# .bashrc
+
+# User specific aliases and functions
+
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias dps='docker ps --format "table {{.ID}}\\t{{.Image}}\\t{{.Ports}}\\t{{.Status}}\\t{{.Names}}"'
+alias dis='docker images'
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+fi
+`,paraId:25,tocIndex:7},{value:"\u7136\u540E\uFF0C\u6267\u884C\u547D\u4EE4\u4F7F\u522B\u540D\u751F\u6548",paraId:26,tocIndex:7},{value:`source /root/.bashrc
+`,paraId:27,tocIndex:7},{value:"\u63A5\u4E0B\u6765\uFF0C\u8BD5\u8BD5\u770B\u65B0\u7684\u547D\u4EE4\u5427\u3002",paraId:28,tocIndex:7},{value:"\u5BB9\u5668\u662F\u9694\u79BB\u73AF\u5883\uFF0C\u5BB9\u5668\u5185\u7A0B\u5E8F\u7684\u6587\u4EF6\u3001\u914D\u7F6E\u3001\u8FD0\u884C\u65F6\u4EA7\u751F\u7684\u5BB9\u5668\u90FD\u5728\u5BB9\u5668\u5185\u90E8\uFF0C\u6211\u4EEC\u8981\u8BFB\u5199\u5BB9\u5668\u5185\u7684\u6587\u4EF6\u975E\u5E38\u4E0D\u65B9\u4FBF\u3002",paraId:29,tocIndex:8},{value:"\u6570\u636E\u5377\uFF08volume\uFF09",paraId:30,tocIndex:9},{value:"\u662F\u4E00\u4E2A\u865A\u62DF\u76EE\u5F55\uFF0C\u662F",paraId:30,tocIndex:9},{value:"\u5BB9\u5668\u5185\u76EE\u5F55",paraId:30,tocIndex:9},{value:"\u4E0E",paraId:30,tocIndex:9},{value:"\u5BBF\u4E3B\u673A****\u76EE\u5F55",paraId:30,tocIndex:9},{value:"\u4E4B\u95F4\u6620\u5C04\u7684\u6865\u6881\u3002",paraId:30,tocIndex:9},{value:"\u4EE5Nginx\u4E3A\u4F8B\uFF0C\u6211\u4EEC\u77E5\u9053Nginx\u4E2D\u6709\u4E24\u4E2A\u5173\u952E\u7684\u76EE\u5F55\uFF1A",paraId:31,tocIndex:9},{value:"html",paraId:32,tocIndex:9},{value:"\uFF1A\u653E\u7F6E\u4E00\u4E9B\u9759\u6001\u8D44\u6E90",paraId:32,tocIndex:9},{value:"conf",paraId:32,tocIndex:9},{value:"\uFF1A\u653E\u7F6E\u914D\u7F6E\u6587\u4EF6",paraId:32,tocIndex:9},{value:"\u5982\u679C\u6211\u4EEC\u8981\u8BA9Nginx\u4EE3\u7406\u6211\u4EEC\u7684\u9759\u6001\u8D44\u6E90\uFF0C\u6700\u597D\u662F\u653E\u5230",paraId:33,tocIndex:9},{value:"html",paraId:33,tocIndex:9},{value:"\u76EE\u5F55\uFF1B\u5982\u679C\u6211\u4EEC\u8981\u4FEE\u6539Nginx\u7684\u914D\u7F6E\uFF0C\u6700\u597D\u662F\u627E\u5230",paraId:33,tocIndex:9},{value:"conf",paraId:33,tocIndex:9},{value:"\u4E0B\u7684",paraId:33,tocIndex:9},{value:"nginx.conf",paraId:33,tocIndex:9},{value:"\u6587\u4EF6\u3002",paraId:33,tocIndex:9},{value:"\u4F46\u9057\u61BE\u7684\u662F\uFF0C\u5BB9\u5668\u8FD0\u884C\u7684Nginx\u6240\u6709\u7684\u6587\u4EF6\u90FD\u5728\u5BB9\u5668\u5185\u90E8\u3002\u6240\u4EE5\u6211\u4EEC\u5FC5\u987B\u5229\u7528\u6570\u636E\u5377\u5C06\u4E24\u4E2A\u76EE\u5F55\u4E0E\u5BBF\u4E3B\u673A\u76EE\u5F55\u5173\u8054\uFF0C\u65B9\u4FBF\u6211\u4EEC\u64CD\u4F5C\u3002",paraId:34,tocIndex:9},{value:"\u5728\u4E0A\u56FE\u4E2D\uFF1A",paraId:35,tocIndex:9},{value:"\u6211\u4EEC\u521B\u5EFA\u4E86\u4E24\u4E2A\u6570\u636E\u5377\uFF1A",paraId:36,tocIndex:9},{value:"conf",paraId:36,tocIndex:9},{value:"\u3001",paraId:36,tocIndex:9},{value:"html",paraId:36,tocIndex:9},{value:"Nginx\u5BB9\u5668\u5185\u90E8\u7684",paraId:36,tocIndex:9},{value:"conf",paraId:36,tocIndex:9},{value:"\u76EE\u5F55\u548C",paraId:36,tocIndex:9},{value:"html",paraId:36,tocIndex:9},{value:"\u76EE\u5F55\u5206\u522B\u4E0E\u4E24\u4E2A\u6570\u636E\u5377\u5173\u8054\u3002",paraId:36,tocIndex:9},{value:"\u800C\u6570\u636E\u5377conf\u548Chtml\u5206\u522B\u6307\u5411\u4E86\u5BBF\u4E3B\u673A\u7684",paraId:36,tocIndex:9},{value:"/var/lib/docker/volumes/conf/_data",paraId:36,tocIndex:9},{value:"\u76EE\u5F55\u548C",paraId:36,tocIndex:9},{value:"/var/lib/docker/volumes/html/_data",paraId:36,tocIndex:9},{value:"\u76EE\u5F55",paraId:36,tocIndex:9},{value:"\u8FD9\u6837\u4EE5\u6765\uFF0C\u5BB9\u5668\u5185\u7684",paraId:37,tocIndex:9},{value:"conf",paraId:37,tocIndex:9},{value:"\u548C",paraId:37,tocIndex:9},{value:"html",paraId:37,tocIndex:9},{value:"\u76EE\u5F55\u5C31 \u4E0E\u5BBF\u4E3B\u673A\u7684",paraId:37,tocIndex:9},{value:"conf",paraId:37,tocIndex:9},{value:"\u548C",paraId:37,tocIndex:9},{value:"html",paraId:37,tocIndex:9},{value:"\u76EE\u5F55\u5173\u8054\u8D77\u6765\uFF0C\u6211\u4EEC\u79F0\u4E3A",paraId:37,tocIndex:9},{value:"\u6302\u8F7D",paraId:37,tocIndex:9},{value:"\u3002\u6B64\u65F6\uFF0C\u6211\u4EEC\u64CD\u4F5C\u5BBF\u4E3B\u673A\u7684",paraId:37,tocIndex:9},{value:"/var/lib/docker/volumes/html/_data",paraId:37,tocIndex:9},{value:"\u5C31\u662F\u5728\u64CD\u4F5C\u5BB9\u5668\u5185\u7684",paraId:37,tocIndex:9},{value:"/usr/share/nginx/html/_data",paraId:37,tocIndex:9},{value:"\u76EE\u5F55\u3002\u53EA\u8981\u6211\u4EEC\u5C06\u9759\u6001\u8D44\u6E90\u653E\u5165\u5BBF\u4E3B\u673A\u5BF9\u5E94\u76EE\u5F55\uFF0C\u5C31\u53EF\u4EE5\u88ABNginx\u4EE3\u7406\u4E86\u3002",paraId:37,tocIndex:9},{value:"\u5C0F\u63D0\u793A",paraId:38,tocIndex:9},{value:"\uFF1A",paraId:38,tocIndex:9},{value:"/var/lib/docker/volumes",paraId:39,tocIndex:9},{value:"\u8FD9\u4E2A\u76EE\u5F55\u5C31\u662F\u9ED8\u8BA4\u7684\u5B58\u653E\u6240\u6709\u5BB9\u5668\u6570\u636E\u5377\u7684\u76EE\u5F55\uFF0C\u5176\u4E0B\u518D\u6839\u636E\u6570\u636E\u5377\u540D\u79F0\u521B\u5EFA\u65B0\u76EE\u5F55\uFF0C\u683C\u5F0F\u4E3A",paraId:39,tocIndex:9},{value:"/\u6570\u636E\u5377\u540D/_data",paraId:39,tocIndex:9},{value:"\u3002",paraId:39,tocIndex:9},{value:"\u6570\u636E\u5377\u7684\u76F8\u5173\u547D\u4EE4\u6709\uFF1A",paraId:40,tocIndex:10},{value:"\u547D\u4EE4",paraId:41,tocIndex:10},{value:"\u8BF4\u660E",paraId:41,tocIndex:10},{value:"\u6587\u6863\u5730\u5740",paraId:41,tocIndex:10},{value:"docker volume create",paraId:41,tocIndex:10},{value:"\u521B\u5EFA\u6570\u636E\u5377",paraId:41,tocIndex:10},{value:"docker volume create",paraId:41,tocIndex:10},{value:"docker volume ls",paraId:41,tocIndex:10},{value:"\u67E5\u770B\u6240\u6709\u6570\u636E\u5377",paraId:41,tocIndex:10},{value:"docs.docker.com",paraId:41,tocIndex:10},{value:"docker volume rm",paraId:41,tocIndex:10},{value:"\u5220\u9664\u6307\u5B9A\u6570\u636E\u5377",paraId:41,tocIndex:10},{value:"docs.docker.com",paraId:41,tocIndex:10},{value:"docker volume inspect",paraId:41,tocIndex:10},{value:"\u67E5\u770B\u67D0\u4E2A\u6570\u636E\u5377\u7684\u8BE6\u60C5",paraId:41,tocIndex:10},{value:"docs.docker.com",paraId:41,tocIndex:10},{value:"docker volume prune",paraId:41,tocIndex:10},{value:"\u6E05\u9664\u6570\u636E\u5377",paraId:41,tocIndex:10},{value:"docker volume prune",paraId:41,tocIndex:10},{value:"\u6CE8\u610F\uFF1A\u5BB9\u5668\u4E0E\u6570\u636E\u5377\u7684\u6302\u8F7D\u8981\u5728\u521B\u5EFA\u5BB9\u5668\u65F6\u914D\u7F6E\uFF0C\u5BF9\u4E8E\u521B\u5EFA\u597D\u7684\u5BB9\u5668\uFF0C\u662F\u4E0D\u80FD\u8BBE\u7F6E\u6570\u636E\u5377\u7684\u3002\u800C\u4E14",paraId:42,tocIndex:10},{value:"\u521B\u5EFA\u5BB9\u5668\u7684\u8FC7\u7A0B\u4E2D\uFF0C\u6570\u636E\u5377\u4F1A\u81EA\u52A8\u521B\u5EFA",paraId:42,tocIndex:10},{value:"\u3002",paraId:42,tocIndex:10},{value:"\u6F14\u793A\u73AF\u8282",paraId:43,tocIndex:10},{value:"\uFF1A\u6F14\u793A\u4E00\u4E0Bnginx\u7684html\u76EE\u5F55\u6302\u8F7D",paraId:43,tocIndex:10},{value:`# 1.\u9996\u5148\u521B\u5EFA\u5BB9\u5668\u5E76\u6307\u5B9A\u6570\u636E\u5377\uFF0C\u6CE8\u610F\u901A\u8FC7 -v \u53C2\u6570\u6765\u6307\u5B9A\u6570\u636E\u5377
+docker run -d --name nginx -p 80:80 -v html:/usr/share/nginx/html nginx
+
+# 2.\u7136\u540E\u67E5\u770B\u6570\u636E\u5377
+docker volume ls
+# \u7ED3\u679C
+DRIVER    VOLUME NAME
+local     29524ff09715d3688eae3f99803a2796558dbd00ca584a25a4bbc193ca82459f
+local     html
+
+# 3.\u67E5\u770B\u6570\u636E\u5377\u8BE6\u60C5
+docker volume inspect html
+# \u7ED3\u679C
+[
+    {
+        "CreatedAt": "2024-05-17T19:57:08+08:00",
+        "Driver": "local",
+        "Labels": null,
+        "Mountpoint": "/var/lib/docker/volumes/html/_data",
+        "Name": "html",
+        "Options": null,
+        "Scope": "local"
+    }
+]
+
+# 4.\u67E5\u770B/var/lib/docker/volumes/html/_data\u76EE\u5F55
+ll /var/lib/docker/volumes/html/_data
+# \u53EF\u4EE5\u770B\u5230\u4E0Enginx\u7684html\u76EE\u5F55\u5185\u5BB9\u4E00\u6837\uFF0C\u7ED3\u679C\u5982\u4E0B\uFF1A
+\u603B\u7528\u91CF 8
+-rw-r--r--. 1 root root 497 12\u6708 28 2021 50x.html
+-rw-r--r--. 1 root root 615 12\u6708 28 2021 index.html
+
+# 5.\u8FDB\u5165\u8BE5\u76EE\u5F55\uFF0C\u5E76\u968F\u610F\u4FEE\u6539index.html\u5185\u5BB9
+cd /var/lib/docker/volumes/html/_data
+vi index.html
+
+# 6.\u6253\u5F00\u9875\u9762\uFF0C\u67E5\u770B\u6548\u679C
+
+# 7.\u8FDB\u5165\u5BB9\u5668\u5185\u90E8\uFF0C\u67E5\u770B/usr/share/nginx/html\u76EE\u5F55\u5185\u7684\u6587\u4EF6\u662F\u5426\u53D8\u5316
+docker exec -it nginx bash
+`,paraId:44,tocIndex:10},{value:"\u53EF\u4EE5\u53D1\u73B0\uFF0C\u6570\u636E\u5377\u7684\u76EE\u5F55\u7ED3\u6784\u8F83\u6DF1\uFF0C\u5982\u679C\u6211\u4EEC\u53BB\u64CD\u4F5C\u6570\u636E\u5377\u76EE\u5F55\u4F1A\u4E0D\u592A\u65B9\u4FBF\u3002\u5728\u5F88\u591A\u60C5\u51B5\u4E0B\uFF0C\u6211\u4EEC\u4F1A\u76F4\u63A5\u5C06\u5BB9\u5668\u76EE\u5F55\u4E0E\u5BBF\u4E3B\u673A\u6307\u5B9A\u76EE\u5F55\u6302\u8F7D\u3002\u6302\u8F7D\u8BED\u6CD5\u4E0E\u6570\u636E\u5377\u7C7B\u4F3C\uFF1A",paraId:45,tocIndex:11},{value:`# \u6302\u8F7D\u672C\u5730\u76EE\u5F55
+-v \u672C\u5730\u76EE\u5F55:\u5BB9\u5668\u5185\u76EE\u5F55
+# \u6302\u8F7D\u672C\u5730\u6587\u4EF6
+-v \u672C\u5730\u6587\u4EF6:\u5BB9\u5668\u5185\u6587\u4EF6
+`,paraId:46,tocIndex:11},{value:"\u6CE8\u610F",paraId:47,tocIndex:11},{value:"\uFF1A\u672C\u5730\u76EE\u5F55\u6216\u6587\u4EF6\u5FC5\u987B\u4EE5 ",paraId:47,tocIndex:11},{value:"/",paraId:47,tocIndex:11},{value:" \u6216 ",paraId:47,tocIndex:11},{value:"./",paraId:47,tocIndex:11},{value:"\u5F00\u5934\uFF0C\u5982\u679C\u76F4\u63A5\u4EE5\u540D\u5B57\u5F00\u5934\uFF0C\u4F1A\u88AB\u8BC6\u522B\u4E3A\u6570\u636E\u5377\u540D\u800C\u975E\u672C\u5730\u76EE\u5F55\u540D\u3002",paraId:47,tocIndex:11},{value:"\u4F8B\u5982\uFF1A",paraId:48,tocIndex:11},{value:`-v mysql:/var/lib/mysql # \u4F1A\u88AB\u8BC6\u522B\u4E3A\u4E00\u4E2A\u6570\u636E\u5377\u53EBmysql\uFF0C\u8FD0\u884C\u65F6\u4F1A\u81EA\u52A8\u521B\u5EFA\u8FD9\u4E2A\u6570\u636E\u5377
+-v ./mysql:/var/lib/mysql # \u4F1A\u88AB\u8BC6\u522B\u4E3A\u5F53\u524D\u76EE\u5F55\u4E0B\u7684mysql\u76EE\u5F55\uFF0C\u8FD0\u884C\u65F6\u5982\u679C\u4E0D\u5B58\u5728\u4F1A\u521B\u5EFA\u76EE\u5F55
+`,paraId:49,tocIndex:11},{value:"\u6559\u5B66\u6F14\u793A",paraId:50,tocIndex:11},{value:"\uFF0C\u5220\u9664\u5E76\u91CD\u65B0\u521B\u5EFAmysql\u5BB9\u5668\uFF0C\u5E76\u5B8C\u6210\u672C\u5730\u76EE\u5F55\u6302\u8F7D\uFF1A",paraId:50,tocIndex:11},{value:"\u6302\u8F7D",paraId:51,tocIndex:11},{value:"/root/mysql/data",paraId:51,tocIndex:11},{value:"\u5230\u5BB9\u5668\u5185\u7684",paraId:51,tocIndex:11},{value:"/var/lib/mysql",paraId:51,tocIndex:11},{value:"\u76EE\u5F55",paraId:51,tocIndex:11},{value:"\u6302\u8F7D",paraId:51,tocIndex:11},{value:"/root/mysql/init",paraId:51,tocIndex:11},{value:"\u5230\u5BB9\u5668\u5185\u7684",paraId:51,tocIndex:11},{value:"/docker-entrypoint-initdb.d",paraId:51,tocIndex:11},{value:"\u76EE\u5F55\uFF08\u521D\u59CB\u5316\u7684SQL\u811A\u672C\u76EE\u5F55\uFF09",paraId:51,tocIndex:11},{value:"\u6302\u8F7D",paraId:51,tocIndex:11},{value:"/root/mysql/conf",paraId:51,tocIndex:11},{value:"\u5230\u5BB9\u5668\u5185\u7684",paraId:51,tocIndex:11},{value:"/etc/mysql/conf.d",paraId:51,tocIndex:11},{value:"\u76EE\u5F55\uFF08\u8FD9\u4E2A\u662FMySQL\u914D\u7F6E\u6587\u4EF6\u76EE\u5F55\uFF09",paraId:51,tocIndex:11},{value:"\u63A5\u4E0B\u6765\uFF0C\u6211\u4EEC\u6F14\u793A\u672C\u5730\u76EE\u5F55\u6302\u8F7D\uFF1A",paraId:52,tocIndex:11},{value:`# 1.\u5220\u9664\u539F\u6765\u7684MySQL\u5BB9\u5668
+docker rm -f mysql
+
+# 2.\u8FDB\u5165root\u76EE\u5F55
+cd ~
+
+# 3.\u521B\u5EFA\u5E76\u8FD0\u884C\u65B0mysql\u5BB9\u5668\uFF0C\u6302\u8F7D\u672C\u5730\u76EE\u5F55
+docker run -d \\
+  --name mysql \\
+  -p 3306:3306 \\
+  -e TZ=Asia/Shanghai \\
+  -e MYSQL_ROOT_PASSWORD=123 \\
+  -v ./mysql/data:/var/lib/mysql \\
+  -v ./mysql/conf:/etc/mysql/conf.d \\
+  -v ./mysql/init:/docker-entrypoint-initdb.d \\
+  mysql
+
+# 4.\u67E5\u770Broot\u76EE\u5F55\uFF0C\u53EF\u4EE5\u53D1\u73B0~/mysql/data\u76EE\u5F55\u5DF2\u7ECF\u81EA\u52A8\u521B\u5EFA\u597D\u4E86
+ls -l mysql
+# \u7ED3\u679C\uFF1A
+\u603B\u7528\u91CF 4
+drwxr-xr-x. 2 root    root   20 5\u6708  19 15:11 conf
+drwxr-xr-x. 7 polkitd root 4096 5\u6708  19 15:11 data
+drwxr-xr-x. 2 root    root   23 5\u6708  19 15:11 init
+
+# \u67E5\u770Bdata\u76EE\u5F55\uFF0C\u4F1A\u53D1\u73B0\u91CC\u9762\u6709\u5927\u91CF\u6570\u636E\u5E93\u6570\u636E\uFF0C\u8BF4\u660E\u6570\u636E\u5E93\u5B8C\u6210\u4E86\u521D\u59CB\u5316
+ls -l data
+
+# 5.\u67E5\u770BMySQL\u5BB9\u5668\u5185\u6570\u636E
+# 5.1.\u8FDB\u5165MySQL
+docker exec -it mysql mysql -uroot -p123
+# 5.2.\u67E5\u770B\u7F16\u7801\u8868
+show variables like "%char%";
+# 5.3.\u7ED3\u679C\uFF0C\u53D1\u73B0\u7F16\u7801\u662Futf8mb4\u6CA1\u6709\u95EE\u9898
++--------------------------+--------------------------------+
+| Variable_name            | Value                          |
++--------------------------+--------------------------------+
+| character_set_client     | utf8mb4                        |
+| character_set_connection | utf8mb4                        |
+| character_set_database   | utf8mb4                        |
+| character_set_filesystem | binary                         |
+| character_set_results    | utf8mb4                        |
+| character_set_server     | utf8mb4                        |
+| character_set_system     | utf8mb3                        |
+| character_sets_dir       | /usr/share/mysql-8.0/charsets/ |
++--------------------------+--------------------------------+
+
+# 6.\u67E5\u770B\u6570\u636E
+# 6.1.\u67E5\u770B\u6570\u636E\u5E93
+show databases;
+# \u7ED3\u679C\uFF0Chmall\u662F\u9ED1\u9A6C\u5546\u57CE\u6570\u636E\u5E93
++--------------------+
+| Database           |
++--------------------+
+| hmall              |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+5 rows in set (0.00 sec)
+# 6.2.\u5207\u6362\u5230hmall\u6570\u636E\u5E93
+use hmall;
+# 6.3.\u67E5\u770B\u8868
+show tables;
+# \u7ED3\u679C\uFF1A
++-----------------+
+| Tables_in_hmall |
++-----------------+
+| address         |
+| cart            |
+| item            |
+| order           |
+| order_detail    |
+| order_logistics |
+| pay_order       |
+| user            |
++-----------------+
+# 6.4.\u67E5\u770Baddress\u8868\u6570\u636E
++----+---------+----------+--------+----------+-------------+---------------+-----------+------------+-------+
+| id | user_id | province | city   | town     | mobile      | street        | contact   | is_default | notes |
++----+---------+----------+--------+----------+-------------+---------------+-----------+------------+-------+
+| 59 |       1 | \u5317\u4EAC     | \u5317\u4EAC   | \u671D\u9633\u533A    | 13900112222 | \u91D1\u71D5\u9F99\u529E\u516C\u697C   | \u674E\u4F73\u8BDA    | 0          | NULL  |
+| 60 |       1 | \u5317\u4EAC     | \u5317\u4EAC   | \u671D\u9633\u533A    | 13700221122 | \u4FEE\u6B63\u5927\u53A6       | \u674E\u4F73\u7EA2    | 0          | NULL  |
+| 61 |       1 | \u4E0A\u6D77     | \u4E0A\u6D77   | \u6D66\u4E1C\u65B0\u533A  | 13301212233 | \u822A\u5934\u9547\u822A\u5934\u8DEF   | \u674E\u4F73\u661F    | 1          | NULL  |
+| 63 |       1 | \u5E7F\u4E1C     | \u4F5B\u5C71   | \u6C38\u6625      | 13301212233 | \u6C38\u6625\u6B66\u9986       | \u674E\u6653\u9F99    | 0          | NULL  |
++----+---------+----------+--------+----------+-------------+---------------+-----------+------------+-------+
+4 rows in set (0.00 sec)
+`,paraId:53,tocIndex:11},{value:"\u7531\u4E8E\u5236\u4F5C\u955C\u50CF\u7684\u8FC7\u7A0B\u4E2D\uFF0C\u9700\u8981\u9010\u5C42\u5904\u7406\u548C\u6253\u5305\uFF0C\u6BD4\u8F83\u590D\u6742\uFF0C\u6240\u4EE5Docker\u5C31\u63D0\u4F9B\u4E86\u81EA\u52A8\u6253\u5305\u955C\u50CF\u7684\u529F\u80FD\u3002\u6211\u4EEC\u53EA\u9700\u8981\u5C06\u6253\u5305\u7684\u8FC7\u7A0B\uFF0C\u6BCF\u4E00\u5C42\u8981\u505A\u7684\u4E8B\u60C5\u7528\u56FA\u5B9A\u7684\u8BED\u6CD5\u5199\u4E0B\u6765\uFF0C\u4EA4\u7ED9Docker\u53BB\u6267\u884C\u5373\u53EF\u3002",paraId:54,tocIndex:13},{value:"\u800C\u8FD9\u79CD\u8BB0\u5F55\u955C\u50CF\u7ED3\u6784\u7684\u6587\u4EF6\u5C31\u79F0\u4E3A",paraId:55,tocIndex:13},{value:"Dockerfile",paraId:55,tocIndex:13},{value:"\uFF0C\u5176\u5BF9\u5E94\u7684\u8BED\u6CD5\u53EF\u4EE5\u53C2\u8003\u5B98\u65B9\u6587\u6863\uFF1A",paraId:55,tocIndex:13},{value:"https://docs.docker.com/engine/reference/builder/",paraId:56,tocIndex:13},{value:"\u5176\u4E2D\u7684\u8BED\u6CD5\u6BD4\u8F83\u591A\uFF0C\u6BD4\u8F83\u5E38\u7528\u7684\u6709\uFF1A",paraId:57,tocIndex:13},{value:"\u6307\u4EE4",paraId:58,tocIndex:13},{value:"\u8BF4\u660E",paraId:58,tocIndex:13},{value:"\u793A\u4F8B",paraId:58,tocIndex:13},{value:"FROM",paraId:58,tocIndex:13},{value:"\u6307\u5B9A\u57FA\u7840\u955C\u50CF",paraId:58,tocIndex:13},{value:"FROM centos:6",paraId:58,tocIndex:13},{value:"ENV",paraId:58,tocIndex:13},{value:"\u8BBE\u7F6E\u73AF\u5883\u53D8\u91CF\uFF0C\u53EF\u5728\u540E\u9762\u6307\u4EE4\u4F7F\u7528",paraId:58,tocIndex:13},{value:"ENV key value",paraId:58,tocIndex:13},{value:"COPY",paraId:58,tocIndex:13},{value:"\u62F7\u8D1D\u672C\u5730\u6587\u4EF6\u5230\u955C\u50CF\u7684\u6307\u5B9A\u76EE\u5F55",paraId:58,tocIndex:13},{value:"COPY ./xx.jar /tmp/app.jar",paraId:58,tocIndex:13},{value:"RUN",paraId:58,tocIndex:13},{value:"\u6267\u884CLinux\u7684shell\u547D\u4EE4\uFF0C\u4E00\u822C\u662F\u5B89\u88C5\u8FC7\u7A0B\u7684\u547D\u4EE4",paraId:58,tocIndex:13},{value:"RUN yum install gcc",paraId:58,tocIndex:13},{value:"EXPOSE",paraId:58,tocIndex:13},{value:"\u6307\u5B9A\u5BB9\u5668\u8FD0\u884C\u65F6\u76D1\u542C\u7684\u7AEF\u53E3\uFF0C\u662F\u7ED9\u955C\u50CF\u4F7F\u7528\u8005\u770B\u7684",paraId:58,tocIndex:13},{value:"EXPOSE 8080",paraId:58,tocIndex:13},{value:"ENTRYPOINT",paraId:58,tocIndex:13},{value:"\u955C\u50CF\u4E2D\u5E94\u7528\u7684\u542F\u52A8\u547D\u4EE4\uFF0C\u5BB9\u5668\u8FD0\u884C\u65F6\u8C03\u7528",paraId:58,tocIndex:13},{value:"ENTRYPOINT java -jar xx.jar",paraId:58,tocIndex:13},{value:"\u4F8B\u5982\uFF0C\u8981\u57FA\u4E8EUbuntu\u955C\u50CF\u6765\u6784\u5EFA\u4E00\u4E2AJava\u5E94\u7528\uFF0C\u5176Dockerfile\u5185\u5BB9\u5982\u4E0B\uFF1A",paraId:59,tocIndex:13},{value:`# \u6307\u5B9A\u57FA\u7840\u955C\u50CF
+FROM ubuntu:16.04
+# \u914D\u7F6E\u73AF\u5883\u53D8\u91CF\uFF0CJDK\u7684\u5B89\u88C5\u76EE\u5F55\u3001\u5BB9\u5668\u5185\u65F6\u533A
+ENV JAVA_DIR=/usr/local
+ENV TZ=Asia/Shanghai
+# \u62F7\u8D1Djdk\u548Cjava\u9879\u76EE\u7684\u5305
+COPY ./jdk8.tar.gz $JAVA_DIR/
+COPY ./docker-demo.jar /tmp/app.jar
+# \u8BBE\u5B9A\u65F6\u533A
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+# \u5B89\u88C5JDK
+RUN cd $JAVA_DIR \\
+ && tar -xf ./jdk8.tar.gz \\
+ && mv ./jdk1.8.0_144 ./java8
+# \u914D\u7F6E\u73AF\u5883\u53D8\u91CF
+ENV JAVA_HOME=$JAVA_DIR/java8
+ENV PATH=$PATH:$JAVA_HOME/bin
+# \u6307\u5B9A\u9879\u76EE\u76D1\u542C\u7684\u7AEF\u53E3
+EXPOSE 8080
+# \u5165\u53E3\uFF0Cjava\u9879\u76EE\u7684\u542F\u52A8\u547D\u4EE4
+ENTRYPOINT ["java", "-jar", "/app.jar"]
+`,paraId:60,tocIndex:13},{value:"\u540C\u5B66\u4EEC\u601D\u8003\u4E00\u4E0B\uFF1A\u4EE5\u540E\u6211\u4EEC\u4F1A\u6709\u5F88\u591A\u5F88\u591Ajava\u9879\u76EE\u9700\u8981\u6253\u5305\u4E3A\u955C\u50CF\uFF0C\u4ED6\u4EEC\u90FD\u9700\u8981Linux\u7CFB\u7EDF\u73AF\u5883\u3001JDK\u73AF\u5883\u8FD9\u4E24\u5C42\uFF0C\u53EA\u6709\u4E0A\u9762\u76843\u5C42\u4E0D\u540C\uFF08\u56E0\u4E3Ajar\u5305\u4E0D\u540C\uFF09\u3002\u5982\u679C\u6BCF\u6B21\u5236\u4F5Cjava\u955C\u50CF\u90FD\u91CD\u590D\u5236\u4F5C\u524D\u4E24\u5C42\u955C\u50CF\uFF0C\u662F\u4E0D\u662F\u5F88\u9EBB\u70E6\u3002",paraId:61,tocIndex:13},{value:"\u6240\u4EE5\uFF0C\u5C31\u6709\u4EBA\u63D0\u4F9B\u4E86\u57FA\u7840\u7684\u7CFB\u7EDF\u52A0JDK\u73AF\u5883\uFF0C\u6211\u4EEC\u5728\u6B64\u57FA\u7840\u4E0A\u5236\u4F5Cjava\u955C\u50CF\uFF0C\u5C31\u53EF\u4EE5\u7701\u53BBJDK\u7684\u914D\u7F6E\u4E86\uFF1A",paraId:62,tocIndex:13},{value:`# \u57FA\u7840\u955C\u50CF
+FROM openjdk:11.0-jre-buster
+# \u8BBE\u5B9A\u65F6\u533A
+ENV TZ=Asia/Shanghai
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+# \u62F7\u8D1Djar\u5305
+COPY docker-demo.jar /app.jar
+# \u5165\u53E3
+ENTRYPOINT ["java", "-jar", "/app.jar"]
+`,paraId:63,tocIndex:13},{value:"\u662F\u4E0D\u662F\u7B80\u5355\u591A\u4E86\u3002",paraId:64,tocIndex:13},{value:"\u7136\u540E\uFF0C\u6267\u884C\u547D\u4EE4\uFF0C\u6784\u5EFA\u955C\u50CF\uFF1A",paraId:65,tocIndex:13},{value:`# \u8FDB\u5165\u955C\u50CF\u76EE\u5F55
+cd /root/demo
+# \u5F00\u59CB\u6784\u5EFA
+docker build -t docker-demo:1.0 .
+`,paraId:66,tocIndex:13},{value:"\u547D\u4EE4\u8BF4\u660E\uFF1A",paraId:67,tocIndex:13},{value:"docker build ",paraId:68,tocIndex:13},{value:": \u5C31\u662F\u6784\u5EFA\u4E00\u4E2Adocker\u955C\u50CF",paraId:68,tocIndex:13},{value:"-t docker-demo:1.0",paraId:69,tocIndex:13},{value:" \uFF1A",paraId:69,tocIndex:13},{value:"-t",paraId:69,tocIndex:13},{value:"\u53C2\u6570\u662F\u6307\u5B9A\u955C\u50CF\u7684\u540D\u79F0\uFF08",paraId:69,tocIndex:13},{value:"repository",paraId:69,tocIndex:13},{value:"\u548C",paraId:69,tocIndex:13},{value:"tag",paraId:69,tocIndex:13},{value:"\uFF09",paraId:69,tocIndex:13},{value:".",paraId:70,tocIndex:13},{value:" : \u6700\u540E\u7684\u70B9\u662F\u6307\u6784\u5EFA\u65F6Dockerfile\u6240\u5728\u8DEF\u5F84\uFF0C\u7531\u4E8E\u6211\u4EEC\u8FDB\u5165\u4E86demo\u76EE\u5F55\uFF0C\u6240\u4EE5\u6307\u5B9A\u7684\u662F",paraId:70,tocIndex:13},{value:".",paraId:70,tocIndex:13},{value:"\u4EE3\u8868\u5F53\u524D\u76EE\u5F55\uFF0C\u4E5F\u53EF\u4EE5\u76F4\u63A5\u6307\u5B9ADockerfile\u76EE\u5F55\uFF1A",paraId:70,tocIndex:13},{value:`# \u76F4\u63A5\u6307\u5B9ADockerfile\u76EE\u5F55
+docker build -t docker-demo:1.0 /root/demo
+`,paraId:71,tocIndex:13},{value:"\u4E0A\u8282\u8BFE\u6211\u4EEC\u521B\u5EFA\u4E86\u4E00\u4E2AJava\u9879\u76EE\u7684\u5BB9\u5668\uFF0C\u800CJava\u9879\u76EE\u5F80\u5F80\u9700\u8981\u8BBF\u95EE\u5176\u5B83\u5404\u79CD\u4E2D\u95F4\u4EF6\uFF0C\u4F8B\u5982MySQL\u3001Redis\u7B49\u3002\u73B0\u5728\uFF0C\u6211\u4EEC\u7684\u5BB9\u5668\u4E4B\u95F4\u80FD\u5426\u4E92\u76F8\u8BBF\u95EE\u5462\uFF1F\u6211\u4EEC\u6765\u6D4B\u8BD5\u4E00\u4E0B",paraId:72,tocIndex:14},{value:"\u9996\u5148\uFF0C\u6211\u4EEC\u67E5\u770B\u4E0BMySQL\u5BB9\u5668\u7684\u8BE6\u7EC6\u4FE1\u606F\uFF0C\u91CD\u70B9\u5173\u6CE8\u5176\u4E2D\u7684\u7F51\u7EDCIP\u5730\u5740\uFF1A",paraId:73,tocIndex:14},{value:"\u4F46\u662F\uFF0C\u5BB9\u5668\u7684\u7F51\u7EDCIP\u5176\u5B9E\u662F\u4E00\u4E2A\u865A\u62DF\u7684IP\uFF0C\u5176\u503C\u5E76\u4E0D\u56FA\u5B9A\u4E0E\u67D0\u4E00\u4E2A\u5BB9\u5668\u7ED1\u5B9A\uFF0C\u5982\u679C\u6211\u4EEC\u5728\u5F00\u53D1\u65F6\u5199\u6B7B\u67D0\u4E2AIP\uFF0C\u800C\u5728\u90E8\u7F72\u65F6\u5F88\u53EF\u80FDMySQL\u5BB9\u5668\u7684IP\u4F1A\u53D1\u751F\u53D8\u5316\uFF0C\u8FDE\u63A5\u4F1A\u5931\u8D25\u3002",paraId:74,tocIndex:14},{value:"\u6240\u4EE5\uFF0C\u6211\u4EEC\u5FC5\u987B\u501F\u52A9\u4E8Edocker\u7684\u7F51\u7EDC\u529F\u80FD\u6765\u89E3\u51B3\u8FD9\u4E2A\u95EE\u9898\uFF0C\u5B98\u65B9\u6587\u6863\uFF1A",paraId:75,tocIndex:14},{value:"https://docs.docker.com/engine/reference/commandline/network/",paraId:76,tocIndex:14},{value:"\u5E38\u89C1\u547D\u4EE4\u6709\uFF1A",paraId:77,tocIndex:14},{value:"\u547D\u4EE4",paraId:78,tocIndex:14},{value:"\u8BF4\u660E",paraId:78,tocIndex:14},{value:"\u6587\u6863\u5730\u5740",paraId:78,tocIndex:14},{value:"docker network create",paraId:78,tocIndex:14},{value:"\u521B\u5EFA\u4E00\u4E2A\u7F51\u7EDC",paraId:78,tocIndex:14},{value:"docker network create",paraId:78,tocIndex:14},{value:"docker network ls",paraId:78,tocIndex:14},{value:"\u67E5\u770B\u6240\u6709\u7F51\u7EDC",paraId:78,tocIndex:14},{value:"docs.docker.com",paraId:78,tocIndex:14},{value:"docker network rm",paraId:78,tocIndex:14},{value:"\u5220\u9664\u6307\u5B9A\u7F51\u7EDC",paraId:78,tocIndex:14},{value:"docs.docker.com",paraId:78,tocIndex:14},{value:"docker network prune",paraId:78,tocIndex:14},{value:"\u6E05\u9664\u672A\u4F7F\u7528\u7684\u7F51\u7EDC",paraId:78,tocIndex:14},{value:"docs.docker.com",paraId:78,tocIndex:14},{value:"docker network connect",paraId:78,tocIndex:14},{value:"\u4F7F\u6307\u5B9A\u5BB9\u5668\u8FDE\u63A5\u52A0\u5165\u67D0\u7F51\u7EDC",paraId:78,tocIndex:14},{value:"docs.docker.com",paraId:78,tocIndex:14},{value:"docker network disconnect",paraId:78,tocIndex:14},{value:"\u4F7F\u6307\u5B9A\u5BB9\u5668\u8FDE\u63A5\u79BB\u5F00\u67D0\u7F51\u7EDC",paraId:78,tocIndex:14},{value:"docker network disconnect",paraId:78,tocIndex:14},{value:"docker network inspect",paraId:78,tocIndex:14},{value:"\u67E5\u770B\u7F51\u7EDC\u8BE6\u7EC6\u4FE1\u606F",paraId:78,tocIndex:14},{value:"docker network inspect",paraId:78,tocIndex:14},{value:"\u6559\u5B66\u6F14\u793A\uFF1A\u81EA\u5B9A\u4E49\u7F51\u7EDC",paraId:79,tocIndex:14},{value:`# 1.\u9996\u5148\u901A\u8FC7\u547D\u4EE4\u521B\u5EFA\u4E00\u4E2A\u7F51\u7EDC
+docker network create hmall
+
+# 2.\u7136\u540E\u67E5\u770B\u7F51\u7EDC
+docker network ls
+# \u7ED3\u679C\uFF1A
+NETWORK ID     NAME      DRIVER    SCOPE
+639bc44d0a87   bridge    bridge    local
+403f16ec62a2   hmall     bridge    local
+0dc0f72a0fbb   host      host      local
+cd8d3e8df47b   none      null      local
+# \u5176\u4E2D\uFF0C\u9664\u4E86hmall\u4EE5\u5916\uFF0C\u5176\u5B83\u90FD\u662F\u9ED8\u8BA4\u7684\u7F51\u7EDC
+
+# 3.\u8BA9dd\u548Cmysql\u90FD\u52A0\u5165\u8BE5\u7F51\u7EDC\uFF0C\u6CE8\u610F\uFF0C\u5728\u52A0\u5165\u7F51\u7EDC\u65F6\u53EF\u4EE5\u901A\u8FC7--alias\u7ED9\u5BB9\u5668\u8D77\u522B\u540D
+# \u8FD9\u6837\u8BE5\u7F51\u7EDC\u5185\u7684\u5176\u5B83\u5BB9\u5668\u53EF\u4EE5\u7528\u522B\u540D\u4E92\u76F8\u8BBF\u95EE\uFF01
+# 3.1.mysql\u5BB9\u5668\uFF0C\u6307\u5B9A\u522B\u540D\u4E3Adb\uFF0C\u53E6\u5916\u6BCF\u4E00\u4E2A\u5BB9\u5668\u90FD\u6709\u4E00\u4E2A\u522B\u540D\u662F\u5BB9\u5668\u540D
+docker network connect hmall mysql --alias db
+# 3.2.db\u5BB9\u5668\uFF0C\u4E5F\u5C31\u662F\u6211\u4EEC\u7684java\u9879\u76EE
+docker network connect hmall dd
+
+# 4.\u8FDB\u5165dd\u5BB9\u5668\uFF0C\u5C1D\u8BD5\u5229\u7528\u522B\u540D\u8BBF\u95EEdb
+# 4.1.\u8FDB\u5165\u5BB9\u5668
+docker exec -it dd bash
+# 4.2.\u7528db\u522B\u540D\u8BBF\u95EE
+ping db
+# \u7ED3\u679C
+PING db (172.18.0.2) 56(84) bytes of data.
+64 bytes from mysql.hmall (172.18.0.2): icmp_seq=1 ttl=64 time=0.070 ms
+64 bytes from mysql.hmall (172.18.0.2): icmp_seq=2 ttl=64 time=0.056 ms
+# 4.3.\u7528\u5BB9\u5668\u540D\u8BBF\u95EE
+ping mysql
+# \u7ED3\u679C\uFF1A
+PING mysql (172.18.0.2) 56(84) bytes of data.
+64 bytes from mysql.hmall (172.18.0.2): icmp_seq=1 ttl=64 time=0.044 ms
+64 bytes from mysql.hmall (172.18.0.2): icmp_seq=2 ttl=64 time=0.054 ms
+`,paraId:80,tocIndex:14},{value:"OK\uFF0C\u73B0\u5728\u65E0\u9700\u8BB0\u4F4FIP\u5730\u5740\u4E5F\u53EF\u4EE5\u5B9E\u73B0\u5BB9\u5668\u4E92\u8054\u4E86\u3002",paraId:81,tocIndex:14},{value:"\u603B\u7ED3",paraId:82,tocIndex:14},{value:"\uFF1A",paraId:82,tocIndex:14},{value:"\u5728\u81EA\u5B9A\u4E49\u7F51\u7EDC\u4E2D\uFF0C\u53EF\u4EE5\u7ED9\u5BB9\u5668\u8D77\u591A\u4E2A\u522B\u540D\uFF0C\u9ED8\u8BA4\u7684\u522B\u540D\u662F\u5BB9\u5668\u540D\u672C\u8EAB",paraId:83,tocIndex:14},{value:"\u5728\u540C\u4E00\u4E2A\u81EA\u5B9A\u4E49\u7F51\u7EDC\u4E2D\u7684\u5BB9\u5668\uFF0C\u53EF\u4EE5\u901A\u8FC7\u522B\u540D\u4E92\u76F8\u8BBF\u95EEhe",paraId:83,tocIndex:14},{value:"Compose\u6587\u4EF6\u662F\u4E00\u4E2A\u6587\u672C\u6587\u4EF6\uFF0C\u901A\u8FC7\u6307\u4EE4\u5B9A\u4E49\u96C6\u7FA4\u4E2D\u7684\u6BCF\u4E2A\u5BB9\u5668\u5982\u4F55\u8FD0\u884C\u3002\u683C\u5F0F\u5982\u4E0B\uFF1A",paraId:84,tocIndex:15},{value:`version:\xA0"3.8"
+ services:
+\xA0\xA0mysql:
+\xA0\xA0\xA0\xA0image:\xA0mysql:5.7.25
+    environment:
+     MYSQL_ROOT_PASSWORD: 123 
+\xA0\xA0\xA0\xA0volumes:
+\xA0\xA0\xA0\xA0\xA0-\xA0"/tmp/mysql/data:/var/lib/mysql"
+\xA0\xA0\xA0\xA0\xA0-\xA0"/tmp/mysql/conf/hmy.cnf:/etc/mysql/conf.d/hmy.cnf"
+\xA0\xA0web:
+\xA0\xA0\xA0\xA0build:\xA0.
+\xA0\xA0\xA0\xA0ports:
+\xA0\xA0\xA0\xA0\xA0- "8090:8090"
+`,paraId:85,tocIndex:15},{value:"\u4E0A\u9762\u7684Compose\u6587\u4EF6\u5C31\u63CF\u8FF0\u4E00\u4E2A\u9879\u76EE\uFF0C\u5176\u4E2D\u5305\u542B\u4E24\u4E2A\u5BB9\u5668\uFF1A",paraId:86,tocIndex:15},{value:"mysql\uFF1A\u4E00\u4E2A\u57FA\u4E8E",paraId:87,tocIndex:15},{value:"mysql:5.7.25",paraId:87,tocIndex:15},{value:"\u955C\u50CF\u6784\u5EFA\u7684\u5BB9\u5668\uFF0C\u5E76\u4E14\u6302\u8F7D\u4E86\u4E24\u4E2A\u76EE\u5F55",paraId:87,tocIndex:15},{value:"web\uFF1A\u4E00\u4E2A\u57FA\u4E8E",paraId:87,tocIndex:15},{value:"docker build",paraId:87,tocIndex:15},{value:"\u4E34\u65F6\u6784\u5EFA\u7684\u955C\u50CF\u5BB9\u5668\uFF0C\u6620\u5C04\u7AEF\u53E3\u65F68090",paraId:87,tocIndex:15},{value:"DockerCompose\u7684\u8BE6\u7EC6\u8BED\u6CD5\u53C2\u8003\u5B98\u7F51\uFF1A",paraId:88,tocIndex:15},{value:"https://docs.docker.com/compose/compose-file/",paraId:88,tocIndex:15},{value:"\u5176\u5B9EDockerCompose\u6587\u4EF6\u53EF\u4EE5\u770B\u505A\u662F\u5C06\u591A\u4E2Adocker run\u547D\u4EE4\u5199\u5230\u4E00\u4E2A\u6587\u4EF6\uFF0C\u53EA\u662F\u8BED\u6CD5\u7A0D\u6709\u5DEE\u5F02\u3002",paraId:89,tocIndex:15},{value:`version: "3.2"
+
+services:
+  nacos:
+    image: nacos/nacos-server
+    environment:
+      MODE: standalone
+    ports:
+      - "8848:8848"
+  mysql:
+    image: mysql:5.7.25
+    environment:
+      MYSQL_ROOT_PASSWORD: 123
+    volumes:
+      - "$PWD/mysql/data:/var/lib/mysql"
+      - "$PWD/mysql/conf:/etc/mysql/conf.d/"
+  userservice:
+    build: ./user-service
+  orderservice:
+    build: ./order-service
+  gateway:
+    build: ./gateway
+    ports:
+      - "10010:10010"
+`,paraId:90,tocIndex:15},{value:"\u53EF\u4EE5\u770B\u5230\uFF0C\u5176\u4E2D\u5305\u542B5\u4E2Aservice\u670D\u52A1\uFF1A",paraId:91,tocIndex:15},{value:"nacos",paraId:92,tocIndex:15},{value:`\uFF1A\u4F5C\u4E3A\u6CE8\u518C\u4E2D\u5FC3\u548C\u914D\u7F6E\u4E2D\u5FC3
+`,paraId:92,tocIndex:15},{value:"image: nacos/nacos-server",paraId:93,tocIndex:15},{value:"\uFF1A \u57FA\u4E8Enacos/nacos-server\u955C\u50CF\u6784\u5EFA",paraId:93,tocIndex:15},{value:"environment",paraId:93,tocIndex:15},{value:`\uFF1A\u73AF\u5883\u53D8\u91CF
+`,paraId:93,tocIndex:15},{value:"MODE: standalone",paraId:94,tocIndex:15},{value:"\uFF1A\u5355\u70B9\u6A21\u5F0F\u542F\u52A8",paraId:94,tocIndex:15},{value:"ports",paraId:93,tocIndex:15},{value:"\uFF1A\u7AEF\u53E3\u6620\u5C04\uFF0C\u8FD9\u91CC\u66B4\u9732\u4E868848\u7AEF\u53E3",paraId:93,tocIndex:15},{value:"mysql",paraId:92,tocIndex:15},{value:`\uFF1A\u6570\u636E\u5E93
+`,paraId:92,tocIndex:15},{value:"image: mysql:5.7.25",paraId:95,tocIndex:15},{value:"\uFF1A\u955C\u50CF\u7248\u672C\u662Fmysql:5.7.25",paraId:95,tocIndex:15},{value:"environment",paraId:95,tocIndex:15},{value:`\uFF1A\u73AF\u5883\u53D8\u91CF
+`,paraId:95,tocIndex:15},{value:"MYSQL_ROOT_PASSWORD: 123",paraId:96,tocIndex:15},{value:"\uFF1A\u8BBE\u7F6E\u6570\u636E\u5E93root\u8D26\u6237\u7684\u5BC6\u7801\u4E3A123",paraId:96,tocIndex:15},{value:"volumes",paraId:95,tocIndex:15},{value:"\uFF1A\u6570\u636E\u5377\u6302\u8F7D\uFF0C\u8FD9\u91CC\u6302\u8F7D\u4E86mysql\u7684data\u3001conf\u76EE\u5F55\uFF0C\u5176\u4E2D\u6709\u6211\u63D0\u524D\u51C6\u5907\u597D\u7684\u6570\u636E",paraId:95,tocIndex:15},{value:"userservice",paraId:92,tocIndex:15},{value:"\u3001",paraId:92,tocIndex:15},{value:"orderservice",paraId:92,tocIndex:15},{value:"\u3001",paraId:92,tocIndex:15},{value:"gateway",paraId:92,tocIndex:15},{value:"\uFF1A\u90FD\u662F\u57FA\u4E8EDockerfile\u4E34\u65F6\u6784\u5EFA\u7684",paraId:92,tocIndex:15},{value:"\u56E0\u4E3A\u5FAE\u670D\u52A1\u5C06\u6765\u8981\u90E8\u7F72\u4E3Adocker\u5BB9\u5668\uFF0C\u800C\u5BB9\u5668\u4E4B\u95F4\u4E92\u8054\u4E0D\u662F\u901A\u8FC7IP\u5730\u5740\uFF0C\u800C\u662F\u901A\u8FC7\u5BB9\u5668\u540D\u3002\u8FD9\u91CC\u6211\u4EEC\u5C06order-service\u3001user-service\u3001gateway\u670D\u52A1\u7684mysql\u3001nacos\u5730\u5740\u90FD\u4FEE\u6539\u4E3A\u57FA\u4E8E\u5BB9\u5668\u540D\u7684\u8BBF\u95EE\u3002",paraId:97,tocIndex:16},{value:"\u5982\u4E0B\u6240\u793A\uFF1A",paraId:98,tocIndex:16},{value:`spring:
+  datasource:
+    url: jdbc:mysql://mysql:3306/cloud_order?useSSL=false
+    username: root
+    password: 123
+    driver-class-name: com.mysql.jdbc.Driver
+  application:
+    name: orderservice
+  cloud:
+    nacos:
+      server-addr: nacos:8848 # nacos\u670D\u52A1\u5730\u5740
+`,paraId:99,tocIndex:16},{value:"docker compose",paraId:100,tocIndex:17},{value:"\u7684\u547D\u4EE4\u683C\u5F0F\u5982\u4E0B\uFF1A",paraId:100,tocIndex:17},{value:`docker compose [OPTIONS] [COMMAND]
+`,paraId:101,tocIndex:17},{value:"\u7C7B\u578B",paraId:102,tocIndex:17},{value:"\u53C2\u6570\u6216\u6307\u4EE4",paraId:102,tocIndex:17},{value:"\u8BF4\u660E",paraId:102,tocIndex:17},{value:"Options",paraId:102,tocIndex:17},{value:"-f",paraId:102,tocIndex:17},{value:"\u6307\u5B9Acompose\u6587\u4EF6\u7684\u8DEF\u5F84\u548C\u540D\u79F0",paraId:102,tocIndex:17},{value:"Options",paraId:102,tocIndex:17},{value:"-p",paraId:102,tocIndex:17},{value:"\u6307\u5B9Aproject\u540D\u79F0",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"up",paraId:102,tocIndex:17},{value:"\u521B\u5EFA\u5E76\u542F\u52A8\u6240\u6709service\u5BB9\u5668",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"down",paraId:102,tocIndex:17},{value:"\u505C\u6B62\u5E76\u79FB\u9664\u6240\u6709\u5BB9\u5668\u3001\u7F51\u7EDC",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"ps",paraId:102,tocIndex:17},{value:"\u5217\u51FA\u6240\u6709\u542F\u52A8\u7684\u5BB9\u5668",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"logs",paraId:102,tocIndex:17},{value:"\u67E5\u770B\u6307\u5B9A\u5BB9\u5668\u7684\u65E5\u5FD7",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"stop",paraId:102,tocIndex:17},{value:"\u505C\u6B62\u5BB9\u5668",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"start",paraId:102,tocIndex:17},{value:"\u542F\u52A8\u5BB9\u5668",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"restart",paraId:102,tocIndex:17},{value:"\u91CD\u542F\u5BB9\u5668",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"top",paraId:102,tocIndex:17},{value:"\u67E5\u770B\u8FD0\u884C\u7684\u8FDB\u7A0B",paraId:102,tocIndex:17},{value:"Commands",paraId:102,tocIndex:17},{value:"exec",paraId:102,tocIndex:17},{value:"\u5728\u6307\u5B9A\u7684\u8FD0\u884C\u4E2D\u5BB9\u5668\u4E2D\u6267\u884C\u547D\u4EE4",paraId:102,tocIndex:17},{value:"\u90E8\u7F72\uFF1A",paraId:103,tocIndex:17},{value:"\u8FDB\u5165\u76EE\u5F55\uFF0C\u7136\u540E\u8FD0\u884C\u4E0B\u9762\u7684\u547D\u4EE4\uFF1A",paraId:104,tocIndex:17},{value:`docker-compose up -d
+`,paraId:105,tocIndex:17},{value:"docker pull mysql",paraId:106,tocIndex:19},{value:`docker run -d \\
+  --name mysql \\
+  -p 3306:3306 \\
+  -e TZ=Asia/Shanghai \\
+  -e MYSQL_ROOT_PASSWORD=root123 \\
+  -v /root/mysql/data:/var/lib/mysql \\
+  -v /root/mysql/conf:/etc/mysql/conf.d \\
+  -v /root/mysql/init:/docker-entrypoint-initdb.d \\
+  mysql
+`,paraId:107,tocIndex:19},{value:"docker pull nginx",paraId:108,tocIndex:20},{value:`docker run -d \\
+  --name nginx \\
+  -p 18080:18080 \\
+  -p 18081:18081 \\
+  -p 18090:18090 \\
+  -p 18091:18091 \\
+  -v /root/docker/nginx/html:/usr/share/nginx/html \\
+  -v /root/docker/nginx/nginx.conf:/etc/nginx/nginx.conf \\
+  nginx
+`,paraId:109,tocIndex:20}]},988:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(52595);const t=[{value:"\u4E91\u6587\u6863",paraId:0,tocIndex:0},{value:"man [\u547D\u4EE4\u6216\u914D\u7F6E\u6587\u4EF6] \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u83B7\u5F97\u5E2E\u52A9\u4FE1\u606F\uFF09",paraId:1,tocIndex:2},{value:"[\u547D\u4EE4\u6216\u914D\u7F6E\u6587\u4EF6]  --help",paraId:2,tocIndex:2},{value:"\u663E\u793A\u8BF4\u660E",paraId:3,tocIndex:2},{value:`\u4FE1\u606F \u529F\u80FD
+NAME \u547D\u4EE4\u7684\u540D\u79F0\u548C\u5355\u884C\u63CF\u8FF0
+SYNOPSIS \u600E\u6837\u4F7F\u7528\u547D\u4EE4
+DESCRIPTION \u547D\u4EE4\u529F\u80FD\u7684\u6DF1\u5165\u8BA8\u8BBA
+EXAMPLES \u600E\u6837\u4F7F\u7528\u547D\u4EE4\u7684\u4F8B\u5B50
+SEE ALSO \u76F8\u5173\u4E3B\u9898\uFF08\u901A\u5E38\u662F\u624B\u518C\u9875\uFF09
+`,paraId:4,tocIndex:2},{value:"\u5FEB\u6377\u952E",paraId:5,tocIndex:2},{value:`ctrl + c \u505C\u6B62\u8FDB\u7A0B
+ctrl+l \u6E05\u5C4F\uFF0C\u7B49\u540C\u4E8E clear\uFF1B\u5F7B\u5E95\u6E05\u5C4F\u662F\uFF1Areset
+\u5584\u4E8E\u7528 tab \u952E \u63D0\u793A(\u66F4\u91CD\u8981\u7684\u662F\u53EF\u4EE5\u9632\u6B62\u6572\u9519)
+\u4E0A\u4E0B\u952E \u67E5\u627E\u6267\u884C\u8FC7\u7684\u547D\u4EE4
+`,paraId:6,tocIndex:2},{value:`pwd \u663E\u793A\u5F53\u524D\u5DE5\u4F5C\u76EE\u5F55\u7684\u7EDD\u5BF9\u8DEF\u5F84
+`,paraId:7,tocIndex:4},{value:`\u9009\u9879 \u529F\u80FD
+-a \u5168\u90E8\u7684\u6587\u4EF6\uFF0C\u8FDE\u540C\u9690\u85CF\u6863( \u5F00\u5934\u4E3A . \u7684\u6587\u4EF6) \u4E00\u8D77\u5217\u51FA\u6765(\u5E38\u7528) 
+-l \u957F\u6570\u636E\u4E32\u5217\u51FA\uFF0C\u5305\u542B\u6587\u4EF6\u7684\u5C5E\u6027\u4E0E\u6743\u9650\u7B49\u7B49\u6570\u636E\uFF1B(\u5E38\u7528)\u7B49\u4EF7\u4E8E\u201Cll\u201D
+`,paraId:8,tocIndex:5},{value:"\u6BCF\u884C\u5217\u51FA\u7684\u4FE1\u606F\u4F9D\u6B21\u662F\uFF1A \u6587\u4EF6\u7C7B\u578B\u4E0E\u6743\u9650 \u94FE\u63A5\u6570 \u6587\u4EF6\u5C5E\u4E3B \u6587\u4EF6\u5C5E\u7EC4\u6587\u4EF6\u5927\u5C0F\u7528byte \u6765\u8868\u793A \u5EFA\u7ACB\u6216\u6700\u8FD1\u4FEE\u6539\u7684\u65F6\u95F4 \u540D\u5B57",paraId:9,tocIndex:5},{value:`\u53C2\u6570 \u529F\u80FD
+cd \u7EDD\u5BF9\u8DEF\u5F84 \u5207\u6362\u8DEF\u5F84
+cd \u76F8\u5BF9\u8DEF\u5F84 \u5207\u6362\u8DEF\u5F84
+cd ~\u6216\u8005 cd \u56DE\u5230\u81EA\u5DF1\u7684\u5BB6\u76EE\u5F55
+cd - \u56DE\u5230\u4E0A\u4E00\u6B21\u6240\u5728\u76EE\u5F55
+cd .. \u56DE\u5230\u5F53\u524D\u76EE\u5F55\u7684\u4E0A\u4E00\u7EA7\u76EE\u5F55
+cd -P \u8DF3\u8F6C\u5230\u5B9E\u9645\u7269\u7406\u8DEF\u5F84\uFF0C\u800C\u975E\u5FEB\u6377\u65B9\u5F0F\u8DEF\u5F84
+`,paraId:10,tocIndex:6},{value:`\u9009\u9879 \u529F\u80FD
+-p \u521B\u5EFA\u591A\u5C42\u76EE\u5F55
+mkdir -p a/b/c
+`,paraId:11,tocIndex:7},{value:`-p \u521B\u5EFA\u591A\u5C42\u76EE\u5F55
+rmdir  -p a/b/c   \u5982\u679C\u5220\u9664 c \u4E4B\u540Eb\u662F\u7A7A\u5C31\u5220\u9664b\uFF0Cb\u5220\u5B8Ca\u662F\u7A7A\u5C31\u5220a
+`,paraId:12,tocIndex:8},{value:"cp [\u9009\u9879] source dest \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u590D\u5236source\u6587\u4EF6\u5230dest\uFF09",paraId:13,tocIndex:10},{value:"\u5F3A\u5236\u8986\u76D6\u4E0D\u63D0\u793A\u7684\u65B9\u6CD5\uFF1A\\cp",paraId:14,tocIndex:10},{value:`\u9009\u9879 \u529F\u80FD
+-r \u9012\u5F52\u590D\u5236\u6574\u4E2A\u6587\u4EF6\u5939
+cp vue.config  ./game/
+\\cp vue.config  ./game/
+`,paraId:15,tocIndex:10},{value:`\u9009\u9879 \u529F\u80FD
+-r \u9012\u5F52\u5220\u9664\u76EE\u5F55\u4E2D\u6240\u6709\u5185\u5BB9
+-f \u5F3A\u5236\u6267\u884C\u5220\u9664\u64CD\u4F5C\uFF0C\u800C\u4E0D\u63D0\u793A\u7528\u4E8E\u8FDB\u884C\u786E\u8BA4\u3002-v \u663E\u793A\u6307\u4EE4\u7684\u8BE6\u7EC6\u6267\u884C\u8FC7\u7A0B
+`,paraId:16,tocIndex:11},{value:"\u518D\u5F53\u524D\u76EE\u5F55\u4E0B\u64CD\u4F5C\u4E0D\u5C31\u662F\u91CD\u547D\u540D\u4E86\u5417",paraId:17,tocIndex:12},{value:`\uFF081\uFF09mv oldNameFile newNameFile \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u91CD\u547D\u540D\uFF09 
+\uFF082\uFF09mv /temp/movefile /targetFolder \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u79FB\u52A8\u6587\u4EF6\uFF09
+`,paraId:18,tocIndex:12},{value:"\u4E00\u822C\u67E5\u770B\u6BD4\u8F83\u5C0F\u7684\u6587\u4EF6\uFF0C\u4E00\u5C4F\u5E55\u80FD\u663E\u793A\u5168\u7684\u3002",paraId:19,tocIndex:13},{value:`\u9009\u9879 \u529F\u80FD\u63CF\u8FF0
+-n \u663E\u793A\u6240\u6709\u884C\u7684\u884C\u53F7\uFF0C\u5305\u62EC\u7A7A\u884C\u3002
+`,paraId:20,tocIndex:13},{value:"less \u6307\u4EE4\u5728\u663E\u793A\u6587\u4EF6\u5185\u5BB9\u65F6\uFF0C\u5E76\u4E0D\u662F\u4E00\u6B21\u5C06\u6574\u4E2A\u6587\u4EF6\u52A0\u8F7D\u4E4B\u540E\u624D\u663E\u793A\uFF0C\u800C\u662F\u6839\u636E\u663E\u793A\u9700\u8981\u52A0\u8F7D\u5185\u5BB9\uFF0C\u5BF9\u4E8E\u663E\u793A\u5927\u578B\u6587\u4EF6\u5177\u6709\u8F83\u9AD8\u7684\u6548\u7387\u3002",paraId:21,tocIndex:14},{value:`\u64CD\u4F5C \u529F\u80FD\u8BF4\u660E
+\u7A7A\u767D\u952E \u5411\u4E0B\u7FFB\u52A8\u4E00\u9875\uFF1B
+[pagedown] \u5411\u4E0B\u7FFB\u52A8\u4E00\u9875
+[pageup] \u5411\u4E0A\u7FFB\u52A8\u4E00\u9875\uFF1B
+/\u5B57\u4E32 \u5411\u4E0B\u641C\u5BFB\u300E\u5B57\u4E32\u300F\u7684\u529F\u80FD\uFF1Bn\uFF1A\u5411\u4E0B\u67E5\u627E\uFF1BN\uFF1A\u5411\u4E0A\u67E5\u627E\uFF1B
+?\u5B57\u4E32 \u5411\u4E0A\u641C\u5BFB\u300E\u5B57\u4E32\u300F\u7684\u529F\u80FD\uFF1Bn\uFF1A\u5411\u4E0A\u67E5\u627E\uFF1BN\uFF1A\u5411\u4E0B\u67E5\u627E\uFF1Bq \u79BB\u5F00 less \u8FD9\u4E2A\u7A0B\u5E8F\uFF1B
+f b  \u4E0B\u4E00\u9875/\u4E0A\u4E00\u9875
+g /shif +g   \u8DF3\u5230\u5F00\u5934/\u7ED3\u5C3E
+`,paraId:22,tocIndex:14},{value:`\u4F5C\u7528: \u4EE5\u5206\u9875\u7684\u5F62\u5F0F\u663E\u793A\u6587\u4EF6\u5185\u5BB9
+\u8BED\u6CD5: more fileName
+
+\u64CD\u4F5C\u8BF4\u660E:
+    \u56DE\u8F66\u952E 	\u5411\u4E0B\u6EDA\u52A8\u4E00\u884C
+    \u7A7A\u683C\u952E 	\u5411\u4E0B\u6EDA\u52A8\u4E00\u5C4F
+    b 		\u8FD4\u56DE\u4E0A\u4E00\u5C4F
+    q\u6216\u8005Ctrl+C	\u9000\u51FAmore
+	
+\u4E3E\u4F8B\uFF1A
+	more /etc/profile		\u4EE5\u5206\u9875\u65B9\u5F0F\u663E\u793A/etc\u76EE\u5F55\u4E0B\u7684profile\u6587\u4EF6\u5185\u5BB9
+`,paraId:23,tocIndex:15},{value:"echo \u8F93\u51FA\u5185\u5BB9\u5230\u63A7\u5236\u53F0",paraId:24,tocIndex:16},{value:"-e\uFF1A \u652F\u6301\u53CD\u659C\u7EBF\u63A7\u5236\u7684\u5B57\u7B26\u8F6C\u6362",paraId:25,tocIndex:16},{value:`\\\\ \u8F93\u51FA\\\u672C\u8EAB
+\\n \u6362\u884C\u7B26
+\\t \u5236\u8868\u7B26\uFF0C\u4E5F\u5C31\u662F Tab \u952E
+`,paraId:26,tocIndex:16},{value:"\u9ED8\u8BA4\u524D\u5341\u884C",paraId:27,tocIndex:17},{value:`-n<\u884C\u6570> \u6307\u5B9A\u663E\u793A\u5934\u90E8\u5185\u5BB9\u7684\u884C\u6570
+head -n2 vue.config 
+`,paraId:28,tocIndex:17},{value:`\uFF081\uFF09ls -l > \u6587\u4EF6 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5217\u8868\u7684\u5185\u5BB9\u5199\u5165\u6587\u4EF6 a.txt \u4E2D\uFF08\u8986\u76D6\u5199\uFF09\uFF09
+\uFF082\uFF09ls -al >> \u6587\u4EF6 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5217\u8868\u7684\u5185\u5BB9\u8FFD\u52A0\u5230\u6587\u4EF6aa.txt \u7684\u672B\u5C3E\uFF09
+\uFF083\uFF09cat \u6587\u4EF6 1 > \u6587\u4EF6 2 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5C06\u6587\u4EF6 1 \u7684\u5185\u5BB9\u8986\u76D6\u5230\u6587\u4EF62\uFF09
+\uFF084\uFF09echo \u201C\u5185\u5BB9\u201D >> \u6587\u4EF6
+`,paraId:29,tocIndex:19},{value:"\u6817\u5B50",paraId:30,tocIndex:19},{value:`\u5C06 ls \u67E5\u770B\u4FE1\u606F\u5199\u5165\u5230\u6587\u4EF6\u4E2D
+ls -l>houge.txt
+
+\u5C06 ls \u67E5\u770B\u4FE1\u606F\u8FFD\u52A0\u5230\u6587\u4EF6\u4E2D
+ls -l>>houge.txt
+
+\u91C7\u7528 echo \u5C06 hello \u5355\u8BCD\u8FFD\u52A0\u5230\u6587\u4EF6\u4E2D
+echo hello>>houge.txt
+`,paraId:31,tocIndex:19},{value:"ln -s [\u539F\u6587\u4EF6\u6216\u76EE\u5F55] [\u8F6F\u94FE\u63A5\u540D] \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u7ED9\u539F\u6587\u4EF6\u521B\u5EFA\u4E00\u4E2A\u8F6F\u94FE\u63A5\uFF09",paraId:32,tocIndex:20},{value:"\u5220\u9664\u8F6F\u94FE\u63A5\uFF1A",paraId:33,tocIndex:20},{value:" rm -rf \u8F6F\u94FE\u63A5\u540D",paraId:33,tocIndex:20},{value:"\uFF0C\u800C\u4E0D\u662F rm -rf \u8F6F\u94FE\u63A5\u540D/  ",paraId:33,tocIndex:20},{value:"!!!",paraId:33,tocIndex:20},{value:"\u5982\u679C\u4F7F\u7528 rm -rf \u8F6F\u94FE\u63A5\u540D/ \u5220\u9664\uFF0C\u4F1A\u628A\u8F6F\u94FE\u63A5\u5BF9\u5E94\u7684\u771F\u5B9E\u76EE\u5F55\u4E0B\u5185\u5BB9\u5220\u6389",paraId:34,tocIndex:20},{value:"\u67E5\u8BE2\uFF1A\u901A\u8FC7 ll \u5C31\u53EF\u4EE5\u67E5\u770B\uFF0C\u5217\u8868\u5C5E\u6027\u7B2C 1 \u4F4D\u662F l\uFF0C\u5C3E\u90E8\u4F1A\u6709\u4F4D\u7F6E\u6307\u5411\u3002",paraId:35,tocIndex:20},{value:"\u6817\u5B50",paraId:36,tocIndex:20},{value:`\u521B\u5EFA\u8F6F\u8FDE\u63A5
+ln -s /home/wanglei/ /root/wanglei
+
+\u67E5\u770B
+[root@hodoop100 wanglei]# ll /root
+\u603B\u7528\u91CF 12
+lrwxrwxrwx. 1 root root   14 7\u6708  16 22:51 wanglei -> /home/wanglei/
+
+\u5220\u9664
+rm wanglei
+
+\u8FDB\u5165\u5B9E\u9645\u7269\u7406\u8DEF\u5F84
+cd -P wanglei/
+
+
+`,paraId:37,tocIndex:20},{value:"\u6587\u672C\u7F16\u8F91\u7684\u547D\u4EE4\uFF0C\u4E3B\u8981\u5305\u542B\u4E24\u4E2A: vi \u548C vim\uFF0C\u4E24\u4E2A\u547D\u4EE4\u7684\u7528\u6CD5\u7C7B\u4F3C\u3002",paraId:38,tocIndex:22},{value:"\u5B89\u88C5vim\u547D\u4EE4\uFF1A yum install vim",paraId:39,tocIndex:22},{value:"\u4EE5 vim \u6253\u5F00\u4E00\u4E2A\u6863\u6848\u5C31\u76F4\u63A5\u8FDB\u5165\u4E00\u822C\u6A21\u5F0F\u4E86\uFF08\u8FD9\u662F\u9ED8\u8BA4\u7684\u6A21\u5F0F\uFF09\u3002\u5728\u8FD9\u4E2A\u6A21\u5F0F\u4E2D\uFF0C\u4F60\u53EF\u4EE5\u4F7F\u7528\u300E\u4E0A\u4E0B\u5DE6\u53F3\u300F\u6309\u952E\u6765\u79FB\u52A8\u5149\u6807\uFF0C\u4F60\u53EF\u4EE5\u4F7F\u7528\u300E\u5220\u9664\u5B57\u7B26\u300F\u6216\u300E\u5220\u9664\u6574\u884C\u300F\u6765\u5904\u7406\u6863\u6848\u5185\u5BB9\uFF0C \u4E5F\u53EF\u4EE5\u4F7F\u7528\u300E\u590D\u5236\u3001\u7C98\u8D34\u300F\u6765\u5904\u7406\u4F60\u7684\u6587\u4EF6\u6570\u636E\u3002",paraId:40,tocIndex:23},{value:`yy 			\u590D\u5236\u6E38\u6807\u6240\u5728\u884C\u6574\u884C 
+2yy/y2y 	  \u590D\u5236 2 \u884C
+y^    \u590D\u5236\u81F3\u884C\u9996\uFF0C\u6216y0
+y$    \u590D\u5236\u81F3\u884C\u5C3E
+yw    \u590D\u5236\u4E00\u4E2Aword
+y2w    \u590D\u5236\u4E24\u4E2Aword 
+yG    \u590D\u5236\u81F3\u6587\u4EF6\u5C3E
+y1G    \u590D\u5236\u81F3\u6587\u4EF6\u9996
+
+`,paraId:41,tocIndex:24},{value:`dd    \u526A\u5207\u6E38\u6807\u6240\u5728\u884C\u6574\u884C 
+d^    \u526A\u5207\u81F3\u884C\u9996\uFF0C\u6216d0
+d$    \u526A\u5207\u81F3\u884C\u5C3E 
+dw    \u526A\u5207\u4E00\u4E2Aword 
+dG    \u526A\u5207\u81F3\u6587\u4EF6\u5C3E  
+
+
+`,paraId:42,tocIndex:25},{value:`p    \u7C98\u8D34\u81F3\u6E38\u6807\u540E\uFF08\u4E0B\uFF09 
+P    \u7C98\u8D34\u81F3\u6E38\u6807\u524D\uFF08\u4E0A\uFF09
+\u8981\u4F7F\u7528 \u7CFB\u7EDF\u7C98\u8D34\u677F \u7684\u5185\u5BB9\uFF0C\u4E5F\u53EF\u4EE5\u76F4\u63A5\u5728\u547D\u4EE4\u6A21\u5F0F\u6309 Shift + Inset \u8FDB\u884C\u7C98\u8D34\u3002
+
+`,paraId:43,tocIndex:26},{value:`shift+g \u79FB\u52A8\u5230\u9875\u5C3E
+gg \u79FB\u52A8\u5230\u9875\u5934
+shift+6\uFF08^\uFF09 \u79FB\u52A8\u5230\u884C\u5934
+shift+4 \uFF08$\uFF09 \u79FB\u52A8\u5230\u884C\u5C3E
+`,paraId:44,tocIndex:27},{value:`o \u5728\u5F53\u524D\u884C\u7684\u4E0B\u9762\u53E6\u8D77\u4E00\u884C\uFF0C\u5E76\u53D8\u4E3A\u8F93\u5165\u6A21\u5F0F
+shift+o \u5728\u5F53\u524D\u884C\u7684\u4E0A\u9762\u53E6\u8D77\u4E00\u884C\uFF0C\u5E76\u53D8\u4E3A\u8F93\u5165\u6A21\u5F0F
+i \u5F53\u524D\u5149\u6807\u524D
+a \u5F53\u524D\u5149\u6807\u540E
+`,paraId:45,tocIndex:28},{value:`\u5728\u4E00\u822C\u6A21\u5F0F\u5F53\u4E2D\uFF0C\u8F93\u5165\u300E : / ?\u300F3\u4E2A\u4E2D\u7684\u4EFB\u4F55\u4E00\u4E2A\u6309\u94AE
+`,paraId:46,tocIndex:29},{value:`:w \u4FDD\u5B58
+:q \u9000\u51FA
+:! \u5F3A\u5236\u6267\u884C
+/\u8981\u67E5\u627E\u7684\u8BCD n \u67E5\u627E\u4E0B\u4E00\u4E2A\uFF0CN \u5F80\u4E0A\u67E5\u627E:noh \u53D6\u6D88\u9AD8\u4EAE\u663E\u793A
+:set nu \u663E\u793A\u884C\u53F7
+:set nonu \u5173\u95ED\u884C\u53F7
+:s/old/new \u66FF\u6362\u5185\u5BB9 \u66FF\u6362\u5339\u914D\u5230\u7684\u7B2C\u4E00\u4E2A
+:s/old/new/g \u66FF\u6362\u5185\u5BB9 \u66FF\u6362\u5149\u6807\u6240\u5728\u884C
+:%s/old/new \u66FF\u6362\u5185\u5BB9 \u66FF\u6362\u5339\u914D\u5230\u7684\u7B2C\u4E00\u884C\u7684\u7B2C\u4E00\u4E2A
+:%s/old/new/g \u66FF\u6362\u5185\u5BB9 \u66FF\u6362\u5339\u914D\u5230\u7684\u6240\u6709\u5185\u5BB9
+`,paraId:47,tocIndex:31},{value:"find [\u641C\u7D22\u8303\u56F4] [\u9009\u9879]",paraId:48,tocIndex:33},{value:`\u9009\u9879 \u529F\u80FD
+-name<\u67E5\u8BE2\u65B9\u5F0F> 		\u6309\u7167\u6307\u5B9A\u7684\u6587\u4EF6\u540D\u67E5\u627E\u6A21\u5F0F\u67E5\u627E\u6587\u4EF6
+-user<\u7528\u6237\u540D>			 \u67E5\u627E\u5C5E\u4E8E\u6307\u5B9A\u7528\u6237\u540D\u6240\u6709\u6587\u4EF6
+-size<\u6587\u4EF6\u5927\u5C0F> 		\u6309\u7167\u6307\u5B9A\u7684\u6587\u4EF6\u5927\u5C0F\u67E5\u627E\u6587\u4EF6,\u5355\u4F4D\u4E3A:
+                        b \u2014\u2014 \u5757\uFF08512 \u5B57\u8282\uFF09
+                        c \u2014\u2014 \u5B57\u8282
+                        w \u2014\u2014 \u5B57\uFF082 \u5B57\u8282\uFF09
+                        k \u2014\u2014 \u5343\u5B57\u8282
+                        M \u2014\u2014 \u5146\u5B57\u8282
+                        G \u2014\u2014 \u5409\u5B57\u8282
+
+`,paraId:49,tocIndex:33},{value:`\u6839\u636E\u540D\u79F0\u67E5\u627E xiyou/\u76EE\u5F55\u4E0B\u7684 \u6240\u6709 .txt\u6587\u4EF6
+find xiyou/ -name "*.txt"
+
+\u67E5\u627E opt/ \u76EE\u5F55\u4E0B\uFF0C\u7528\u6237\u540D\u79F0\u4E3A wl \u7684\u6587\u4EF6
+find opt/ -user wl
+
+\u5728/home\u76EE\u5F55\u4E0B\u67E5\u627E\u5927\u4E8E20m\u7684\u6587\u4EF6\uFF08+n \u5927\u4E8E-n\u5C0F\u4E8En\u7B49\u4E8E\uFF09
+find /home -size +20M
+
+`,paraId:50,tocIndex:33},{value:"locate \u6307\u4EE4\u5229\u7528\u4E8B\u5148\u5EFA\u7ACB\u7684\u7CFB\u7EDF\u4E2D\u6240\u6709\u6587\u4EF6\u540D\u79F0\u53CA\u8DEF\u5F84\u7684 locate \u6570\u636E\u5E93\u5B9E\u73B0\u5FEB\u901F\u5B9A\u4F4D\u7ED9\u5B9A\u7684\u6587\u4EF6\u3002Locate \u6307\u4EE4\u65E0\u9700\u904D\u5386\u6574\u4E2A\u6587\u4EF6\u7CFB\u7EDF\uFF0C\u67E5\u8BE2\u901F\u5EA6\u8F83\u5FEB\u3002\u4E3A\u4E86\u4FDD\u8BC1\u67E5\u8BE2\u7ED3\u679C\u7684\u51C6\u786E\u5EA6\uFF0C\u7BA1\u7406\u5458\u5FC5\u987B\u5B9A\u671F\u66F4\u65B0 locate \u65F6\u523B\u3002",paraId:51,tocIndex:34},{value:"\u7531\u4E8E locate \u6307\u4EE4\u57FA\u4E8E\u6570\u636E\u5E93\u8FDB\u884C\u67E5\u8BE2\uFF0C\u6240\u4EE5\u7B2C\u4E00\u6B21\u8FD0\u884C\u524D\uFF0C\u5FC5\u987B\u4F7F\u7528updatedb \u6307\u4EE4\u521B\u5EFA locate \u6570\u636E\u5E93\u3002",paraId:52,tocIndex:34},{value:`updatedb
+locate wl
+
+`,paraId:53,tocIndex:34},{value:"\u7BA1\u9053\u7B26\uFF0C\u201C|\u201D\uFF0C\u8868\u793A\u5C06\u524D\u4E00\u4E2A\u547D\u4EE4\u7684\u5904\u7406\u7ED3\u679C\u8F93\u51FA\u4F20\u9012\u7ED9\u540E\u9762\u7684\u547D\u4EE4\u5904\u7406",paraId:54,tocIndex:35},{value:`\u9009\u9879 \u529F\u80FD
+-n \u663E\u793A\u5339\u914D\u884C\u53CA\u884C\u53F7\u3002
+
+\u8FC7\u6EE4ls \u7ED3\u679C\u4E2D\u542B\u6709 bo \u5B57\u7B26\u7684
+ls | grep -n bo
+
+
+`,paraId:55,tocIndex:35},{value:`ps -ef| grep tomcat
+`,paraId:56,tocIndex:36},{value:"\u53EA\u80FD\u538B\u7F29\u5355\u4E2A\u6587\u4EF6",paraId:57},{value:"gzip \u6587\u4EF6 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u538B\u7F29\u6587\u4EF6\uFF0C\u53EA\u80FD\u5C06\u6587\u4EF6\u538B\u7F29\u4E3A*.gz \u6587\u4EF6\uFF09",paraId:58,tocIndex:38},{value:"gunzip \u6587\u4EF6.gz \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u89E3\u538B\u7F29\u6587\u4EF6\u547D\u4EE4\uFF09",paraId:59,tocIndex:38},{value:"\uFF081\uFF09\u53EA\u80FD\u538B\u7F29\u6587\u4EF6\u4E0D\u80FD\u538B\u7F29\u76EE\u5F55",paraId:60,tocIndex:38},{value:"\uFF082\uFF09",paraId:61,tocIndex:38},{value:"\u4E0D\u4FDD\u7559\u539F\u6765\u7684\u6587\u4EF6",paraId:61,tocIndex:38},{value:"\uFF083\uFF09\u540C\u65F6\u591A\u4E2A\u6587\u4EF6\u4F1A\u4EA7\u751F\u591A\u4E2A\u538B\u7F29\u5305",paraId:62,tocIndex:38},{value:"zip [\u9009\u9879] XXX.zip \u5C06\u8981\u538B\u7F29\u7684\u5185\u5BB9 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u538B\u7F29\u6587\u4EF6\u548C\u76EE\u5F55\u7684\u547D\u4EE4\uFF09",paraId:63,tocIndex:39},{value:"unzip [\u9009\u9879] XXX.zip \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u89E3\u538B\u7F29\u6587\u4EF6\uFF09",paraId:64,tocIndex:39},{value:`zip \u9009\u9879 \u529F\u80FD
+-r \u538B\u7F29\u76EE\u5F55
+
+unzip \u9009\u9879 \u529F\u80FD
+-d<\u76EE\u5F55> \u6307\u5B9A\u89E3\u538B\u540E\u6587\u4EF6\u7684\u5B58\u653E\u76EE\u5F55
+
+`,paraId:65,tocIndex:39},{value:"zip \u538B\u7F29\u547D\u4EE4\u5728windows/linux\u90FD\u901A\u7528\uFF0C\u53EF\u4EE5\u538B\u7F29\u76EE\u5F55\u4E14\u4FDD\u7559\u6E90\u6587\u4EF6\u3002",paraId:66,tocIndex:39},{value:`\u538B\u7F29 q.txt q2.txt \u4E3A q.zip /q.rar
+zip q.rar q.txt q2.txt
+
+\u89E3\u538B 
+unzip q.zip
+
+\u538B\u7F29src\u76EE\u5F55
+zip src.zip -r src
+
+`,paraId:67,tocIndex:39},{value:"tar [\u9009\u9879] XXX.tar.gz \u5C06\u8981\u6253\u5305\u8FDB\u53BB\u7684\u5185\u5BB9 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u6253\u5305\u76EE\u5F55\uFF0C\u538B\u7F29\u540E\u7684\u6587\u4EF6\u683C\u5F0F.tar.gz\uFF09",paraId:68,tocIndex:40},{value:`\u9009\u9879 \u529F\u80FD
+-c \u4EA7\u751F.tar \u6253\u5305\u6587\u4EF6
+-v \u663E\u793A\u8BE6\u7EC6\u4FE1\u606F
+-f \u6307\u5B9A\u538B\u7F29\u540E\u7684\u6587\u4EF6\u540D
+-z \u6253\u5305\u540C\u65F6\u538B\u7F29
+-x \u89E3\u5305.tar \u6587\u4EF6
+-C \u89E3\u538B\u5230\u6307\u5B9A\u76EE\u5F55
+
+`,paraId:69,tocIndex:40},{value:`\u5C06 1 2 \u6587\u4EF6\u6253\u5305\u4E3A src.tar.gz
+tar -zcvf src.tar.gz 1.js 2.js
+
+\u538B\u7F29\u76EE\u5F55
+tar -zcvf xiyou.tar.gz xiyou/
+
+\u89E3\u538B\u5230\u6307\u5B9A\u76EE\u5F55
+tar -zxvf src.tar.gz -C ./src2
+
+`,paraId:70,tocIndex:40},{value:"\u7B2C\u4E00\u79CD\u65B9\u5F0F\u53D8\u66F4\u6743\u9650 chmod [{ugoa}{+-=}{rwx}] \u6587\u4EF6\u6216\u76EE\u5F55",paraId:71,tocIndex:42},{value:"u:\u6240\u6709\u8005 g:\u6240\u6709\u7EC4 o:\u5176\u4ED6\u4EBA a:\u6240\u6709\u4EBA(u\u3001g\u3001o \u7684\u603B\u548C)",paraId:72,tocIndex:42},{value:`chmod g+x houge.txt
+
+`,paraId:73,tocIndex:42},{value:"\u7B2C\u4E8C\u79CD\u65B9\u5F0F\u53D8\u66F4\u6743\u9650 chmod [mode=421 ] [\u6587\u4EF6\u6216\u76EE\u5F55]",paraId:74,tocIndex:42},{value:"r=4 w=2 x=1 rwx=4+2+1=7",paraId:75,tocIndex:42},{value:`chmod 777 houge.txt
+
+-R \u9012\u5F52\u64CD\u4F5C
+chmod -R 777 xiyou/
+
+`,paraId:76,tocIndex:42},{value:"chown [\u9009\u9879] [\u6700\u7EC8\u7528\u6237] [\u6587\u4EF6\u6216\u76EE\u5F55]",paraId:77,tocIndex:43},{value:`\u9009\u9879 \u529F\u80FD
+-R \u9012\u5F52\u64CD\u4F5C
+
+chown newwl houge.txt
+
+`,paraId:78,tocIndex:43},{value:"chgrp [\u6700\u7EC8\u7528\u6237\u7EC4] [\u6587\u4EF6\u6216\u76EE\u5F55] \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u6539\u53D8\u6587\u4EF6\u6216\u8005\u76EE\u5F55\u7684\u6240\u5C5E\u7EC4\uFF09",paraId:79,tocIndex:44},{value:`  -R     \u9012\u5F52\u7684\u6539\u53D8\u76EE\u5F55\u548C\u5B83\u7684\u5185\u5BB9\u7684\u7EC4\u6240\u6709\u6743 (\u5373\u4F7F\u9047\u5230\u9519\u8BEF\u4E5F\u7EE7\u7EED.)
+
+`,paraId:80,tocIndex:44},{value:"useradd \u7528\u6237\u540D \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u6DFB\u52A0\u65B0\u7528\u6237\uFF09",paraId:81,tocIndex:46},{value:"useradd -g \u7EC4\u540D \u7528\u6237\u540D \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u6DFB\u52A0\u65B0\u7528\u6237\u5230\u67D0\u4E2A\u7EC4\uFF09",paraId:82,tocIndex:46},{value:`//\u589E\u52A0
+useradd wl
+
+//\u67E5\u770B
+ll /home/
+
+`,paraId:83,tocIndex:46},{value:"passwd \u7528\u6237\u540D \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u8BBE\u7F6E\u7528\u6237\u5BC6\u7801\uFF09",paraId:84,tocIndex:47},{value:`id wl
+
+`,paraId:85,tocIndex:48},{value:"su \u7528\u6237\u540D\u79F0 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5207\u6362\u7528\u6237\uFF0C\u53EA\u80FD\u83B7\u5F97\u7528\u6237\u7684\u6267\u884C\u6743\u9650\uFF0C\u4E0D\u80FD\u83B7\u5F97\u73AF\u5883\u53D8\u91CF\uFF09",paraId:86,tocIndex:50},{value:"su - \u7528\u6237\u540D\u79F0 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5207\u6362\u5230\u7528\u6237\u5E76\u83B7\u5F97\u8BE5\u7528\u6237\u7684\u73AF\u5883\u53D8\u91CF\u53CA\u6267\u884C\u6743\u9650\uFF09",paraId:87,tocIndex:50},{value:"echo $PATH \u53EF\u67E5\u770B\u73AF\u5883\u53D8\u91CF",paraId:88,tocIndex:50},{value:"\uFF081\uFF09userdel \u7528\u6237\u540D \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5220\u9664\u7528\u6237\u4F46\u4FDD\u5B58\u7528\u6237\u4E3B\u76EE\u5F55\uFF09",paraId:89,tocIndex:51},{value:"\uFF082\uFF09userdel -r \u7528\u6237\u540D \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u7528\u6237\u548C\u7528\u6237\u4E3B\u76EE\u5F55\uFF0C\u90FD\u5220\u9664\uFF09",paraId:90,tocIndex:51},{value:"\u4E0D\u4F7F\u7528 -r\u628A\u76EE\u5F55\u5220\u4E86\u611F\u89C9\u4F18\u70B9\u9EBB\u70E6\uFF0C\u4F46\u5B9E\u9645\u771F\u7684\u8981\u5220\u9664\u7528\u6237\u5417",paraId:91,tocIndex:51},{value:"\uFF081\uFF09whoami \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u663E\u793A\u81EA\u8EAB\u7528\u6237\u540D\u79F0\uFF09",paraId:92,tocIndex:52},{value:"\uFF082\uFF09who am i \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u663E\u793A\u767B\u5F55\u7528\u6237\u7684\u7528\u6237\u540D\u4EE5\u53CA\u767B\u9646\u65F6\u95F4\uFF09",paraId:93,tocIndex:52},{value:"1\uFF09\u6DFB\u52A0 atguigu \u7528\u6237\uFF0C\u5E76\u5BF9\u5176\u8BBE\u7F6E\u5BC6\u7801\u3002",paraId:94,tocIndex:53},{value:`useradd wl
+passwd wl@1234
+
+`,paraId:95,tocIndex:53},{value:"2\uFF09\u4FEE\u6539\u914D\u7F6E\u6587\u4EF6",paraId:96,tocIndex:53},{value:`vim /etc/sudoers \u4FEE\u6539 /etc/sudoers 
+
+`,paraId:97,tocIndex:53},{value:"\u6587\u4EF6\uFF0C\u627E\u5230\u4E0B\u9762\u4E00\u884C(91 \u884C)\uFF0C\u5728 root \u4E0B\u9762\u6DFB\u52A0\u4E00\u884C\uFF0C\u5982\u4E0B\u6240\u793A\uFF1A",paraId:98,tocIndex:53},{value:`## Allow root to run any commands anywhere
+root ALL=(ALL) ALL
+wl ALL=(ALL) ALL
+
+`,paraId:99,tocIndex:53},{value:"\u6216\u8005\u914D\u7F6E\u6210\u91C7\u7528 sudo \u547D\u4EE4\u65F6\uFF0C\u4E0D\u9700\u8981\u8F93\u5165\u5BC6\u7801",paraId:100,tocIndex:53},{value:`## Allow root to run any commands anywhere 
+root ALL=(ALL) ALL 
+wl ALL=(ALL) NOPASSWD:ALL
+
+`,paraId:101,tocIndex:53},{value:"usermod -g \u7528\u6237\u7EC4 \u7528\u6237\u540D        //\u4FEE\u6539\u7528\u6237\u7684\u521D\u59CB\u767B\u5F55\u7EC4\uFF0C\u7ED9\u5B9A\u7684\u7EC4\u5FC5\u987B\u5B58\u5728\u3002\u9ED8\u8BA4\u7EC4id \u662F1\u3002``",paraId:102,tocIndex:54},{value:`\u5C06wl\u6DFB\u52A0\u5230root
+usermod -g root wl
+
+`,paraId:103,tocIndex:54},{value:"\u7528\u6237\u7EC4\u7684\u7BA1\u7406\u6D89\u53CA\u7528\u6237\u7EC4\u7684\u6DFB\u52A0\u3001\u5220\u9664\u548C\u4FEE\u6539\u3002\u7EC4\u7684\u589E\u52A0\u3001\u5220\u9664\u548C\u4FEE\u6539\u5B9E\u9645\u4E0A\u5C31\u662F\u5BF9/etc/group\u6587\u4EF6\u7684\u66F4\u65B0\u3002\u90A3\u4E48",paraId:104,tocIndex:54},{value:"cat /etc/group    \u67E5\u770B\u521B\u5EFA\u4E86\u54EA\u4E9B\u7EC4",paraId:105,tocIndex:54},{value:"groupadd \u7EC4\u540D",paraId:106,tocIndex:55},{value:`groupadd yyds
+
+`,paraId:107,tocIndex:55},{value:"groupdel \u7EC4\u540D",paraId:108,tocIndex:56},{value:"groupmod -n \u65B0\u7EC4\u540D \u8001\u7EC4\u540D",paraId:109,tocIndex:57},{value:"du: disk usage \u78C1\u76D8\u5360\u7528\u60C5\u51B5",paraId:110,tocIndex:59},{value:`\u9009\u9879 \u529F\u80FD
+-h \u4EE5\u4EBA\u4EEC\u8F83\u6613\u9605\u8BFB\u7684 GBytes, MBytes, KBytes \u7B49\u683C\u5F0F\u81EA\u884C\u663E\u793A\uFF1B-a \u4E0D\u4EC5\u67E5\u770B\u5B50\u76EE\u5F55\u5927\u5C0F\uFF0C\u8FD8\u8981\u5305\u62EC\u6587\u4EF6
+-c \u663E\u793A\u6240\u6709\u7684\u6587\u4EF6\u548C\u5B50\u76EE\u5F55\u5927\u5C0F\u540E\uFF0C\u663E\u793A\u603B\u548C-s \u53EA\u663E\u793A\u603B\u548C
+--max-depth=n \u6307\u5B9A\u7EDF\u8BA1\u5B50\u76EE\u5F55\u7684\u6DF1\u5EA6\u4E3A\u7B2C n \u5C42
+
+`,paraId:111,tocIndex:59},{value:`\u67E5\u770B\u5F53\u524D\u7528\u6237\u4E3B\u76EE\u5F55\u5360\u7528\u7684\u78C1\u76D8\u7A7A\u95F4\u5927\u5C0F
+du -sh
+
+`,paraId:112,tocIndex:59},{value:"df: disk free \u7A7A\u4F59\u78C1\u76D8",paraId:113,tocIndex:60},{value:`\u9009\u9879 \u529F\u80FD
+-h \u4EE5\u4EBA\u4EEC\u8F83\u6613\u9605\u8BFB\u7684 GBytes, MBytes, KBytes \u7B49\u683C\u5F0F\u81EA\u884C\u663E\u793A\uFF1B
+
+\u67E5\u770B\u78C1\u76D8\u4F7F\u7528\u60C5\u51B5
+df -h
+
+`,paraId:114,tocIndex:60},{value:"lsblk \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u67E5\u770B\u8BBE\u5907\u6302\u8F7D\u60C5\u51B5\uFF09",paraId:115,tocIndex:61},{value:`\u9009\u9879 \u529F\u80FD
+-f \u67E5\u770B\u8BE6\u7EC6\u7684\u8BBE\u5907\u6302\u8F7D\u60C5\u51B5\uFF0C\u663E\u793A\u6587\u4EF6\u7CFB\u7EDF\u4FE1\u606F
+
+`,paraId:116,tocIndex:61},{value:"mount [-t vfstype] [-o options] device dir \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u6302\u8F7D\u8BBE\u5907\uFF09",paraId:117,tocIndex:62},{value:"umount \u8BBE\u5907\u6587\u4EF6\u540D\u6216\u6302\u8F7D\u70B9 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5378\u8F7D\u8BBE\u5907\uFF09",paraId:118,tocIndex:62},{value:"-t vfstype",paraId:119,tocIndex:62},{value:"\u6307\u5B9A\u6587\u4EF6\u7CFB\u7EDF\u7684\u7C7B\u578B\uFF0C\u901A\u5E38\u4E0D\u5FC5\u6307\u5B9A\u3002mount \u4F1A\u81EA\u52A8\u9009\u62E9\u6B63\u786E\u7684\u7C7B\u578B\u3002\u5E38\u7528\u7C7B\u578B\u6709\uFF1A",paraId:120,tocIndex:62},{value:"\u5149\u76D8\u6216\u5149\u76D8\u955C\u50CF\uFF1Aiso9660",paraId:121,tocIndex:62},{value:"DOS fat16 \u6587\u4EF6\u7CFB\u7EDF\uFF1Amsdos",paraId:121,tocIndex:62},{value:"Windows 9x fat32 \u6587\u4EF6\u7CFB\u7EDF\uFF1Avfat",paraId:121,tocIndex:62},{value:"Windows NT ntfs \u6587\u4EF6\u7CFB\u7EDF\uFF1Antfs",paraId:121,tocIndex:62},{value:"Mount Windows \u6587\u4EF6\u7F51\u7EDC\u5171\u4EAB\uFF1Asmbfs",paraId:121,tocIndex:62},{value:"UNIX(LINUX) \u6587\u4EF6\u7F51\u7EDC\u5171\u4EAB\uFF1Anfs",paraId:121,tocIndex:62},{value:"-o options",paraId:122,tocIndex:62},{value:"\u4E3B\u8981\u7528\u6765\u63CF\u8FF0\u8BBE\u5907\u6216\u6863\u6848\u7684\u6302\u63A5\u65B9\u5F0F\u3002\u5E38\u7528\u7684\u53C2\u6570\u6709\uFF1A",paraId:123,tocIndex:62},{value:"loop\uFF1A\u7528\u6765\u628A\u4E00\u4E2A\u6587\u4EF6\u5F53\u6210\u786C\u76D8\u5206\u533A\u6302\u63A5\u4E0A\u7CFB\u7EDFro\uFF1A\u91C7\u7528\u53EA\u8BFB\u65B9\u5F0F\u6302\u63A5\u8BBE\u5907",paraId:124,tocIndex:62},{value:"rw\uFF1A\u91C7\u7528\u8BFB\u5199\u65B9\u5F0F\u6302\u63A5\u8BBE\u5907 iocharset\uFF1A\u6307\u5B9A\u8BBF\u95EE\u6587\u4EF6\u7CFB\u7EDF\u6240\u7528\u5B57\u7B26\u96C6",paraId:125,tocIndex:62},{value:"device \u8981\u6302\u63A5(mount)\u7684\u8BBE\u5907",paraId:126,tocIndex:62},{value:"dir \u8BBE\u5907\u5728\u7CFB\u7EDF\u4E0A\u7684\u6302\u63A5\u70B9(mount point)",paraId:127,tocIndex:62},{value:`\u9996\u5148\u521B\u5EFA/mnt/cdrom \u76EE\u5F55
+
+\u6302\u8F7D\u5230 /mnt/cdrom
+mount /dev/cdrom /mnt/cdrom
+
+\u5378\u8F7D
+umount /dev/cdrom
+
+`,paraId:128,tocIndex:62},{value:"fdisk -l \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u67E5\u770B\u78C1\u76D8\u5206\u533A\u8BE6\u60C5\uFF09",paraId:129,tocIndex:63},{value:"fdisk \u786C\u76D8\u8BBE\u5907\u540D \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5BF9\u65B0\u589E\u786C\u76D8\u8FDB\u884C\u5206\u533A\u64CD\u4F5C\uFF09",paraId:130,tocIndex:63},{value:"B\u7AD9linux",paraId:131,tocIndex:63},{value:"ps:process status \u8FDB\u7A0B\u72B6\u6001",paraId:132,tocIndex:65},{value:`\u9009\u9879 \u529F\u80FD
+a \u5217\u51FA\u5E26\u6709\u7EC8\u7AEF\u7684\u6240\u6709\u7528\u6237\u7684\u8FDB\u7A0B
+x \u5217\u51FA\u5F53\u524D\u7528\u6237\u7684\u6240\u6709\u8FDB\u7A0B\uFF0C\u5305\u62EC\u6CA1\u6709\u7EC8\u7AEF\u7684\u8FDB\u7A0Bu \u9762\u5411\u7528\u6237\u53CB\u597D\u7684\u663E\u793A\u98CE\u683C
+-e \u5217\u51FA\u6240\u6709\u8FDB\u7A0B
+-u \u5217\u51FA\u67D0\u4E2A\u7528\u6237\u5173\u8054\u7684\u6240\u6709\u8FDB\u7A0B
+-f \u663E\u793A\u5B8C\u6574\u683C\u5F0F\u7684\u8FDB\u7A0B\u5217\u8868
+
+`,paraId:133,tocIndex:65},{value:"\u5982\u679C\u60F3\u67E5\u770B\u8FDB\u7A0B\u7684 CPU \u5360\u7528\u7387\u548C\u5185\u5B58\u5360\u7528\u7387\uFF0C\u53EF\u4EE5\u4F7F\u7528 aux;",paraId:134,tocIndex:65},{value:"\u5982\u679C\u60F3\u67E5\u770B\u8FDB\u7A0B\u7684\u7236\u8FDB\u7A0B ID \u53EF\u4EE5\u4F7F\u7528 ef;",paraId:135,tocIndex:65},{value:`ps aux | grep xxx \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u67E5\u770B\u7CFB\u7EDF\u4E2D\u6240\u6709\u8FDB\u7A0B\uFF09
+ps -ef | grep xxx \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u53EF\u4EE5\u67E5\u770B\u5B50\u7236\u8FDB\u7A0B\u4E4B\u95F4\u7684\u5173\u7CFB\uFF09
+
+`,paraId:136,tocIndex:65},{value:"kill [\u9009\u9879] \u8FDB\u7A0B\u53F7 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u901A\u8FC7\u8FDB\u7A0B\u53F7\u6740\u6B7B\u8FDB\u7A0B\uFF09",paraId:137,tocIndex:66},{value:"killall \u8FDB\u7A0B\u540D\u79F0 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u901A\u8FC7\u8FDB\u7A0B\u540D\u79F0\u6740\u6B7B\u8FDB\u7A0B\uFF0C\u4E5F\u652F\u6301\u901A\u914D\u7B26\uFF0C\u8FD9\u5728\u7CFB\u7EDF\u56E0\u8D1F\u8F7D\u8FC7\u5927\u800C\u53D8\u5F97\u5F88\u6162\u65F6\u5F88\u6709\u7528\uFF09",paraId:138,tocIndex:66},{value:`\u9009\u9879 \u529F\u80FD
+-9 \u8868\u793A\u5F3A\u8FEB\u8FDB\u7A0B\u7ACB\u5373\u505C\u6B62
+
+`,paraId:139,tocIndex:66},{value:`\u9009\u9879 \u529F\u80FD
+-p \u663E\u793A\u8FDB\u7A0B\u7684 PID
+-u \u663E\u793A\u8FDB\u7A0B\u7684\u6240\u5C5E\u7528\u6237
+
+`,paraId:140,tocIndex:67},{value:`\u9009\u9879 \u529F\u80FD
+-d \u79D2\u6570 \u6307\u5B9A top \u547D\u4EE4\u6BCF\u9694\u51E0\u79D2\u66F4\u65B0\u3002\u9ED8\u8BA4\u662F 3 \u79D2\u5728 top \u547D\u4EE4\u7684\u4EA4\u4E92\u6A21\u5F0F\u5F53\u4E2D\u53EF\u4EE5\u6267\u884C\u7684\u547D\u4EE4\uFF1A
+-i \u4F7F top \u4E0D\u663E\u793A\u4EFB\u4F55\u95F2\u7F6E\u6216\u8005\u50F5\u6B7B\u8FDB\u7A0B\u3002
+-p \u901A\u8FC7\u6307\u5B9A\u76D1\u63A7\u8FDB\u7A0B ID \u6765\u4EC5\u4EC5\u76D1\u63A7\u67D0\u4E2A\u8FDB\u7A0B\u7684\u72B6\u6001\u3002
+
+\u64CD\u4F5C \u529F\u80FD
+P \u4EE5 CPU \u4F7F\u7528\u7387\u6392\u5E8F\uFF0C\u9ED8\u8BA4\u5C31\u662F\u6B64\u9879
+M \u4EE5\u5185\u5B58\u7684\u4F7F\u7528\u7387\u6392\u5E8F
+N \u4EE5 PID \u6392\u5E8F
+q \u9000\u51FA top
+
+`,paraId:141,tocIndex:68},{value:`\u9009\u9879 \u529F\u80FD
+-a \u663E\u793A\u6240\u6709\u6B63\u5728\u76D1\u542C\uFF08listen\uFF09\u548C\u672A\u76D1\u542C\u7684\u5957\u63A5\u5B57\uFF08socket\uFF09
+-n \u62D2\u7EDD\u663E\u793A\u522B\u540D\uFF0C\u80FD\u663E\u793A\u6570\u5B57\u7684\u5168\u90E8\u8F6C\u5316\u6210\u6570\u5B57
+-l \u4EC5\u5217\u51FA\u5728\u76D1\u542C\u7684\u670D\u52A1\u72B6\u6001
+-p \u8868\u793A\u663E\u793A\u54EA\u4E2A\u8FDB\u7A0B\u5728\u8C03\u7528
+
+netstat -anp | grep \u8FDB\u7A0B\u53F7 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u67E5\u770B\u8BE5\u8FDB\u7A0B\u7F51\u7EDC\u4FE1\u606F\uFF09netstat \u2013nlp | grep \u7AEF\u53E3\u53F7 \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u67E5\u770B\u7F51\u7EDC\u7AEF\u53E3\u53F7\u5360\u7528\u60C5\u51B5\uFF09
+
+`,paraId:142,tocIndex:69},{value:`\u91CD\u65B0\u542F\u52A8 crond \u670D\u52A1
+systemctl restart crond
+
+`,paraId:143,tocIndex:71},{value:"crontab [\u9009\u9879]",paraId:144,tocIndex:72},{value:`\u9009\u9879 \u529F\u80FD
+-e \u7F16\u8F91 crontab \u5B9A\u65F6\u4EFB\u52A1
+-l \u67E5\u8BE2 crontab \u4EFB\u52A1
+-r \u5220\u9664\u5F53\u524D\u7528\u6237\u6240\u6709\u7684 crontab \u4EFB\u52A1
+
+`,paraId:145,tocIndex:72},{value:`\u9879\u76EE \u542B\u4E49 \u8303\u56F4
+\u7B2C\u4E00\u4E2A\u201C*\u201D \u4E00\u5C0F\u65F6\u5F53\u4E2D\u7684\u7B2C\u51E0\u5206\u949F 0-59
+\u7B2C\u4E8C\u4E2A\u201C*\u201D \u4E00\u5929\u5F53\u4E2D\u7684\u7B2C\u51E0\u5C0F\u65F6 0-23
+\u7B2C\u4E09\u4E2A\u201C*\u201D \u4E00\u4E2A\u6708\u5F53\u4E2D\u7684\u7B2C\u51E0\u5929 1-31
+\u7B2C\u56DB\u4E2A\u201C*\u201D \u4E00\u5E74\u5F53\u4E2D\u7684\u7B2C\u51E0\u6708 1-12
+\u7B2C\u4E94\u4E2A\u201C*\u201D \u4E00\u5468\u5F53\u4E2D\u7684\u661F\u671F\u51E0 0-7 \uFF080 \u548C7 \u90FD\u4EE3\u8868\u661F\u671F\u65E5\uFF09
+
+`,paraId:146,tocIndex:72},{value:`\u7279\u6B8A\u7B26\u53F7 \u542B\u4E49
+* \u4EE3\u8868\u4EFB\u4F55\u65F6\u95F4\u3002\u6BD4\u5982\u7B2C\u4E00\u4E2A\u201C*\u201D\u5C31\u4EE3\u8868\u4E00\u5C0F\u65F6\u4E2D\u6BCF\u5206\u949F\u90FD\u6267\u884C\u4E00\u6B21\u7684\u610F\u601D\u3002
+
+\uFF0C \u4EE3\u8868\u4E0D\u8FDE\u7EED\u7684\u65F6\u95F4\u3002\u6BD4\u5982\u201C0 8,12,16 * * * \u547D\u4EE4\u201D\uFF0C\u5C31\u4EE3\u8868\u5728\u6BCF\u5929\u7684 8 \u70B9 0 \u5206\uFF0C12 \u70B9 0 \u5206\uFF0C16 \u70B90 \u5206\u90FD\u6267\u884C\u4E00\u6B21\u547D\u4EE4
+
+- \u4EE3\u8868\u8FDE\u7EED\u7684\u65F6\u95F4\u8303\u56F4\u3002\u6BD4\u5982\u201C0 5 * * 1-6 \u547D\u4EE4\u201D\uFF0C\u4EE3\u8868\u5728\u5468\u4E00\u5230\u5468\u516D\u7684\u51CC\u6668 5 \u70B9 0 \u5206\u6267\u884C\u547D\u4EE4
+
+*/n \u4EE3\u8868\u6BCF\u9694\u591A\u4E45\u6267\u884C\u4E00\u6B21\u3002\u6BD4\u5982\u201C*/10 * * * * \u547D\u4EE4\u201D\uFF0C\u4EE3\u8868\u6BCF\u9694 10 \u5206\u949F\u5C31\u6267\u884C\u4E00\u904D\u547D\u4EE4
+
+`,paraId:147,tocIndex:72},{value:"\u6817\u5B50",paraId:148,tocIndex:72},{value:`\u65F6\u95F4 \u542B\u4E49
+45 22 * * * \u547D\u4EE4 \u6BCF\u5929 22 \u70B9 45 \u5206\u6267\u884C\u547D\u4EE4
+
+0 17 * * 1 \u547D\u4EE4 \u6BCF\u5468 1 \u7684 17 \u70B9 0 \u5206\u6267\u884C\u547D\u4EE4
+
+0 5 1,15 * * \u547D\u4EE4 \u6BCF\u6708 1 \u53F7\u548C 15 \u53F7\u7684\u51CC\u6668 5 \u70B9 0 \u5206\u6267\u884C\u547D\u4EE4
+
+40 4 * * 1-5 \u547D\u4EE4 \u6BCF\u5468\u4E00\u5230\u5468\u4E94\u7684\u51CC\u6668 4 \u70B9 40 \u5206\u6267\u884C\u547D\u4EE4
+
+*/10 4 * * * \u547D\u4EE4 \u6BCF\u5929\u7684\u51CC\u6668 4 \u70B9\uFF0C\u6BCF\u9694 10 \u5206\u949F\u6267\u884C\u4E00\u6B21\u547D\u4EE4
+
+0 0 1,15 * 1 \u547D\u4EE4 \u6BCF\u6708 1 \u53F7\u548C 15 \u53F7\uFF0C\u6BCF\u5468 1 \u7684 0 \u70B9 0 \u5206\u90FD\u4F1A\u6267\u884C\u547D\u4EE4\u3002\u6CE8\u610F\uFF1A\u661F\u671F\u51E0\u548C\u51E0\u53F7\u6700\u597D\u4E0D\u8981\u540C\u65F6\u51FA\u73B0\uFF0C\u56E0\u4E3A\u4ED6\u4EEC\u5B9A\u4E49\u7684\u90FD\u662F\u5929\u3002\u975E\u5E38\u5BB9\u6613\u8BA9\u7BA1\u7406\u5458\u6DF7\u4E71\u3002
+
+`,paraId:149,tocIndex:72},{value:"\u65F6\u95F4",paraId:150,tocIndex:72},{value:"\u542B\u4E49",paraId:150,tocIndex:72},{value:"45 22 * * * \u547D\u4EE4",paraId:150,tocIndex:72},{value:"\u6BCF\u5929 22 \u70B9 45 \u5206\u6267\u884C\u547D\u4EE4",paraId:150,tocIndex:72},{value:"0 17 * * 1 \u547D\u4EE4",paraId:150,tocIndex:72},{value:"\u6BCF\u5468 1 \u7684 17 \u70B9 0 \u5206\u6267\u884C\u547D\u4EE4",paraId:150,tocIndex:72},{value:"0 5 1,15 * * \u547D\u4EE4",paraId:150,tocIndex:72},{value:"\u6BCF\u6708 1 \u53F7\u548C 15 \u53F7\u7684\u51CC\u6668 5 \u70B9 0 \u5206\u6267\u884C\u547D\u4EE4",paraId:150,tocIndex:72},{value:"40 4 * * 1-5 \u547D\u4EE4",paraId:150,tocIndex:72},{value:"\u6BCF\u5468\u4E00\u5230\u5468\u4E94\u7684\u51CC\u6668 4 \u70B9 40 \u5206\u6267\u884C\u547D\u4EE4",paraId:150,tocIndex:72},{value:"*/10 4 * * * \u547D\u4EE4",paraId:150,tocIndex:72},{value:"\u6BCF\u5929\u7684\u51CC\u6668 4 \u70B9\uFF0C\u6BCF\u9694 10 \u5206\u949F\u6267\u884C\u4E00\u6B21\u547D\u4EE4",paraId:150,tocIndex:72},{value:"0 0 1,15 * 1 \u547D\u4EE4",paraId:150,tocIndex:72},{value:"\u6BCF\u6708 1 \u53F7\u548C 15 \u53F7\uFF0C\u6BCF\u5468 1 \u7684 0 \u70B9 0 \u5206\u90FD\u4F1A\u6267\u884C\u547D\u4EE4\u3002\u6CE8\u610F\uFF1A\u661F\u671F\u51E0\u548C\u51E0\u53F7\u6700\u597D\u4E0D\u8981\u540C\u65F6\u51FA\u73B0\uFF0C\u56E0\u4E3A\u4ED6\u4EEC\u5B9A\u4E49\u7684\u90FD\u662F\u5929\u3002\u975E\u5E38\u5BB9\u6613\u8BA9\u7BA1\u7406\u5458\u6DF7\u4E71\u3002",paraId:150,tocIndex:72},{value:`\u6BCF\u9694 1 \u5206\u949F\uFF0C\u5411/root/bailongma.txt \u6587\u4EF6\u4E2D\u6DFB\u52A0\u4E00\u4E2A 11 \u7684\u6570\u5B57
+
+*/1 * * * * /bin/echo \u201D11\u201D >> /root/bailongma.txt
+
+`,paraId:151,tocIndex:72},{value:"\u64CD\u4F5C",paraId:152,tocIndex:73},{value:"\u6307\u4EE4",paraId:152,tocIndex:73},{value:"\u5907\u6CE8",paraId:152,tocIndex:73},{value:"\u67E5\u770B\u9632\u706B\u5899\u72B6\u6001",paraId:152,tocIndex:73},{value:"systemctl status firewalld / firewall-cmd --state",paraId:152,tocIndex:73},{value:"\u6682\u65F6\u5173\u95ED\u9632\u706B\u5899",paraId:152,tocIndex:73},{value:"systemctl stop firewalld",paraId:152,tocIndex:73},{value:"\u6C38\u4E45\u5173\u95ED\u9632\u706B\u5899(\u7981\u7528\u5F00\u673A\u81EA\u542F)",paraId:152,tocIndex:73},{value:"systemctl disable firewalld",paraId:152,tocIndex:73},{value:"==\u4E0B\u6B21\u542F\u52A8,\u624D\u751F\u6548==",paraId:152,tocIndex:73},{value:"\u6682\u65F6\u5F00\u542F\u9632\u706B\u5899",paraId:152,tocIndex:73},{value:"systemctl start firewalld",paraId:152,tocIndex:73},{value:"\u6C38\u4E45\u5F00\u542F\u9632\u706B\u5899(\u542F\u7528\u5F00\u673A\u81EA\u542F)",paraId:152,tocIndex:73},{value:"systemctl enable firewalld",paraId:152,tocIndex:73},{value:"==\u4E0B\u6B21\u542F\u52A8,\u624D\u751F\u6548==",paraId:152,tocIndex:73},{value:"\u5F00\u653E\u6307\u5B9A\u7AEF\u53E3",paraId:152,tocIndex:73},{value:"firewall-cmd --zone=public --add-port=8080/tcp --permanent",paraId:152,tocIndex:73},{value:"==\u9700\u8981\u91CD\u65B0\u52A0\u8F7D\u751F\u6548==",paraId:152,tocIndex:73},{value:"\u5173\u95ED\u6307\u5B9A\u7AEF\u53E3",paraId:152,tocIndex:73},{value:"firewall-cmd --zone=public --remove-port=8080/tcp --permanent",paraId:152,tocIndex:73},{value:"==\u9700\u8981\u91CD\u65B0\u52A0\u8F7D\u751F\u6548==",paraId:152,tocIndex:73},{value:"\u7ACB\u5373\u751F\u6548(\u91CD\u65B0\u52A0\u8F7D)",paraId:152,tocIndex:73},{value:"firewall-cmd --reload",paraId:152,tocIndex:73},{value:"\u67E5\u770B\u5F00\u653E\u7AEF\u53E3",paraId:152,tocIndex:73},{value:"firewall-cmd --zone=public --list-ports",paraId:152,tocIndex:73},{value:"\u6CE8\u610F\uFF1A",paraId:153,tocIndex:73},{value:"\u200B	A. systemctl\u662F\u7BA1\u7406Linux\u4E2D\u670D\u52A1\u7684\u547D\u4EE4\uFF0C\u53EF\u4EE5\u5BF9\u670D\u52A1\u8FDB\u884C\u542F\u52A8\u3001\u505C\u6B62\u3001\u91CD\u542F\u3001\u67E5\u770B\u72B6\u6001\u7B49\u64CD\u4F5C",paraId:154,tocIndex:73},{value:"\u200B	B. firewall-cmd\u662FLinux\u4E2D\u4E13\u95E8\u7528\u4E8E\u63A7\u5236\u9632\u706B\u5899\u7684\u547D\u4EE4",paraId:155,tocIndex:73},{value:"\u200B	C. \u4E3A\u4E86\u4FDD\u8BC1\u7CFB\u7EDF\u5B89\u5168\uFF0C\u670D\u52A1\u5668\u7684\u9632\u706B\u5899\u4E0D\u5EFA\u8BAE\u5173\u95ED",paraId:156,tocIndex:73},{value:"YUM\uFF08\u5168\u79F0\u4E3A Yellow dog Updater, Modified\uFF09\u662F\u4E00\u4E2A\u5728 Fedora \u548CRedHat \u4EE5\u53CACentOS\u4E2D\u7684 Shell \u524D\u7AEF\u8F6F\u4EF6\u5305\u7BA1\u7406\u5668\u3002\u57FA\u4E8E RPM \u5305\u7BA1\u7406\uFF0C\u80FD\u591F\u4ECE\u6307\u5B9A\u7684\u670D\u52A1\u5668\u81EA\u52A8\u4E0B\u8F7DRPM\u5305\u5E76\u4E14\u5B89\u88C5\uFF0C\u53EF\u4EE5\u81EA\u52A8\u5904\u7406\u4F9D\u8D56\u6027\u5173\u7CFB\uFF0C\u5E76\u4E14\u4E00\u6B21\u5B89\u88C5\u6240\u6709\u4F9D\u8D56\u7684\u8F6F\u4EF6\u5305\uFF0C\u65E0\u987B\u7E41\u7410\u5730\u4E00\u6B21\u6B21\u4E0B\u8F7D\u3001\u5B89\u88C5\uFF0C",paraId:157,tocIndex:75},{value:"yum [\u9009\u9879] [\u53C2\u6570]",paraId:158,tocIndex:76},{value:"\u9009\u9879",paraId:159,tocIndex:76},{value:"\u529F\u80FD",paraId:159,tocIndex:76},{value:"-y",paraId:159,tocIndex:76},{value:"\u5BF9\u6240\u6709\u63D0\u95EE\u90FD\u56DE\u7B54\u201Cyes\u201D",paraId:159,tocIndex:76},{value:"\u53C2\u6570",paraId:160,tocIndex:76},{value:"\u529F\u80FD",paraId:160,tocIndex:76},{value:"install",paraId:160,tocIndex:76},{value:"\u5B89\u88C5 rpm \u8F6F\u4EF6\u5305",paraId:160,tocIndex:76},{value:"update",paraId:160,tocIndex:76},{value:"\u66F4\u65B0 rpm \u8F6F\u4EF6\u5305",paraId:160,tocIndex:76},{value:"check-update",paraId:160,tocIndex:76},{value:"\u68C0\u67E5\u662F\u5426\u6709\u53EF\u7528\u7684\u66F4\u65B0 rpm \u8F6F\u4EF6\u5305",paraId:160,tocIndex:76},{value:"remove",paraId:160,tocIndex:76},{value:"\u5220\u9664\u6307\u5B9A\u7684 rpm \u8F6F\u4EF6\u5305",paraId:160,tocIndex:76},{value:"list",paraId:160,tocIndex:76},{value:"\u663E\u793A\u8F6F\u4EF6\u5305\u4FE1\u606F",paraId:160,tocIndex:76},{value:"clean",paraId:160,tocIndex:76},{value:"\u6E05\u7406 yum \u8FC7\u671F\u7684\u7F13\u5B58",paraId:160,tocIndex:76},{value:"deplist",paraId:160,tocIndex:76},{value:"\u663E\u793A yum \u8F6F\u4EF6\u5305\u7684\u6240\u6709\u4F9D\u8D56\u5173\u7CFB",paraId:160,tocIndex:76},{value:`\u91C7\u7528 yum \u65B9\u5F0F\u5B89\u88C5 firefox
+yum -y install firefox
+`,paraId:161,tocIndex:76},{value:"\u9ED8\u8BA4\u7684\u7CFB\u7EDF YUM \u6E90\uFF0C\u9700\u8981\u8FDE\u63A5\u56FD\u5916 apache \u7F51\u7AD9\uFF0C\u7F51\u901F\u6BD4\u8F83\u6162\uFF0C\u53EF\u4EE5\u4FEE\u6539\u5173\u8054\u7684\u7F51\u7EDCYUM \u6E90\u4E3A\u56FD\u5185\u955C\u50CF\u7684\u7F51\u7AD9\uFF0C\u6BD4\u5982\u7F51\u6613 163,aliyun \u7B49",paraId:162,tocIndex:77},{value:`1\uFF09\u5B89\u88C5 wget, wget \u7528\u6765\u4ECE\u6307\u5B9A\u7684 URL \u4E0B\u8F7D\u6587\u4EF6
+yum install wget
+
+2\uFF09\u5728/etc/yum.repos.d/\u76EE\u5F55\u4E0B\uFF0C\u5907\u4EFD\u9ED8\u8BA4\u7684 repos \u6587\u4EF6,
+
+cd /etc/yum.repos.d/
+pwd
+3) \u4E0B\u8F7D\u7F51\u6613 163 \u6216\u8005\u662F aliyun \u7684 repos \u6587\u4EF6,\u4EFB\u9009\u5176\u4E00\uFF0C
+//\u963F\u91CC\u4E91
+wget http://mirrors.aliyun.com/repo/Centos-7.repo 
+
+///\u7F51\u6613 163
+wget http://mirrors.163.com/.help/CentOS7-Base-163.repo
+
+4\uFF09\u4F7F\u7528\u4E0B\u8F7D\u597D\u7684 repos \u6587\u4EF6\u66FF\u6362\u9ED8\u8BA4\u7684 repos \u6587\u4EF6
+\u7528 CentOS7-Base-163.repo \u66FF\u6362 CentOS-Base.repo
+mv CentOS7-Base-163.repo CentOS-Base.repo
+
+5\uFF09\u6E05\u7406\u65E7\u7F13\u5B58\u6570\u636E\uFF0C\u7F13\u5B58\u65B0\u6570\u636E
+[root@hodoop100 yum.repos.d]# yum clean all
+[root@hadoop101 yum.repos.d]# yum makecache  //\u628A\u670D\u52A1\u5668\u7684\u5305\u4FE1\u606F\u4E0B\u8F7D\u5230\u672C\u5730\u7535\u8111\u7F13\u5B58\u8D77\u6765
+
+6\uFF09\u6D4B\u8BD5
+yum list | grep firefox
+yum -y install firefox
+`,paraId:163,tocIndex:77},{value:`  $ wget 'https://x.x.x.x/get_ips' --no-check-certificate
+`,paraId:164,tocIndex:78},{value:"RPM\uFF08RedHat Package Manager\uFF09\uFF0CRedHat\u8F6F\u4EF6\u5305\u7BA1\u7406\u5DE5\u5177\uFF0C\u7C7B\u4F3Cwindows\u91CC\u9762\u7684setup.exe \u662FLinux\u8FD9\u7CFB\u5217\u64CD\u4F5C\u7CFB\u7EDF\u91CC\u9762\u7684\u6253\u5305\u5B89\u88C5\u5DE5\u5177\uFF0C\u5B83\u867D\u7136\u662FRedHat\u7684\u6807\u5FD7\uFF0C\u4F46\u7406\u5FF5\u662F\u901A\u7528\u7684\u3002",paraId:165,tocIndex:79},{value:"RPM\u5305\u7684\u540D\u79F0\u683C\u5F0F Apache-1.3.23-11.i386.rpm - \u201Capache\u201D \u8F6F\u4EF6\u540D\u79F0 - \u201C1.3.23-11\u201D\u8F6F\u4EF6\u7684\u7248\u672C\u53F7\uFF0C\u4E3B\u7248\u672C\u548C\u6B64\u7248\u672C - \u201Ci386\u201D\u662F\u8F6F\u4EF6\u6240\u8FD0\u884C\u7684\u786C\u4EF6\u5E73\u53F0\uFF0CIntel 32\u4F4D\u5904\u7406\u5668\u7684\u7EDF\u79F0 - \u201Crpm\u201D\u6587\u4EF6\u6269\u5C55\u540D\uFF0C\u4EE3\u8868RPM\u5305",paraId:166,tocIndex:79},{value:"rpm -qa \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u67E5\u8BE2\u6240\u5B89\u88C5\u7684\u6240\u6709 rpm \u8F6F\u4EF6\u5305\uFF09",paraId:167,tocIndex:80},{value:"\u7531\u4E8E\u8F6F\u4EF6\u5305\u6BD4\u8F83\u591A\uFF0C\u4E00\u822C\u90FD\u4F1A\u91C7\u53D6\u8FC7\u6EE4\u3002rpm -qa | grep rpm\u8F6F\u4EF6\u5305",paraId:168,tocIndex:80},{value:`\u67E5\u8BE2firefox\u8F6F\u4EF6\u5B89\u88C5\u60C5\u51B5
+rpm -qa |grep firefox
+`,paraId:169,tocIndex:80},{value:"\uFF081\uFF09rpm -e RPM\u8F6F\u4EF6\u5305",paraId:170,tocIndex:81},{value:`\u9009\u9879 \u529F\u80FD
+-e \u5378\u8F7D\u8F6F\u4EF6\u5305
+--nodeps \u5378\u8F7D\u8F6F\u4EF6\u65F6\uFF0C\u4E0D\u68C0\u67E5\u4F9D\u8D56\u3002\u8FD9\u6837\u7684\u8BDD\uFF0C\u90A3\u4E9B\u4F7F\u7528\u8BE5\u8F6F\u4EF6\u5305\u7684\u8F6F\u4EF6\u5728\u6B64\u4E4B\u540E\u53EF\u80FD\u5C31\u4E0D\u80FD\u6B63\u5E38\u5DE5\u4F5C\u4E86\u3002
+rpm -e --nodeps \u8F6F\u4EF6\u5305
+`,paraId:171,tocIndex:81},{value:"rpm -ivh RPM \u5305\u5168\u540D",paraId:172,tocIndex:82},{value:"\u9009\u9879",paraId:173,tocIndex:82},{value:"\u529F\u80FD",paraId:173,tocIndex:82},{value:"-i",paraId:173,tocIndex:82},{value:"install\uFF0C\u5B89\u88C5",paraId:173,tocIndex:82},{value:"-v",paraId:173,tocIndex:82},{value:"--verbose\uFF0C\u663E\u793A\u8BE6\u7EC6\u4FE1\u606F",paraId:173,tocIndex:82},{value:"-h",paraId:173,tocIndex:82},{value:"--hash\uFF0C\u8FDB\u5EA6\u6761",paraId:173,tocIndex:82},{value:"-nodeps",paraId:173,tocIndex:82},{value:"\u5B89\u88C5\u524D\u4E0D\u68C0\u67E5\u4F9D\u8D56",paraId:173,tocIndex:82},{value:"\u57FA\u672C\u8BED\u6CD5",paraId:174,tocIndex:85},{value:"systemctl  start | stop | restart | status  \u670D\u52A1\u540D",paraId:175,tocIndex:85},{value:"\u67E5\u770B\u670D\u52A1\u65B9\u6CD5  \uFF1A ls /usr/lib/systemd/system",paraId:176,tocIndex:85},{value:"\u6848\u4F8B\u5B9E\u64CD",paraId:177,tocIndex:85},{value:"\u6216\u8005\u662F  firewalld.service \u90FD\u4E00\u6837",paraId:178,tocIndex:85},{value:`\uFF081\uFF09\u67E5\u770B\u9632\u706B\u5899\u670D\u52A1\u7684\u72B6\u6001 
+ systemctl status firewalld 
+ \uFF082\uFF09\u505C\u6B62\u9632\u706B\u5899\u670D\u52A1
+ systemctl stop firewalld 
+ \uFF083\uFF09\u542F\u52A8\u9632\u706B\u5899\u670D\u52A1
+ systemctl start firewalld 
+ \uFF084\uFF09\u91CD\u542F\u9632\u706B\u5899\u670D\u52A1
+  systemctl restart firewalld
+`,paraId:179,tocIndex:85},{value:"\u57FA\u672C\u8BED\u6CD5",paraId:180,tocIndex:86},{value:"systemctl list-unit-files \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u67E5\u770B\u670D\u52A1\u5F00\u673A\u542F\u52A8\u72B6\u6001\uFF09",paraId:181,tocIndex:86},{value:"systemctl disable service_name \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5173\u6389\u6307\u5B9A\u670D\u52A1\u7684\u81EA\u52A8\u542F\u52A8\uFF09",paraId:182,tocIndex:86},{value:"systemctl enable service_name \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5F00\u542F\u6307\u5B9A\u670D\u52A1\u7684\u81EA\u52A8\u542F\u52A8\uFF09",paraId:183,tocIndex:86},{value:"\u6848\u4F8B\u5B9E\u64CD",paraId:184,tocIndex:86},{value:`\uFF081\uFF09\u5F00\u542F/\u5173\u95ED iptables(\u9632\u706B\u5899)\u670D\u52A1\u7684\u81EA\u52A8\u542F\u52A8
+systemctl enable firewalld.service 
+systemctl disable firewalld.service
+`,paraId:185,tocIndex:86},{value:"\u57FA\u672C\u8BED\u6CD5",paraId:186,tocIndex:87},{value:"\u4F7F\u7528 sync \u6307\u4EE4\u53EF\u4EE5\u7ACB\u5373\u5C06\u7F13\u51B2\u533A\u7684\u6570\u636E\u5199\u5165\u78C1\u76D8\u3002",paraId:187,tocIndex:87},{value:"\uFF081\uFF09sync \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5C06\u6570\u636E\u7531\u5185\u5B58\u540C\u6B65\u5230\u786C\u76D8\u4E2D\uFF09",paraId:188,tocIndex:87},{value:"\uFF082\uFF09halt \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u505C\u673A\uFF0C\u5173\u95ED\u7CFB\u7EDF\uFF0C\u4F46\u4E0D\u65AD\u7535\uFF09",paraId:189,tocIndex:87},{value:"\uFF083\uFF09poweroff \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5173\u673A\uFF0C\u65AD\u7535\uFF09",paraId:190,tocIndex:87},{value:"\uFF083\uFF09reboot \uFF08\u529F\u80FD\u63CF\u8FF0\uFF1A\u5C31\u662F\u91CD\u542F\uFF0C\u7B49\u540C\u4E8E shutdown -r now\uFF09",paraId:191,tocIndex:87},{value:"\uFF084\uFF09shutdown [\u9009\u9879] \u65F6\u95F4",paraId:192,tocIndex:87},{value:"\u9009\u9879",paraId:193,tocIndex:87},{value:"\u529F\u80FD",paraId:193,tocIndex:87},{value:"-H",paraId:193,tocIndex:87},{value:"\u76F8\u5F53\u4E8E--halt\uFF0C\u505C\u673A",paraId:193,tocIndex:87},{value:"-r",paraId:193,tocIndex:87},{value:"-r=reboot \u91CD\u542F",paraId:193,tocIndex:87},{value:"\u53C2\u6570",paraId:194,tocIndex:87},{value:"\u529F\u80FD",paraId:194,tocIndex:87},{value:"now",paraId:194,tocIndex:87},{value:"\u7ACB\u523B\u5173\u673A",paraId:194,tocIndex:87},{value:"\u65F6\u95F4",paraId:194,tocIndex:87},{value:"\u7B49\u5F85\u591A\u4E45\u540E\u5173\u673A\uFF08\u65F6\u95F4\u5355\u4F4D\u662F\u5206\u949F\uFF09\u3002",paraId:194,tocIndex:87},{value:"12:20",paraId:194,tocIndex:87},{value:"12:20 \u7684\u65F6\u5019\u5173\u673A",paraId:194,tocIndex:87},{value:"\u67E5\u770B IP \u914D\u7F6E\u6587\u4EF6",paraId:195,tocIndex:89},{value:`ifconfig
+`,paraId:196,tocIndex:89},{value:"\u4FEE\u6539\u914D\u7F6E",paraId:197,tocIndex:89},{value:`vim /etc/sysconfig/network-scripts/ifcfg-ens33
+`,paraId:198,tocIndex:89},{value:`TYPE="Ethernet"
+PROXY_METHOD="none"
+BROWSER_ONLY="no"
+BOOTPROTO="static"   #\u6539\u4E3A\u9759\u6001 \u8BB0\u5F97\u5220\u9664\u8FD9\u4E2A\u6CE8\u91CA
+DEFROUTE="yes"
+IPV4_FAILURE_FATAL="no"
+IPV6INIT="yes"
+IPV6_AUTOCONF="yes"
+IPV6_DEFROUTE="yes"
+IPV6_FAILURE_FATAL="no"
+IPV6_ADDR_GEN_MODE="stable-privacy"
+NAME="ens33"
+UUID="53694c99-5377-44e6-adac-eadb115e8e18"
+DEVICE="ens33"
+ONBOOT="yes"
+#\u6539\u4E3A\u9759\u6001IP \u8BB0\u5F97\u5220\u9664\u8FD9\u4E2A\u6CE8\u91CA
+IPADDR=192.168.64.100
+#\u7F51\u5173
+GATEWAY=192.168.64.2
+#\u57DF\u540D\u89E3\u6790\u5668
+DNS1=192.168.64.2
+
+`,paraId:199,tocIndex:89},{value:"\u91CD\u542F\u7F51\u7EDC",paraId:200,tocIndex:89},{value:` service network restart
+`,paraId:201,tocIndex:89},{value:"\u65B9\u6CD51",paraId:202,tocIndex:90},{value:"\uFF081\uFF09\u67E5\u770B\u5F53\u524D\u670D\u52A1\u5668\u4E3B\u673A\u540D\u79F0",paraId:203,tocIndex:90},{value:"hostname",paraId:204,tocIndex:90},{value:"\uFF082\uFF09\u5982\u679C\u611F\u89C9\u6B64\u4E3B\u673A\u540D\u4E0D\u5408\u9002\uFF0C\u6211\u4EEC\u53EF\u4EE5\u8FDB\u884C\u4FEE\u6539\u3002",paraId:205,tocIndex:90},{value:"\u901A\u8FC7\u7F16\u8F91/etc/hostname \u6587\u4EF6",paraId:206,tocIndex:90},{value:"vi /etc/hostname \u4FEE\u6539\u5B8C\u6210\u540E\u91CD\u542F\u751F\u6548\u3002",paraId:207,tocIndex:90},{value:"\u65B9\u6CD52",paraId:208,tocIndex:90},{value:"\u76F4\u63A5\u4F7F\u7528\u547D\u4EE4\u4FEE\u6539",paraId:209,tocIndex:90},{value:"hostnamectl set-hostname node3",paraId:210,tocIndex:90},{value:`vim /etc/hosts
+`,paraId:211,tocIndex:91},{value:`echo "source ~/nvm/nvm.sh" >> ~/.bashrc //\u6CE8\u610Fnvm\u662F\u4E2A\u9690\u85CF\u6587\u4EF6\u5939\u9700\u8981\u901A\u8FC7ls -a \u67E5\u770B nvm\u8DEF\u5F84
+source ~/.bashrc
+`,paraId:212,tocIndex:92}]},68872:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(5835);const t=[{value:"DDL\u5141\u8BB8\u7528\u6237\u5B9A\u4E49\u6570\u636E\uFF0C\u4E5F\u5C31\u662F\u521B\u5EFA\u8868\u3001\u5220\u9664\u8868\u3001\u4FEE\u6539\u8868\u7ED3\u6784\u8FD9\u4E9B\u64CD\u4F5C\u3002\u901A\u5E38\uFF0CDDL\u7531\u6570\u636E\u5E93\u7BA1\u7406\u5458\u6267\u884C\u3002",paraId:0,tocIndex:0},{value:`DROP TABLE students;  -- \u5220\u8868
+CREATE TABLE students(
+    id   int AUTO_INCREMENT COMMENT 'ID' primary key,
+    name varchar(100) NOT NULL null COMMENT '\u5B66\u751F\u540D\u79F0',
+	code varchar(100) NOT NULL COMMENT '\u5B66\u751F\u4EE3\u7801',
+	class_id INT(13) NOT NULL REFERENCES classes(id), COMMENT '\u73ED\u7EA7id'
+)COMMENT '\u5B66\u751F\u8868';
+
+PRIMARY KEY\uFF1A \u4E3B\u952E   REFERENCES\uFF1A\u5916\u952E    COMMENT\uFF1A \u6CE8\u91CA
+UNIQUE\uFF1A\u5FC5\u987B    AUTO_INCREMENT\uFF1A int\u7C7B\u578B\u81EA\u52A8\u4F53\u5F81 
+`,paraId:1,tocIndex:1},{value:`--\u4E3B\u952E
+-- \u64A4\u9500\u4E3B\u952E \u641E\u4E86\u4E4B\u540E\u5F88\u9EBB\u70E6 \u8C01\u6CA1\u4E8B\u64A4\u9500\u4E3B\u952E
+ALTER TABLE \u8868\u540D drop PRIMARY key;
+
+ALTER TABLE students DROP PRIMARY KEY ; 
+-- \u8BBE\u7F6E\u4E3B\u952E
+ALTER  TABLE \u8868\u540D  add  PRIMARY KEY(\u5B57\u6BB5\u5217\u8868);
+
+ALTER TABLE students ADD PRIMARY KEY (id);
+-- \u91CD\u8BBE\u7F6E\u4E3B\u952E\u81EA\u52A8\u589E\u957F\u5F00\u59CB\u503C
+ALTER TABLE students AUTO_INCREMENT = 10;
+
+`,paraId:2,tocIndex:2},{value:`--\u589E\u52A0\u5916\u952E
+ALTER TABLE \u9700\u8981\u6DFB\u52A0\u5916\u952E\u7684\u8868\u540D ADD CONSTRAINT  \u5916\u952E\u540D 
+FOREIGN KEY(\u672C\u8868\u5B57\u6BB5\u5217\u8868)  REFERENCES  \u4E3B\u8868\u540D(\u5B57\u6BB5\u5217\u8868);
+
+ALTER TABLE students ADD CONSTRAINT fk_class_id
+FOREIGN KEY (class_id) REFERENCES classes (id);
+
+--\u5220\u9664\u5916\u952E
+alter table \u8868\u540D drop foreign key \u5916\u952E\u540D;
+
+--\u5EFA\u8868\u7684\u65F6\u5019\u589E\u52A0
+constraint  \u5916\u952E\u540D  foreign  key(\u672C\u8868\u5B57\u6BB5\u5217\u8868)  references  \u4E3B\u8868\u540D  (\u4E3B\u8868\u5B57\u6BB5\u5217\u8868);
+`,paraId:3,tocIndex:3},{value:`-------\u589E\u52A0\u7D22\u5F15
+# \u666E\u901A\u7D22\u5F15
+alter table table_name add index index_name (column_list);
+# UNIQUE\u7D22\u5F15
+alter table table_name add unique index_name (column_list) ;
+
+\u6817\u5B50
+ALTER TABLE students ADD INDEX idx_code (code);
+-- \u591A\u5217\u7D22\u5F15  \u6CA1\u5FC5\u8981
+ALTER TABLE students ADD INDEX idx_name_code (name, code);
+-- \u552F\u4E00\u7D22\u5F15
+ALTER TABLE students ADD UNIQUE INDEX uni_code (code);
+
+------\u5220\u9664\u7D22\u5F15
+# \u5220\u9664\u666E\u901A\u7D22\u5F15 \u548C UNIQUE\u7D22\u5F15
+alter table table_name drop index index_name ;
+`,paraId:4,tocIndex:4},{value:"DQL\u5141\u8BB8\u7528\u6237\u67E5\u8BE2\u6570\u636E\uFF0C\u8FD9\u4E5F\u662F\u901A\u5E38\u6700\u9891\u7E41\u7684\u6570\u636E\u5E93\u65E5\u5E38\u64CD\u4F5C\u3002",paraId:5,tocIndex:5},{value:"SELECT \u5217\u540D FROM <\u8868\u540D>;\nSELECT * FROM students;\nSELECT `NAME`,`CODE` FROM students;\n",paraId:6,tocIndex:6},{value:"SELECT * FROM <\u8868\u540D> WHERE <\u6761\u4EF6\u8868\u8FBE\u5F0F>\nSELECT * FROM students WHERE `code` ='ldc';\nSELECT * FROM students WHERE `class_id` ='4';\n",paraId:7,tocIndex:7},{value:"\u53EF\u4EE5\u7ED9\u5217\u540D\u6620\u5C04\u4E3A\u53E6\u4E00\u4E2A\u540D\u5B57\u663E\u793A",paraId:8,tocIndex:8},{value:"SELECT `NAME` AS \u59D3\u540D,`CODE` AS \u4EE3\u7801 FROM students;\n",paraId:9,tocIndex:8},{value:"ORDER BY,\u53EF\u4EE5\u6307\u5B9A\u591A\u4E2A\uFF0C\u6309\u5148\u540E\u987A\u5E8F",paraId:10,tocIndex:9},{value:"ASC \u5347\u5E8F\uFF0C\u9ED8\u8BA4  \uFF1BDESC \u5012\u5E8F",paraId:10,tocIndex:9},{value:`SELECT * FROM students ORDER BY code ,class_id DESC;
+`,paraId:11,tocIndex:9},{value:"\u4F7F\u7528 LIMIT M OFFSET N \uFF0C\u5176\u5B9E\u5C31\u662F\u8DF3\u8FC7\u524DN\u6761\uFF0C\u7136\u540E\u53EA\u53D6\u51FAM\u6761,\u968F\u7740N\u7684\u589E\u52A0\uFF0C\u6548\u7387\u8D8A\u6765\u8D8A\u4F4E\u3002",paraId:12,tocIndex:10},{value:`SELECT * FROM students ORDER BY code DESC LIMIT 2 OFFSET 2;
+LIMIT 2 OFFSET 2; \u7B80\u5199\u4E3A LIMIT 2,2;
+`,paraId:13,tocIndex:10},{value:"\u51FD\u6570",paraId:14,tocIndex:11},{value:"\u8BF4\u660E",paraId:14,tocIndex:11},{value:"SUM",paraId:14,tocIndex:11},{value:"\u8BA1\u7B97\u67D0\u4E00\u5217\u7684\u5408\u8BA1\u503C\uFF0C\u8BE5\u5217\u5FC5\u987B\u4E3A\u6570\u503C\u7C7B\u578B",paraId:14,tocIndex:11},{value:"COUNT",paraId:14,tocIndex:11},{value:"\u8BA1\u7B97\u67E5\u8BE2\u7ED3\u679C\u4E00\u5171\u6709\u591A\u5C11\u6761",paraId:14,tocIndex:11},{value:"AVG",paraId:14,tocIndex:11},{value:"\u8BA1\u7B97\u67D0\u4E00\u5217\u7684\u5E73\u5747\u503C\uFF0C\u8BE5\u5217\u5FC5\u987B\u4E3A\u6570\u503C\u7C7B\u578B",paraId:14,tocIndex:11},{value:"MAX",paraId:14,tocIndex:11},{value:"\u8BA1\u7B97\u67D0\u4E00\u5217\u7684\u6700\u5927\u503C",paraId:14,tocIndex:11},{value:"MIN",paraId:14,tocIndex:11},{value:"\u8BA1\u7B97\u67D0\u4E00\u5217\u7684\u6700\u5C0F\u503C",paraId:14,tocIndex:11},{value:`SELECT COUNT(*) FROM students WHERE \`class_id\` ='4';
+--\u5206\u7EC4\u805A\u5408
+SELECT COUNT(*) name,code FROM students GROUP  BY code;
+`,paraId:15,tocIndex:11},{value:`SELECT s.id sid,
+s.name sname ,
+s.code scode,
+c.id cid, 
+c.name cname,
+c.code code 
+FROM students s, classes c
+WHERE s.class_id=c.id;
+`,paraId:16,tocIndex:12},{value:"\u5185\u8FDE\u63A5",paraId:17,tocIndex:13},{value:`SELECT s.id sid,
+s.name sname ,
+s.code scode,
+c.id cid, 
+c.name cname,
+c.code code 
+FROM students s INNER JOIN classes c
+ON s.class_id=c.id;
+`,paraId:18,tocIndex:13},{value:"\u5176\u4ED6",paraId:19,tocIndex:13},{value:"\u4E24\u6B21\u67E5\u8BE2\u7ED3\u679C\u7684\u5217\u5FC5\u987B\u4E00\u6837",paraId:20,tocIndex:14},{value:"UNION \u53BB\u91CD",paraId:20,tocIndex:14},{value:"UNION  ALL  \u62FC\u63A5\u6240\u6709",paraId:20,tocIndex:14},{value:`SELECT * FROM students WHERE class_id=3
+UNION ALL
+SELECT * FROM students WHERE class_id=4;
+`,paraId:21,tocIndex:14},{value:"DML\u4E3A\u7528\u6237\u63D0\u4F9B\u6DFB\u52A0\u3001\u5220\u9664\u3001\u66F4\u65B0\u6570\u636E\u7684\u80FD\u529B\uFF0C\u8FD9\u4E9B\u662F\u5E94\u7528\u7A0B\u5E8F\u5BF9\u6570\u636E\u5E93\u7684\u65E5\u5E38\u64CD\u4F5C",paraId:22,tocIndex:15},{value:`INSERT INTO <\u8868\u540D> (\u5B57\u6BB51, \u5B57\u6BB52, ...) VALUES (\u503C1, \u503C2, ...);
+
+INSERT INTO dept (id, name) VALUES (1, '\u7814\u53D1\u90E8'), (2, '\u5E02\u573A\u90E8'),(3, '\u8D22\u52A1\u90E8'), (4, '\u9500\u552E\u90E8');
+`,paraId:23,tocIndex:16},{value:`UPDATE \u8868\u540D SET \u5B57\u6BB5\u540D1 = \u503C1 , \u5B57\u6BB5\u540D2 = \u503C2 , .... [ WHERE \u6761\u4EF6 ] ;
+
+--\u4FEE\u6539id\u4E3A1\u7684\u6570\u636E, \u5C06name\u4FEE\u6539\u4E3A\u5C0F\u662D, gender\u4FEE\u6539\u4E3A \u5973
+update employee set name = '\u5C0F\u662D' , gender = '\u5973' where id = 1;
+`,paraId:24,tocIndex:17},{value:`DELETE FROM \u8868\u540D [ WHERE \u6761\u4EF6 ] ;
+
+-- \u5220\u9664gender\u4E3A\u5973\u7684\u5458\u5DE5
+delete from employee where gender = '\u5973';
+`,paraId:25,tocIndex:18},{value:`select * from mysql.user;
+`,paraId:26,tocIndex:20},{value:"\u7ED3\u679C\uFF1A",paraId:27,tocIndex:20},{value:"Host\u4EE3\u8868\u5F53\u524D\u7528\u6237\u8BBF\u95EE\u7684\u4E3B\u673A",paraId:28,tocIndex:20},{value:`CREATE USER '\u7528\u6237\u540D'@'\u4E3B\u673A\u540D' IDENTIFIED BY '\u5BC6\u7801';
+`,paraId:29,tocIndex:21},{value:`ALTER USER '\u7528\u6237\u540D'@'\u4E3B\u673A\u540D' IDENTIFIED WITH mysql_native_password BY '\u65B0\u5BC6\u7801' ;
+`,paraId:30,tocIndex:22},{value:`DROP USER '\u7528\u6237\u540D'@'\u4E3B\u673A\u540D' ;
+`,paraId:31,tocIndex:23},{value:"MySQL\u4E2D\u5B9A\u4E49\u4E86\u5F88\u591A\u79CD\u6743\u9650\uFF0C\u4F46\u662F\u5E38\u7528\u7684\u5C31\u4EE5\u4E0B\u51E0\u79CD\uFF1A",paraId:32,tocIndex:24},{value:"\u6743\u9650",paraId:33,tocIndex:24},{value:"\u8BF4\u660E",paraId:33,tocIndex:24},{value:"ALL, ALL PRIVILEGES",paraId:33,tocIndex:24},{value:"\u6240\u6709\u6743\u9650",paraId:33,tocIndex:24},{value:"SELECT",paraId:33,tocIndex:24},{value:"\u67E5\u8BE2\u6570\u636E",paraId:33,tocIndex:24},{value:"INSERT",paraId:33,tocIndex:24},{value:"\u63D2\u5165\u6570\u636E",paraId:33,tocIndex:24},{value:"UPDATE",paraId:33,tocIndex:24},{value:"\u4FEE\u6539\u6570\u636E",paraId:33,tocIndex:24},{value:"DELETE",paraId:33,tocIndex:24},{value:"\u5220\u9664\u6570\u636E",paraId:33,tocIndex:24},{value:"ALTER",paraId:33,tocIndex:24},{value:"\u4FEE\u6539\u8868",paraId:33,tocIndex:24},{value:"DROP",paraId:33,tocIndex:24},{value:"\u5220\u9664\u6570\u636E\u5E93/\u8868/\u89C6\u56FE",paraId:33,tocIndex:24},{value:"CREATE",paraId:33,tocIndex:24},{value:"\u521B\u5EFA\u6570\u636E\u5E93/\u8868",paraId:33,tocIndex:24},{value:` --\u67E5\u8BE2\u6743\u9650
+SHOW GRANTS FOR '\u7528\u6237\u540D'@'\u4E3B\u673A\u540D' ;
+
+-- \u6388\u4E88\u6743\u9650
+GRANT \u6743\u9650\u5217\u8868 ON \u6570\u636E\u5E93\u540D.\u8868\u540D TO '\u7528\u6237\u540D'@'\u4E3B\u673A\u540D';
+--\u6388\u4E88 'wl'@'127.0.0.1' \u7528\u6237test\u6570\u636E\u5E93\u6240\u6709\u8868\u7684\u6240\u6709\u64CD\u4F5C\u6743\u9650
+grant all on test.* to 'wl'@'127.0.0.1';
+
+-- \u64A4\u9500\u6743\u9650
+REVOKE \u6743\u9650\u5217\u8868 ON \u6570\u636E\u5E93\u540D.\u8868\u540D FROM '\u7528\u6237\u540D'@'\u4E3B\u673A\u540D';
+--\u64A4\u9500 'wl'@'127.0.0.1' \u7528\u6237\u7684test\u6570\u636E\u5E93\u7684\u6240\u6709\u6743\u9650
+revoke all on test.* from 'wl'@'127.0.0.1';
+`,paraId:34,tocIndex:24},{value:"\u5B50\u67E5\u8BE2\u8FD4\u56DE\u7684\u7ED3\u679C\u662F\u5355\u4E2A\u503C\uFF08\u6570\u5B57\u3001\u5B57\u7B26\u4E32\u3001\u65E5\u671F\u7B49\uFF09\uFF0C\u6700\u7B80\u5355\u7684\u5F62\u5F0F\uFF0C\u8FD9\u79CD\u5B50\u67E5\u8BE2\u6210\u4E3A\u6807\u91CF\u5B50\u67E5\u8BE2\u3002",paraId:35,tocIndex:26},{value:"\u5E38\u7528\u7684\u64CD\u4F5C\u7B26:= \u3001>\u3001>=\u3001<\u3001<=",paraId:35,tocIndex:26},{value:`-- \u6807\u91CF\u5B50\u67E5\u8BE2
+-- 1. \u67E5\u8BE2 "\u9500\u552E\u90E8" \u7684\u6240\u6709\u5458\u5DE5\u4FE1\u606F
+-- a. \u67E5\u8BE2 "\u9500\u552E\u90E8" \u90E8\u95E8ID
+select id from dept where name = '\u9500\u552E\u90E8';
+
+-- b. \u6839\u636E\u9500\u552E\u90E8\u90E8\u95E8ID, \u67E5\u8BE2\u5458\u5DE5\u4FE1\u606F
+select * from emp where dept_id = (select id from dept where name = '\u9500\u552E\u90E8');
+
+
+-- 2. \u67E5\u8BE2\u5728 "\u65B9\u4E1C\u767D" \u5165\u804C\u4E4B\u540E\u7684\u5458\u5DE5\u4FE1\u606F
+-- a. \u67E5\u8BE2 \u65B9\u4E1C\u767D \u7684\u5165\u804C\u65E5\u671F
+select entrydate from emp where name = '\u65B9\u4E1C\u767D';
+
+-- b. \u67E5\u8BE2\u6307\u5B9A\u5165\u804C\u65E5\u671F\u4E4B\u540E\u5165\u804C\u7684\u5458\u5DE5\u4FE1\u606F
+select * from emp where entrydate > (select entrydate from emp where name = '\u65B9\u4E1C\u767D');
+`,paraId:36,tocIndex:26},{value:"\u5B50\u67E5\u8BE2\u7684\u7ED3\u679C\u662F\u4E00\u5217\uFF0C\u8FD9\u79CD\u5B50\u67E5\u8BE2\u79F0\u4E3A\u5217\u5B50\u67E5\u8BE2",paraId:37,tocIndex:27},{value:"\u5E38\u7528\u64CD\u4F5C\u7B26\u6709 IN\u3001NOT IN,\u3001ANY\u3001SOME \u3001ALL",paraId:38,tocIndex:27},{value:`-- \u5217\u5B50\u67E5\u8BE2
+-- 1. \u67E5\u8BE2 "\u9500\u552E\u90E8" \u548C "\u5E02\u573A\u90E8" \u7684\u6240\u6709\u5458\u5DE5\u4FE1\u606F
+-- a. \u67E5\u8BE2 "\u9500\u552E\u90E8" \u548C "\u5E02\u573A\u90E8" \u7684\u90E8\u95E8ID
+select id from dept where name = '\u9500\u552E\u90E8' or name = '\u5E02\u573A\u90E8';
+
+-- b. \u6839\u636E\u90E8\u95E8ID, \u67E5\u8BE2\u5458\u5DE5\u4FE1\u606F
+select * from emp where dept_id in (select id from dept where name = '\u9500\u552E\u90E8' or name = '\u5E02\u573A\u90E8');
+
+
+-- 2. \u67E5\u8BE2\u6BD4 \u8D22\u52A1\u90E8 \u6240\u6709\u4EBA\u5DE5\u8D44\u90FD\u9AD8\u7684\u5458\u5DE5\u4FE1\u606F
+-- a. \u67E5\u8BE2\u6240\u6709 \u8D22\u52A1\u90E8 \u4EBA\u5458\u5DE5\u8D44
+select id from dept where name = '\u8D22\u52A1\u90E8';
+
+select salary from emp where dept_id = (select id from dept where name = '\u8D22\u52A1\u90E8');
+
+-- b. \u6BD4 \u8D22\u52A1\u90E8 \u6240\u6709\u4EBA\u5DE5\u8D44\u90FD\u9AD8\u7684\u5458\u5DE5\u4FE1\u606F
+select * from emp where salary > all ( select salary from emp where dept_id = (select id from dept where name = '\u8D22\u52A1\u90E8') );
+
+
+-- 3. \u67E5\u8BE2\u6BD4\u7814\u53D1\u90E8\u5176\u4E2D\u4EFB\u610F\u4E00\u4EBA\u5DE5\u8D44\u9AD8\u7684\u5458\u5DE5\u4FE1\u606F
+-- a. \u67E5\u8BE2\u7814\u53D1\u90E8\u6240\u6709\u4EBA\u5DE5\u8D44
+select salary from emp where dept_id = (select id from dept where name = '\u7814\u53D1\u90E8');
+
+-- b. \u6BD4\u7814\u53D1\u90E8\u5176\u4E2D\u4EFB\u610F\u4E00\u4EBA\u5DE5\u8D44\u9AD8\u7684\u5458\u5DE5\u4FE1\u606F
+select * from emp where salary > some ( select salary from emp where dept_id = (select id from dept where name = '\u7814\u53D1\u90E8') );
+`,paraId:39,tocIndex:27},{value:"\u5B50\u67E5\u8BE2\u8FD4\u56DE\u7684\u7ED3\u679C\u662F\u4E00\u884C\uFF08\u53EF\u4EE5\u662F\u591A\u5217)\uFF0C\u8FD9\u79CD\u5B50\u67E5\u8BE2\u79F0\u4E3A\u884C\u5B50\u67E5\u8BE2\u3002",paraId:40,tocIndex:28},{value:"\u5E38\u7528\u7684\u64CD\u4F5C\u7B26:= \u3001>\u3001IN \u3001NOT IN",paraId:40,tocIndex:28},{value:`-- \u884C\u5B50\u67E5\u8BE2
+-- 1. \u67E5\u8BE2\u4E0E "\u5F20\u65E0\u5FCC" \u7684\u85AA\u8D44\u53CA\u76F4\u5C5E\u9886\u5BFC\u76F8\u540C\u7684\u5458\u5DE5\u4FE1\u606F ;
+-- a. \u67E5\u8BE2 "\u5F20\u65E0\u5FCC" \u7684\u85AA\u8D44\u53CA\u76F4\u5C5E\u9886\u5BFC
+select salary, managerid from emp where name = '\u5F20\u65E0\u5FCC';
+
+-- b. \u67E5\u8BE2\u4E0E "\u5F20\u65E0\u5FCC" \u7684\u85AA\u8D44\u53CA\u76F4\u5C5E\u9886\u5BFC\u76F8\u540C\u7684\u5458\u5DE5\u4FE1\u606F ;
+select * from emp where (salary,managerid) = (select salary, managerid from emp where name = '\u5F20\u65E0\u5FCC');
+`,paraId:41,tocIndex:28},{value:"\u5B50\u67E5\u8BE2\u8FD4\u56DE\u7684\u7ED3\u679C\u662F\u591A\u884C\u591A\u5217\uFF0C\u8FD9\u79CD\u5B50\u67E5\u8BE2\u79F0\u4E3A\u8868\u5B50\u67E5\u8BE2\u3002",paraId:42,tocIndex:29},{value:"\u5E38\u7528\u7684\u64CD\u4F5C\u7B26:IN",paraId:42,tocIndex:29},{value:`-- \u8868\u5B50\u67E5\u8BE2
+-- 1. \u67E5\u8BE2\u4E0E "\u9E7F\u6756\u5BA2" , "\u5B8B\u8FDC\u6865" \u7684\u804C\u4F4D\u548C\u85AA\u8D44\u76F8\u540C\u7684\u5458\u5DE5\u4FE1\u606F
+-- a. \u67E5\u8BE2 "\u9E7F\u6756\u5BA2" , "\u5B8B\u8FDC\u6865" \u7684\u804C\u4F4D\u548C\u85AA\u8D44
+select job, salary from emp where name = '\u9E7F\u6756\u5BA2' or name = '\u5B8B\u8FDC\u6865';
+
+-- b. \u67E5\u8BE2\u4E0E "\u9E7F\u6756\u5BA2" , "\u5B8B\u8FDC\u6865" \u7684\u804C\u4F4D\u548C\u85AA\u8D44\u76F8\u540C\u7684\u5458\u5DE5\u4FE1\u606F
+select * from emp where (job,salary) in ( select job, salary from emp where name = '\u9E7F\u6756\u5BA2' or name = '\u5B8B\u8FDC\u6865' );
+`,paraId:43,tocIndex:29},{value:"\u8FD8\u53EF\u4EE5\u628A\u4E00\u6B21\u67E5\u8BE2\u7ED3\u679C\u5F53\u6210\u4E00\u4E2A\u865A\u62DF\u8868\u6765\u4F7F\u7528",paraId:44,tocIndex:29},{value:`-- 2. \u67E5\u8BE2\u5165\u804C\u65E5\u671F\u662F "2006-01-01" \u4E4B\u540E\u7684\u5458\u5DE5\u4FE1\u606F , \u53CA\u5176\u90E8\u95E8\u4FE1\u606F
+-- a. \u5165\u804C\u65E5\u671F\u662F "2006-01-01" \u4E4B\u540E\u7684\u5458\u5DE5\u4FE1\u606F
+select * from emp where entrydate > '2006-01-01';
+
+-- b. \u67E5\u8BE2\u8FD9\u90E8\u5206\u5458\u5DE5, \u5BF9\u5E94\u7684\u90E8\u95E8\u4FE1\u606F;
+select e.*, d.* from (select * from emp where entrydate > '2006-01-01') e left join dept d on e.dept_id = d.id ;
+`,paraId:45,tocIndex:29},{value:"\u5E38\u7528\u51FD\u6570",paraId:46,tocIndex:31},{value:"\u51FD\u6570",paraId:47,tocIndex:31},{value:"\u529F\u80FD",paraId:47,tocIndex:31},{value:"CONCAT(S1,S2,...Sn)",paraId:47,tocIndex:31},{value:"\u5B57\u7B26\u4E32\u62FC\u63A5\uFF0C\u5C06S1\uFF0CS2\uFF0C... Sn\u62FC\u63A5\u6210\u4E00\u4E2A\u5B57\u7B26\u4E32",paraId:47,tocIndex:31},{value:"LOWER(str)",paraId:47,tocIndex:31},{value:"\u5C06\u5B57\u7B26\u4E32str\u5168\u90E8\u8F6C\u4E3A\u5C0F\u5199",paraId:47,tocIndex:31},{value:"UPPER(str)",paraId:47,tocIndex:31},{value:"\u5C06\u5B57\u7B26\u4E32str\u5168\u90E8\u8F6C\u4E3A\u5927\u5199",paraId:47,tocIndex:31},{value:"LPAD(str,n,pad)",paraId:47,tocIndex:31},{value:"\u5DE6\u586B\u5145\uFF0C\u7528\u5B57\u7B26\u4E32pad\u5BF9str\u7684\u5DE6\u8FB9\u8FDB\u884C\u586B\u5145\uFF0C\u8FBE\u5230n\u4E2A\u5B57\u7B26 \u4E32\u957F\u5EA6",paraId:47,tocIndex:31},{value:"RPAD(str,n,pad)",paraId:47,tocIndex:31},{value:"\u53F3\u586B\u5145\uFF0C\u7528\u5B57\u7B26\u4E32pad\u5BF9str\u7684\u53F3\u8FB9\u8FDB\u884C\u586B\u5145\uFF0C\u8FBE\u5230n\u4E2A\u5B57\u7B26 \u4E32\u957F\u5EA6",paraId:47,tocIndex:31},{value:"TRIM(str)",paraId:47,tocIndex:31},{value:"\u53BB\u6389\u5B57\u7B26\u4E32\u5934\u90E8\u548C\u5C3E\u90E8\u7684\u7A7A\u683C",paraId:47,tocIndex:31},{value:"SUBSTRING(str,start,len)",paraId:47,tocIndex:31},{value:"\u8FD4\u56DE\u4ECE\u5B57\u7B26\u4E32str\u4ECEstart\u4F4D\u7F6E\u8D77\u7684len\u4E2A\u957F\u5EA6\u7684\u5B57\u7B26\u4E32",paraId:47,tocIndex:31},{value:`A. concat : \u5B57\u7B26\u4E32\u62FC\u63A5
+select concat('Hello' , ' MySQL');
+
+B. lower : \u5168\u90E8\u8F6C\u5C0F\u5199
+select lower('Hello');
+
+C. upper : \u5168\u90E8\u8F6C\u5927\u5199
+select upper('Hello');
+
+D. lpad : \u5DE6\u586B\u5145
+select lpad('01', 5, '-');
+
+E. rpad : \u53F3\u586B\u5145
+select rpad('01', 5, '-');
+
+F. trim : \u53BB\u9664\u7A7A\u683C
+select trim(' Hello MySQL ');
+
+G. substring : \u622A\u53D6\u5B50\u5B57\u7B26\u4E32
+select substring('Hello MySQL',1,5);
+
+`,paraId:48,tocIndex:31},{value:"\u51FD\u6570",paraId:49,tocIndex:32},{value:"\u529F\u80FD",paraId:49,tocIndex:32},{value:"CEIL(x)",paraId:49,tocIndex:32},{value:"\u5411\u4E0A\u53D6\u6574",paraId:49,tocIndex:32},{value:"FLOOR(x)",paraId:49,tocIndex:32},{value:"\u5411\u4E0B\u53D6\u6574",paraId:49,tocIndex:32},{value:"MOD(x,y)",paraId:49,tocIndex:32},{value:"\u8FD4\u56DEx/y\u7684\u6A21",paraId:49,tocIndex:32},{value:"RAND()",paraId:49,tocIndex:32},{value:"\u8FD4\u56DE0~1\u5185\u7684\u968F\u673A\u6570",paraId:49,tocIndex:32},{value:"ROUND(x,y)",paraId:49,tocIndex:32},{value:"\u6C42\u53C2\u6570x\u7684\u56DB\u820D\u4E94\u5165\u7684\u503C\uFF0C\u4FDD\u7559y\u4F4D\u5C0F\u6570",paraId:49,tocIndex:32},{value:"\u51FD\u6570",paraId:50,tocIndex:33},{value:"\u529F\u80FD",paraId:50,tocIndex:33},{value:"CURDATE()",paraId:50,tocIndex:33},{value:"\u8FD4\u56DE\u5F53\u524D\u65E5\u671F",paraId:50,tocIndex:33},{value:"CURTIME()",paraId:50,tocIndex:33},{value:"\u8FD4\u56DE\u5F53\u524D\u65F6\u95F4",paraId:50,tocIndex:33},{value:"NOW()",paraId:50,tocIndex:33},{value:"\u8FD4\u56DE\u5F53\u524D\u65E5\u671F\u548C\u65F6\u95F4",paraId:50,tocIndex:33},{value:"YEAR(date)",paraId:50,tocIndex:33},{value:"\u83B7\u53D6\u6307\u5B9Adate\u7684\u5E74\u4EFD",paraId:50,tocIndex:33},{value:"MONTH(date)",paraId:50,tocIndex:33},{value:"\u83B7\u53D6\u6307\u5B9Adate\u7684\u6708\u4EFD",paraId:50,tocIndex:33},{value:"DAY(date)",paraId:50,tocIndex:33},{value:"\u83B7\u53D6\u6307\u5B9Adate\u7684\u65E5\u671F",paraId:50,tocIndex:33},{value:"DATE_ADD(date, INTERVAL expr type)",paraId:50,tocIndex:33},{value:"\u8FD4\u56DE\u4E00\u4E2A\u65E5\u671F/\u65F6\u95F4\u503C\u52A0\u4E0A\u4E00\u4E2A\u65F6\u95F4\u95F4\u9694expr\u540E\u7684 \u65F6\u95F4\u503C",paraId:50,tocIndex:33},{value:"DATEDIFF(date1,date2)",paraId:50,tocIndex:33},{value:"\u8FD4\u56DE\u8D77\u59CB\u65F6\u95F4date1 \u548C \u7ED3\u675F\u65F6\u95F4date2\u4E4B\u95F4\u7684\u5929 \u6570",paraId:50,tocIndex:33},{value:`A. curdate\uFF1A\u5F53\u524D\u65E5\u671F
+select curdate();
+
+B. curtime\uFF1A\u5F53\u524D\u65F6\u95F4
+select curtime();
+
+C. now\uFF1A\u5F53\u524D\u65E5\u671F\u548C\u65F6\u95F4
+select now();
+D. YEAR , MONTH , DAY\uFF1A\u5F53\u524D\u5E74\u3001\u6708\u3001\u65E5
+select YEAR(now());
+select MONTH(now());
+select DAY(now());
+
+E. date_add\uFF1A\u589E\u52A0\u6307\u5B9A\u7684\u65F6\u95F4\u95F4\u9694
+select date_add(now(), INTERVAL 70 YEAR );
+
+F. datediff\uFF1A\u83B7\u53D6\u4E24\u4E2A\u65E5\u671F\u76F8\u5DEE\u7684\u5929\u6570
+select datediff('2021-10-01', '2021-12-01');
+`,paraId:51,tocIndex:33},{value:"\u51FD\u6570",paraId:52,tocIndex:34},{value:"\u529F\u80FD",paraId:52,tocIndex:34},{value:"IF(value , t , f)",paraId:52,tocIndex:34},{value:"\u5982\u679Cvalue\u4E3Atrue\uFF0C\u5219\u8FD4\u56DEt\uFF0C\u5426\u5219\u8FD4\u56DE f",paraId:52,tocIndex:34},{value:"IFNULL(value1 , value2)",paraId:52,tocIndex:34},{value:"\u5982\u679Cvalue1\u4E0D\u4E3A\u7A7A\uFF0C\u8FD4\u56DEvalue1\uFF0C\u5426\u5219 \u8FD4\u56DEvalue2",paraId:52,tocIndex:34},{value:"CASE WHEN [ val1 ] THEN [res1] ... ELSE [ default ] END",paraId:52,tocIndex:34},{value:"\u5982\u679Cval1\u4E3Atrue\uFF0C\u8FD4\u56DEres1\uFF0C... \u5426 \u5219\u8FD4\u56DEdefault\u9ED8\u8BA4\u503C",paraId:52,tocIndex:34},{value:"CASE [ expr ] WHEN [ val1 ] THEN [res1] ... ELSE [ default ] END",paraId:52,tocIndex:34},{value:"\u5982\u679Cexpr\u7684\u503C\u7B49\u4E8Eval1\uFF0C\u8FD4\u56DE res1\uFF0C... \u5426\u5219\u8FD4\u56DEdefault\u9ED8\u8BA4\u503C",paraId:52,tocIndex:34},{value:`--A.if
+select if(false, 'Ok', 'Error');
+
+--B. ifnull
+select ifnull('Ok','Default'); -- ok
+select ifnull('','Default'); -- ""
+select ifnull(null,'Default'); -- Default
+
+--C. case when then else end
+\u9700\u6C42: \u67E5\u8BE2emp\u8868\u7684\u5458\u5DE5\u59D3\u540D\u548C\u5DE5\u4F5C\u5730\u5740 (\u5317\u4EAC/\u4E0A\u6D77 ----> \u4E00\u7EBF\u57CE\u5E02 , \u5176\u4ED6 ----> \u4E8C\u7EBF\u57CE\u5E02)
+                      select
+name,
+( case workaddress when '\u5317\u4EAC' then '\u4E00\u7EBF\u57CE\u5E02' when '\u4E0A\u6D77' then '\u4E00\u7EBF\u57CE\u5E02' else
+'\u4E8C\u7EBF\u57CE\u5E02' end ) as '\u5DE5\u4F5C\u5730\u5740'
+from emp;
+
+--D. CASE [ expr ] WHEN [ val1 ] THEN [res1] ... ELSE [ default ] END
+select
+id,
+name,
+(case when math >= 85 then '\u4F18\u79C0' when math >=60 then '\u53CA\u683C' else '\u4E0D\u53CA\u683C' end )
+'\u6570\u5B66',
+(case when english >= 85 then '\u4F18\u79C0' when english >=60 then '\u53CA\u683C' else '\u4E0D\u53CA\u683C'
+end ) '\u82F1\u8BED',
+(case when chinese >= 85 then '\u4F18\u79C0' when chinese >=60 then '\u53CA\u683C' else '\u4E0D\u53CA\u683C'
+end ) '\u8BED\u6587'
+from score;
+
+`,paraId:53,tocIndex:34},{value:"\u4E8B\u52A1 \u662F\u4E00\u7EC4\u64CD\u4F5C\u7684\u96C6\u5408\uFF0C\u5B83\u662F\u4E00\u4E2A\u4E0D\u53EF\u5206\u5272\u7684\u5DE5\u4F5C\u5355\u4F4D\uFF0C\u4E8B\u52A1\u4F1A\u628A\u6240\u6709\u7684\u64CD\u4F5C\u4F5C\u4E3A\u4E00\u4E2A\u6574\u4F53\u4E00\u8D77\u5411\u7CFB \u7EDF\u63D0\u4EA4\u6216\u64A4\u9500\u64CD\u4F5C\u8BF7\u6C42\uFF0C\u5373\u8FD9\u4E9B\u64CD\u4F5C\u8981\u4E48\u540C\u65F6\u6210\u529F\uFF0C\u8981\u4E48\u540C\u65F6\u5931\u8D25\u3002",paraId:54,tocIndex:36},{value:"\u539F\u5B50\u6027\uFF08Atomicity\uFF09\uFF1A\u4E8B\u52A1\u662F\u4E0D\u53EF\u5206\u5272\u7684\u6700\u5C0F\u64CD\u4F5C\u5355\u5143\uFF0C\u8981\u4E48\u5168\u90E8\u6210\u529F\uFF0C\u8981\u4E48\u5168\u90E8\u5931\u8D25\u3002",paraId:55,tocIndex:37},{value:"\u4E00\u81F4\u6027\uFF08Consistency\uFF09\uFF1A\u4E8B\u52A1\u5B8C\u6210\u65F6\uFF0C\u5FC5\u987B\u4F7F\u6240\u6709\u7684\u6570\u636E\u90FD\u4FDD\u6301\u4E00\u81F4\u72B6\u6001\u3002",paraId:55,tocIndex:37},{value:"\u9694\u79BB\u6027\uFF08Isolation\uFF09\uFF1A\u6570\u636E\u5E93\u7CFB\u7EDF\u63D0\u4F9B\u7684\u9694\u79BB\u673A\u5236\uFF0C\u4FDD\u8BC1\u4E8B\u52A1\u5728\u4E0D\u53D7\u5916\u90E8\u5E76\u53D1\u64CD\u4F5C\u5F71\u54CD\u7684\u72EC\u7ACB \u73AF\u5883\u4E0B\u8FD0\u884C\u3002",paraId:55,tocIndex:37},{value:"\u6301\u4E45\u6027\uFF08Durability\uFF09\uFF1A\u4E8B\u52A1\u4E00\u65E6\u63D0\u4EA4\u6216\u56DE\u6EDA\uFF0C\u5B83\u5BF9\u6570\u636E\u5E93\u4E2D\u7684\u6570\u636E\u7684\u6539\u53D8\u5C31\u662F\u6C38\u4E45\u7684\u3002 \u4E0A\u8FF0\u5C31\u662F\u4E8B\u52A1\u7684\u56DB\u5927\u7279\u6027\uFF0C\u7B80\u79F0ACID\u3002",paraId:55,tocIndex:37},{value:"\u8FD9\u79CD\u65B9\u5F0F\uFF0C\u6211\u4EEC\u662F\u4FEE\u6539\u4E86\u4E8B\u52A1\u7684\u81EA\u52A8\u63D0\u4EA4\u884C\u4E3A, \u628A\u9ED8\u8BA4\u7684\u81EA\u52A8\u63D0\u4EA4\u4FEE\u6539\u4E3A\u4E86\u624B\u52A8\u63D0 \u4EA4, \u6B64\u65F6\u6211\u4EEC\u6267\u884C\u7684DML\u8BED\u53E5\u90FD\u4E0D\u4F1A\u63D0\u4EA4, \u9700\u8981\u624B\u52A8\u7684\u6267\u884Ccommit\u8FDB\u884C\u63D0\u4EA4\u3002",paraId:56,tocIndex:39},{value:`1). \u67E5\u770B/\u8BBE\u7F6E\u4E8B\u52A1\u63D0\u4EA4\u65B9\u5F0F
+SELECT @@autocommit ;
+SET @@autocommit = 0 ;
+
+2). \u63D0\u4EA4\u4E8B\u52A1
+COMMIT;
+
+3). \u56DE\u6EDA\u4E8B\u52A1
+ROLLBACK;
+
+`,paraId:57,tocIndex:39},{value:`1). \u5F00\u542F\u4E8B\u52A1
+START TRANSACTION \u6216 BEGIN ;
+
+2). \u63D0\u4EA4\u4E8B\u52A1
+COMMIT;
+
+3). \u56DE\u6EDA\u4E8B\u52A1
+ROLLBACK;
+
+`,paraId:58,tocIndex:40},{value:`-- \u5F00\u542F\u4E8B\u52A1
+start transaction
+-- 1. \u67E5\u8BE2\u5F20\u4E09\u4F59\u989D
+select * from account where name = '\u5F20\u4E09';
+-- 2. \u5F20\u4E09\u7684\u4F59\u989D\u51CF\u5C111000
+update account set money = money - 1000 where name = '\u5F20\u4E09';
+-- 3. \u674E\u56DB\u7684\u4F59\u989D\u589E\u52A01000
+update account set money = money + 1000 where name = '\u674E\u56DB';
+-- \u5982\u679C\u6B63\u5E38\u6267\u884C\u5B8C\u6BD5, \u5219\u63D0\u4EA4\u4E8B\u52A1
+commit;
+-- \u5982\u679C\u6267\u884C\u8FC7\u7A0B\u4E2D\u62A5\u9519, \u5219\u56DE\u6EDA\u4E8B\u52A1
+-- rollback;
+
+`,paraId:59,tocIndex:41},{value:"\u8D43\u8BFB\uFF1A\u4E00\u4E2A\u4E8B\u52A1\u8BFB\u5230\u53E6\u5916\u4E00\u4E2A\u4E8B\u52A1\u8FD8\u6CA1\u6709\u63D0\u4EA4\u7684\u6570\u636E\u3002",paraId:60,tocIndex:42},{value:"\u4E0D\u53EF\u91CD\u590D\u8BFB\uFF1A\u4E00\u4E2A\u4E8B\u52A1\u5148\u540E\u8BFB\u53D6\u540C\u4E00\u6761\u8BB0\u5F55\uFF0C\u4F46\u4E24\u6B21\u8BFB\u53D6\u7684\u6570\u636E\u4E0D\u540C\uFF0C\u79F0\u4E4B\u4E3A\u4E0D\u53EF\u91CD\u590D\u8BFB\u3002",paraId:60,tocIndex:42},{value:'\u5E7B\u8BFB\uFF1A\u4E00\u4E2A\u4E8B\u52A1\u6309\u7167\u6761\u4EF6\u67E5\u8BE2\u6570\u636E\u65F6\uFF0C\u6CA1\u6709\u5BF9\u5E94\u7684\u6570\u636E\u884C\uFF0C\u4F46\u662F\u5728\u63D2\u5165\u6570\u636E\u65F6\uFF0C\u53C8\u53D1\u73B0\u8FD9\u884C\u6570\u636E \u5DF2\u7ECF\u5B58\u5728\uFF0C\u597D\u50CF\u51FA\u73B0\u4E86 "\u5E7B\u5F71"\u3002',paraId:60,tocIndex:42},{value:"\u4E3A\u4E86\u89E3\u51B3\u5E76\u53D1\u4E8B\u52A1\u6240\u5F15\u53D1\u7684\u95EE\u9898\uFF0C\u5728\u6570\u636E\u5E93\u4E2D\u5F15\u5165\u4E86\u4E8B\u52A1\u9694\u79BB\u7EA7\u522B\u3002\u4E3B\u8981\u6709\u4EE5\u4E0B\u51E0\u79CD\uFF1A",paraId:61,tocIndex:43},{value:"\u9694\u79BB\u7EA7\u522B",paraId:62,tocIndex:43},{value:"\u810F\u8BFB",paraId:62,tocIndex:43},{value:"\u4E0D\u53EF\u91CD\u590D\u8BFB",paraId:62,tocIndex:43},{value:"\u5E7B\u8BFB",paraId:62,tocIndex:43},{value:"Read uncommitted",paraId:62,tocIndex:43},{value:"\u221A",paraId:62,tocIndex:43},{value:"\u221A",paraId:62,tocIndex:43},{value:"\u221A",paraId:62,tocIndex:43},{value:"Read committed",paraId:62,tocIndex:43},{value:"\xD7",paraId:62,tocIndex:43},{value:"\u221A",paraId:62,tocIndex:43},{value:"\u221A",paraId:62,tocIndex:43},{value:"Repeatable Read(\u9ED8\u8BA4)",paraId:62,tocIndex:43},{value:"\xD7",paraId:62,tocIndex:43},{value:"\xD7",paraId:62,tocIndex:43},{value:"\u221A",paraId:62,tocIndex:43},{value:"Serializable",paraId:62,tocIndex:43},{value:"\xD7",paraId:62,tocIndex:43},{value:"\xD7",paraId:62,tocIndex:43},{value:"\xD7",paraId:62,tocIndex:43},{value:`1). \u67E5\u770B\u4E8B\u52A1\u9694\u79BB\u7EA7\u522B
+SELECT @@TRANSACTION_ISOLATION;
+
+2). \u8BBE\u7F6E\u4E8B\u52A1\u9694\u79BB\u7EA7\u522B
+SET [ SESSION | GLOBAL ] TRANSACTION ISOLATION LEVEL { READ UNCOMMITTED |
+READ COMMITTED | REPEATABLE READ | SERIALIZABLE }
+
+`,paraId:63,tocIndex:43},{value:"\u6CE8\u610F\uFF1A\u4E8B\u52A1\u9694\u79BB\u7EA7\u522B\u8D8A\u9AD8\uFF0C\u6570\u636E\u8D8A\u5B89\u5168\uFF0C\u4F46\u662F\u6027\u80FD\u8D8A\u4F4E\u3002",paraId:64,tocIndex:43},{value:`<dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <!-- mysql\u9A71\u52A8\u5305\u4F9D\u8D56 -->
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
+        <!-- spring\u5355\u5143\u6D4B\u8BD5 (\u96C6\u6210\u4E86junit) -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <dependency>
+            <!-- Druid\u8FDE\u63A5\u6C60\u4F9D\u8D56 -->
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid-spring-boot-starter</artifactId>
+            <version>1.2.8</version>
+        </dependency>
+`,paraId:65,tocIndex:45},{value:"\u8FDE\u63A5\u6C60\u8FDE\u63A5\u914D\u7F6E",paraId:66,tocIndex:45},{value:`spring.datasource.druid.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.druid.url=jdbc:mysql://hodoop102:3306/mybatis
+spring.datasource.druid.username=root
+spring.datasource.druid.password=root123
+#\u6307\u5B9Amybatis\u8F93\u51FA\u65E5\u5FD7\u7684\u4F4D\u7F6E, \u8F93\u51FA\u63A7\u5236\u53F0
+mybatis.configuration.log-impl=org.apache.ibatis.logging.stdout.StdOutImpl
+`,paraId:67,tocIndex:45},{value:"\u5728Mybatis\u4E2D\u63D0\u4F9B\u7684\u53C2\u6570\u5360\u4F4D\u7B26\u6709\u4E24\u79CD\uFF1A${...} \u3001#{...}",paraId:68,tocIndex:46},{value:"${...}",paraId:69,tocIndex:46},{value:"\u62FC\u63A5SQL\u3002\u76F4\u63A5\u5C06\u53C2\u6570\u62FC\u63A5\u5728SQL\u8BED\u53E5\u4E2D\uFF0C\u5B58\u5728SQL\u6CE8\u5165\u95EE\u9898",paraId:70,tocIndex:46},{value:"\u4F7F\u7528\u65F6\u673A\uFF1A\u5982\u679C\u5BF9\u8868\u540D\u3001\u5217\u8868\u8FDB\u884C\u52A8\u6001\u8BBE\u7F6E\u65F6\u4F7F\u7528",paraId:70,tocIndex:46},{value:"# {\u2026}",paraId:71,tocIndex:46},{value:"\u6267\u884CSQL\u65F6\uFF0C\u4F1A\u5C06#{\u2026}\u66FF\u6362\u4E3A?\uFF0C\u751F\u6210\u9884\u7F16\u8BD1SQL\uFF0C\u4F1A\u81EA\u52A8\u8BBE\u7F6E\u53C2\u6570\u503C",paraId:72,tocIndex:46},{value:"\u4F7F\u7528\u65F6\u673A\uFF1A\u53C2\u6570\u4F20\u9012\uFF0C\u90FD\u4F7F\u7528#{\u2026}",paraId:72,tocIndex:46},{value:`/*
+    2 \u53C2\u6570\u95EE\u9898
+       1) \u53C2\u6570\u7684\u4F20\u9012  #{\u5FC5\u987B\u5199\u4E1C\u897F}
+       2) \u5F53\u524D\u53C2\u6570\u53EA\u6709\u4E00\u4E2A\u65F6 #{\u4EFB\u610F}
+       3) \u5F53\u53C2\u6570\u6709\u591A\u4E2A\u65F6, #{} \u4E2D\u7684\u540D\u79F0\u8981\u548C \u5F62\u53C2\u540D\u79F0\u4E00\u81F4 (mybatis3.4.0 \u4E4B\u524D\u7684\u7248\u672C\u9700\u8981\u52A0 @Param("id"))
+       4) \u5F53\u53C2\u6570\u662F\u4E00\u4E2A\u5BF9\u8C61\u65F6,#{}\u8981\u6C42\u53C2\u6570\u5FC5\u987B\u548C \u5BF9\u8C61\u7684\u5C5E\u6027\u4FDD\u6301\u4E00\u81F4
+       5) \u5982\u679C\u662F\u4E00\u4E2Amap\u53C2\u6570, #{} \u5FC5\u987B\u548Cmap \u7684key \u4FDD\u6301\u4E00\u81F4
+    */
+    @Delete("delete  from emp where id=#{id}")
+    public void  deleteById4(Integer id);
+
+    @Delete("delete  from emp where id=#{id} and username=#{username}")
+    public void  deleteByIdAndName( Integer id, String username);
+
+    @Delete("delete  from emp where id=#{id} and username=#{username}")
+    public void  deleteByIdAndName2(Emp emp);
+    @Delete("delete  from emp where id=#{id} and username=#{username}")
+    public void  deleteByIdAndName3(Map map);
+
+
+ @Insert("insert into emp(username, name, gender, image, job, entrydate, dept_id, create_time, update_time) values (#{username}, #{name}, #{gender}, #{image}, #{job}, #{entrydate}, #{deptId}, #{createTime}, #{updateTime})")
+    public void insert(Emp emp);
+
+/**
+     * \u6839\u636Eid\u4FEE\u6539\u5458\u5DE5\u4FE1\u606F
+     * @param emp
+     */
+    @Update("update emp set username=#{username}, name=#{name}, gender=#{gender}, image=#{image}, job=#{job}, entrydate=#{entrydate}, dept_id=#{deptId}, update_time=#{updateTime} where id=#{id}")
+    public void update(Emp emp);
+
+@Select("select id, username, password, name, gender, image, job, entrydate, dept_id, create_time, update_time from emp where id=#{id}")
+    public Emp getById(Integer id);
+`,paraId:73,tocIndex:47},{value:"\u6982\u5FF5\uFF1A\u5728\u6570\u636E\u6DFB\u52A0\u6210\u529F\u540E\uFF0C\u9700\u8981\u83B7\u53D6\u63D2\u5165\u6570\u636E\u5E93\u6570\u636E\u7684\u4E3B\u952E\u3002",paraId:74,tocIndex:48},{value:` //\u4F1A\u81EA\u52A8\u5C06\u751F\u6210\u7684\u4E3B\u952E\u503C\uFF0C\u8D4B\u503C\u7ED9emp\u5BF9\u8C61\u7684id\u5C5E\u6027
+    @Options(useGeneratedKeys = true,keyProperty = "id")
+    @Insert("insert into emp(username, name, gender, image, job, entrydate, dept_id, create_time, update_time) values (#{username}, #{name}, #{gender}, #{image}, #{job}, #{entrydate}, #{deptId}, #{createTime}, #{updateTime})")
+    public void insert(Emp emp);
+`,paraId:75,tocIndex:48},{value:"\u6D4B\u8BD5",paraId:76,tocIndex:48},{value:`@Test
+    public void testInsert() {
+        //\u521B\u5EFA\u5458\u5DE5\u5BF9\u8C61
+        Emp emp = new Emp();
+        emp.setUsername("tom");
+        emp.setName("\u6C64\u59C6");
+        emp.setImage("1.jpg");
+        emp.setGender((short) 1);
+        emp.setJob((short) 1);
+        emp.setEntrydate(LocalDate.of(2000, 1, 1));
+        emp.setCreateTime(LocalDateTime.now());
+        emp.setUpdateTime(LocalDateTime.now());
+        emp.setDeptId(1);
+        //\u8C03\u7528\u6DFB\u52A0\u65B9\u6CD5
+        empMapper.insert(emp);
+        System.out.println(emp.getId());
+    }
+`,paraId:77,tocIndex:48},{value:"\u5F00\u542F\u9A7C\u5CF0\u547D\u540D(\u63A8\u8350)",paraId:78,tocIndex:49},{value:"\uFF1A\u5982\u679C\u5B57\u6BB5\u540D\u4E0E\u5C5E\u6027\u540D\u7B26\u5408\u9A7C\u5CF0\u547D\u540D\u89C4\u5219\uFF0Cmybatis\u4F1A\u81EA\u52A8\u901A\u8FC7\u9A7C\u5CF0\u547D\u540D\u89C4\u5219\u6620\u5C04",paraId:78,tocIndex:49},{value:`# \u5728application.properties\u4E2D\u6DFB\u52A0\uFF1A
+mybatis.configuration.map-underscore-to-camel-case=true
+`,paraId:79,tocIndex:49},{value:"\u8981\u4F7F\u7528\u9A7C\u5CF0\u547D\u540D\u524D\u63D0\u662F \u5B9E\u4F53\u7C7B\u7684\u5C5E\u6027 \u4E0E \u6570\u636E\u5E93\u8868\u4E2D\u7684\u5B57\u6BB5\u540D\u4E25\u683C\u9075\u5B88\u9A7C\u5CF0\u547D\u540D\u3002",paraId:80,tocIndex:49},{value:"SQL\u8BED\u53E5\uFF1A",paraId:81,tocIndex:50},{value:`select id, username, password, name, gender, image, job, entrydate, dept_id, create_time, update_time 
+from emp 
+where name like '%\u5F20%' 
+      and gender = 1 
+      and entrydate between '2010-01-01' and '2020-01-01 ' 
+order by update_time desc;
+`,paraId:82,tocIndex:50},{value:"\u63A5\u53E3\u65B9\u6CD5\uFF1A",paraId:83,tocIndex:50},{value:"\u65B9\u5F0F\u4E00",paraId:84,tocIndex:50},{value:`@Mapper
+public interface EmpMapper {
+    @Select("select * from emp " +
+            "where name like '%\${name}%' " +
+            "and gender = #{gender} " +
+            "and entrydate between #{begin} and #{end} " +
+            "order by update_time desc")
+    public List<Emp> list(String name, Short gender, LocalDate begin, LocalDate end);
+}
+`,paraId:85,tocIndex:50},{value:`\u65B9\u5F0F\u4E8C\uFF08\u89E3\u51B3SQL\u6CE8\u5165\u98CE\u9669\uFF09
+`,paraId:86,tocIndex:50},{value:"\u4F7F\u7528MySQL\u63D0\u4F9B\u7684\u5B57\u7B26\u4E32\u62FC\u63A5\u51FD\u6570\uFF1Aconcat('%' , '\u5173\u952E\u5B57' , '%')",paraId:87,tocIndex:50},{value:`@Mapper
+public interface EmpMapper {
+
+    @Select("select * from emp " +
+            "where name like concat('%',#{name},'%') " +
+            "and gender = #{gender} " +
+            "and entrydate between #{begin} and #{end} " +
+            "order by update_time desc")
+    public List<Emp> list(String name, Short gender, LocalDate begin, LocalDate end);
+}
+`,paraId:88,tocIndex:50},{value:"\u53C2\u6570\u540D\u5728\u4E0D\u540C\u7684mybatis \u7248\u672C\u4E2D\uFF0C\u5904\u7406\u65B9\u6848\u8FD8\u4E0D\u540C\uFF1A",paraId:89,tocIndex:50},{value:"mybatis 3.4.1\u4E4B\u540E,\u5141\u8BB8\u4E0D\u52A0@Param\uFF08\u4FDD\u8BC1\u53C2\u6570\u540D\u4E00\u81F4\uFF09",paraId:90,tocIndex:50},{value:"springBoot\u7684\u7236\u5DE5\u7A0B\u5BF9compiler\u7F16\u8BD1\u63D2\u4EF6\u8FDB\u884C\u4E86\u9ED8\u8BA4\u7684\u53C2\u6570parameters\u914D\u7F6E\uFF0C\u4F7F\u5F97\u5728\u7F16\u8BD1\u65F6\uFF0C\u4F1A\u5728\u751F\u6210\u7684\u5B57\u8282\u7801\u6587\u4EF6\u4E2D\u4FDD\u7559\u539F\u65B9\u6CD5\u5F62\u53C2\u7684\u540D\u79F0\uFF0C\u6240\u4EE5#{\u2026}\u91CC\u9762\u53EF\u4EE5\u76F4\u63A5\u901A\u8FC7\u5F62\u53C2\u540D\u83B7\u53D6\u5BF9\u5E94\u7684\u503C",paraId:91,tocIndex:50},{value:"mybatis 3.4.0 \u4E4B\u524D,\u5141\u8BB8\u4E0D\u52A0\u7248\u672C/\u5355\u72EC\u4F7F\u7528mybatis\uFF08\u4F7F\u7528@Param\u6CE8\u89E3\u6765\u6307\u5B9ASQL\u8BED\u53E5\u4E2D\u7684\u53C2\u6570\u540D\uFF09",paraId:92,tocIndex:50},{value:"\u5982\u679C\u9700\u8981\u5B9E\u73B0\u590D\u6742\u7684SQL\u529F\u80FD\uFF0C\u5EFA\u8BAE\u4F7F\u7528XML\u6765\u914D\u7F6E\u6620\u5C04\u8BED\u53E5\uFF0C\u4E5F\u5C31\u662F\u5C06SQL\u8BED\u53E5\u5199\u5728XML\u914D\u7F6E\u6587\u4EF6\u4E2D\u3002",paraId:93,tocIndex:51},{value:"\u5728Mybatis\u4E2D\u4F7F\u7528XML\u6620\u5C04\u6587\u4EF6\u65B9\u5F0F\u5F00\u53D1\uFF0C\u9700\u8981\u7B26\u5408\u4E00\u5B9A\u7684\u89C4\u8303\uFF1A",paraId:94,tocIndex:51},{value:"XML\u6620\u5C04\u6587\u4EF6\u7684\u540D\u79F0\u4E0EMapper\u63A5\u53E3\u540D\u79F0\u4E00\u81F4\uFF0C\u5E76\u4E14\u5C06XML\u6620\u5C04\u6587\u4EF6\u548CMapper\u63A5\u53E3\u653E\u7F6E\u5728\u76F8\u540C\u5305\u4E0B\uFF08\u540C\u5305\u540C\u540D\uFF09",paraId:95,tocIndex:51},{value:"XML\u6620\u5C04\u6587\u4EF6\u7684namespace\u5C5E\u6027\u4E3AMapper\u63A5\u53E3\u5168\u9650\u5B9A\u540D\u4E00\u81F4",paraId:96,tocIndex:51},{value:"XML\u6620\u5C04\u6587\u4EF6\u4E2Dsql\u8BED\u53E5\u7684id\u4E0EMapper\u63A5\u53E3\u4E2D\u7684\u65B9\u6CD5\u540D\u4E00\u81F4\uFF0C\u5E76\u4FDD\u6301\u8FD4\u56DE\u7C7B\u578B\u4E00\u81F4\u3002",paraId:97,tocIndex:51},{value:"<select>\u6807\u7B7E\uFF1A\u5C31\u662F\u7528\u4E8E\u7F16\u5199select\u67E5\u8BE2\u8BED\u53E5\u7684\u3002",paraId:98,tocIndex:51},{value:"resultType\u5C5E\u6027\uFF0C\u6307\u7684\u662F\u67E5\u8BE2\u8FD4\u56DE\u7684\u5355\u6761\u8BB0\u5F55\u6240\u5C01\u88C5\u7684\u7C7B\u578B\u3002",paraId:99,tocIndex:51},{value:`<select id="list" resultType="com.itheima.pojo.Emp">
+        select * from emp
+        <where>
+             <!-- if\u505A\u4E3Awhere\u6807\u7B7E\u7684\u5B50\u5143\u7D20 -->
+             <if test="name != null">
+                 and name like concat('%',#{name},'%')
+             </if>
+             <if test="gender != null">
+                 and gender = #{gender}
+             </if>
+             <if test="begin != null and end != null">
+                 and entrydate between #{begin} and #{end}
+             </if>
+        </where>
+        order by update_time desc
+</select>
+`,paraId:100,tocIndex:52},{value:` <!--\u66F4\u65B0\u64CD\u4F5C-->
+    <update id="update">
+        update emp
+        <!-- \u4F7F\u7528set\u6807\u7B7E\uFF0C\u4EE3\u66FFupdate\u8BED\u53E5\u4E2D\u7684set\u5173\u952E\u5B57 -->
+        <set>
+            <if test="username != null">
+                username=#{username},
+            </if>
+            <if test="name != null">
+                name=#{name},
+            </if>
+            <if test="gender != null">
+                gender=#{gender},
+            </if>
+            <if test="image != null">
+                image=#{image},
+            </if>
+            <if test="job != null">
+                job=#{job},
+            </if>
+            <if test="entrydate != null">
+                entrydate=#{entrydate},
+            </if>
+            <if test="deptId != null">
+                dept_id=#{deptId},
+            </if>
+            <if test="updateTime != null">
+                update_time=#{updateTime}
+            </if>
+        </set>
+        where id=#{id}
+    </update>
+`,paraId:101,tocIndex:52},{value:"sql",paraId:102,tocIndex:53},{value:`delete from emp where id in (1,2,3);
+`,paraId:103,tocIndex:53},{value:`<foreach collection="\u96C6\u5408\u540D\u79F0" item="\u96C6\u5408\u904D\u5386\u51FA\u6765\u7684\u5143\u7D20/\u9879" separator="\u6BCF\u4E00\u6B21\u904D\u5386\u4F7F\u7528\u7684\u5206\u9694\u7B26" 
+         open="\u904D\u5386\u5F00\u59CB\u524D\u62FC\u63A5\u7684\u7247\u6BB5" close="\u904D\u5386\u7ED3\u675F\u540E\u62FC\u63A5\u7684\u7247\u6BB5">
+</foreach>
+`,paraId:104,tocIndex:53},{value:`<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wl.mapper.EmpMapper">
+    <!--\u5220\u9664\u64CD\u4F5C-->
+    <delete id="deleteByIds">
+        delete from emp where id in
+        <foreach collection="ids" item="id" separator="," open="(" close=")">
+            #{id}
+        </foreach>
+    </delete>
+</mapper> 
+`,paraId:105,tocIndex:53},{value:`@Mapper
+public interface EmpMapper {
+    //\u6279\u91CF\u5220\u9664
+    public void deleteByIds(List<Integer> ids);
+}
+`,paraId:106,tocIndex:53},{value:"\u5728xml\u6620\u5C04\u6587\u4EF6\u4E2D\u914D\u7F6E\u7684SQL\uFF0C\u6709\u65F6\u53EF\u80FD\u4F1A\u5B58\u5728\u5F88\u591A\u91CD\u590D\u7684\u7247\u6BB5\uFF0C\u6B64\u65F6\u5C31\u4F1A\u5B58\u5728\u5F88\u591A\u5197\u4F59\u7684\u4EE3\u7801",paraId:107,tocIndex:54},{value:"SQL\u7247\u6BB5\uFF1A \u62BD\u53D6\u91CD\u590D\u7684\u4EE3\u7801",paraId:108,tocIndex:54},{value:`<sql id="commonSelect">
+ 	select id, username, password, name, gender, image, job, entrydate, dept_id, create_time, update_time from emp
+</sql>
+`,paraId:109,tocIndex:54},{value:"\u7136\u540E\u901A\u8FC7",paraId:110,tocIndex:54},{value:"<include>",paraId:110,tocIndex:54},{value:" \u6807\u7B7E\u5728\u539F\u6765\u62BD\u53D6\u7684\u5730\u65B9\u8FDB\u884C\u5F15\u7528\u3002\u64CD\u4F5C\u5982\u4E0B\uFF1A",paraId:110,tocIndex:54},{value:`<select id="list" resultType="com.itheima.pojo.Emp">
+    <include refid="commonSelect"/>
+    <where>
+        <if test="name != null">
+            name like concat('%',#{name},'%')
+        </if>
+        <if test="gender != null">
+            and gender = #{gender}
+        </if>
+        <if test="begin != null and end != null">
+            and entrydate between #{begin} and #{end}
+        </if>
+    </where>
+    order by update_time desc
+</select>
+`,paraId:111,tocIndex:54},{value:"\u5F53\u4F7F\u7528\u4E86PageHelper\u5206\u9875\u63D2\u4EF6\u8FDB\u884C\u5206\u9875\uFF0C\u5C31\u65E0\u9700\u518DMapper\u4E2D\u8FDB\u884C\u624B\u52A8\u5206\u9875\u4E86\u3002 \u5728Mapper\u4E2D\u6211\u4EEC\u53EA\u9700\u8981\u8FDB\u884C\u6B63\u5E38\u7684\u5217\u8868\u67E5\u8BE2\u5373\u53EF\u3002\u5728Service\u5C42\u4E2D\uFF0C\u8C03\u7528Mapper\u7684\u65B9\u6CD5\u4E4B\u524D\u8BBE\u7F6E\u5206\u9875\u53C2\u6570\uFF0C\u5728\u8C03\u7528Mapper\u65B9\u6CD5\u6267\u884C\u67E5\u8BE2\u4E4B\u540E\uFF0C\u89E3\u6790\u5206\u9875\u7ED3\u679C\uFF0C\u5E76\u5C06\u7ED3\u679C\u5C01\u88C5\u5230PageBean\u5BF9\u8C61\u4E2D\u8FD4\u56DE\u3002",paraId:112,tocIndex:55},{value:"1\u3001\u5728pom.xml\u5F15\u5165\u4F9D\u8D56",paraId:113,tocIndex:55},{value:`<dependency>
+    <groupId>com.github.pagehelper</groupId>
+    <artifactId>pagehelper-spring-boot-starter</artifactId>
+    <version>1.4.2</version>
+</dependency>
+`,paraId:114,tocIndex:55},{value:"2\u3001EmpMapper",paraId:115,tocIndex:55},{value:`@Mapper
+public interface EmpMapper {
+    //\u83B7\u53D6\u5F53\u524D\u9875\u7684\u7ED3\u679C\u5217\u8868
+    @Select("select * from emp")
+    public List<Emp> page(Integer start, Integer pageSize);
+}
+`,paraId:116,tocIndex:55},{value:"3\u3001EmpServiceImpl",paraId:117,tocIndex:55},{value:`@Override
+public PageBean page(Integer page, Integer pageSize) {
+    // \u8BBE\u7F6E\u5206\u9875\u53C2\u6570
+    PageHelper.startPage(page, pageSize); 
+    // \u6267\u884C\u5206\u9875\u67E5\u8BE2
+    List<Emp> empList = empMapper.list(name,gender,begin,end); 
+    // \u83B7\u53D6\u5206\u9875\u7ED3\u679C
+    Page<Emp> p = (Page<Emp>) empList;   
+    //\u5C01\u88C5PageBean
+    PageBean pageBean = new PageBean(p.getTotal(), p.getResult()); 
+    return pageBean;
+}
+`,paraId:118,tocIndex:55}]},82669:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(89531);const t=[{value:"Redis\u662F\u4E00\u4E2A\u57FA\u4E8E",paraId:0,tocIndex:0},{value:"\u5185\u5B58",paraId:0,tocIndex:0},{value:"\u7684key-value\u7ED3\u6784\u6570\u636E\u5E93\u3002Redis \u662F\u4E92\u8054\u7F51\u6280\u672F\u9886\u57DF\u4F7F\u7528\u6700\u4E3A\u5E7F\u6CDB\u7684",paraId:0,tocIndex:0},{value:"\u5B58\u50A8\u4E2D\u95F4\u4EF6",paraId:0,tocIndex:0},{value:"\u3002",paraId:0,tocIndex:0},{value:"\u5B98\u7F51\uFF1A",paraId:1,tocIndex:0},{value:"https://redis.io",paraId:1,tocIndex:0},{value:"\u4E2D\u6587\u7F51\uFF1A",paraId:2,tocIndex:0},{value:"https://www.redis.net.cn/",paraId:2,tocIndex:0},{value:"\u4E3B\u8981\u7279\u70B9\uFF1A",paraId:3,tocIndex:0},{value:"\u57FA\u4E8E\u5185\u5B58\u5B58\u50A8\uFF0C\u8BFB\u5199\u6027\u80FD\u9AD8",paraId:4,tocIndex:0},{value:"\u9002\u5408\u5B58\u50A8\u70ED\u70B9\u6570\u636E\uFF08\u70ED\u70B9\u5546\u54C1\u3001\u8D44\u8BAF\u3001\u65B0\u95FB\uFF09",paraId:4,tocIndex:0},{value:"\u4F01\u4E1A\u5E94\u7528\u5E7F\u6CDB",paraId:4,tocIndex:0},{value:"Redis\u5B58\u50A8\u7684\u662Fkey-value\u7ED3\u6784\u7684\u6570\u636E\uFF0C\u5176\u4E2Dkey\u662F\u5B57\u7B26\u4E32\u7C7B\u578B\uFF0Cvalue\u67095\u79CD\u5E38\u7528\u7684\u6570\u636E\u7C7B\u578B\uFF1A",paraId:5,tocIndex:1},{value:"\u5B57\u7B26\u4E32 string",paraId:6,tocIndex:1},{value:"\u54C8\u5E0C hash",paraId:6,tocIndex:1},{value:"\u5217\u8868 list",paraId:6,tocIndex:1},{value:"\u96C6\u5408 set",paraId:6,tocIndex:1},{value:"\u6709\u5E8F\u96C6\u5408 sorted set / zset",paraId:6,tocIndex:1},{value:"bitmap \u4F4D\u56FE\u7C7B\u578B",paraId:6,tocIndex:1},{value:"geo \u5730\u7406\u4F4D\u7F6E\u7C7B\u578B",paraId:6,tocIndex:1},{value:"HyperLogLog \u57FA\u6570\u7EDF\u8BA1\u7C7B\u578B",paraId:6,tocIndex:1},{value:"\u89E3\u91CA\u8BF4\u660E\uFF1A",paraId:7,tocIndex:1},{value:"\u5B57\u7B26\u4E32(string)\uFF1A\u666E\u901A\u5B57\u7B26\u4E32\uFF0CRedis\u4E2D\u6700\u7B80\u5355\u7684\u6570\u636E\u7C7B\u578B",paraId:8,tocIndex:1},{value:"\u54C8\u5E0C(hash)\uFF1A\u4E5F\u53EB\u6563\u5217\uFF0C\u7C7B\u4F3C\u4E8EJava\u4E2D\u7684HashMap\u7ED3\u6784",paraId:8,tocIndex:1},{value:"\u5217\u8868(list)\uFF1A\u6309\u7167\u63D2\u5165\u987A\u5E8F\u6392\u5E8F\uFF0C\u53EF\u4EE5\u6709\u91CD\u590D\u5143\u7D20\uFF0C\u7C7B\u4F3C\u4E8EJava\u4E2D\u7684LinkedList",paraId:8,tocIndex:1},{value:"\u96C6\u5408(set)\uFF1A\u65E0\u5E8F\u96C6\u5408\uFF0C\u6CA1\u6709\u91CD\u590D\u5143\u7D20\uFF0C\u7C7B\u4F3C\u4E8EJava\u4E2D\u7684HashSet",paraId:8,tocIndex:1},{value:"\u6709\u5E8F\u96C6\u5408(sorted set/zset)\uFF1A\u96C6\u5408\u4E2D\u6BCF\u4E2A\u5143\u7D20\u5173\u8054\u4E00\u4E2A\u5206\u6570(score)\uFF0C\u6839\u636E\u5206\u6570\u5347\u5E8F\u6392\u5E8F\uFF0C\u6CA1\u6709\u91CD\u590D\u5143\u7D20",paraId:8,tocIndex:1},{value:"Redis \u4E2D\u5B57\u7B26\u4E32\u7C7B\u578B\u5E38\u7528\u547D\u4EE4\uFF1A",paraId:9,tocIndex:3},{value:"SET",paraId:10,tocIndex:3},{value:" key value 					         \u8BBE\u7F6E\u6307\u5B9Akey\u7684\u503C",paraId:10,tocIndex:3},{value:"GET",paraId:10,tocIndex:3},{value:" key                                        \u83B7\u53D6\u6307\u5B9Akey\u7684\u503C",paraId:10,tocIndex:3},{value:"SETEX",paraId:10,tocIndex:3},{value:" key seconds value         \u8BBE\u7F6E\u6307\u5B9Akey\u7684\u503C\uFF0C\u5E76\u5C06 key \u7684\u8FC7\u671F\u65F6\u95F4\u8BBE\u4E3A seconds \u79D2",paraId:10,tocIndex:3},{value:"SETNX",paraId:10,tocIndex:3},{value:" key value                      \u53EA\u6709\u5728 key    \u4E0D\u5B58\u5728\u65F6\u8BBE\u7F6E key \u7684\u503C",paraId:10,tocIndex:3},{value:"Redis hash \u662F\u4E00\u4E2Astring\u7C7B\u578B\u7684 field \u548C value \u7684\u6620\u5C04\u8868\uFF0Chash\u7279\u522B\u9002\u5408\u7528\u4E8E\u5B58\u50A8\u5BF9\u8C61\uFF0C\u5E38\u7528\u547D\u4EE4\uFF1A",paraId:11,tocIndex:4},{value:"HSET",paraId:12,tocIndex:4},{value:" key field value             \u5C06\u54C8\u5E0C\u8868 key \u4E2D\u7684\u5B57\u6BB5 field \u7684\u503C\u8BBE\u4E3A value",paraId:12,tocIndex:4},{value:"HGET",paraId:13,tocIndex:4},{value:" key field                       \u83B7\u53D6\u5B58\u50A8\u5728\u54C8\u5E0C\u8868\u4E2D\u6307\u5B9A\u5B57\u6BB5\u7684\u503C",paraId:13,tocIndex:4},{value:"HDEL",paraId:14,tocIndex:4},{value:" key field                       \u5220\u9664\u5B58\u50A8\u5728\u54C8\u5E0C\u8868\u4E2D\u7684\u6307\u5B9A\u5B57\u6BB5",paraId:14,tocIndex:4},{value:"HKEYS",paraId:15,tocIndex:4},{value:" key                              \u83B7\u53D6\u54C8\u5E0C\u8868\u4E2D\u6240\u6709\u5B57\u6BB5",paraId:15,tocIndex:4},{value:"HVALS",paraId:16,tocIndex:4},{value:" key                              \u83B7\u53D6\u54C8\u5E0C\u8868\u4E2D\u6240\u6709\u503C",paraId:16,tocIndex:4},{value:"HGETALL",paraId:17,tocIndex:4},{value:" key                         \u83B7\u53D6\u5728\u54C8\u5E0C\u8868\u4E2D\u6307\u5B9A key \u7684\u6240\u6709\u5B57\u6BB5\u548C\u503C",paraId:17,tocIndex:4},{value:"Redis \u5217\u8868\u662F\u7B80\u5355\u7684\u5B57\u7B26\u4E32\u5217\u8868\uFF0C\u6309\u7167\u63D2\u5165\u987A\u5E8F\u6392\u5E8F\uFF0C\u5E38\u7528\u547D\u4EE4\uFF1A",paraId:18,tocIndex:5},{value:"LPUSH",paraId:19,tocIndex:5},{value:" key value1 [value2]         \u5C06\u4E00\u4E2A\u6216\u591A\u4E2A\u503C\u63D2\u5165\u5230\u5217\u8868\u5934\u90E8",paraId:19,tocIndex:5},{value:`lpush mylist a b c d a b
+#list push\u4E2D\u53EF\u4EE5\u4FDD\u5B58\u76F8\u540C\u7684\u5143\u7D20
+`,paraId:20,tocIndex:5},{value:"LRANGE",paraId:21,tocIndex:5},{value:" key start stop                \u83B7\u53D6\u5217\u8868\u6307\u5B9A\u8303\u56F4\u5185\u7684\u5143\u7D20",paraId:21,tocIndex:5},{value:`lrange mylist 0 -1
+#-1\u4EE3\u8868list\u4E2D\u6700\u540E\u4E00\u4E2A\u5143\u7D20\u7684\u4F4D\u7F6E
+`,paraId:22,tocIndex:5},{value:"RPOP",paraId:23,tocIndex:5},{value:" key                                       \u79FB\u9664\u5E76\u83B7\u53D6\u5217\u8868\u6700\u540E\u4E00\u4E2A\u5143\u7D20",paraId:23,tocIndex:5},{value:"LLEN",paraId:24,tocIndex:5},{value:" key                                        \u83B7\u53D6\u5217\u8868\u957F\u5EA6",paraId:24,tocIndex:5},{value:"BRPOP",paraId:25,tocIndex:5},{value:" key1 [key2 ] timeout       \u79FB\u51FA\u5E76\u83B7\u53D6\u5217\u8868\u7684\u6700\u540E\u4E00\u4E2A\u5143\u7D20\uFF0C \u5982\u679C\u5217\u8868\u6CA1\u6709\u5143\u7D20\u4F1A\u963B\u585E\u5217\u8868\u76F4\u5230\u7B49\u5F85\u8D85    \u65F6\u6216\u53D1\u73B0\u53EF\u5F39\u51FA\u5143\u7D20\u4E3A\u6B62",paraId:25,tocIndex:5},{value:"Redis set \u662Fstring\u7C7B\u578B\u7684\u65E0\u5E8F\u96C6\u5408\u3002\u96C6\u5408\u6210\u5458\u662F\u552F\u4E00\u7684\uFF0C\u8FD9\u5C31\u610F\u5473\u7740\u96C6\u5408\u4E2D\u4E0D\u80FD\u51FA\u73B0\u91CD\u590D\u7684\u6570\u636E\uFF0C\u5E38\u7528\u547D\u4EE4\uFF1A",paraId:26,tocIndex:6},{value:"SADD",paraId:27,tocIndex:6},{value:" key member1 [member2]            \u5411\u96C6\u5408\u6DFB\u52A0\u4E00\u4E2A\u6216\u591A\u4E2A\u6210\u5458",paraId:27,tocIndex:6},{value:`sadd myset a b c d a b
+`,paraId:28,tocIndex:6},{value:"SMEMBERS",paraId:29,tocIndex:6},{value:" key                                         \u8FD4\u56DE\u96C6\u5408\u4E2D\u7684\u6240\u6709\u6210\u5458",paraId:29,tocIndex:6},{value:`SMEMBERS myset
+#a b c d 
+#\u53D1\u73B0\u6CA1\u6709\u91CD\u590D\u7684\u5143\u7D20
+`,paraId:30,tocIndex:6},{value:"SCARD",paraId:31,tocIndex:6},{value:" key                                                  \u83B7\u53D6\u96C6\u5408\u7684\u6210\u5458\u6570",paraId:31,tocIndex:6},{value:"SINTER",paraId:32,tocIndex:6},{value:" key1 [key2]                                   \u8FD4\u56DE\u7ED9\u5B9A\u6240\u6709\u96C6\u5408\u7684\u4EA4\u96C6",paraId:32,tocIndex:6},{value:`sadd myset2 c d e f
+
+#\u6C42myset\u548Cmyset2\u7684\u4EA4\u96C6
+#\u4F1A\u8F93\u51FAc d 
+sinter myset myset2
+`,paraId:33,tocIndex:6},{value:"SUNION",paraId:34,tocIndex:6},{value:" key1 [key2]                                 \u8FD4\u56DE\u6240\u6709\u7ED9\u5B9A\u96C6\u5408\u7684\u5E76\u96C6",paraId:34,tocIndex:6},{value:`#\u4F1A\u8F93\u51FA\uFF1Aa b c d e f 
+sunion myset myset2
+`,paraId:35,tocIndex:6},{value:"SDIFF",paraId:36,tocIndex:6},{value:" key1 [key2]                                      \u8FD4\u56DE\u7ED9\u5B9A\u6240\u6709\u96C6\u5408\u7684\u5DEE\u96C6\uFF08key1\u4E2D\u5B58\u5728\uFF0Ckey2\u4E2D\u4E0D\u5B58\u5728\u7684\uFF09",paraId:36,tocIndex:6},{value:"SREM",paraId:37,tocIndex:6},{value:" key member1 [member2]            \u79FB\u9664\u96C6\u5408\u4E2D\u4E00\u4E2A\u6216\u591A\u4E2A\u6210\u5458",paraId:37,tocIndex:6},{value:"Redis\u6709\u5E8F\u96C6\u5408\u662Fstring\u7C7B\u578B\u5143\u7D20\u7684\u96C6\u5408\uFF0C\u4E14\u4E0D\u5141\u8BB8\u6709\u91CD\u590D\u6210\u5458\u3002\u6BCF\u4E2A\u5143\u7D20\u90FD\u4F1A\u5173\u8054\u4E00\u4E2Adouble\u7C7B\u578B\u7684\u5206\u6570(score)",paraId:38,tocIndex:7},{value:"redis\u6B63\u662F\u901A\u8FC7\u5206\u6570\u6765\u4E3A\u96C6\u5408\u4E2D\u7684\u6210\u5458\u8FDB\u884C\u4ECE\u5C0F\u5230\u5927\u6392\u5E8F\u3002\u6709\u5E8F\u96C6\u5408\u7684\u6210\u5458\u662F\u552F\u4E00\u7684\uFF0C\u4F46\u5206\u6570\u5374\u53EF\u4EE5\u91CD\u590D\u3002",paraId:39,tocIndex:7},{value:"Redis\u7684\u901A\u7528\u547D\u4EE4\u662F\u4E0D\u5206\u6570\u636E\u7C7B\u578B\u7684\uFF0C\u90FD\u53EF\u4EE5\u4F7F\u7528\u7684\u547D\u4EE4\uFF1A",paraId:40,tocIndex:8},{value:"KEYS pattern 		\u67E5\u627E\u6240\u6709\u7B26\u5408\u7ED9\u5B9A\u6A21\u5F0F( pattern)\u7684 key",paraId:41,tocIndex:8},{value:"EXISTS key 		\u68C0\u67E5\u7ED9\u5B9A key \u662F\u5426\u5B58\u5728",paraId:42,tocIndex:8},{value:"TYPE key 		\u8FD4\u56DE key \u6240\u50A8\u5B58\u7684\u503C\u7684\u7C7B\u578B",paraId:43,tocIndex:8},{value:"DEL key 		\u8BE5\u547D\u4EE4\u7528\u4E8E\u5728 key \u5B58\u5728\u662F\u5220\u9664 key",paraId:44,tocIndex:8},{value:"TTL key  \u8FD4\u56DE\u7ED9\u5B9A key \u7684\u5269\u4F59\u751F\u5B58\u65F6\u95F4(TTL, time to live)\uFF0C\u4EE5\u79D2\u4E3A\u5355\u4F4Dtt",paraId:45,tocIndex:8},{value:`-1: \u6CA1\u6709\u8FC7\u671F\u65F6\u95F4\uFF0C\u6C38\u4E45\u6709\u6548
+-2\uFF1A\u5DF2\u7ECF\u8FC7\u671F\u6216\u8005\u4E0D\u5B58\u5728\u8FD9\u4E2A\u4E00\u4E2Akey
+\u6B63\u6570\uFF1A\u4EE3\u8868\u8FD8\u80FD\u5728\u5185\u5B58\u4E2D\u5B58\u6D3B\u7684\u65F6\u95F4\uFF0C\u5355\u4F4D\uFF1A\u79D2
+`,paraId:46,tocIndex:8},{value:"Spring Data Redis \u662F Spring \u7684\u4E00\u90E8\u5206\uFF0C\u63D0\u4F9B\u4E86\u5728 Spring \u5E94\u7528\u4E2D\u901A\u8FC7\u7B80\u5355\u7684\u914D\u7F6E\u5C31\u53EF\u4EE5\u8BBF\u95EE Redis \u670D\u52A1\uFF0C\u5BF9 Redis \u5E95\u5C42\u5F00\u53D1\u5305\u8FDB\u884C\u4E86\u9AD8\u5EA6\u5C01\u88C5\u3002\u5728 Spring \u9879\u76EE\u4E2D\uFF0C\u53EF\u4EE5\u4F7F\u7528Spring Data Redis\u6765\u7B80\u5316 Redis \u64CD\u4F5C\u3002",paraId:47,tocIndex:11},{value:"\u7F51\u5740\uFF1A",paraId:48,tocIndex:11},{value:"https://spring.io/projects/spring-data-redis",paraId:48,tocIndex:11},{value:"\u8FDB\u5165\u5230sky-server\u6A21\u5757",paraId:49,tocIndex:12},{value:"1). \u5BFC\u5165Spring Data Redis\u7684maven\u5750\u6807",paraId:50,tocIndex:12},{value:`<dependency>
+     <groupId>org.springframework.boot</groupId>
+     <artifactId>spring-boot-starter-data-redis</artifactId>
+</dependency>
+`,paraId:51,tocIndex:12},{value:"2). \u914D\u7F6ERedis\u6570\u636E\u6E90",paraId:52,tocIndex:12},{value:"\u5728application-dev.yml\u4E2D\u6DFB\u52A0",paraId:53,tocIndex:12},{value:`sky:
+  redis:
+    host: localhost
+    port: 6379
+    #\u8BBE\u7F6E\u5BC6\u7801\uFF0C\u6CA1\u6709\u8BBE\u7F6E\u5219\u6CE8\u91CA\u6389
+    password: 123456
+    database: 0
+`,paraId:54,tocIndex:12},{value:"\u7F16\u5199\u914D\u7F6E\u7C7B\uFF0C\u521B\u5EFARedisTemplate\u5BF9\u8C61",paraId:55,tocIndex:12},{value:`package com.sky.config;
+
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.data.redis.connection.RedisConnectionFactory;
+import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.serializer.StringRedisSerializer;
+
+@Configuration
+@Slf4j
+public class RedisConfiguration {
+
+    @Bean
+    public RedisTemplate redisTemplate(RedisConnectionFactory redisConnectionFactory){
+        log.info("\u5F00\u59CB\u521B\u5EFAredis\u6A21\u677F\u5BF9\u8C61...");
+        RedisTemplate redisTemplate = new RedisTemplate();
+        //\u8BBE\u7F6Eredis\u7684\u8FDE\u63A5\u5DE5\u5382\u5BF9\u8C61
+        redisTemplate.setConnectionFactory(redisConnectionFactory);
+        //\u8BBE\u7F6Eredis key\u7684\u5E8F\u5217\u5316\u5668
+        redisTemplate.setKeySerializer(new StringRedisSerializer());
+        return redisTemplate;
+    }
+}
+`,paraId:56,tocIndex:12},{value:"\u901A\u8FC7RedisTemplate\u5BF9\u8C61\u64CD\u4F5CRedis",paraId:57,tocIndex:12},{value:"\u5728test\u4E0B\u65B0\u5EFA\u6D4B\u8BD5\u7C7B",paraId:58,tocIndex:12},{value:`package com.sky.test;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.data.redis.core.*;
+import java.util.concurrent.TimeUnit;
+
+@SpringBootTest
+public class SpringDataRedisTest {
+    @Autowired
+    private RedisTemplate redisTemplate;
+
+    @Test //\u6CE8\u610F\uFF1A\u4F7F\u7528\u957F\u7684import org.junit.jupiter.api.Test;
+    public void testRedisTemplate(){
+        System.out.println(redisTemplate);
+        //string\u6570\u636E\u64CD\u4F5C
+        ValueOperations valueOperations = redisTemplate.opsForValue();
+        //hash\u7C7B\u578B\u7684\u6570\u636E\u64CD\u4F5C
+        HashOperations hashOperations = redisTemplate.opsForHash();
+        //list\u7C7B\u578B\u7684\u6570\u636E\u64CD\u4F5C
+        ListOperations listOperations = redisTemplate.opsForList();
+        //set\u7C7B\u578B\u6570\u636E\u64CD\u4F5C
+        SetOperations setOperations = redisTemplate.opsForSet();
+        //zset\u7C7B\u578B\u6570\u636E\u64CD\u4F5C
+        ZSetOperations zSetOperations = redisTemplate.opsForZSet();
+    }
+}
+`,paraId:59,tocIndex:12},{value:"\u5E38\u7528",paraId:60,tocIndex:12},{value:`/**
+     * \u64CD\u4F5C\u5B57\u7B26\u4E32\u7C7B\u578B\u7684\u6570\u636E
+     */
+    @Test
+    public void testString(){
+        // set get setex setnx
+        redisTemplate.opsForValue().set("name","\u5C0F\u660E");
+        String city = (String) redisTemplate.opsForValue().get("name");
+        System.out.println(city);
+        redisTemplate.opsForValue().set("code","1234",3, TimeUnit.MINUTES);
+        redisTemplate.opsForValue().setIfAbsent("lock","1");//Absent\u610F\u601D:\u7F3A\u5E2D;\u4E0D\u5728;
+        redisTemplate.opsForValue().setIfAbsent("lock","2");
+    }
+    /**
+     * \u64CD\u4F5C\u54C8\u5E0C\u7C7B\u578B\u7684\u6570\u636E
+     */
+    @Test
+    public void testHash(){
+        //hset hget hdel hkeys hvals
+        HashOperations hashOperations = redisTemplate.opsForHash();
+
+        hashOperations.put("100","name","tom");
+        hashOperations.put("100","age","20");
+
+        String name = (String) hashOperations.get("100", "name");
+        System.out.println(name);
+
+        Set keys = hashOperations.keys("100");
+        System.out.println(keys);
+
+        List values = hashOperations.values("100");
+        System.out.println(values);
+
+        hashOperations.delete("100","age");
+    }
+    /**
+     * \u64CD\u4F5C\u5217\u8868\u7C7B\u578B\u7684\u6570\u636E
+     */
+    @Test
+    public void testList(){
+        //lpush lrange rpop llen
+        ListOperations listOperations = redisTemplate.opsForList();
+
+        listOperations.leftPushAll("mylist","a","b","c");
+        listOperations.leftPush("mylist","d");
+
+        List mylist = listOperations.range("mylist", 0, -1);
+        System.out.println(mylist);
+
+        listOperations.rightPop("mylist");
+
+        Long size = listOperations.size("mylist");
+        System.out.println(size);
+    }
+    /**
+     * \u64CD\u4F5C\u96C6\u5408\u7C7B\u578B\u7684\u6570\u636E
+     */
+    @Test
+    public void testSet(){
+        //sadd smembers scard sinter sunion srem
+        SetOperations setOperations = redisTemplate.opsForSet();
+
+        setOperations.add("set1","a","b","c","d");
+        setOperations.add("set2","a","b","x","y");
+
+        Set members = setOperations.members("set1");
+        System.out.println(members);
+
+        Long size = setOperations.size("set1");
+        System.out.println(size);
+
+        Set intersect = setOperations.intersect("set1", "set2");
+        System.out.println(intersect);
+
+        Set union = setOperations.union("set1", "set2");
+        System.out.println(union);
+
+        setOperations.remove("set1","a","b");
+    }
+    /**
+     * \u64CD\u4F5C\u6709\u5E8F\u96C6\u5408\u7C7B\u578B\u7684\u6570\u636E
+     */
+    @Test
+    public void testZset(){
+        //zadd zrange zincrby zrem
+        ZSetOperations zSetOperations = redisTemplate.opsForZSet();
+
+        zSetOperations.add("zset1","a",10);
+        zSetOperations.add("zset1","b",12);
+        zSetOperations.add("zset1","c",9);
+
+        Set zset1 = zSetOperations.range("zset1", 0, -1);
+        System.out.println(zset1);
+
+        zSetOperations.incrementScore("zset1","c",10);
+
+        zSetOperations.remove("zset1","a","b");
+    }
+    /**
+     * \u901A\u7528\u547D\u4EE4\u64CD\u4F5C
+     */
+    @Test
+    public void testCommon(){
+        //keys exists type del
+        Set keys = redisTemplate.keys("*");
+        System.out.println(keys);
+
+        Boolean name = redisTemplate.hasKey("name");
+        System.out.println("\u662F\u5426\u5B58\u5728name: " + name);
+        Boolean set1 = redisTemplate.hasKey("set1");
+        System.out.println("\u662F\u5426\u5B58\u5728set1: " + set1);
+
+        for (Object key : keys) {
+            DataType type = redisTemplate.type(key);
+            System.out.println(type.name());
+        }
+
+        redisTemplate.delete("mylist");
+    }
+`,paraId:61,tocIndex:12}]},57224:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(31046);const t=[{value:"\u5728Springboot\u7684\u73AF\u5883\u4E2D\uFF0C\u5BF9\u539F\u59CB\u7684API\u8FDB\u884C\u4E86\u5C01\u88C5\uFF0C\u63A5\u6536\u53C2\u6570\u7684\u5F62\u5F0F\u66F4\u52A0\u7B80\u5355\u3002 \u5982\u679C\u662F\u7B80\u5355\u53C2\u6570\uFF0C\u53C2\u6570\u540D\u4E0E\u5F62\u53C2\u53D8\u91CF\u540D\u76F8\u540C\uFF0C\u5B9A\u4E49\u540C\u540D\u7684\u5F62\u53C2\u5373\u53EF\u63A5\u6536\u53C2\u6570\u3002",paraId:0,tocIndex:1},{value:`@RestController
+public class RequestController {
+        // http://localhost:8080/simpleParam?name=Tom&age=10
+    // \u7B2C1\u4E2A\u8BF7\u6C42\u53C2\u6570\uFF1A name=Tom   \u53C2\u6570\u540D:name\uFF0C\u53C2\u6570\u503C:Tom
+    // \u7B2C2\u4E2A\u8BF7\u6C42\u53C2\u6570\uFF1A age=10     \u53C2\u6570\u540D:age , \u53C2\u6570\u503C:10
+    
+    //springboot\u65B9\u5F0F
+    @RequestMapping("/simpleParam")
+    public String simpleParam(@RequestParam("name") String username , Integer age ){//\u5F62\u53C2\u540D\u548C\u8BF7\u6C42\u53C2\u6570\u540D\u4FDD\u6301\u4E00\u81F4
+        System.out.println(name+"  :  "+age);
+        return "OK";
+    }
+}
+`,paraId:1,tocIndex:1},{value:"\u5B9A\u4E49POJO\u5B9E\u4F53\u7C7B\uFF1A",paraId:2,tocIndex:2},{value:`public class User {
+    private String name;
+    private Integer age;
+
+    ......
+}
+
+`,paraId:3,tocIndex:2},{value:"Controller\u65B9\u6CD5\uFF1A",paraId:4,tocIndex:2},{value:`@RestController
+public class RequestController {
+    //\u5B9E\u4F53\u53C2\u6570\uFF1A\u7B80\u5355\u5B9E\u4F53\u5BF9\u8C61
+    @RequestMapping("/simplePojo")
+    public String simplePojo(User user){
+        System.out.println(user);
+        return "OK";
+    }
+}
+`,paraId:5,tocIndex:2},{value:"\u5B9A\u4E49POJO\u5B9E\u4F53\u7C7B\uFF1A",paraId:6,tocIndex:3},{value:"Address\u5B9E\u4F53\u7C7B",paraId:7,tocIndex:3},{value:`public class Address {
+    private String province;
+    private String city;
+	...
+}
+`,paraId:8,tocIndex:3},{value:"User\u5B9E\u4F53\u7C7B",paraId:9,tocIndex:3},{value:`public class User {
+    private String name;
+    private Integer age;
+    private Address address; //\u5730\u5740\u5BF9\u8C61
+    ...
+}
+`,paraId:10,tocIndex:3},{value:"Controller\u65B9\u6CD5\uFF1A",paraId:11,tocIndex:3},{value:`@RestController
+public class RequestController {
+    //\u5B9E\u4F53\u53C2\u6570\uFF1A\u590D\u6742\u5B9E\u4F53\u5BF9\u8C61
+    @RequestMapping("/complexPojo")
+    public String complexPojo(User user){
+        System.out.println(user);
+        return "OK";
+    }
+}
+`,paraId:12,tocIndex:3},{value:"Controller\u65B9\u6CD5\uFF1A",paraId:13,tocIndex:4},{value:`@RestController
+public class RequestController {
+    //\u6570\u7EC4\u96C6\u5408\u53C2\u6570
+    @RequestMapping("/arrayParam")
+    public String arrayParam(String[] hobby){
+        System.out.println(Arrays.toString(hobby));
+        return "OK";
+    }
+}
+`,paraId:14,tocIndex:4},{value:"Controller\u65B9\u6CD5\uFF1A",paraId:15,tocIndex:5},{value:`@RestController
+public class RequestController {
+    //\u6570\u7EC4\u96C6\u5408\u53C2\u6570
+    @RequestMapping("/listParam")
+    public String listParam(@RequestParam List<String> hobby){
+        System.out.println(hobby);
+        return "OK";
+    }
+}
+`,paraId:16,tocIndex:5},{value:"Controller\u65B9\u6CD5\uFF1A",paraId:17,tocIndex:6},{value:`@RestController
+public class RequestController {
+    //\u65E5\u671F\u65F6\u95F4\u53C2\u6570
+   @RequestMapping("/dateParam")
+    public String dateParam(@DateTimeFormat(pattern = "yyyy-MM-dd HH:mm:ss") LocalDateTime updateTime){
+        System.out.println(updateTime);
+        return "OK";
+    }
+}
+`,paraId:18,tocIndex:6},{value:"\u5B9E\u4F53\u7C7B\uFF1AAddress",paraId:19,tocIndex:7},{value:`public class Address {
+    private String province;
+    private String city;
+    
+	//\u7701\u7565GET , SET \u65B9\u6CD5
+}
+`,paraId:20,tocIndex:7},{value:"\u5B9E\u4F53\u7C7B\uFF1AUser",paraId:21,tocIndex:7},{value:`public class User {
+    private String name;
+    private Integer age;
+    private Address address;
+    
+    //\u7701\u7565GET , SET \u65B9\u6CD5
+}    
+`,paraId:22,tocIndex:7},{value:"Controller\u65B9\u6CD5\uFF1A",paraId:23,tocIndex:7},{value:`@RestController
+public class RequestController {
+    //JSON\u53C2\u6570
+    @RequestMapping("/jsonParam")
+    public String jsonParam(@RequestBody User user){
+        System.out.println(user);
+        return "OK";
+    }
+}
+`,paraId:24,tocIndex:7},{value:"Controller\u65B9\u6CD5\uFF1A",paraId:25,tocIndex:8},{value:`@RestController
+public class RequestController {
+    //\u8DEF\u5F84\u53C2\u6570
+    @RequestMapping("/path/{id}")
+    public String pathParam(@PathVariable Integer id){
+        System.out.println(id);
+        return "OK";
+    }
+}
+`,paraId:26,tocIndex:8},{value:"\u54CD\u5E94\u6570\u636E\uFF1A",paraId:27,tocIndex:9},{value:`@RestController
+public class ResponseController {
+    //\u54CD\u5E94\u5B57\u7B26\u4E32
+    @RequestMapping("/hello")
+    public String hello(){
+        System.out.println("Hello World ~");
+        return "Hello World ~";
+    }
+    //\u54CD\u5E94\u5B9E\u4F53\u5BF9\u8C61
+    @RequestMapping("/getAddr")
+    public Address getAddr(){
+        Address addr = new Address();//\u521B\u5EFA\u5B9E\u4F53\u7C7B\u5BF9\u8C61
+        addr.setProvince("\u5E7F\u4E1C");
+        addr.setCity("\u6DF1\u5733");
+        return addr;
+    }
+    //\u54CD\u5E94\u96C6\u5408\u6570\u636E
+    @RequestMapping("/listAddr")
+    public List<Address> listAddr(){
+        List<Address> list = new ArrayList<>();//\u96C6\u5408\u5BF9\u8C61
+        
+        Address addr = new Address();
+        addr.setProvince("\u5E7F\u4E1C");
+        addr.setCity("\u6DF1\u5733");
+
+        Address addr2 = new Address();
+        addr2.setProvince("\u9655\u897F");
+        addr2.setCity("\u897F\u5B89");
+
+        list.add(addr);
+        list.add(addr2);
+        return list;
+    }
+}
+`,paraId:28,tocIndex:9},{value:"\u4EE3\u7801\u5982\u4E0B\uFF1A",paraId:29,tocIndex:10},{value:`public class Result {
+    private Integer code;//\u54CD\u5E94\u7801\uFF0C1 \u4EE3\u8868\u6210\u529F; 0 \u4EE3\u8868\u5931\u8D25
+    private String msg;  //\u54CD\u5E94\u7801 \u63CF\u8FF0\u5B57\u7B26\u4E32
+    private Object data; //\u8FD4\u56DE\u7684\u6570\u636E
+	...
+}
+`,paraId:30,tocIndex:10},{value:"r\uFF1A",paraId:31,tocIndex:10},{value:`@RestController
+public class ResponseController { 
+    //\u54CD\u5E94\u7EDF\u4E00\u683C\u5F0F\u7684\u7ED3\u679C
+    @RequestMapping("/hello")
+    public Result hello(){
+        System.out.println("Hello World ~");
+        //return new Result(1,"success","Hello World ~");
+        return Result.success("Hello World ~");
+    }
+}
+`,paraId:32,tocIndex:10},{value:`    //\u8BBE\u7F6ECookie
+    @GetMapping("/c1")
+    public Result cookie1(HttpServletResponse response){
+        response.addCookie(new Cookie("login_username","itheima")); //\u8BBE\u7F6ECookie/\u54CD\u5E94Cookie
+        return Result.success();
+    }
+	
+    //\u83B7\u53D6Cookie
+    @GetMapping("/c2")
+    public Result cookie2(HttpServletRequest request){
+        Cookie[] cookies = request.getCookies();
+        for (Cookie cookie : cookies) {
+            if(cookie.getName().equals("login_username")){
+                System.out.println("login_username: "+cookie.getValue()); //\u8F93\u51FAname\u4E3Alogin_username\u7684cookie
+            }
+        }
+        return Result.success();
+    }
+`,paraId:33,tocIndex:12},{value:` @GetMapping("/s1")
+    public Result session1(HttpSession session){
+        log.info("HttpSession-s1: {}", session.hashCode());
+
+        session.setAttribute("loginUser", "tom"); //\u5F80session\u4E2D\u5B58\u50A8\u6570\u636E
+        return Result.success();
+    }
+
+    @GetMapping("/s2")
+    public Result session2(HttpServletRequest request){
+        HttpSession session = request.getSession();
+        log.info("HttpSession-s2: {}", session.hashCode());
+
+        Object loginUser = session.getAttribute("loginUser"); //\u4ECEsession\u4E2D\u83B7\u53D6\u6570\u636E
+        log.info("loginUser: {}", loginUser);
+        return Result.success(loginUser);
+    }
+`,paraId:34,tocIndex:13},{value:"JWT\u5168\u79F0\uFF1AJSON Web Token  \uFF08\u5B98\u7F51\uFF1A",paraId:35,tocIndex:14},{value:"https://jwt.io/\uFF09",paraId:35,tocIndex:14},{value:"\u9996\u5148\u6211\u4EEC\u5148\u6765\u5B9E\u73B0JWT\u4EE4\u724C\u7684\u751F\u6210\u3002\u8981\u60F3\u4F7F\u7528JWT\u4EE4\u724C\uFF0C\u9700\u8981\u5148\u5F15\u5165JWT\u7684\u4F9D\u8D56\uFF1A",paraId:36,tocIndex:14},{value:`<!-- JWT\u4F9D\u8D56-->
+<dependency>
+    <groupId>io.jsonwebtoken</groupId>
+    <artifactId>jjwt</artifactId>
+    <version>0.9.1</version>
+</dependency>
+`,paraId:37,tocIndex:14},{value:"\u751F\u6210JWT\u4EE3\u7801\u5B9E\u73B0\uFF1A",paraId:38,tocIndex:14},{value:`@Test
+public void genJwt(){
+    Map<String,Object> claims = new HashMap<>();
+    claims.put("id",1);
+    claims.put("username","Tom");
+    
+    String jwt = Jwts.builder()
+        .setClaims(claims) //\u81EA\u5B9A\u4E49\u5185\u5BB9(\u8F7D\u8377)          
+        .signWith(SignatureAlgorithm.HS256, "itheima") //\u7B7E\u540D\u7B97\u6CD5        
+        .setExpiration(new Date(System.currentTimeMillis() + 24*60*60*1000)) //\u6709\u6548\u671F   24 h
+        .compact();
+    
+    System.out.println(jwt);
+}
+`,paraId:39,tocIndex:14},{value:"\u89E3\u6790\u751F\u6210\u7684\u4EE4\u724C\uFF1A",paraId:40,tocIndex:14},{value:`@Test
+public void parseJwt(){
+    Claims claims = Jwts.parser()
+        .setSigningKey("itheima")//\u6307\u5B9A\u7B7E\u540D\u5BC6\u94A5\uFF08\u5FC5\u987B\u4FDD\u8BC1\u548C\u751F\u6210\u4EE4\u724C\u65F6\u4F7F\u7528\u76F8\u540C\u7684\u7B7E\u540D\u5BC6\u94A5\uFF09  
+	    .parseClaimsJws("eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZXhwIjoxNjcyNzI5NzMwfQ.fHi0Ub8npbyt71UqLXDdLyipptLgxBUg_mSuGJtXtBk")
+        .getBody();
+
+    System.out.println(claims);
+}
+`,paraId:41,tocIndex:14},{value:`public class JwtUtils {
+
+    private static String signKey = "itheima";//\u7B7E\u540D\u5BC6\u94A5
+    private static Long expire = 43200000L; //\u6709\u6548\u65F6\u95F4
+
+    /**
+     * \u751F\u6210JWT\u4EE4\u724C
+     * @param claims JWT\u7B2C\u4E8C\u90E8\u5206\u8D1F\u8F7D payload \u4E2D\u5B58\u50A8\u7684\u5185\u5BB9
+     * @return
+     */
+    public static String generateJwt(Map<String, Object> claims){
+        String jwt = Jwts.builder()
+                .addClaims(claims)//\u81EA\u5B9A\u4E49\u4FE1\u606F\uFF08\u6709\u6548\u8F7D\u8377\uFF09
+                .signWith(SignatureAlgorithm.HS256, signKey)//\u7B7E\u540D\u7B97\u6CD5\uFF08\u5934\u90E8\uFF09
+                .setExpiration(new Date(System.currentTimeMillis() + expire))//\u8FC7\u671F\u65F6\u95F4
+                .compact();
+        return jwt;
+    }
+
+    /**
+     * \u89E3\u6790JWT\u4EE4\u724C
+     * @param jwt JWT\u4EE4\u724C
+     * @return JWT\u7B2C\u4E8C\u90E8\u5206\u8D1F\u8F7D payload \u4E2D\u5B58\u50A8\u7684\u5185\u5BB9
+     */
+    public static Claims parseJWT(String jwt){
+        Claims claims = Jwts.parser()
+                .setSigningKey(signKey)//\u6307\u5B9A\u7B7E\u540D\u5BC6\u94A5
+                .parseClaimsJws(jwt)//\u6307\u5B9A\u4EE4\u724CToken
+                .getBody();
+        return claims;
+    }
+}
+
+`,paraId:42,tocIndex:15},{value:"\u767B\u5F55\u6210\u529F\u751F\u6210token",paraId:43,tocIndex:15},{value:` @PostMapping("/login")
+    public Result login(@RequestBody Emp emp) {
+        //\u8C03\u7528\u4E1A\u52A1\u5C42\uFF1A\u767B\u5F55\u529F\u80FD
+        Emp loginEmp = empService.login(emp);
+
+        //\u5224\u65AD\uFF1A\u767B\u5F55\u7528\u6237\u662F\u5426\u5B58\u5728
+        if(loginEmp !=null ){
+            //\u81EA\u5B9A\u4E49\u4FE1\u606F
+            Map<String , Object> claims = new HashMap<>();
+            claims.put("id", loginEmp.getId());
+            claims.put("username",loginEmp.getUsername());
+            claims.put("name",loginEmp.getName());
+
+            //\u4F7F\u7528JWT\u5DE5\u5177\u7C7B\uFF0C\u751F\u6210\u8EAB\u4EFD\u4EE4\u724C
+            String token = JwtUtils.generateJwt(claims);
+            return Result.success(token);
+        }
+        return Result.error("\u7528\u6237\u540D\u6216\u5BC6\u7801\u9519\u8BEF");
+    }
+`,paraId:44,tocIndex:15},{value:"\u5B9A\u4E49\u8FC7\u6EE4\u5668",paraId:45,tocIndex:16},{value:`//\u5B9A\u4E49\u4E00\u4E2A\u7C7B\uFF0C\u5B9E\u73B0\u4E00\u4E2A\u6807\u51C6\u7684Filter\u8FC7\u6EE4\u5668\u7684\u63A5\u53E3
+public class DemoFilter implements Filter {
+    @Override //\u521D\u59CB\u5316\u65B9\u6CD5, \u53EA\u8C03\u7528\u4E00\u6B21
+    public void init(FilterConfig filterConfig) throws ServletException {
+        System.out.println("init \u521D\u59CB\u5316\u65B9\u6CD5\u6267\u884C\u4E86");
+    }
+
+    @Override //\u62E6\u622A\u5230\u8BF7\u6C42\u4E4B\u540E\u8C03\u7528, \u8C03\u7528\u591A\u6B21
+    public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
+        System.out.println("Demo \u62E6\u622A\u5230\u4E86\u8BF7\u6C42...\u653E\u884C\u524D\u903B\u8F91");
+        //\u653E\u884C
+        chain.doFilter(request,response);
+    }
+
+    @Override //\u9500\u6BC1\u65B9\u6CD5, \u53EA\u8C03\u7528\u4E00\u6B21
+    public void destroy() {
+        System.out.println("destroy \u9500\u6BC1\u65B9\u6CD5\u6267\u884C\u4E86");
+    }
+}
+`,paraId:46,tocIndex:16},{value:"init\u65B9\u6CD5\uFF1A\u8FC7\u6EE4\u5668\u7684\u521D\u59CB\u5316\u65B9\u6CD5\u3002\u5728web\u670D\u52A1\u5668\u542F\u52A8\u7684\u65F6\u5019\u4F1A\u81EA\u52A8\u7684\u521B\u5EFAFilter\u8FC7\u6EE4\u5668\u5BF9\u8C61\uFF0C\u5728\u521B\u5EFA\u8FC7\u6EE4\u5668\u5BF9\u8C61\u7684\u65F6\u5019\u4F1A\u81EA\u52A8\u8C03\u7528init\u521D\u59CB\u5316\u65B9\u6CD5\uFF0C\u8FD9\u4E2A\u65B9\u6CD5\u53EA\u4F1A\u88AB\u8C03\u7528\u4E00\u6B21\u3002",paraId:47,tocIndex:16},{value:"doFilter\u65B9\u6CD5\uFF1A\u8FD9\u4E2A\u65B9\u6CD5\u662F\u5728\u6BCF\u4E00\u6B21\u62E6\u622A\u5230\u8BF7\u6C42\u4E4B\u540E\u90FD\u4F1A\u88AB\u8C03\u7528\uFF0C\u6240\u4EE5\u8FD9\u4E2A\u65B9\u6CD5\u662F\u4F1A\u88AB\u8C03\u7528\u591A\u6B21\u7684\uFF0C\u6BCF\u62E6\u622A\u5230\u4E00\u6B21\u8BF7\u6C42\u5C31\u4F1A\u8C03\u7528\u4E00\u6B21doFilter()\u65B9\u6CD5\u3002",paraId:48,tocIndex:16},{value:"destroy\u65B9\u6CD5\uFF1A \u662F\u9500\u6BC1\u7684\u65B9\u6CD5\u3002\u5F53\u6211\u4EEC\u5173\u95ED\u670D\u52A1\u5668\u7684\u65F6\u5019\uFF0C\u5B83\u4F1A\u81EA\u52A8\u7684\u8C03\u7528\u9500\u6BC1\u65B9\u6CD5destroy\uFF0C\u800C\u8FD9\u4E2A\u9500\u6BC1\u65B9\u6CD5\u4E5F\u53EA\u4F1A\u88AB\u8C03\u7528\u4E00\u6B21\u3002",paraId:49,tocIndex:16},{value:"\u5728\u5B9A\u4E49\u5B8CFilter\u4E4B\u540E\uFF0CFilter\u5176\u5B9E\u5E76\u4E0D\u4F1A\u751F\u6548\uFF0C\u8FD8\u9700\u8981\u5B8C\u6210Filter\u7684\u914D\u7F6E\uFF0CFilter\u7684\u914D\u7F6E\u975E\u5E38\u7B80\u5355\uFF0C\u53EA\u9700\u8981\u5728Filter\u7C7B\u4E0A\u6DFB\u52A0\u4E00\u4E2A\u6CE8\u89E3\uFF1A@WebFilter\uFF0C\u5E76\u6307\u5B9A\u5C5E\u6027urlPatterns\uFF0C\u901A\u8FC7\u8FD9\u4E2A\u5C5E\u6027\u6307\u5B9A\u8FC7\u6EE4\u5668\u8981\u62E6\u622A\u54EA\u4E9B\u8BF7\u6C42",paraId:50,tocIndex:16},{value:`@WebFilter(urlPatterns = "/*") //\u914D\u7F6E\u8FC7\u6EE4\u5668\u8981\u62E6\u622A\u7684\u8BF7\u6C42\u8DEF\u5F84\uFF08 /* \u8868\u793A\u62E6\u622A\u6D4F\u89C8\u5668\u7684\u6240\u6709\u8BF7\u6C42 \uFF09
+public class DemoFilter implements Filter {
+    @Override //\u521D\u59CB\u5316\u65B9\u6CD5, \u53EA\u8C03\u7528\u4E00\u6B21
+    public void init(FilterConfig filterConfig) throws ServletException {
+        System.out.println("init \u521D\u59CB\u5316\u65B9\u6CD5\u6267\u884C\u4E86");
+    }
+
+    @Override //\u62E6\u622A\u5230\u8BF7\u6C42\u4E4B\u540E\u8C03\u7528, \u8C03\u7528\u591A\u6B21
+    public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
+        System.out.println("Demo \u62E6\u622A\u5230\u4E86\u8BF7\u6C42...\u653E\u884C\u524D\u903B\u8F91");
+        //\u653E\u884C
+        chain.doFilter(request,response);
+    }
+
+    @Override //\u9500\u6BC1\u65B9\u6CD5, \u53EA\u8C03\u7528\u4E00\u6B21
+    public void destroy() {
+        System.out.println("destroy \u9500\u6BC1\u65B9\u6CD5\u6267\u884C\u4E86");
+    }
+}
+`,paraId:51,tocIndex:16},{value:"\u5F53\u6211\u4EEC\u5728Filter\u7C7B\u4E0A\u9762\u52A0\u4E86@WebFilter\u6CE8\u89E3\u4E4B\u540E\uFF0C\u63A5\u4E0B\u6765\u6211\u4EEC\u8FD8\u9700\u8981\u5728\u542F\u52A8\u7C7B\u4E0A\u9762\u52A0\u4E0A\u4E00\u4E2A\u6CE8\u89E3@ServletComponentScan\uFF0C\u901A\u8FC7\u8FD9\u4E2A@ServletComponentScan\u6CE8\u89E3\u6765\u5F00\u542FSpringBoot\u9879\u76EE\u5BF9\u4E8EServlet\u7EC4\u4EF6\u7684\u652F\u6301\u3002",paraId:52,tocIndex:16},{value:`@ServletComponentScan
+@SpringBootApplication
+public class TliasWebManagementApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(TliasWebManagementApplication.class, args);
+    }
+}
+`,paraId:53,tocIndex:16},{value:"\u81EA\u5B9A\u4E49\u62E6\u622A\u5668",paraId:54,tocIndex:17},{value:`//\u81EA\u5B9A\u4E49\u62E6\u622A\u5668
+@Component
+public class LoginCheckInterceptor implements HandlerInterceptor {
+    //\u76EE\u6807\u8D44\u6E90\u65B9\u6CD5\u6267\u884C\u524D\u6267\u884C\u3002 \u8FD4\u56DEtrue\uFF1A\u653E\u884C    \u8FD4\u56DEfalse\uFF1A\u4E0D\u653E\u884C
+    @Override
+    public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
+        System.out.println("preHandle .... ");
+        
+        return true; //true\u8868\u793A\u653E\u884C
+    }
+
+    //\u76EE\u6807\u8D44\u6E90\u65B9\u6CD5\u6267\u884C\u540E\u6267\u884C
+    @Override
+    public void postHandle(HttpServletRequest request, HttpServletResponse response, Object handler, ModelAndView modelAndView) throws Exception {
+        System.out.println("postHandle ... ");
+    }
+
+    //\u89C6\u56FE\u6E32\u67D3\u5B8C\u6BD5\u540E\u6267\u884C\uFF0C\u6700\u540E\u6267\u884C
+    @Override
+    public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object handler, Exception ex) throws Exception {
+        System.out.println("afterCompletion .... ");
+    }
+}
+`,paraId:55,tocIndex:17},{value:"\u6CE8\u518C\u914D\u7F6E\u62E6\u622A\u5668",paraId:56,tocIndex:17},{value:"\uFF1A\u5B9E\u73B0WebMvcConfigurer\u63A5\u53E3\uFF0C\u5E76\u91CD\u5199addInterceptors\u65B9\u6CD5",paraId:56,tocIndex:17},{value:`@Configuration  
+public class WebConfig implements WebMvcConfigurer {
+
+    //\u81EA\u5B9A\u4E49\u7684\u62E6\u622A\u5668\u5BF9\u8C61
+    @Autowired
+    private LoginCheckInterceptor loginCheckInterceptor;
+
+    
+    @Override
+    public void addInterceptors(InterceptorRegistry registry) {
+       //\u6CE8\u518C\u81EA\u5B9A\u4E49\u62E6\u622A\u5668\u5BF9\u8C61
+        registry.addInterceptor(loginCheckInterceptor).addPathPatterns("/**");//\u8BBE\u7F6E\u62E6\u622A\u5668\u62E6\u622A\u7684\u8BF7\u6C42\u8DEF\u5F84\uFF08 /** \u8868\u793A\u62E6\u622A\u6240\u6709\u8BF7\u6C42\uFF09
+    }
+}
+`,paraId:57,tocIndex:17},{value:"\u767B\u5F55\u6821\u9A8C\u62E6\u622A\u5668**",paraId:58,tocIndex:18},{value:`//\u81EA\u5B9A\u4E49\u62E6\u622A\u5668
+@Component //\u5F53\u524D\u62E6\u622A\u5668\u5BF9\u8C61\u7531Spring\u521B\u5EFA\u548C\u7BA1\u7406
+@Slf4j
+public class LoginCheckInterceptor implements HandlerInterceptor {
+    //\u524D\u7F6E\u65B9\u5F0F
+    @Override
+    public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
+        System.out.println("preHandle .... ");
+        //1.\u83B7\u53D6\u8BF7\u6C42url
+        //2.\u5224\u65AD\u8BF7\u6C42url\u4E2D\u662F\u5426\u5305\u542Blogin\uFF0C\u5982\u679C\u5305\u542B\uFF0C\u8BF4\u660E\u662F\u767B\u5F55\u64CD\u4F5C\uFF0C\u653E\u884C
+
+        //3.\u83B7\u53D6\u8BF7\u6C42\u5934\u4E2D\u7684\u4EE4\u724C\uFF08token\uFF09
+        String token = request.getHeader("token");
+        log.info("\u4ECE\u8BF7\u6C42\u5934\u4E2D\u83B7\u53D6\u7684\u4EE4\u724C\uFF1A{}",token);
+
+        //4.\u5224\u65AD\u4EE4\u724C\u662F\u5426\u5B58\u5728\uFF0C\u5982\u679C\u4E0D\u5B58\u5728\uFF0C\u8FD4\u56DE\u9519\u8BEF\u7ED3\u679C\uFF08\u672A\u767B\u5F55\uFF09
+        if(!StringUtils.hasLength(token)){
+            log.info("Token\u4E0D\u5B58\u5728");
+
+            //\u521B\u5EFA\u54CD\u5E94\u7ED3\u679C\u5BF9\u8C61
+            Result responseResult = Result.error("NOT_LOGIN");
+            //\u628AResult\u5BF9\u8C61\u8F6C\u6362\u4E3AJSON\u683C\u5F0F\u5B57\u7B26\u4E32 (fastjson\u662F\u963F\u91CC\u5DF4\u5DF4\u63D0\u4F9B\u7684\u7528\u4E8E\u5B9E\u73B0\u5BF9\u8C61\u548Cjson\u7684\u8F6C\u6362\u5DE5\u5177\u7C7B)
+            String json = JSONObject.toJSONString(responseResult);
+            //\u8BBE\u7F6E\u54CD\u5E94\u5934\uFF08\u544A\u77E5\u6D4F\u89C8\u5668\uFF1A\u54CD\u5E94\u7684\u6570\u636E\u7C7B\u578B\u4E3Ajson\u3001\u54CD\u5E94\u7684\u6570\u636E\u7F16\u7801\u8868\u4E3Autf-8\uFF09
+            response.setContentType("application/json;charset=utf-8");
+            //\u54CD\u5E94
+            response.getWriter().write(json);
+
+            return false;//\u4E0D\u653E\u884C
+        }
+
+        //5.\u89E3\u6790token\uFF0C\u5982\u679C\u89E3\u6790\u5931\u8D25\uFF0C\u8FD4\u56DE\u9519\u8BEF\u7ED3\u679C\uFF08\u672A\u767B\u5F55\uFF09
+        try {
+            JwtUtils.parseJWT(token);
+        }catch (Exception e){
+            log.info("\u4EE4\u724C\u89E3\u6790\u5931\u8D25!");
+
+            //\u521B\u5EFA\u54CD\u5E94\u7ED3\u679C\u5BF9\u8C61
+            Result responseResult = Result.error("NOT_LOGIN");
+            //\u628AResult\u5BF9\u8C61\u8F6C\u6362\u4E3AJSON\u683C\u5F0F\u5B57\u7B26\u4E32 (fastjson\u662F\u963F\u91CC\u5DF4\u5DF4\u63D0\u4F9B\u7684\u7528\u4E8E\u5B9E\u73B0\u5BF9\u8C61\u548Cjson\u7684\u8F6C\u6362\u5DE5\u5177\u7C7B)
+            String json = JSONObject.toJSONString(responseResult);
+            //\u8BBE\u7F6E\u54CD\u5E94\u5934
+            response.setContentType("application/json;charset=utf-8");
+            //\u54CD\u5E94
+            response.getWriter().write(json);
+
+            return false;
+        }
+
+        //6.\u653E\u884C
+        return true;
+    }
+`,paraId:59,tocIndex:18},{value:"\u6CE8\u518C\u914D\u7F6E\u62E6\u622A\u5668",paraId:60,tocIndex:18},{value:`@Configuration  
+public class WebConfig implements WebMvcConfigurer {
+    //\u62E6\u622A\u5668\u5BF9\u8C61
+    @Autowired
+    private LoginCheckInterceptor loginCheckInterceptor;
+
+    @Override
+    public void addInterceptors(InterceptorRegistry registry) {
+       //\u6CE8\u518C\u81EA\u5B9A\u4E49\u62E6\u622A\u5668\u5BF9\u8C61
+        registry.addInterceptor(loginCheckInterceptor)
+                .addPathPatterns("/**")
+                .excludePathPatterns("/login");
+    }
+}
+
+`,paraId:61,tocIndex:18},{value:"\u5B9A\u4E49\u5168\u5C40\u5F02\u5E38\u5904\u7406\u5668\u975E\u5E38\u7B80\u5355\uFF0C\u5C31\u662F\u5B9A\u4E49\u4E00\u4E2A\u7C7B\uFF0C\u5728\u7C7B\u4E0A\u52A0\u4E0A\u4E00\u4E2A\u6CE8\u89E3@RestControllerAdvice\uFF0C\u52A0\u4E0A\u8FD9\u4E2A\u6CE8\u89E3\u5C31\u4EE3\u8868\u6211\u4EEC\u5B9A\u4E49\u4E86\u4E00\u4E2A\u5168\u5C40\u5F02\u5E38\u5904\u7406\u5668\u3002",paraId:62,tocIndex:20},{value:"\u5728\u5168\u5C40\u5F02\u5E38\u5904\u7406\u5668\u5F53\u4E2D\uFF0C\u9700\u8981\u5B9A\u4E49\u4E00\u4E2A\u65B9\u6CD5\u6765\u6355\u83B7\u5F02\u5E38\uFF0C\u5728\u8FD9\u4E2A\u65B9\u6CD5\u4E0A\u9700\u8981\u52A0\u4E0A\u6CE8\u89E3@ExceptionHandler\u3002\u901A\u8FC7@ExceptionHandler\u6CE8\u89E3\u5F53\u4E2D\u7684value\u5C5E\u6027\u6765\u6307\u5B9A\u6211\u4EEC\u8981\u6355\u83B7\u7684\u662F\u54EA\u4E00\u7C7B\u578B\u7684\u5F02\u5E38\u3002",paraId:62,tocIndex:20},{value:`@RestControllerAdvice
+public class GlobalExceptionHandler {
+
+    //\u5904\u7406\u5F02\u5E38
+    @ExceptionHandler(Exception.class) //\u6307\u5B9A\u80FD\u591F\u5904\u7406\u7684\u5F02\u5E38\u7C7B\u578B
+    public Result ex(Exception e){
+        e.printStackTrace();//\u6253\u5370\u5806\u6808\u4E2D\u7684\u5F02\u5E38\u4FE1\u606F
+
+        //\u6355\u83B7\u5230\u5F02\u5E38\u4E4B\u540E\uFF0C\u54CD\u5E94\u4E00\u4E2A\u6807\u51C6\u7684Result
+        return Result.error("\u5BF9\u4E0D\u8D77,\u64CD\u4F5C\u5931\u8D25,\u8BF7\u8054\u7CFB\u7BA1\u7406\u5458");
+    }
+}
+`,paraId:63,tocIndex:20},{value:"@RestControllerAdvice = @ControllerAdvice + @ResponseBody",paraId:64,tocIndex:20},{value:"\u5904\u7406\u5F02\u5E38\u7684\u65B9\u6CD5\u8FD4\u56DE\u503C\u4F1A\u8F6C\u6362\u4E3Ajson\u540E\u518D\u54CD\u5E94\u7ED9\u524D\u7AEF",paraId:65,tocIndex:20},{value:"@Transactional\u4F5C\u7528\uFF1A\u5C31\u662F\u5728\u5F53\u524D\u8FD9\u4E2A\u65B9\u6CD5\u6267\u884C\u5F00\u59CB\u4E4B\u524D\u6765\u5F00\u542F\u4E8B\u52A1\uFF0C\u65B9\u6CD5\u6267\u884C\u5B8C\u6BD5\u4E4B\u540E\u63D0\u4EA4\u4E8B\u52A1\u3002\u5982\u679C\u5728\u8FD9\u4E2A\u65B9\u6CD5\u6267\u884C\u7684\u8FC7\u7A0B\u5F53\u4E2D\u51FA\u73B0\u4E86\u5F02\u5E38\uFF0C\u5C31\u4F1A\u8FDB\u884C\u4E8B\u52A1\u7684\u56DE\u6EDA\u64CD\u4F5C\u3002",paraId:66,tocIndex:22},{value:"@Transactional\u6CE8\u89E3\uFF1A\u6211\u4EEC\u4E00\u822C\u4F1A\u5728\u4E1A\u52A1\u5C42\u5F53\u4E2D\u6765\u63A7\u5236\u4E8B\u52A1\uFF0C\u56E0\u4E3A\u5728\u4E1A\u52A1\u5C42\u5F53\u4E2D\uFF0C\u4E00\u4E2A\u4E1A\u52A1\u529F\u80FD\u53EF\u80FD\u4F1A\u5305\u542B\u591A\u4E2A\u6570\u636E\u8BBF\u95EE\u7684\u64CD\u4F5C\u3002\u5728\u4E1A\u52A1\u5C42\u6765\u63A7\u5236\u4E8B\u52A1\uFF0C\u6211\u4EEC\u5C31\u53EF\u4EE5\u5C06\u591A\u4E2A\u6570\u636E\u8BBF\u95EE\u64CD\u4F5C\u63A7\u5236\u5728\u4E00\u4E2A\u4E8B\u52A1\u8303\u56F4\u5185\u3002",paraId:67,tocIndex:22},{value:"@Transactional\u6CE8\u89E3\u4E66\u5199\u4F4D\u7F6E\uFF1A",paraId:68,tocIndex:22},{value:`\u65B9\u6CD5
+`,paraId:69,tocIndex:22},{value:"\u5F53\u524D\u65B9\u6CD5\u4EA4\u7ED9spring\u8FDB\u884C\u4E8B\u52A1\u7BA1\u7406",paraId:70,tocIndex:22},{value:`\u7C7B
+`,paraId:69,tocIndex:22},{value:"\u5F53\u524D\u7C7B\u4E2D\u6240\u6709\u7684\u65B9\u6CD5\u90FD\u4EA4\u7531spring\u8FDB\u884C\u4E8B\u52A1\u7BA1\u7406",paraId:71,tocIndex:22},{value:`\u63A5\u53E3
+`,paraId:69,tocIndex:22},{value:"\u63A5\u53E3\u4E0B\u6240\u6709\u7684\u5B9E\u73B0\u7C7B\u5F53\u4E2D\u6240\u6709\u7684\u65B9\u6CD5\u90FD\u4EA4\u7ED9spring \u8FDB\u884C\u4E8B\u52A1\u7BA1\u7406",paraId:72,tocIndex:22},{value:"\u63A5\u4E0B\u6765\uFF0C\u6211\u4EEC\u5C31\u53EF\u4EE5\u5728\u4E1A\u52A1\u65B9\u6CD5delete\u4E0A\u52A0\u4E0A @Transactional \u6765\u63A7\u5236\u4E8B\u52A1 \u3002",paraId:73,tocIndex:22},{value:`@Slf4j
+@Service
+public class DeptServiceImpl implements DeptService {
+    @Autowired
+    private DeptMapper deptMapper;
+
+    @Autowired
+    private EmpMapper empMapper;
+
+    
+    @Override
+    @Transactional  //\u5F53\u524D\u65B9\u6CD5\u6DFB\u52A0\u4E86\u4E8B\u52A1\u7BA1\u7406
+    public void delete(Integer id){
+        //\u6839\u636E\u90E8\u95E8id\u5220\u9664\u90E8\u95E8\u4FE1\u606F
+        deptMapper.deleteById(id);
+        
+        //\u6A21\u62DF\uFF1A\u5F02\u5E38\u53D1\u751F
+        int i = 1/0;
+
+        //\u5220\u9664\u90E8\u95E8\u4E0B\u7684\u6240\u6709\u5458\u5DE5\u4FE1\u606F
+        empMapper.deleteByDeptId(id);   
+    }
+}
+`,paraId:74,tocIndex:22},{value:"spring\u4E8B\u52A1\u7BA1\u7406\u6CE8\u89E3@Transactional\u5DF2\u7ECF\u63A7\u5236\u4E86\u4E1A\u52A1\u5C42\u65B9\u6CD5\u7684\u4E8B\u52A1\u3002\u63A5\u4E0B\u6765\u6211\u4EEC\u8981\u6765\u8BE6\u7EC6\u7684\u4ECB\u7ECD\u4E00\u4E0B@Transactional\u4E8B\u52A1\u7BA1\u7406\u6CE8\u89E3\u7684\u4F7F\u7528\u7EC6\u8282\u3002\u6211\u4EEC\u8FD9\u91CC\u4E3B\u8981\u4ECB\u7ECD@Transactional\u6CE8\u89E3\u5F53\u4E2D\u7684\u4E24\u4E2A\u5E38\u89C1\u7684\u5C5E\u6027\uFF1A",paraId:75,tocIndex:23},{value:"\u5F02\u5E38\u56DE\u6EDA\u7684\u5C5E\u6027\uFF1ArollbackFor",paraId:76,tocIndex:23},{value:"\u4E8B\u52A1\u4F20\u64AD\u884C\u4E3A\uFF1Apropagation",paraId:76,tocIndex:23},{value:"\u9ED8\u8BA4\u60C5\u51B5\u4E0B\uFF0C\u53EA\u6709\u51FA\u73B0RuntimeException(\u8FD0\u884C\u65F6\u5F02\u5E38)\u624D\u4F1A\u56DE\u6EDA\u4E8B\u52A1\u3002",paraId:77,tocIndex:24},{value:"\u5047\u5982\u6211\u4EEC\u60F3\u8BA9\u6240\u6709\u7684\u5F02\u5E38\u90FD\u56DE\u6EDA\uFF0C\u9700\u8981\u6765\u914D\u7F6E@Transactional\u6CE8\u89E3\u5F53\u4E2D\u7684rollbackFor\u5C5E\u6027\uFF0C\u901A\u8FC7rollbackFor\u8FD9\u4E2A\u5C5E\u6027\u53EF\u4EE5\u6307\u5B9A\u51FA\u73B0\u4F55\u79CD\u5F02\u5E38\u7C7B\u578B\u56DE\u6EDA\u4E8B\u52A1\u3002",paraId:78,tocIndex:24},{value:`@Slf4j
+@Service
+public class DeptServiceImpl implements DeptService {
+    @Autowired
+    private DeptMapper deptMapper;
+
+    @Autowired
+    private EmpMapper empMapper;
+
+    
+    @Override
+    @Transactional(rollbackFor=Exception.class)
+    public void delete(Integer id){
+        //\u6839\u636E\u90E8\u95E8id\u5220\u9664\u90E8\u95E8\u4FE1\u606F
+        deptMapper.deleteById(id);
+        
+        //\u6A21\u62DF\uFF1A\u5F02\u5E38\u53D1\u751F
+        int num = id/0;
+
+        //\u5220\u9664\u90E8\u95E8\u4E0B\u7684\u6240\u6709\u5458\u5DE5\u4FE1\u606F
+        empMapper.deleteByDeptId(id);   
+    }
+}
+`,paraId:79,tocIndex:24},{value:"\u4EC0\u4E48\u662F\u4E8B\u52A1\u7684\u4F20\u64AD\u884C\u4E3A\uFF1F",paraId:80,tocIndex:25},{value:"\u5C31\u662F\u5F53\u4E00\u4E2A\u4E8B\u52A1\u65B9\u6CD5\u88AB\u53E6\u4E00\u4E2A\u4E8B\u52A1\u65B9\u6CD5\u8C03\u7528\u65F6\uFF0C\u8FD9\u4E2A\u4E8B\u52A1\u65B9\u6CD5\u5E94\u8BE5\u5982\u4F55\u8FDB\u884C\u4E8B\u52A1\u63A7\u5236\u3002",paraId:81,tocIndex:25},{value:"\u4F8B\u5982\uFF1A\u4E24\u4E2A\u4E8B\u52A1\u65B9\u6CD5\uFF0C\u4E00\u4E2AA\u65B9\u6CD5\uFF0C\u4E00\u4E2AB\u65B9\u6CD5\u3002\u5728\u8FD9\u4E24\u4E2A\u65B9\u6CD5\u4E0A\u90FD\u6DFB\u52A0\u4E86@Transactional\u6CE8\u89E3\uFF0C\u5C31\u4EE3\u8868\u8FD9\u4E24\u4E2A\u65B9\u6CD5\u90FD\u5177\u6709\u4E8B\u52A1\uFF0C\u800C\u5728A\u65B9\u6CD5\u5F53\u4E2D\u53C8\u53BB\u8C03\u7528\u4E86B\u65B9\u6CD5\u3002",paraId:82,tocIndex:25},{value:"\u6211\u4EEC\u8981\u60F3\u63A7\u5236\u4E8B\u52A1\u7684\u4F20\u64AD\u884C\u4E3A\uFF0C\u5728@Transactional\u6CE8\u89E3\u7684\u540E\u9762\u6307\u5B9A\u4E00\u4E2A\u5C5E\u6027propagation\uFF0C\u901A\u8FC7 propagation \u5C5E\u6027\u6765\u6307\u5B9A\u4F20\u64AD\u884C\u4E3A\u3002\u63A5\u4E0B\u6765\u6211\u4EEC\u5C31\u6765\u4ECB\u7ECD\u4E00\u4E0B\u5E38\u89C1\u7684\u4E8B\u52A1\u4F20\u64AD\u884C\u4E3A\u3002",paraId:83,tocIndex:25},{value:"\u5C5E\u6027\u503C",paraId:84,tocIndex:25},{value:"\u542B\u4E49",paraId:84,tocIndex:25},{value:"REQUIRED",paraId:84,tocIndex:25},{value:"\u3010\u9ED8\u8BA4\u503C\u3011\u9700\u8981\u4E8B\u52A1\uFF0C\u6709\u5219\u52A0\u5165\uFF0C\u65E0\u5219\u521B\u5EFA\u65B0\u4E8B\u52A1",paraId:84,tocIndex:25},{value:"REQUIRES_NEW",paraId:84,tocIndex:25},{value:"\u9700\u8981\u65B0\u4E8B\u52A1\uFF0C\u65E0\u8BBA\u6709\u65E0\uFF0C\u603B\u662F\u521B\u5EFA\u65B0\u4E8B\u52A1",paraId:84,tocIndex:25},{value:"SUPPORTS",paraId:84,tocIndex:25},{value:"\u652F\u6301\u4E8B\u52A1\uFF0C\u6709\u5219\u52A0\u5165\uFF0C\u65E0\u5219\u5728\u65E0\u4E8B\u52A1\u72B6\u6001\u4E2D\u8FD0\u884C",paraId:84,tocIndex:25},{value:"NOT_SUPPORTED",paraId:84,tocIndex:25},{value:"\u4E0D\u652F\u6301\u4E8B\u52A1\uFF0C\u5728\u65E0\u4E8B\u52A1\u72B6\u6001\u4E0B\u8FD0\u884C,\u5982\u679C\u5F53\u524D\u5B58\u5728\u5DF2\u6709\u4E8B\u52A1,\u5219\u6302\u8D77\u5F53\u524D\u4E8B\u52A1",paraId:84,tocIndex:25},{value:"MANDATORY",paraId:84,tocIndex:25},{value:"\u5FC5\u987B\u6709\u4E8B\u52A1\uFF0C\u5426\u5219\u629B\u5F02\u5E38",paraId:84,tocIndex:25},{value:"NEVER",paraId:84,tocIndex:25},{value:"\u5FC5\u987B\u6CA1\u4E8B\u52A1\uFF0C\u5426\u5219\u629B\u5F02\u5E38",paraId:84,tocIndex:25},{value:"\u2026",paraId:84,tocIndex:25},{value:"\u5BF9\u4E8E\u8FD9\u4E9B\u4E8B\u52A1\u4F20\u64AD\u884C\u4E3A\uFF0C\u6211\u4EEC\u53EA\u9700\u8981\u5173\u6CE8\u4EE5\u4E0B\u4E24\u4E2A\u5C31\u53EF\u4EE5\u4E86\uFF1A",paraId:85,tocIndex:25},{value:"REQUIRED\uFF08\u9ED8\u8BA4\u503C\uFF09",paraId:86,tocIndex:25},{value:"REQUIRES_NEW",paraId:86,tocIndex:25},{value:"\u65E5\u5FD7\u6848\u4F8B",paraId:87,tocIndex:25},{value:"\u5728DeptLogServiceImpl\u7C7B\u4E2Dinsert\u65B9\u6CD5\u4E0A\uFF0C\u6DFB\u52A0@Transactional(propagation = Propagation.REQUIRES_NEW)",paraId:88,tocIndex:25},{value:`@Service
+public class DeptLogServiceImpl implements DeptLogService {
+
+    @Autowired
+    private DeptLogMapper deptLogMapper;
+
+    @Transactional(propagation = Propagation.REQUIRES_NEW)//\u4E8B\u52A1\u4F20\u64AD\u884C\u4E3A\uFF1A\u4E0D\u8BBA\u662F\u5426\u6709\u4E8B\u52A1\uFF0C\u90FD\u65B0\u5EFA\u4E8B\u52A1
+    @Override
+    public void insert(DeptLog deptLog) {
+        deptLogMapper.insert(deptLog);
+    }
+}
+`,paraId:89,tocIndex:25},{value:"AOP\u82F1\u6587\u5168\u79F0\uFF1AAspect Oriented Programming\uFF08\u9762\u5411\u5207\u9762\u7F16\u7A0B\u3001\u9762\u5411\u65B9\u9762\u7F16\u7A0B\uFF09\uFF0C\u5176\u5B9E\u8BF4\u767D\u4E86\uFF0C\u9762\u5411\u5207\u9762\u7F16\u7A0B\u5C31\u662F\u9762\u5411\u7279\u5B9A\u65B9\u6CD5\u7F16\u7A0B",paraId:90,tocIndex:26},{value:"**\u9700\u6C42\uFF1A**\u7EDF\u8BA1\u5404\u4E2A\u4E1A\u52A1\u5C42\u65B9\u6CD5\u6267\u884C\u8017\u65F6\u3002",paraId:91,tocIndex:27},{value:"pom.xml",paraId:92,tocIndex:27},{value:`<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-aop</artifactId>
+</dependency>
+`,paraId:93,tocIndex:27},{value:"AOP\u7A0B\u5E8F\uFF1ATimeAspect",paraId:94,tocIndex:27},{value:`@Component
+@Aspect //\u5F53\u524D\u7C7B\u4E3A\u5207\u9762\u7C7B
+@Slf4j
+public class TimeAspect {
+
+    @Around("execution(* com.itheima.service.*.*(..))") 
+    public Object recordTime(ProceedingJoinPoint pjp) throws Throwable {
+        //\u8BB0\u5F55\u65B9\u6CD5\u6267\u884C\u5F00\u59CB\u65F6\u95F4
+        long begin = System.currentTimeMillis();
+
+        //\u6267\u884C\u539F\u59CB\u65B9\u6CD5
+        Object result = pjp.proceed();
+
+        //\u8BB0\u5F55\u65B9\u6CD5\u6267\u884C\u7ED3\u675F\u65F6\u95F4
+        long end = System.currentTimeMillis();
+
+        //\u8BA1\u7B97\u65B9\u6CD5\u6267\u884C\u8017\u65F6
+        log.info(pjp.getSignature()+"\u6267\u884C\u8017\u65F6: {}\u6BEB\u79D2",end-begin);
+
+        return result;
+    }
+}
+`,paraId:95,tocIndex:27},{value:"AOP\u9762\u5411\u5207\u9762\u7F16\u7A0B\u7684\u4E00\u4E9B\u4F18\u52BF\uFF1A",paraId:96,tocIndex:27},{value:"\u4EE3\u7801\u65E0\u4FB5\u5165\uFF1A\u6CA1\u6709\u4FEE\u6539\u539F\u59CB\u7684\u4E1A\u52A1\u65B9\u6CD5\uFF0C\u5C31\u5DF2\u7ECF\u5BF9\u539F\u59CB\u7684\u4E1A\u52A1\u65B9\u6CD5\u8FDB\u884C\u4E86\u529F\u80FD\u7684\u589E\u5F3A\u6216\u8005\u662F\u529F\u80FD\u7684\u6539\u53D8",paraId:97,tocIndex:27},{value:"\u51CF\u5C11\u4E86\u91CD\u590D\u4EE3\u7801",paraId:98,tocIndex:27},{value:"\u63D0\u9AD8\u5F00\u53D1\u6548\u7387",paraId:99,tocIndex:27},{value:"\u7EF4\u62A4\u65B9\u4FBF",paraId:100,tocIndex:27},{value:`\u5728\u4E0D\u4FEE\u6539\u6E90\u7801\u7684\u57FA\u6570\u4E0A\u5BF9\u529F\u80FD\u8FDB\u884C\u7EDF\u4E00\u589E\u5F3A
+`,paraId:101,tocIndex:28},{value:"\u901A\u8FC7SpringAOP\u7684\u5FEB\u901F\u5165\u95E8\uFF0C\u611F\u53D7\u4E86\u4E00\u4E0BAOP\u9762\u5411\u5207\u9762\u7F16\u7A0B\u7684\u5F00\u53D1\u65B9\u5F0F\u3002\u4E0B\u9762\u6211\u4EEC\u518D\u6765\u5B66\u4E60AOP\u5F53\u4E2D\u6D89\u53CA\u5230\u7684\u4E00\u4E9B\u6838\u5FC3\u6982\u5FF5\u3002",paraId:102,tocIndex:29},{value:`\u8FDE\u63A5\u70B9\uFF1AJoinPoint: \u53EF\u4EE5\u88ABspring \u589E\u5F3A\u7684\u65B9\u6CD5\u53EB \u8FDE\u63A5\u70B9 (jar \u4E2D\u7684\u548C \u81EA\u5DF1\u5199\u7684\u6240\u6709\u65B9\u6CD5)
+\u5207\u5165\u70B9\uFF1APointCut: \u88AB\u589E\u5F3A\u7684\u65B9\u6CD5\u53EB\u5207\u5165\u70B9
+\u76EE\u6807\u5BF9\u8C61\uFF1ATarget, \u88AB\u589E\u5F3A\u7684\u7C7B\u53EB\u76EE\u6807\u5BF9\u8C61
+\u901A\u77E5\uFF1AAdvice: \u589E\u5F3A\u7684\u65B9\u6CD5\u53EB\u901A\u77E5
+\u5207\u9762 : \u662F\u4E00\u4E2A\u5F62\u5BB9\u8BCD, \u63CF\u8FF0\u7684\u662F(\u901A\u77E5 \u548C\u5207\u5165\u70B9 \u7684\u5173\u7CFB) \u662F\u4E00\u4E2A\u62BD\u8C61\u7684\u6982\u5FF5
+\u5207\u9762\u7C7B: \u4F7F\u7528 @Aspect  \u6CE8\u89E3\u6807\u6CE8\u7684\u7C7B
+`,paraId:103,tocIndex:29},{value:"Spring\u4E2DAOP\u7684\u901A\u77E5\u7C7B\u578B\uFF1A",paraId:104,tocIndex:31},{value:"@Around\uFF1A\u73AF\u7ED5\u901A\u77E5\uFF0C\u6B64\u6CE8\u89E3\u6807\u6CE8\u7684\u901A\u77E5\u65B9\u6CD5\u5728\u76EE\u6807\u65B9\u6CD5\u524D\u3001\u540E\u90FD\u88AB\u6267\u884C",paraId:105,tocIndex:31},{value:"@Before\uFF1A\u524D\u7F6E\u901A\u77E5\uFF0C\u6B64\u6CE8\u89E3\u6807\u6CE8\u7684\u901A\u77E5\u65B9\u6CD5\u5728\u76EE\u6807\u65B9\u6CD5\u524D\u88AB\u6267\u884C",paraId:105,tocIndex:31},{value:"@After \uFF1A\u540E\u7F6E\u901A\u77E5\uFF0C\u6B64\u6CE8\u89E3\u6807\u6CE8\u7684\u901A\u77E5\u65B9\u6CD5\u5728\u76EE\u6807\u65B9\u6CD5\u540E\u88AB\u6267\u884C\uFF0C\u65E0\u8BBA\u662F\u5426\u6709\u5F02\u5E38\u90FD\u4F1A\u6267\u884C",paraId:105,tocIndex:31},{value:"@AfterReturning \uFF1A \u8FD4\u56DE\u540E\u901A\u77E5\uFF0C\u6B64\u6CE8\u89E3\u6807\u6CE8\u7684\u901A\u77E5\u65B9\u6CD5\u5728\u76EE\u6807\u65B9\u6CD5\u540E\u88AB\u6267\u884C\uFF0C\u6709\u5F02\u5E38\u4E0D\u4F1A\u6267\u884C",paraId:105,tocIndex:31},{value:"@AfterThrowing \uFF1A \u5F02\u5E38\u540E\u901A\u77E5\uFF0C\u6B64\u6CE8\u89E3\u6807\u6CE8\u7684\u901A\u77E5\u65B9\u6CD5\u53D1\u751F\u5F02\u5E38\u540E\u6267\u884C",paraId:105,tocIndex:31},{value:"\u63A7\u5236\u901A\u77E5\u7684\u6267\u884C\u987A\u5E8F\u6709\u4E24\u79CD\u65B9\u5F0F\uFF1A",paraId:106,tocIndex:31},{value:"\u4FEE\u6539\u5207\u9762\u7C7B\u7684\u7C7B\u540D\uFF08\u8FD9\u79CD\u65B9\u5F0F\u975E\u5E38\u7E41\u7410\u3001\u800C\u4E14\u4E0D\u4FBF\u7BA1\u7406\uFF09",paraId:107,tocIndex:31},{value:"\u4F7F\u7528Spring\u63D0\u4F9B\u7684@Order\u6CE8\u89E3",paraId:107,tocIndex:31},{value:"\u4F7F\u7528@Order\u6CE8\u89E3\uFF0C\u63A7\u5236\u901A\u77E5\u7684\u6267\u884C\u987A\u5E8F\uFF1A",paraId:108,tocIndex:31},{value:`@Slf4j
+@Component
+@Aspect
+@Order(2)  //\u5207\u9762\u7C7B\u7684\u6267\u884C\u987A\u5E8F\uFF08\u524D\u7F6E\u901A\u77E5\uFF1A\u6570\u5B57\u8D8A\u5C0F\u5148\u6267\u884C; \u540E\u7F6E\u901A\u77E5\uFF1A\u6570\u5B57\u8D8A\u5C0F\u8D8A\u540E\u6267\u884C\uFF09
+public class MyAspect2 {
+    //\u524D\u7F6E\u901A\u77E5
+    @Before("execution(* com.itheima.service.*.*(..))")
+    public void before(){
+        log.info("MyAspect2 -> before ...");
+    }
+
+    //\u540E\u7F6E\u901A\u77E5 
+    @After("execution(* com.itheima.service.*.*(..))")
+    public void after(){
+        log.info("MyAspect2 -> after ...");
+    }
+}
+`,paraId:109,tocIndex:31},{value:`@Slf4j
+@Component
+@Aspect
+@Order(3)  //\u5207\u9762\u7C7B\u7684\u6267\u884C\u987A\u5E8F\uFF08\u524D\u7F6E\u901A\u77E5\uFF1A\u6570\u5B57\u8D8A\u5C0F\u5148\u6267\u884C; \u540E\u7F6E\u901A\u77E5\uFF1A\u6570\u5B57\u8D8A\u5C0F\u8D8A\u540E\u6267\u884C\uFF09
+public class MyAspect3 {
+    //\u524D\u7F6E\u901A\u77E5
+    @Before("execution(* com.itheima.service.*.*(..))")
+    public void before(){
+        log.info("MyAspect3 -> before ...");
+    }
+
+    //\u540E\u7F6E\u901A\u77E5
+    @After("execution(* com.itheima.service.*.*(..))")
+    public void after(){
+        log.info("MyAspect3 ->  after ...");
+    }
+}
+`,paraId:110,tocIndex:31},{value:`@Slf4j
+@Component
+@Aspect
+@Order(1) //\u5207\u9762\u7C7B\u7684\u6267\u884C\u987A\u5E8F\uFF08\u524D\u7F6E\u901A\u77E5\uFF1A\u6570\u5B57\u8D8A\u5C0F\u5148\u6267\u884C; \u540E\u7F6E\u901A\u77E5\uFF1A\u6570\u5B57\u8D8A\u5C0F\u8D8A\u540E\u6267\u884C\uFF09
+public class MyAspect4 {
+    //\u524D\u7F6E\u901A\u77E5
+    @Before("execution(* com.itheima.service.*.*(..))")
+    public void before(){
+        log.info("MyAspect4 -> before ...");
+    }
+
+    //\u540E\u7F6E\u901A\u77E5
+    @After("execution(* com.itheima.service.*.*(..))")
+    public void after(){
+        log.info("MyAspect4 -> after ...");
+    }
+}
+`,paraId:111,tocIndex:31},{value:"\u7528\u6765\u51B3\u5B9A\u9879\u76EE\u4E2D\u7684\u54EA\u4E9B\u65B9\u6CD5\u9700\u8981\u52A0\u5165\u901A\u77E5",paraId:112,tocIndex:32},{value:"\u5E38\u89C1\u5F62\u5F0F",paraId:113,tocIndex:32},{value:"execution(\u2026\u2026)\uFF1A\u6839\u636E\u65B9\u6CD5\u7684\u7B7E\u540D\u6765\u5339\u914D",paraId:114,tocIndex:32},{value:"@annotation(\u2026\u2026) \uFF1A\u6839\u636E\u6CE8\u89E3\u5339\u914D",paraId:115,tocIndex:32},{value:"execution\u4E3B\u8981\u6839\u636E\u65B9\u6CD5\u7684\u8FD4\u56DE\u503C\u3001\u5305\u540D\u3001\u7C7B\u540D\u3001\u65B9\u6CD5\u540D\u3001\u65B9\u6CD5\u53C2\u6570\u7B49\u4FE1\u606F\u6765\u5339\u914D\uFF0C\u8BED\u6CD5\u4E3A\uFF1A",paraId:116,tocIndex:33},{value:`execution(\u8BBF\u95EE\u4FEE\u9970\u7B26?  \u8FD4\u56DE\u503C  \u5305\u540D.\u7C7B\u540D.?\u65B9\u6CD5\u540D(\u65B9\u6CD5\u53C2\u6570) throws \u5F02\u5E38?)
+`,paraId:117,tocIndex:33},{value:"\u5176\u4E2D\u5E26",paraId:118,tocIndex:33},{value:"?",paraId:118,tocIndex:33},{value:"\u7684\u8868\u793A\u53EF\u4EE5\u7701\u7565\u7684\u90E8\u5206",paraId:118,tocIndex:33},{value:"\u8BBF\u95EE\u4FEE\u9970\u7B26\uFF1A\u53EF\u7701\u7565\uFF08\u6BD4\u5982: public\u3001protected\uFF09",paraId:119,tocIndex:33},{value:"\u5305\u540D.\u7C7B\u540D\uFF1A \u53EF\u7701\u7565",paraId:120,tocIndex:33},{value:"throws \u5F02\u5E38\uFF1A\u53EF\u7701\u7565\uFF08\u6CE8\u610F\u662F\u65B9\u6CD5\u4E0A\u58F0\u660E\u629B\u51FA\u7684\u5F02\u5E38\uFF0C\u4E0D\u662F\u5B9E\u9645\u629B\u51FA\u7684\u5F02\u5E38\uFF09",paraId:121,tocIndex:33},{value:"\u793A\u4F8B\uFF1A",paraId:122,tocIndex:33},{value:`@Before("execution(void com.itheima.service.impl.DeptServiceImpl.delete(java.lang.Integer))")
+`,paraId:123,tocIndex:33},{value:"\u53EF\u4EE5\u4F7F\u7528\u901A\u914D\u7B26\u63CF\u8FF0\u5207\u5165\u70B9",paraId:124,tocIndex:33},{value:"*",paraId:125,tocIndex:33},{value:" \uFF1A\u5355\u4E2A\u72EC\u7ACB\u7684\u4EFB\u610F\u7B26\u53F7\uFF0C\u53EF\u4EE5\u901A\u914D\u4EFB\u610F\u8FD4\u56DE\u503C\u3001\u5305\u540D\u3001\u7C7B\u540D\u3001\u65B9\u6CD5\u540D\u3001\u4EFB\u610F\u7C7B\u578B\u7684\u4E00\u4E2A\u53C2\u6570\uFF0C\u4E5F\u53EF\u4EE5\u901A\u914D\u5305\u3001\u7C7B\u3001\u65B9\u6CD5\u540D\u7684\u4E00\u90E8\u5206",paraId:125,tocIndex:33},{value:"..",paraId:126,tocIndex:33},{value:" \uFF1A\u591A\u4E2A\u8FDE\u7EED\u7684\u4EFB\u610F\u7B26\u53F7\uFF0C\u53EF\u4EE5\u901A\u914D\u4EFB\u610F\u5C42\u7EA7\u7684\u5305\uFF0C\u6216\u4EFB\u610F\u7C7B\u578B\u3001\u4EFB\u610F\u4E2A\u6570\u7684\u53C2\u6570",paraId:126,tocIndex:33},{value:"\u5207\u5165\u70B9\u8868\u8FBE\u5F0F\u7684\u8BED\u6CD5\u89C4\u5219\uFF1A",paraId:127,tocIndex:33},{value:"\u65B9\u6CD5\u7684\u8BBF\u95EE\u4FEE\u9970\u7B26\u53EF\u4EE5\u7701\u7565",paraId:128,tocIndex:33},{value:"\u8FD4\u56DE\u503C\u53EF\u4EE5\u4F7F\u7528",paraId:128,tocIndex:33},{value:"*",paraId:128,tocIndex:33},{value:"\u53F7\u4EE3\u66FF\uFF08\u4EFB\u610F\u8FD4\u56DE\u503C\u7C7B\u578B\uFF09",paraId:128,tocIndex:33},{value:"\u5305\u540D\u53EF\u4EE5\u4F7F\u7528",paraId:128,tocIndex:33},{value:"*",paraId:128,tocIndex:33},{value:"\u53F7\u4EE3\u66FF\uFF0C\u4EE3\u8868\u4EFB\u610F\u5305\uFF08\u4E00\u5C42\u5305\u4F7F\u7528\u4E00\u4E2A",paraId:128,tocIndex:33},{value:"*",paraId:128,tocIndex:33},{value:"\uFF09",paraId:128,tocIndex:33},{value:"\u4F7F\u7528",paraId:128,tocIndex:33},{value:"..",paraId:128,tocIndex:33},{value:"\u914D\u7F6E\u5305\u540D\uFF0C\u6807\u8BC6\u6B64\u5305\u4EE5\u53CA\u6B64\u5305\u4E0B\u7684\u6240\u6709\u5B50\u5305",paraId:128,tocIndex:33},{value:"\u7C7B\u540D\u53EF\u4EE5\u4F7F\u7528",paraId:128,tocIndex:33},{value:"*",paraId:128,tocIndex:33},{value:"\u53F7\u4EE3\u66FF\uFF0C\u6807\u8BC6\u4EFB\u610F\u7C7B",paraId:128,tocIndex:33},{value:"\u65B9\u6CD5\u540D\u53EF\u4EE5\u4F7F\u7528",paraId:128,tocIndex:33},{value:"*",paraId:128,tocIndex:33},{value:"\u53F7\u4EE3\u66FF\uFF0C\u8868\u793A\u4EFB\u610F\u65B9\u6CD5",paraId:128,tocIndex:33},{value:"\u53EF\u4EE5\u4F7F\u7528 ",paraId:128,tocIndex:33},{value:"*",paraId:128,tocIndex:33},{value:"  \u914D\u7F6E\u53C2\u6570\uFF0C\u4E00\u4E2A\u4EFB\u610F\u7C7B\u578B\u7684\u53C2\u6570",paraId:128,tocIndex:33},{value:"\u53EF\u4EE5\u4F7F\u7528",paraId:128,tocIndex:33},{value:"..",paraId:128,tocIndex:33},{value:" \u914D\u7F6E\u53C2\u6570\uFF0C\u4EFB\u610F\u4E2A\u4EFB\u610F\u7C7B\u578B\u7684\u53C2\u6570",paraId:128,tocIndex:33},{value:"\u5207\u5165\u70B9\u8868\u8FBE\u5F0F\u793A\u4F8B",paraId:129,tocIndex:33},{value:"\u7701\u7565\u65B9\u6CD5\u7684\u4FEE\u9970\u7B26\u53F7",paraId:130,tocIndex:33},{value:`execution(void com.itheima.service.impl.DeptServiceImpl.delete(java.lang.Integer))
+`,paraId:131,tocIndex:33},{value:"\u4F7F\u7528",paraId:132,tocIndex:33},{value:"*",paraId:132,tocIndex:33},{value:"\u4EE3\u66FF\u8FD4\u56DE\u503C\u7C7B\u578B",paraId:132,tocIndex:33},{value:`execution(* com.itheima.service.impl.DeptServiceImpl.delete(java.lang.Integer))
+`,paraId:133,tocIndex:33},{value:"\u4F7F\u7528",paraId:134,tocIndex:33},{value:"*",paraId:134,tocIndex:33},{value:"\u4EE3\u66FF\u5305\u540D\uFF08\u4E00\u5C42\u5305\u4F7F\u7528\u4E00\u4E2A",paraId:134,tocIndex:33},{value:"*",paraId:134,tocIndex:33},{value:"\uFF09",paraId:134,tocIndex:33},{value:`execution(* com.itheima.*.*.DeptServiceImpl.delete(java.lang.Integer))
+`,paraId:135,tocIndex:33},{value:"\u4F7F\u7528",paraId:136,tocIndex:33},{value:"..",paraId:136,tocIndex:33},{value:"\u7701\u7565\u5305\u540D",paraId:136,tocIndex:33},{value:`execution(* com..DeptServiceImpl.delete(java.lang.Integer))    
+`,paraId:137,tocIndex:33},{value:"\u4F7F\u7528",paraId:138,tocIndex:33},{value:"*",paraId:138,tocIndex:33},{value:"\u4EE3\u66FF\u7C7B\u540D",paraId:138,tocIndex:33},{value:`execution(* com..*.delete(java.lang.Integer))   
+`,paraId:139,tocIndex:33},{value:"\u4F7F\u7528",paraId:140,tocIndex:33},{value:"*",paraId:140,tocIndex:33},{value:"\u4EE3\u66FF\u65B9\u6CD5\u540D",paraId:140,tocIndex:33},{value:`execution(* com..*.*(java.lang.Integer))   
+`,paraId:141,tocIndex:33},{value:"\u4F7F\u7528 ",paraId:142,tocIndex:33},{value:"*",paraId:142,tocIndex:33},{value:" \u4EE3\u66FF\u53C2\u6570",paraId:142,tocIndex:33},{value:`execution(* com.itheima.service.impl.DeptServiceImpl.delete(*))
+`,paraId:143,tocIndex:33},{value:"\u4F7F\u7528",paraId:144,tocIndex:33},{value:"..",paraId:144,tocIndex:33},{value:"\u7701\u7565\u53C2\u6570",paraId:144,tocIndex:33},{value:`execution(* com..*.*(..))
+`,paraId:145,tocIndex:33},{value:"\u200B",paraId:146,tocIndex:33},{value:"\u6CE8\u610F\u4E8B\u9879\uFF1A",paraId:147,tocIndex:33},{value:"\u6839\u636E\u4E1A\u52A1\u9700\u8981\uFF0C\u53EF\u4EE5\u4F7F\u7528 \u4E14\uFF08&&\uFF09\u3001\u6216\uFF08||\uFF09\u3001\u975E\uFF08!\uFF09 \u6765\u7EC4\u5408\u6BD4\u8F83\u590D\u6742\u7684\u5207\u5165\u70B9\u8868\u8FBE\u5F0F\u3002",paraId:148,tocIndex:33},{value:`execution(* com.itheima.service.DeptService.list(..)) || execution(* com.itheima.service.DeptService.delete(..))
+`,paraId:149,tocIndex:33},{value:"\u5B9E\u73B0\u6B65\u9AA4\uFF1A",paraId:150,tocIndex:34},{value:"\u7F16\u5199\u81EA\u5B9A\u4E49\u6CE8\u89E3",paraId:151,tocIndex:34},{value:"\u5728\u4E1A\u52A1\u7C7B\u8981\u505A\u4E3A\u8FDE\u63A5\u70B9\u7684\u65B9\u6CD5\u4E0A\u6DFB\u52A0\u81EA\u5B9A\u4E49\u6CE8\u89E3",paraId:152,tocIndex:34},{value:"\u81EA\u5B9A\u4E49\u6CE8\u89E3",paraId:153,tocIndex:34},{value:"\uFF1AMyLog",paraId:153,tocIndex:34},{value:`@Target(ElementType.METHOD)
+@Retention(RetentionPolicy.RUNTIME)
+public @interface MyLog {
+}
+`,paraId:154,tocIndex:34},{value:"\u4E1A\u52A1\u7C7B",paraId:155,tocIndex:34},{value:"\uFF1ADeptServiceImpl",paraId:155,tocIndex:34},{value:`@Slf4j
+@Service
+public class DeptServiceImpl implements DeptService {
+    @Autowired
+    private DeptMapper deptMapper;
+
+    @Override
+    @MyLog //\u81EA\u5B9A\u4E49\u6CE8\u89E3\uFF08\u8868\u793A\uFF1A\u5F53\u524D\u65B9\u6CD5\u5C5E\u4E8E\u76EE\u6807\u65B9\u6CD5\uFF09
+    public List<Dept> list() {
+        List<Dept> deptList = deptMapper.list();
+        //\u6A21\u62DF\u5F02\u5E38
+        //int num = 10/0;
+        return deptList;
+    }
+
+    @Override
+    @MyLog  //\u81EA\u5B9A\u4E49\u6CE8\u89E3\uFF08\u8868\u793A\uFF1A\u5F53\u524D\u65B9\u6CD5\u5C5E\u4E8E\u76EE\u6807\u65B9\u6CD5\uFF09
+    public void delete(Integer id) {
+        //1. \u5220\u9664\u90E8\u95E8
+        deptMapper.delete(id);
+    }
+
+}
+`,paraId:156,tocIndex:34},{value:"\u5207\u9762\u7C7B",paraId:157,tocIndex:34},{value:`@Slf4j
+@Component
+@Aspect
+public class MyAspect6 {
+    //\u9488\u5BF9list\u65B9\u6CD5\u3001delete\u65B9\u6CD5\u8FDB\u884C\u524D\u7F6E\u901A\u77E5\u548C\u540E\u7F6E\u901A\u77E5
+
+    //\u524D\u7F6E\u901A\u77E5
+    @Before("@annotation(com.itheima.anno.MyLog)")
+    public void before(){
+        log.info("MyAspect6 -> before ...");
+    }
+
+    //\u540E\u7F6E\u901A\u77E5
+    @After("@annotation(com.itheima.anno.MyLog)")
+    public void after(){
+        log.info("MyAspect6 -> after ...");
+    }
+}
+`,paraId:158,tocIndex:34},{value:"\u5728Spring\u4E2D\u7528JoinPoint\u62BD\u8C61\u4E86\u8FDE\u63A5\u70B9\uFF0C\u7528\u5B83\u53EF\u4EE5\u83B7\u5F97\u65B9\u6CD5\u6267\u884C\u65F6\u7684\u76F8\u5173\u4FE1\u606F\uFF0C\u5982\u76EE\u6807\u7C7B\u540D\u3001\u65B9\u6CD5\u540D\u3001\u65B9\u6CD5\u53C2\u6570\u7B49\u3002",paraId:159,tocIndex:35},{value:"\u5BF9\u4E8E@Around\u901A\u77E5\uFF0C\u83B7\u53D6\u8FDE\u63A5\u70B9\u4FE1\u606F\u53EA\u80FD\u4F7F\u7528ProceedingJoinPoint\u7C7B\u578B",paraId:160,tocIndex:35},{value:"\u5BF9\u4E8E\u5176\u4ED6\u56DB\u79CD\u901A\u77E5\uFF0C\u83B7\u53D6\u8FDE\u63A5\u70B9\u4FE1\u606F\u53EA\u80FD\u4F7F\u7528JoinPoint\uFF0C\u5B83\u662FProceedingJoinPoint\u7684\u7236\u7C7B\u578B",paraId:161,tocIndex:35},{value:"\u793A\u4F8B\u4EE3\u7801\uFF1A",paraId:162,tocIndex:35},{value:`@Slf4j
+@Component
+@Aspect
+public class MyAspect7 {
+
+    @Pointcut("@annotation(com.itheima.anno.MyLog)")
+    private void pt(){}
+   
+    //\u524D\u7F6E\u901A\u77E5
+    @Before("pt()")
+    public void before(JoinPoint joinPoint){
+        log.info(joinPoint.getSignature().getName() + " MyAspect7 -> before ...");
+    }
+    
+    //\u540E\u7F6E\u901A\u77E5
+    @Before("pt()")
+    public void after(JoinPoint joinPoint){
+        log.info(joinPoint.getSignature().getName() + " MyAspect7 -> after ...");
+    }
+
+    //\u73AF\u7ED5\u901A\u77E5
+    @Around("pt()")
+    public Object around(ProceedingJoinPoint pjp) throws Throwable {
+        //\u83B7\u53D6\u76EE\u6807\u7C7B\u540D
+        String name = pjp.getTarget().getClass().getName();
+        log.info("\u76EE\u6807\u7C7B\u540D\uFF1A{}",name);
+
+        //\u76EE\u6807\u65B9\u6CD5\u540D
+        String methodName = pjp.getSignature().getName();
+        log.info("\u76EE\u6807\u65B9\u6CD5\u540D\uFF1A{}",methodName);
+
+        //\u83B7\u53D6\u65B9\u6CD5\u6267\u884C\u65F6\u9700\u8981\u7684\u53C2\u6570
+        Object[] args = pjp.getArgs();
+        log.info("\u76EE\u6807\u65B9\u6CD5\u53C2\u6570\uFF1A{}", Arrays.toString(args));
+
+        //\u6267\u884C\u539F\u59CB\u65B9\u6CD5
+        Object returnValue = pjp.proceed();
+
+        return returnValue;
+    }
+}
+
+`,paraId:163,tocIndex:35}]},58607:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(17297);const t=[{value:"Dart",paraId:0,tocIndex:0},{value:" \u662F\u4E00\u4E2A\u6613\u7528\u3001\u53EF\u79FB\u690D\u4E14\u9AD8\u6548\u7684\u8BED\u8A00\uFF0C\u9002\u7528\u4E8E\u5728\u5168\u5E73\u53F0\u5F00\u53D1\u9AD8\u8D28\u91CF\u7684\u5E94\u7528\u7A0B\u5E8F\u3002\u7531\u8C37\u6B4C\u5F00\u53D1\u7684\u8BA1\u7B97\u673A\u7F16\u7A0B\u8BED\u8A00,\u5B83\u53EF\u4EE5\u88AB\u7528\u4E8Eweb\u3001\u670D\u52A1\u5668\u3001\u79FB\u52A8\u5E94\u7528 \u548C\u7269\u8054\u7F51\u7B49\u9886\u57DF\u7684\u5F00\u53D1.",paraId:0,tocIndex:0},{value:`windows(\u63A8\u8350): 
     http://www.gekorm.com/dart-windows/ 
 	\u6CE8\u610F:\u4E0D\u662Fhttps,\u5982\u679C\u63D0\u793A\u8BC1\u4E66\u6709\u95EE\u9898\uFF0C\u8BF7\u624B\u52A8\u628A\u6D4F\u89C8\u5668\u4E2D\u7684https\u6539\u4E3Ahttp,\u6216\u8005\u8054\u7CFB\u5BA2\u670D\u83B7\u53D6Dart Sdk
 
